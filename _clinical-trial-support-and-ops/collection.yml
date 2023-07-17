@@ -2,6 +2,7 @@ collections:
   clinical-trial-support-and-ops:
     output: true
     order:
+      - Clinical Research and Development.md
       - Data & Technology/.keep
       - Data & Technology/Biostatistics.md
       - Data & Technology/Data Management.md
