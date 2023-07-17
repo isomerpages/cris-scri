@@ -1,0 +1,4 @@
+collections:
+  clinical-trial-support:
+    output: true
+    order: []
