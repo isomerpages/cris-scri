@@ -2,6 +2,7 @@ collections:
   clinical-trial-support-and-ops:
     output: true
     order:
+      - Featured Projects/Content from SCRI website.md
       - Featured Projects/.keep
       - Clinical Research and Dev/.keep
       - Clinical Research and Dev/Project Management.md
