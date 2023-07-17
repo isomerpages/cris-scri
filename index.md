@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Welcome to SCRI
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Clinical trails singapore CTSG
           description: ""
@@ -19,7 +17,7 @@ sections:
           description: ""
           url: https://gmail.com
         - title: Industry Partners
-          description: Page A is important too
+          description: ""
           url: /privacy/
         - title: Master Clinical Trail Agreement
           description: ""
