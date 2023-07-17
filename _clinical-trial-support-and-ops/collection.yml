@@ -2,5 +2,6 @@ collections:
   clinical-trial-support-and-ops:
     output: true
     order:
+      - Health Economics Research/Health Outcomes.md
       - Health Economics Research/Health Economics.md
       - Health Economics Research/.keep
