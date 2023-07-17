@@ -1,4 +1,5 @@
 collections:
   clinical-trial-support:
     output: true
-    order: []
+    order:
+      - Health Economics Research/.keep
