@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Leadership/National Clinical Trial Strategy Committee (Advisory).md
-      - Leadership/Senior Management.md
-      - Leadership/Board Oversight Committee.md
       - Leadership/.keep
+      - Leadership/Board Oversight Committee.md
+      - Leadership/Senior Management.md
+      - Leadership/National Clinical Trial Strategy Committee (Advisory).md
       - Vision & Mission.md
       - Our Story.md
