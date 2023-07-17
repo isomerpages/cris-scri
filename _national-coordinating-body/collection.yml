@@ -2,6 +2,7 @@ collections:
   national-coordinating-body:
     output: true
     order:
+      - SCRI Academy/.keep
       - Clinical Research Network/Content from SCRI website.md
       - Clinical Research Network/.keep
       - Master Clinical Trial Agreement.md
