@@ -2,10 +2,10 @@ collections:
   clinical-trial-support-and-ops:
     output: true
     order:
-      - Data & Technology/Research Informatics.md
-      - Data & Technology/Data Management.md
-      - Data & Technology/Biostatistics.md
       - Data & Technology/.keep
+      - Data & Technology/Biostatistics.md
+      - Data & Technology/Data Management.md
+      - Data & Technology/Research Informatics.md
       - Health Economics Research/.keep
       - Health Economics Research/Health Economics.md
       - Health Economics Research/Health Outcomes.md
