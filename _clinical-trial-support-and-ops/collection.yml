@@ -2,6 +2,7 @@ collections:
   clinical-trial-support-and-ops:
     output: true
     order:
+      - Featured Projects/.keep
       - Clinical Research and Dev/.keep
       - Clinical Research and Dev/Project Management.md
       - Clinical Research and Dev/Research Monitoring.md
