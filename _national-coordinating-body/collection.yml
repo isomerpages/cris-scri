@@ -2,4 +2,5 @@ collections:
   national-coordinating-body:
     output: true
     order:
+      - Clinical Trial Process Enhancement.md
       - About National Coordinating Body.md
