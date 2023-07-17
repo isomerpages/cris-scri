@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/Industry Partners.md
-      - Our Partners/Public Sector Partners.md
       - Our Partners/.keep
+      - Our Partners/Public Sector Partners.md
+      - Our Partners/Industry Partners.md
       - Leadership/.keep
       - Leadership/Board Oversight Committee.md
       - Leadership/Senior Management.md
