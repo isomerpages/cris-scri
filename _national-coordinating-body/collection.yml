@@ -2,6 +2,7 @@ collections:
   national-coordinating-body:
     output: true
     order:
+      - Clinical Research Network/.keep
       - Master Clinical Trial Agreement.md
       - Clinical Trial Process Enhancement.md
       - About National Coordinating Body.md
