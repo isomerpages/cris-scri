@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Leadership/Senior Management.md
       - Leadership/Board Oversight Committee.md
       - Leadership/.keep
       - Vision & Mission.md
