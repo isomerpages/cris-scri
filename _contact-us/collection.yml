@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Collaboration Request.md
       - General Contact.md
