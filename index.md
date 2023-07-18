@@ -29,7 +29,7 @@ sections:
         - title: Industry Partners
           description: ""
           url: /privacy/
-        - title: Master Clinical Trail Agreement
+        - title: Master Clinical Trial Agreement
           description: ""
           url: ""
   - infopic:
