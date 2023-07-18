@@ -7,6 +7,6 @@ links:
   - title: Clinical Trial Support & Ops
     collection: clinical-trial-support-and-ops
   - title: News & Events
-    collection: national-coordinating-body
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
