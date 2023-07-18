@@ -21,7 +21,7 @@ sections:
       title: Welcome to SCRI
       background: /images/hero-banner.png
       key_highlights:
-        - title: Clinical trails singapore CTSG
+        - title: Clinical Trials Singapore (CTSG)
           description: ""
           url: https://google.com
         - title: Public Sector Partners
