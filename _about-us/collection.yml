@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Careers at SCRI.md
-      - Our Partners/.keep
-      - Our Partners/Public Sector Partners.md
-      - Our Partners/Industry Partners.md
+      - Our Story.md
+      - Vision & Mission.md
       - Leadership/.keep
       - Leadership/Board Oversight Committee.md
       - Leadership/Senior Management.md
       - Leadership/National Clinical Trial Strategy Committee (Advisory).md
-      - Vision & Mission.md
-      - Our Story.md
+      - Our Partners/.keep
+      - Our Partners/Public Sector Partners.md
+      - Our Partners/Industry Partners.md
+      - Careers at SCRI.md
