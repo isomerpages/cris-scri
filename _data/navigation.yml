@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About Us
+    collection: about-us
+  - title: National Coordinating Body
+    collection: national-coordinating-body
+  - title: Clinical Trial Support & Ops
+    collection: clinical-trial-support-and-ops
+  - title: News & Events
+    collection: national-coordinating-body
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
