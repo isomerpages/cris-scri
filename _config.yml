@@ -3,18 +3,18 @@ url: https://www.scri.edu.sg
 favicon: /images/scri favicon.png
 colors:
   primary-color: "#424e8f"
-  secondary-color: "#4372d6"
+  secondary-color: "#f47d4c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#424e8f"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#f47d4c"
     - title: media-color-three
-      color: "#00838f"
+      color: "#424e8f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#424e8f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#424e8f"
 description: >-
   Established in 2008, the Singapore Clinical Research Institute (SCRI) was set
   up as the national academic clinical research organisation to enhance the
