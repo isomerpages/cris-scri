@@ -1,5 +1,5 @@
 collections:
-  clinical-trial-support-and-ops:
+  academic-research-organization:
     output: true
     order:
       - Health Economics Research/.keep
