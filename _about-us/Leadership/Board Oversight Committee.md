@@ -4,7 +4,7 @@ permalink: /about-us/leadership/board-oversight-committee/
 description: ""
 third_nav_title: Leadership
 ---
-&nbsp;<img src="https://www.scri.edu.sg/wp-content/uploads/2021/08/Prof-John-CW-Lim_2.jpg">
+&nbsp;<img src="https://www.scri.edu.sg/wp-content/uploads/2021/08/Prof-John-CW-Lim_2.jpg" style="width:300px">
 
 PROFESSOR JOHN CW LIM
 ---------------------
