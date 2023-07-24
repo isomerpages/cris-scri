@@ -2,9 +2,9 @@ collections:
   academic-research-organization:
     output: true
     order:
-      - Health Economics Research/.keep
-      - Health Economics Research/Health Economics.md
-      - Health Economics Research/Health Outcomes.md
+      - HEOR/.keep
+      - HEOR/Health Economics.md
+      - HEOR/Health Outcomes.md
       - Data & Technology/.keep
       - Data & Technology/Biostatistics.md
       - Data & Technology/Data Management.md
