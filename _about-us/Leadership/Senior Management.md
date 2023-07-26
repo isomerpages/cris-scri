@@ -19,10 +19,6 @@ Advanced Cell Therapy and Research Institute, Singapore
 [Learn More ...](/bio/dr-danny-soon)
 
 
-[![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2016/03/3_PROFESSOR-EDWIN-CHAN-SHIH-YEN.jpg)](https://www.scri.edu.sg/about-us/leadership/senior-management/aprof-edwin-chan-shih-yen/)
-
-[A/PROFESSOR EDWIN CHAN SHIH-YEN](https://www.scri.edu.sg/about-us/leadership/senior-management/aprof-edwin-chan-shih-yen/)
-
 <img src="/images/Leadership/3_professor-edwin-chan-shih-yen.png" style="width:150px" align="right">
 
 A/Prof Edwin Chan Shih yen
@@ -36,9 +32,10 @@ Consortium for Clinical Research &amp; Innovation Singapore
 
 &nbsp;
 
-[![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2022/03/eugene.png)](https://www.scri.edu.sg/about-us/leadership/senior-management/eugene-gan/)
+<img src="/images/Leadership/3_professor-edwin-chan-shih-yen.png" style="width:150px" align="right">
 
-[EUGENE GAN](https://www.scri.edu.sg/about-us/leadership/senior-management/eugene-gan/)
+Eugene Gan
+---------------------
 
 Ph.D.  
 Senior Director, Operations  
