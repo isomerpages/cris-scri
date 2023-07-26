@@ -31,7 +31,7 @@ Duke-NUS Medical School
 PROFESSOR TAN SAY BENG
 ----------------------
 
-Executive Director, National Medical Research Council,<br> Ministry of Health Group Chief Research Officer, SingHealth Senior Associate Dean,<br> Research, Duke-NUS Medical School
+Executive Director, National Medical Research Council,<br> Ministry of Health Group Chief Research Officer, SingHealth Senior<br> Associate Dean,Research, Duke-NUS Medical School
 
 &nbsp;
 
