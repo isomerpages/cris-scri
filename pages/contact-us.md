@@ -8,21 +8,18 @@ locations:
       - 23 Rochester Park
       - "#06-01"
       - Singapore 139234
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+    operating_hours: []
     maps_link: ""
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6508 8300
+      - email: contact@scri.cris.sg
+      - other: ""
+    title: General Enquiries
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
+      - email: ""
+      - other: <a href="https://www.cris.sg/careers/">Careers at CRIS</a>
     title: Careers
 ---
