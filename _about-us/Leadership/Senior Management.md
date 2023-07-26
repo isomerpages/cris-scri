@@ -23,6 +23,11 @@ Advanced Cell Therapy and Research Institute, Singapore
 
 [A/PROFESSOR EDWIN CHAN SHIH-YEN](https://www.scri.edu.sg/about-us/leadership/senior-management/aprof-edwin-chan-shih-yen/)
 
+<img src="/images/Leadership/3_professor-edwin-chan-shih-yen.png" style="width:150px" align="right">
+
+A/Prof Edwin Chan Shih yen
+---------------------
+
 BSc, BVMS (1st class Hons), PhD  
 Director, Cochrane Singapore  
 Associate Professor, Duke-NUS Medical School  
