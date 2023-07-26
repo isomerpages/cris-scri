@@ -4,7 +4,7 @@ permalink: /about-us/leadership/board-oversight-committee/
 description: ""
 third_nav_title: Leadership
 ---
-&nbsp;<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg" style="width:150px">
+<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg" style="width:150px" align="right">
 
 PROFESSOR JOHN CW LIM
 ---------------------
