@@ -40,3 +40,5 @@ Eugene Gan
 Ph.D.  
 Senior Director, Operations  
 Singapore Clinical Research Institute
+<br>
+[Learn More ...](/bio/dr-danny-soon)
