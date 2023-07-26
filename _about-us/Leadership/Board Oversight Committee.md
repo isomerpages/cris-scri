@@ -88,8 +88,7 @@ Tan Tock Seng Hospital
 
 &nbsp;
 
-![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/Prof-Chong-Yap-Seng_2.jpg)
-<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
+<img src="/images/Leadership/Board%20Oversight%20Committee/prof-chong-yap-seng_2.jpg" style="width:150px" align="right">
 
 &nbsp;
 
