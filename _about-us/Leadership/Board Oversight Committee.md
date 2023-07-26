@@ -24,7 +24,7 @@ Duke-NUS Medical School
 
 &nbsp;
 
-![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2016/03/AProf-Tan-Say-Beng.jpg)
+<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -35,7 +35,7 @@ Executive Director, National Medical Research Council, Ministry of Health Group 
 
 &nbsp;
 
-![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2019/06/Soh-Gim-Teik-2016-AR-01-01-1.jpg)
+<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -48,6 +48,7 @@ Finix Corporate Advisory LLP
 &nbsp;
 
 ![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/AProf-Matthew-Ng_2.jpg)
+<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -60,6 +61,7 @@ SingHealth
 &nbsp;
 
 ![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/Dr-Khoo-Chin-Meng_2.jpg)
+<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -72,6 +74,7 @@ National University Health System
 &nbsp;
 
 ![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/Prof-Benjamin-Seet_2.jpg)
+<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -89,6 +92,7 @@ Tan Tock Seng Hospital
 &nbsp;
 
 ![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/Prof-Chong-Yap-Seng_2.jpg)
+<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
 
 &nbsp;
 
