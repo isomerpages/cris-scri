@@ -19,7 +19,7 @@ Advanced Cell Therapy and Research Institute, Singapore
 [Learn More ...](/bio/dr-danny-soon)
 
 
-<img src="/images/Leadership/3_professor-edwin-chan-shih-yen.png" style="width:150px" align="right">
+<img src="/images/Leadership/Senior%20Management/3_professor-edwin-chan-shih-yen.jpg" style="width:150px" align="right">
 
 A/Prof Edwin Chan Shih yen
 ---------------------
