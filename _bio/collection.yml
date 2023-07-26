@@ -1,4 +1,5 @@
 collections:
   bio:
     output: true
-    order: []
+    order:
+      - Prof Danny Soon.md
