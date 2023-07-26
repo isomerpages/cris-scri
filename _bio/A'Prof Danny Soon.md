@@ -15,8 +15,7 @@ Consortium for Clinical Research and Innovation, Singapore
 Executive Director,
 	Singapore Clinical Research Institute
 Interim Executive Director,Advanced Cell Therapy and Research Institute, Singapore
-
-**Adjunct Associate Professor,**&nbsp;**Duke-NUS Medical School
+Adjunct Associate Professor,Duke-NUS Medical School
 				</strong>
 			</td>
 		</tr>
