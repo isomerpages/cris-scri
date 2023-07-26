@@ -1,0 +1,4 @@
+collections:
+  bio:
+    output: true
+    order: []
