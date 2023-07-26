@@ -47,8 +47,7 @@ Finix Corporate Advisory LLP
 
 &nbsp;
 
-![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/AProf-Matthew-Ng_2.jpg)
-<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
+<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-matthew-ng_2.jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -60,8 +59,7 @@ SingHealth
 
 &nbsp;
 
-![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/Dr-Khoo-Chin-Meng_2.jpg)
-<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
+<img src="/images/Leadership/Board%20Oversight%20Committee/dr-khoo-chin-meng_2.jpg" style="width:150px" align="right">
 
 &nbsp;
 
@@ -73,8 +71,7 @@ National University Health System
 
 &nbsp;
 
-![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2021/08/Prof-Benjamin-Seet_2.jpg)
-<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg" style="width:150px" align="right">
+<img src="/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg" style="width:150px" align="right">
 
 &nbsp;
 
