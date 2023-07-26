@@ -3,9 +3,6 @@ title: A'Prof Danny Soon
 permalink: /bio/dr-danny-soon/
 description: ""
 ---
-**A/Prof Danny Soon**
-=====================
-
 <img src="/images/Leadership/Senior%20Management/a-prof-danny-soon.png" style="width:150px" align="left">
 
 **Chief Executive Officer,**&nbsp;**Consortium for Clinical Research and Innovation, Singapore**
