@@ -15,6 +15,7 @@ Executive Director
 Singapore Clinical Research Institute  
 Interim Executive Director  
 Advanced Cell Therapy and Research Institute, Singapore
+&nbsp;
 [Learn More ...](/bio/dr-danny-soon)
 
 
