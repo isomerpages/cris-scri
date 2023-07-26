@@ -2,5 +2,6 @@ collections:
   bio:
     output: true
     order:
+      - Eugene Gan.md
       - A'Prof Edwin Chan Shih yen.md
       - A'Prof Danny Soon.md
