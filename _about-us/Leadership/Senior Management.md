@@ -6,9 +6,6 @@ third_nav_title: Leadership
 ---
 <img src="/images/Leadership/Senior%20Management/a-prof-danny-soon.png" style="width:150px" align="right">
 
-
-[![John CW Lim](https://www.scri.edu.sg/wp-content/uploads/2022/03/Danny.png)](https://www.scri.edu.sg/about-us/leadership/senior-management/dr-danny-soon/)
-
 A/Prof Danny Soon
 ---------------------
 
