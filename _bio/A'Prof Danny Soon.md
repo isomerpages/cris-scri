@@ -17,7 +17,7 @@ description: ""
 	<br>
 <div>Executive Director, Advanced Cell Therapy and Research Institute, Singapore</div>
 	<br>
-Adjunct Associate Professor, Duke-NUS Medical School
+	<div>Adjunct Associate Professor, Duke-NUS Medical School</div>
 				</strong>
 			</td>
 		</tr>
