@@ -32,7 +32,7 @@ Consortium for Clinical Research &amp; Innovation Singapore
 
 &nbsp;
 
-<img src="/images/Leadership/3_professor-edwin-chan-shih-yen.png" style="width:150px" align="right">
+<img src="/images/Leadership/Senior%20Management/eugene-gan.png" style="width:150px" align="right">
 
 Eugene Gan
 ---------------------
