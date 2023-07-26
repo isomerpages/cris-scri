@@ -13,8 +13,10 @@ description: ""
 <strong><div>Chief Executive Officer,
 	Consortium for Clinical Research and Innovation,Singapore</div>
 	<br>
-<div>Executive Director, Singapore Clinical Research Institute Interim Executive Director, Advanced Cell Therapy and Research Institute, Singapore</div>
-	
+	<div>Executive Director, Singapore Clinical Research Institute Interim</div>
+	<br>
+<div>Executive Director, Advanced Cell Therapy and Research Institute, Singapore</div>
+	<br>
 Adjunct Associate Professor, Duke-NUS Medical School
 				</strong>
 			</td>
