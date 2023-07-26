@@ -10,9 +10,11 @@ description: ""
 				<img src="/images/Leadership/Senior%20Management/a-prof-danny-soon.png" align="left">
 			</td>
 			<td>
-<strong>Chief Executive Officer,**&nbsp;**Consortium for Clinical Research and Innovation, Singapore
-**Executive Director,**&nbsp;**Singapore Clinical Research Institute**
-**Interim Executive Director,**&nbsp;**Advanced Cell Therapy and Research Institute, Singapore**
+<strong>Chief Executive Officer,
+Consortium for Clinical Research and Innovation, Singapore
+Executive Director,
+	Singapore Clinical Research Institute
+Interim Executive Director,Advanced Cell Therapy and Research Institute, Singapore
 
 **Adjunct Associate Professor,**&nbsp;**Duke-NUS Medical School
 				</strong>
