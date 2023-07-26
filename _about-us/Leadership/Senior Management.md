@@ -29,7 +29,8 @@ Director, Cochrane Singapore
 Associate Professor, Duke-NUS Medical School  
 Chief Scientific Officer, Singapore Clinical Research Institute  
 Consortium for Clinical Research &amp; Innovation Singapore
-
+<br>
+[Learn More ...](/bio/edwin-chan)
 &nbsp;
 
 <img src="/images/Leadership/Senior%20Management/eugene-gan.png" style="width:150px" align="right">
@@ -41,4 +42,4 @@ Ph.D.
 Senior Director, Operations  
 Singapore Clinical Research Institute
 <br>
-[Learn More ...](/bio/dr-danny-soon)
+[Learn More ...](/bio/eugene-gan)
