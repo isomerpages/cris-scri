@@ -10,6 +10,7 @@ description: ""
 				<img src="/images/Leadership/Senior%20Management/a-prof-danny-soon.png" align="left">
 			</td>
 			<td>
+				
 **Chief Executive Officer,**&nbsp;**Consortium for Clinical Research and Innovation, Singapore**
 
 **Executive Director,**&nbsp;**Singapore Clinical Research Institute**
