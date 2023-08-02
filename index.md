@@ -21,18 +21,18 @@ sections:
       title: Welcome to SCRI
       background: /images/hero-banner.png
       key_highlights:
-        - title: Clinical Trials Singapore (CTSG)
+        - title: Academic Research Organization
           description: ""
-          url: https://google.com
+          url: /academic-research-organization/about-academic-research-organization/
         - title: Public Sector Partners
           description: ""
-          url: https://gmail.com
+          url: /about-us/our-partners/public-sector-partners/
         - title: Industry Partners
           description: ""
-          url: /privacy/
+          url: /about-us/our-partners/industry-partners/
         - title: Master Clinical Trial Agreement
           description: ""
-          url: ""
+          url: /national-coordinating-body/master-clinical-trial-agreement/
   - infopic:
       title: Clinical Trials Singapore CTSG
       subtitle: Infopic Subtitle
