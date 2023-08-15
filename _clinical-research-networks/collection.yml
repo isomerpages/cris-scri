@@ -2,5 +2,6 @@ collections:
   clinical-research-networks:
     output: true
     order:
+      - (AHCC) Trials Group/AHCC Members.md
       - (AHCC) Trials Group/About AHCC.md
       - (AHCC) Trials Group/.keep
