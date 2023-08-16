@@ -2,5 +2,6 @@ collections:
   ahcc:
     output: true
     order:
+      - Completed Trails/AHCC08.md
       - Completed Trails/.keep
       - Overview.md
