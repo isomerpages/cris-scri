@@ -2,7 +2,6 @@ collections:
   ahcc:
     output: true
     order:
-      - Research.md
       - Overview.md
       - Completed Trails/.keep
       - Completed Trails/AHCC08.md
