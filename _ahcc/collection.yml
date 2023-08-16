@@ -2,10 +2,10 @@ collections:
   ahcc:
     output: true
     order:
-      - How To Reach Us.md
-      - AHCC News.md
+      - Overview.md
       - Completed Trails/.keep
       - Completed Trails/AHCC08.md
       - Completed Trails/AHCC07.md
       - Completed Trails/AHCC06.md
-      - Overview.md
+      - AHCC News.md
+      - How To Reach Us.md
