@@ -1,4 +1,5 @@
 collections:
   paros-pan-asian-resuscitation:
     output: true
-    order: []
+    order:
+      - About PAROS.md
