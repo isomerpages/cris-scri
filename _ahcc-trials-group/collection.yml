@@ -2,7 +2,6 @@ collections:
   ahcc-trials-group:
     output: true
     order:
-      - Overview.md
       - Completed Trails/.keep
       - Completed Trails/AHCC08.md
       - Completed Trails/AHCC07.md
