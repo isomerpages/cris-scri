@@ -2,6 +2,7 @@ collections:
   asian-pibd-research-network:
     output: true
     order:
+      - Events.md
       - Publications.md
       - Research.md
       - Members.md
