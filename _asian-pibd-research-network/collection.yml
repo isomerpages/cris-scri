@@ -2,4 +2,5 @@ collections:
   asian-pibd-research-network:
     output: true
     order:
+      - Members.md
       - About Asian PIBD Research Network.md
