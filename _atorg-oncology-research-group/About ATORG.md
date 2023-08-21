@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Who we are**
 
-![5f7b66f4-038a-4301-89d6-152974e41ab8](https://www.scri.edu.sg/wp-content/uploads/2020/04/5F7B66F4-038A-4301-89D6-152974E41AB8.jpeg)
+![](/images/ATORG%20Oncology%20Research%20Group/5f7b66f4-038a-4301-89d6-152974e41ab8.jpeg)
 
 The Asian Thoracic Oncology Research Group (ATORG) was formed in 2016 with the vision to be the central coordinating platform for multi-centre clinical trials and translational research for thoracic malignancies in the Asia-Pacific region.
 
@@ -13,4 +13,5 @@ Recent advances in medical science have led doctors and scientists to recognize 
 
 ATORG’s mission is to advance medical knowledge of lung cancer and improve health outcomes of patients in Asia through clinical research, advisory board meetings and educational events.
 
-###### ATORG Clinical Study Model![](https://www.scri.edu.sg/wp-content/uploads/2023/01/ATORG-map.png)
+###### ATORG Clinical Study Model
+![](/images/ATORG%20Oncology%20Research%20Group/atorg-map.png)
