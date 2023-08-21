@@ -6,14 +6,9 @@ links:
     collection: national-coordinating-body
   - title: Academic Research Organization
     collection: academic-research-organization
+  - title: CLINICAL RESEARCH NETWORKS
+    collection: clinical-research-networks
   - title: News & Events
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Clinical Research Network
-    url: /clinical-research-networks/ahcc-trials-group/about-ahcc/
-    sublinks:
-      - title: AHCC Trials Group
-        url: /clinical-research-networks/ahcc-trials-group/about-ahcc/
-      - title: Asian PIBD
-        url: clinical-research-networks/asian-pibd-research-network/about-us/
