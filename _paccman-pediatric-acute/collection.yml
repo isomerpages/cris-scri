@@ -1,0 +1,4 @@
+collections:
+  paccman-pediatric-acute:
+    output: true
+    order: []
