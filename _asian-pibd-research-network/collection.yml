@@ -2,9 +2,9 @@ collections:
   asian-pibd-research-network:
     output: true
     order:
-      - How To Reach Us.md
-      - Events.md
-      - Publications.md
-      - Research.md
-      - Members.md
       - About Asian PIBD Research Network.md
+      - Members.md
+      - Research.md
+      - Publications.md
+      - Events.md
+      - How To Reach Us.md
