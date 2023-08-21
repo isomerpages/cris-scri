@@ -2,5 +2,6 @@ collections:
   clinical-research-networks:
     output: true
     order:
+      - Asian Thoracic Oncology Research Group (ATORG).md
       - Asian Paediatric Inflammatory Bowel Disease (PIBD) Research Network.md
       - Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group.md
