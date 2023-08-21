@@ -2,6 +2,7 @@ collections:
   clinical-research-networks:
     output: true
     order:
+      - Asian PIBD Research Network/Research.md
       - Asian PIBD Research Network/Members.md
       - Asian PIBD Research Network/About Asian PIBD Research Network.md
       - Asian PIBD Research Network/.keep
