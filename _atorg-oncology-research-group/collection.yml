@@ -2,4 +2,5 @@ collections:
   atorg-oncology-research-group:
     output: true
     order:
+      - Members.md
       - About ATORG.md
