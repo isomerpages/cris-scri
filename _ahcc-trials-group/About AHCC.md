@@ -5,8 +5,8 @@ description: ""
 ---
 <img src="/images/AHCC%20Trials%20Group/asia-pacific-hepatocellular-carcinoma.jpg" style="width:200px" align="left">
 
-### About AHCC Trials Group 
-### 
+**About AHCC Trials Group**
+
 The Asia-Pacific Hepatocellular Carcinoma (AHCC) Trials Group is a collaborative research group founded in 1997 by clinicians from major medical centres in the Asia-Pacific region. These clinicians share a common goal of seeking novel treatments for HCC and recognised the urgency and necessity for collaboration so that more efficacious therapies can be developed for the large number of HCC patients. Together with the strong alliances formed with both industry and academia, the mission of the AHCC network is to conduct preventive and therapeutic trials in HCC, carry out translational research in this field and develop training and educational programs pertaining to HCC.
 
 The first randomised controlled trial of the group was initiated by the Singapore General Hospital as a single-centre prospective HCC clinical trial, which went on to expand rapidly into a multi-centre trial in the Asia-Pacific region. The Trials Group has since completed 8 prospective, multi-centre clinical studies in HCC that has involved more than 50 participating centres from 17 countries and has enrolled more than 4,000 patients. New trials are underway, all with a common pursuit of seeking new efficacious treatments for HCC.
