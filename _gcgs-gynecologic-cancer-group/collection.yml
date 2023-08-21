@@ -1,0 +1,4 @@
+collections:
+  gcgs-gynecologic-cancer-group:
+    output: true
+    order: []
