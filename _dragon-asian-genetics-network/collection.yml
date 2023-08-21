@@ -1,4 +1,5 @@
 collections:
   dragon-asian-genetics-network:
     output: true
-    order: []
+    order:
+      - About DRAGoN.md
