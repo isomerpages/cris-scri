@@ -2,6 +2,7 @@ collections:
   clinical-research-networks:
     output: true
     order:
+      - AHCC Trials Group/How to Reach Us.md
       - AHCC Trials Group/Completed Trials.md
       - AHCC Trials Group/AHCC Members.md
       - AHCC Trials Group/About AHCC.md
