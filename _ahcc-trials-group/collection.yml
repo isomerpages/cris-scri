@@ -2,9 +2,6 @@ collections:
   ahcc-trials-group:
     output: true
     order:
-      - AHCC Newsletters.md
-      - AHCC Events.md
-      - AHCC Publications.md
       - About AHCC.md
       - Members.md
       - Completed Trails/.keep
@@ -16,5 +13,8 @@ collections:
       - Current Trials/AHCC 11.md
       - Current Trials/AHCC10.md
       - Current Trials/AHCC09.md
+      - AHCC Newsletters.md
+      - AHCC Publications.md
+      - AHCC Events.md
       - AHCC News.md
       - How To Reach Us.md
