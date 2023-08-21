@@ -1,4 +1,5 @@
 collections:
   directory-of-crn-in-singapore:
     output: true
-    order: []
+    order:
+      - Directory of Clinical Research Networks In Singapore.md
