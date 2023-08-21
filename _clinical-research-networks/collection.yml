@@ -2,10 +2,6 @@ collections:
   clinical-research-networks:
     output: true
     order:
-      - Asian PIBD Research Network/Research.md
-      - Asian PIBD Research Network/Members.md
-      - Asian PIBD Research Network/About Asian PIBD Research Network.md
-      - Asian PIBD Research Network/.keep
       - AHCC Trials Group/.keep
       - AHCC Trials Group/About AHCC.md
       - AHCC Trials Group/AHCC Members.md
@@ -13,3 +9,7 @@ collections:
       - AHCC Trials Group/AHCC Publications.md
       - AHCC Trials Group/Current Trials.md
       - AHCC Trials Group/How to Reach Us.md
+      - Asian PIBD Research Network/.keep
+      - Asian PIBD Research Network/Research.md
+      - Asian PIBD Research Network/Members.md
+      - Asian PIBD Research Network/About Asian PIBD Research Network.md
