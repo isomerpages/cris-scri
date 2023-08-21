@@ -29,7 +29,7 @@ ATORG is undertaking a comprehensive molecular profiling of “actionable” alt
 
 ATORG001 – Molecular Profiling Project has also initiated a Virtual Molecular Tumour Board which aims to improve physician interpretation and understanding of NGS reports, and facilitate enrolment on clinical trials or access to targeted therapies for rare molecular subtypes. The virtual multidisciplinary molecular tumour board has been organised quarterly ever since the first session held in April 2020.
 
-#### **ATORG004 – Molecular Profiling in ALK Inhibitor Resistant, ALK Positive Non-Small-Cell Lung Cancer**
+**ATORG004 – Molecular Profiling in ALK Inhibitor Resistant, ALK Positive Non-Small-Cell Lung Cancer**
 
 _Status: Recruiting_
 
