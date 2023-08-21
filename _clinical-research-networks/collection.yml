@@ -2,6 +2,7 @@ collections:
   clinical-research-networks:
     output: true
     order:
+      - Asian Paediatric Inflammatory Bowel Disease (PIBD) Research Network.md
       - Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group.md
       - AHCC Trials Group/.keep
       - AHCC Trials Group/About AHCC.md
