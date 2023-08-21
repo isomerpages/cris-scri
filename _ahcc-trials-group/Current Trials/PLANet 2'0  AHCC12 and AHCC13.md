@@ -4,7 +4,7 @@ permalink: /ahcc-trials-group/current-trials/planet-2-ahcc12-and-ahcc13/
 description: ""
 third_nav_title: Current Trials
 ---
-<table class="tb-1">
+<table>
 <thead>
 <tr>
 <th width="21%"><strong>AHCC12 &amp; AHCC13</strong></th>
