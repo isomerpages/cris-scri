@@ -5,9 +5,9 @@ description: ""
 ---
 ### **2017**
 
-Held Committee Meeting and Investigators’ Meeting during ACPN 2017 (Shangri -La Hotel, Malaysia)
+**Held Committee Meeting and Investigators’ Meeting during ACPN 2017 (Shangri -La Hotel, Malaysia)**
 
-![investigators-meeting_acpn17](/images/DRAGoN%20Asian%20Genetics%20Network/investigators-meeting_acpn17-1024x768.jpg)  Investigators' Meeting 2017
+![investigators-meeting_acpn17](/images/DRAGoN%20Asian%20Genetics%20Network/investigators-meeting_acpn17-1024x768.jpg)  **Investigators' Meeting 2017**
 
 ![committees-meeting_acpn17](/images/DRAGoN%20Asian%20Genetics%20Network/committees-meeting_acpn17-1024x768.jpg)  **Committee Meeting 2017**
 
@@ -21,4 +21,4 @@ Held Committee Meeting and Investigators’ Meeting during ACPN 2017 (Shangri -L
 
 ### **2020**
 
-Held Investigators’ Meeting through Zoom in 2 sessions (13 Oct and 30 Oct)
+**Held Investigators’ Meeting through Zoom in 2 sessions (13 Oct and 30 Oct)**
