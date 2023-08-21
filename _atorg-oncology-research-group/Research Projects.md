@@ -17,14 +17,11 @@ This study aims to comprehensively characterize the epidemiology and clinical ou
 
 This will be a multi-centre observational and translational study of advanced _EGFR_ exon 20 insertion mutated NSCLC patients at sites in Asia. Patients will be both retrospectively and prospectively enrolled, with prospective genomic profiling of plasma and tumor tissue from baseline and at the time of resistance where feasible. Key demographic, clinicopathology, treatment (including subsequent therapies) and survival data will be collected.
 
-**\>** **Ongoing Research**
----------------------------
+###  Ongoing Research
 
-### **  
-Non- Interventional Clinical Studies**
+**Non- Interventional Clinical Studies**
 
-#### **  
-ATORG001 – Molecular Profiling Project**
+**ATORG001 – Molecular Profiling Project**
 
 _Status: Recruiting_
 
