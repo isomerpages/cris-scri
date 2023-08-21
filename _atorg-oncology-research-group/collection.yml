@@ -2,9 +2,9 @@ collections:
   atorg-oncology-research-group:
     output: true
     order:
-      - Contact Us.md
-      - Events.md
-      - Publications.md
       - About ATORG.md
       - Members.md
       - Research Projects.md
+      - Publications.md
+      - Events.md
+      - Contact Us.md
