@@ -3,9 +3,6 @@ title: Join Us as Investigator and:or Committee Member
 permalink: /dragon-asian-genetics-network/join-us-as-investigator-andor-committee-member/
 description: ""
 ---
-**Join Us as Investigator and/or Committee Member**
-===================================================
-
 **Do you have patients with glomerular or renal cystic diseases whom you wish you can perform genetic tests to direct treatment?**
 
 If you do, you may be interested to participate in the DRAGoN study which provides genetic sequencing of more than 150 genes known to cause renal disease, at no costs to your patients.
