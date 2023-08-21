@@ -2,6 +2,7 @@ collections:
   ahcc-trials-group:
     output: true
     order:
+      - AHCC Events.md
       - AHCC Publications.md
       - About AHCC.md
       - Members.md
