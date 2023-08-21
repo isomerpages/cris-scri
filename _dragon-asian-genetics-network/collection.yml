@@ -2,6 +2,7 @@ collections:
   dragon-asian-genetics-network:
     output: true
     order:
+      - Join Us as Investigator and:or Committee Member.md
       - Recruitment Updates.md
       - About DRAGoN.md
       - Members.md
