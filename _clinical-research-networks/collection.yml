@@ -1,0 +1,4 @@
+collections:
+  clinical-research-networks:
+    output: true
+    order: []
