@@ -2,5 +2,6 @@ collections:
   dragon-asian-genetics-network:
     output: true
     order:
+      - Ongoing Research.md
       - Members.md
       - About DRAGoN.md
