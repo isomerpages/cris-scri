@@ -43,7 +43,7 @@ This study aims to comprehensively characterize the epidemiology and clinical ma
 
 ### **Clinical Trials**
 
-#### **  
+
 ATORG-003 - A single-arm, open-label, Phase 2 study of Dacomitinib with or without dose titration for the first-line treatment of locally advanced or metastatic non-small cell lung cancer in subjects with an epidermal growth factor receptor (EGFR) activation mutation**
 
 _Status:_ Active, recruitment complete
