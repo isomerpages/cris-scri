@@ -10,3 +10,8 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Clinical Research Network
+    url: /clinical-research-networks/ahcc-trials-group/about-ahcc/
+    sublinks:
+      - title: AHCC Trials Group
+        url: /clinical-research-networks/ahcc-trials-group/about-ahcc/
