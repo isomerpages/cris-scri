@@ -1,4 +1,5 @@
 collections:
   paccman-pediatric-acute:
     output: true
-    order: []
+    order:
+      - About PACCMAN.md
