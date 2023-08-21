@@ -1,5 +1,4 @@
 collections:
   clinical-research-networks:
     output: true
-    order:
-      - Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group.md
+    order: []
