@@ -35,7 +35,7 @@ _Status: Recruiting_
 
 This study will utilize a non-invasive test to achieve contemporaneous tumour resistance results, which may ultimately guide subsequent treatment selection. This comprehensive molecular profiling with the Guardant360 assay will test for 74 genetic alterations (including point mutations, copy number variants, fusions and indels) in a single workflow. Key clinical information, such as patient demographics, prior oncological treatments and treatment outcomes will be collected. Through this process, this sub-study will provide a better understanding of ALK resistance in the treatment of Asian lung cancers and allow for improved clinical outcomes by ‘matching’ any secondary mutations to specific ALK inhibitors (ALKi) that allow for the greatest sensitivity, and may ultimately lead to improved survival.
 
-#### **ATORG005 - Pan- Asian Database of Advanced KRAS Mutant NSCLC**
+**ATORG005 - Pan- Asian Database of Advanced KRAS Mutant NSCLC**
 
 _Status: Completed_
 
