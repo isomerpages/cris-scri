@@ -2,6 +2,7 @@ collections:
   ahcc-trials-group:
     output: true
     order:
+      - Current Trials.md
       - About AHCC.md
       - Members.md
       - Completed Trails/.keep
