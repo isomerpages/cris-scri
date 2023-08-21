@@ -2,6 +2,7 @@ collections:
   dragon-asian-genetics-network:
     output: true
     order:
+      - Events.md
       - Documents.md
       - About DRAGoN.md
       - Members.md
