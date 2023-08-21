@@ -2,10 +2,6 @@ collections:
   ahcc-trials-group:
     output: true
     order:
-      - Current Trials/AHCC 11.md
-      - Current Trials/PLANet 2'0  AHCC12 and AHCC13.md
-      - Current Trials/.keep
-      - Current Trials.md
       - About AHCC.md
       - Members.md
       - Completed Trails/.keep
@@ -14,3 +10,7 @@ collections:
       - Completed Trails/AHCC06.md
       - AHCC News.md
       - How To Reach Us.md
+      - Current Trials/.keep
+      - Current Trials/AHCC 11.md
+      - Current Trials/PLANet 2'0  AHCC12 and AHCC13.md
+      - Current Trials.md
