@@ -4,3 +4,7 @@ permalink: /national-coordinating-body/clinical-research-network/directory-of-cr
 description: ""
 third_nav_title: Clinical Research Network
 ---
+**Directory of Clinical Research Networks In Singapore**
+========================================================
+
+Many clinical research networks have been established in Singapore. They share a common goal in providing research infrastructure to support high quality clinical research. Please contact the respective personnel if you are interested in any of the clinical research network listed in the directory below:
