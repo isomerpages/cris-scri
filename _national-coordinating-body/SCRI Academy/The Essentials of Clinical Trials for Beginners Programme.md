@@ -6,15 +6,15 @@ third_nav_title: SCRI Academy
 ---
 #### Registration Period
 
-March Intake: 15 November to 15 January
+**March Intake:** 15 November to 15 January
 
-September Intake: 15 June to 15 July
+**September Intake:** 15 June to 15 July
 
 #### Course Start Date
 
-March intake: 1 March
+**March intake:** 1 March
 
-September intake: 1 September
+**September intake:** 1 September
 
 
 ![](https://www.scri.edu.sg/wp-content/uploads/2023/06/Programme-brochure-SGI_flyer_12Jun2023_page-0001-1.jpg)
