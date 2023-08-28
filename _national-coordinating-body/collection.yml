@@ -2,6 +2,7 @@ collections:
   national-coordinating-body:
     output: true
     order:
+      - SCRI Academy/The Essentials of Clinical Trials for Beginners Programme.md
       - SCRI Academy/Past and Present Collaborations.md
       - SCRI Academy/National CRC Education and Development.md
       - SCRI Academy/Introduction.md
