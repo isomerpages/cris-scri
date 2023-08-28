@@ -4,7 +4,7 @@ permalink: /about-us/our-partners/public-sector-partners/
 description: ""
 third_nav_title: Our Partners
 ---
-The Singapore Clinical Research Institute (SCRI) is a national academic research organization that plays a pivotal role in enhancing the standards of clinical research capabilities in Singapore. 
+The **Singapore Clinical Research Institute (SCRI)** is a national academic research organization that plays a pivotal role in enhancing the standards of clinical research capabilities in Singapore. 
 
 Our partnerships extend to various public sector entities that play pivotal roles in the clinical research landscape. We work closely with regulatory authorities such as the Health Sciences Authority (HSA) to ensure our research adheres to the highest standards of safety and ethics. We support Investigator-Initiated Trials (IIT) through collaborations with public healthcare clusters, including the National Healthcare Group (NHG), SingHealth and the National University Health System (NUHS). This allows us to conduct research in real-world healthcare settings, ensuring relevance and impact of the research. 
 
