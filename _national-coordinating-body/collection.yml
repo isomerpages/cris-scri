@@ -2,6 +2,7 @@ collections:
   national-coordinating-body:
     output: true
     order:
+      - SCRI Academy/National CRC Education and Development.md
       - SCRI Academy/Introduction.md
       - SCRI Academy/.keep
       - About National Coordinating Body.md
