@@ -3,17 +3,16 @@ title: Clinical Trial Process Enhancement
 permalink: /national-coordinating-body/clinical-trial-process-enhancement/
 description: ""
 ---
-The clinical trial enhancement process involves refining and optimizing various aspects of clinical trials to ensure its effectiveness and reliability. This iterative process includes reviewing trial startup processes, trial protocols, participant recruitment strategies, data collection methods, and statistical analysis plans. Enhancement might also focus on minimizing biases, improving patient safety and increasing the trial’s overall efficiency. Regular evaluations and adjustments help trialists and researchers identify potential challenges and implement necessary improvements, ultimately leading to more robust and informative clinical trial outcomes.
+The **Clinical Trial Enhancement Process** involves refining and optimizing various aspects of clinical trials to ensure its effectiveness and reliability. This iterative process includes reviewing trial startup processes, trial protocols, participant recruitment strategies, data collection methods, and statistical analysis plans. Enhancement might also focus on minimizing biases, improving patient safety and increasing the trial’s overall efficiency. Regular evaluations and adjustments help trialists and researchers identify potential challenges and implement necessary improvements, ultimately leading to more robust and informative clinical trial outcomes.
 
-**  
 
-Clinical Trial One Stop Shop - CTSG
+#### Clinical Trial One Stop Shop - CTSG
 
 The purpose of CTSG is to provide access to patients, researchers, clinicians, industry partners and sponsors to find, conduct, participate and invest in high quality and ethical clinical research in Singapore.
 
   
 
-This will help:
+**This will help:**
 
 *   To improve health outcomes
     
@@ -28,7 +27,7 @@ For more details of CTSG, please refer to XXXXXX.
 
   
 
-Early Phase Community of Practice
+#### Early Phase Community of Practice
 
 In RIE2025, early phase clinical trials have been identified as a focus area for the Singapore clinical trials ecosystem.  It was highlighted that this would facilitate building up a cadre of Key Opinion Leaders (KOLs) within the ecosystem, as well as enhance the know-how and capabilities within the three public healthcare clusters to conduct the more complex and sophisticated Phase I & Phase II clinical trials that are crucial for the development of therapeutics and medical devices.  
 
@@ -42,7 +41,7 @@ To align with RIE2025 directions, the Singapore Clinical Research Institute (SCR
 
   
 
-Public Awareness Campaign
+#### Public Awareness Campaign
 
 Clinical trials are essential for developing new and effective treatments and improving the quality of life for patients. One of the biggest barriers in clinical trial is public awareness. Most people are not aware of what clinical trials involve and why they matter. They are not aware that clinical research can be an accessible and viable treatment options.
 
