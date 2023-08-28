@@ -4,7 +4,7 @@ permalink: /clinical-trial-support-and-ops/clinical-research-and-dev/research-mo
 description: ""
 third_nav_title: Clinical R&D
 ---
-The Research Monitoring team partners with our collaborators to discover better treatment outcome for patients by monitoring the study in accordance to global standards, ensuring the data integrity, safety and well-being of the study participants.
+The **Research Monitoring team partners** with our collaborators to discover better treatment outcome for patients by monitoring the study in accordance to global standards, ensuring the data integrity, safety and well-being of the study participants.
 
 Our CRAs undergo regular training and certification by the Association of Clinical Research Professionals (ACRP) as part of our continuous skills enhancement.  Learning is integral part of our work to ensure we are kept abreast of the clinical trial knowledge, skills and abilities that is rapidly evolving in this landscape.
 
