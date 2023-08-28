@@ -4,7 +4,7 @@ permalink: /clinical-trial-support-and-ops/data-and-technology/data-management/
 description: ""
 third_nav_title: Data & Technology
 ---
-#### Services comprise: ####
+#### Services comprise: 
 
 *   Creation and design of Case Report Forms (CRF) based on requirements of clinical trial protocol
     
