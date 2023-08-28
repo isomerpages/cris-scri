@@ -10,7 +10,7 @@ Our CRAs undergo regular training and certification by the Association of Clinic
 
 We understand the importance of a collaborative culture with the sites, this is crucial to ensure the high quality of the study results. All our CRAs have prior site experience, hence they have a proficient grasp of the issues and challenges at the sites, this enables us to develop strategic approaches to address respective issues that arise in each study conduct.
 
-Our services:
+**Our services:**
 
 *   Conducting on site visits including site initiation, monitoring visit and close out
     
@@ -23,4 +23,3 @@ Our services:
 *   Source data verification and review
     
 *   SAE report review
-  
