@@ -33,7 +33,7 @@ sections:
         - title: Master Clinical Trial Agreement
           description: ""
           url: /national-coordinating-body/master-clinical-trial-agreement/
-      subtitle: IN SEARCH OF BETTER TREATMENTS FOR OUR PATIENTS
+      subtitle: In search of BETTER TREATMENTS for our patients
   - infopic:
       title: Clinical Trials Singapore CTSG
       subtitle: Infopic Subtitle
