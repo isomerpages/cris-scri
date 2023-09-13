@@ -19,7 +19,7 @@ notification: Registration for the Clinical Research Coordinator L1 Course is
 sections:
   - hero:
       title: Welcome to SCRI
-      background: /images/hero-banner.png
+      background: /images/Homepage/scri-web-banner_1400-468_b.jpg
       key_highlights:
         - title: Academic Research Organization
           description: ""
@@ -33,6 +33,7 @@ sections:
         - title: Master Clinical Trial Agreement
           description: ""
           url: /national-coordinating-body/master-clinical-trial-agreement/
+      subtitle: IN SEARCH OF BETTER TREATMENTS FOR OUR PATIENTS
   - infopic:
       title: Clinical Trials Singapore CTSG
       subtitle: Infopic Subtitle
