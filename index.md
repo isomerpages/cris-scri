@@ -33,7 +33,7 @@ sections:
         - title: Master Clinical Trial Agreement
           description: ""
           url: /national-coordinating-body/master-clinical-trial-agreement/
-      subtitle: In search of BETTER TREATMENTS for our patients
+      subtitle: In search of Better Treatments for our Patients
       button: Learn More
       url: /about-us/about-us/
   - infopic:
