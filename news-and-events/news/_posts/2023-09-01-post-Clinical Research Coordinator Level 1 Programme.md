@@ -6,7 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-<div style="witdh:25%"><img src="/images/Resources/News/2023/scri-logo.png" align="left" style="width:25%"></div>
+<img src="/images/Resources/News/2023/scri-logo.png" align="left" style="width:25%">
+
+<br><br>
 
 _\*Please note that this page is currently under maintenance. Please refer to the&nbsp;[SCRI LinkedIn](https://www.linkedin.com/company/697513/)&nbsp;page for the latest updates. Thank you._
 
