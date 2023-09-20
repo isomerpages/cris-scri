@@ -28,7 +28,7 @@ Video Player
 
 #### **Learning Outcome**
 
-*   *   *   Describe the clinical trial activities from study initiation to closure
+   *   *   Describe the clinical trial activities from study initiation to closure
         *   Discuss the importance of Good Clinical Practice
         *   Understand the investigator and sponsor responsibilities in a clinical trial
         *   Define the requirements for ethics submissions, source documentation and essential documents
@@ -40,11 +40,11 @@ Video Player
 
 #### **Who Should Attend**
 
-*   *   *   CRCs with less than one year of experience
+      *   CRCs with less than one year of experience
 
 #### **Entry Requirements**
 
-*   *   *   At least a Diploma in Biomedical Sciences, Life Sciences, Nursing, Pharmacy or equivalent.
+   *   *   At least a Diploma in Biomedical Sciences, Life Sciences, Nursing, Pharmacy or equivalent.
         *   With current experience in CRC or equivalent duties
 
 #### **Course Outline**
@@ -55,19 +55,19 @@ Video Player
 
 **_Please note that_**&nbsp;**_the above schedule&nbsp;may be&nbsp;subjected to changes._**
 
-#### **E-Learning Session  
-**
+#### E-Learning Session  
+
 
 Participants will be given access to the e-learning materials one month before and after the F2F classroom sessions. Participants are required to complete all e-learning videos and quizzes by Week 7 of the programme.
 
-#### **Technical Requirements  
-**
+#### Technical Requirements  
+
 
 _This is_&nbsp;_only_&nbsp;_applicable if the F2F classroom session is conducted virtually._
 
 It is mandatory to fulfill&nbsp;**ALL**&nbsp;the following minimum technical requirements:
 
-*   *   1.  Use of PC or Laptop for MCQ Examination, as the system is not compatible on Mobile devices (e.g. mobile phone or tablets). You are also strongly encouraged to access the Zoom virtual class via a PC or Laptop for better learning experience as you need to refer to the training handouts while attending the class.
+   *   1.  Use of PC or Laptop for MCQ Examination, as the system is not compatible on Mobile devices (e.g. mobile phone or tablets). You are also strongly encouraged to access the Zoom virtual class via a PC or Laptop for better learning experience as you need to refer to the training handouts while attending the class.
         2.  Stable internet connection (3G or 4G/LTE), with minimum bandwidth of 600kbps is recommended. You can check your Internet bandwidth using&nbsp;[www.speedtest.net](http://www.speedtest.net/)&nbsp;or&nbsp;[http://bandwidthplace.com/](http://bandwidthplace.com/).
         3.  Supported browser versions:
             *   Windows: IE11+, Edge 12+, Firefox 27+, Chrome30+
