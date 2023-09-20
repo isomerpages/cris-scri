@@ -32,23 +32,21 @@ third_nav_title: Leadership
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/dr-khoo-chin-meng_2.jpg">
 				<b>DR KHOO CHIN MENG</b>
-				<br>Director, Investigational Medicine Unit,  
+				<br><br>Director, Investigational Medicine Unit,  
 National University Health System
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg">
 				<b> 
 PROFESSOR BENJAMIN SEET</b>
-				<br>Deputy Group CEO (Education &amp; Research),  
-				National Healthcare Groupc<br><br>Assistant CEO (Corporate Services), Tan Tock Seng Hospital
+				<br><br>Deputy Group CEO (Education &amp; Research),  <br>National Healthcare Groupc<br><br>Assistant CEO (Corporate Services), Tan Tock Seng Hospital
 			</td>
 			<td style="width:25%">
-				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
-				<b>PROFESSOR JOHN CW LIM</b>
-				<br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore<br><br>Senior Advisor,Ministry of Health<br><br>Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School
+				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-chong-yap-seng_2.jpg">
+				<b>PROFESSOR CHONG YAP SENG</b>
+				<br><br>Dean, Yong Loo Lin School of Medicine, <br>National University of Singapore
 			</td>
 		</tr>
 	</tbody>
 	</table>
 	
-	![](/images/Leadership/Board%20Oversight%20Committee/dr-khoo-chin-meng_2.jpg)![](/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg)![](/images/Leadership/Board%20Oversight%20Committee/prof-chong-yap-seng_2.jpg)
