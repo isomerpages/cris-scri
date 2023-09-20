@@ -88,7 +88,7 @@ Registration priority will be given to CRCs who are core-funded under the NMRC C
 
 Participants who successfully completed all modules of this programme with at least 75% class attendance will receive a certificate of Completion (CRC Level 3 Programme) from SCRI Academy.
 
-For downloading of the programme brochure, please click&nbsp;[here](https://www.scri.edu.sg/wp-content/uploads/2022/03/CRC-L3-Programme-brochure_Final.pdf).
+For downloading of the programme brochure, please click&nbsp;[here](/files/Resources/News/crc-l3-programme-brochure_final.pdf).
 
 **Enquiries**
 
