@@ -96,7 +96,7 @@ Participants who have completed all modules of the programme and have passed the
 *   *   1.  E-Certificate of Participation (Essentials in Clinical Practice) from Nanyang Polytechnic,
         2.  Certificate of Achievement (CRC Level 1 Programme) from SCRI Academy
 
-For downloading of the programme brochure, please click&nbsp;[here](https://www.scri.edu.sg/wp-content/uploads/2023/06/Programme-brochure-L1_flyer_31May2023.pdf).
+For downloading of the programme brochure, please click&nbsp;[here](/files/Resources/News/programme-brochure-l1_flyer_31may2023.pdf).
 
 #### **Enquiries**
 
