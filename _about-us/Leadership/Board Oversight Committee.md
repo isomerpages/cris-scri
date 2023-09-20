@@ -24,8 +24,8 @@ third_nav_title: Leadership
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-matthew-ng_2.jpg">
-				<b>PROFESSOR JOHN CW LIM</b>
-				<br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore
+				<b>A/PROFESSOR MATTHEW NG</b>
+				<br>Clinical and Scientific Director, Investigational Medicine Unit,  <br>SingHealth
 			</td>
 		</tr>
 	</tbody>
