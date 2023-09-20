@@ -18,8 +18,9 @@ third_nav_title: Leadership
 				<br>Executive Director, National Medical Research Council, Ministry of Health Group Chief Research Officer, SingHealth Senior Associate Dean, Research, Duke-NUS Medical School
 			</td>
 			<td style="width:25%">
-				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">PROFESSOR JOHN CW LIM
-				<br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore
+				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">
+				<b>PROFESSOR JOHN CW LIM</b>
+				<br>Partner, Finix Corporate Advisory LLP
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-matthew-ng_2.jpg">
