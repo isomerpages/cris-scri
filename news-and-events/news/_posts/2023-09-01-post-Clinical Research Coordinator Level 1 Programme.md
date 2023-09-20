@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-**Clinical Research Coordinator Level 1 Programme**
-===================================================
-
 **![scri-logo](https://www.scri.edu.sg/wp-content/uploads/2018/01/scri-logo.png)**
 
 _\*Please note that this page is currently under maintenance. Please refer to the&nbsp;[SCRI LinkedIn](https://www.linkedin.com/company/697513/)&nbsp;page for the latest updates. Thank you._
