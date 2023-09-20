@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**![scri-logo](https://www.scri.edu.sg/wp-content/uploads/2018/01/scri-logo.png)**
+<img src="/images/Resources/News/2023/scri-logo.png" align="left" style="witdh:50">
 
 _\*Please note that this page is currently under maintenance. Please refer to the&nbsp;[SCRI LinkedIn](https://www.linkedin.com/company/697513/)&nbsp;page for the latest updates. Thank you._
 
