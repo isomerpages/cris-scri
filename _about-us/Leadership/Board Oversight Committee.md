@@ -10,7 +10,7 @@ third_nav_title: Leadership
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
 				<b>PROFESSOR JOHN CW LIM</b>
-				<br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore
+				<br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore<br><br>Senior Advisor,Ministry of Health<br><br>Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
