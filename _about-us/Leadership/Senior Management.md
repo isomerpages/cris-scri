@@ -9,18 +9,29 @@ third_nav_title: Leadership
 		<tr>
 			<td style="width:25%">
 				<img src="/images/Leadership/Senior%20Management/a-prof-danny-soon.png">
-				<b>PROFESSOR JOHN CW LIM</b>
-				<br><br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore<br><br>Senior Advisor,Ministry of Health<br><br>Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School
+				<b>A/PROF DANNY SOON</b>
+				<br><br>Chief Executive Officer
+Consortium for Clinical Research and Innovation, Singapore
+Executive Director
+Singapore Clinical Research Institute
+Interim Executive Director
+Advanced Cell Therapy and Research Institute, Singapore
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Senior%20Management/3_professor-edwin-chan-shih-yen.jpg">
-				<b>PROFESSOR TAN SAY BENG</b>
-				<br><br>Executive Director, National Medical Research Council, Ministry of Health Group Chief Research Officer, SingHealth Senior Associate Dean, Research, Duke-NUS Medical School
+				<b>A/PROFESSOR EDWIN CHAN SHIH-YEN</b>
+				<br><br>BSc, BVMS (1st class Hons), PhD
+Director, Cochrane Singapore
+Associate Professor, Duke-NUS Medical School
+Chief Scientific Officer, Singapore Clinical Research Institute
+Consortium for Clinical Research &amp; Innovation Singapore
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Senior%20Management/eugene-gan.png">
-				<b>PROFESSOR TAN SAY BENG</b>
-				<br><br>Executive Director, National Medical Research Council, Ministry of Health Group Chief Research Officer, SingHealth Senior Associate Dean, Research, Duke-NUS Medical School
+				<b>EUGENE GAN</b>
+				<br><br>Ph.D.
+Senior Director, Operations
+Singapore Clinical Research Institute
 			</td>
 		</tr>
 	</tbody>
