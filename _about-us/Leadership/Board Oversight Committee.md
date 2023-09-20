@@ -15,7 +15,7 @@ third_nav_title: Leadership
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg">
 				<b>PROFESSOR TAN SAY BENG</b>
-				<br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore
+				<br>Executive Director, National Medical Research Council, Ministry of Health Group Chief Research Officer, SingHealth Senior Associate Dean, Research, Duke-NUS Medical School
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">PROFESSOR JOHN CW LIM
@@ -30,5 +30,3 @@ third_nav_title: Leadership
 	</tbody>
 	</table>
 	
-	![](/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg)
-	![](/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg)![](/images/Leadership/Board%20Oversight%20Committee/aprof-matthew-ng_2.jpg)
