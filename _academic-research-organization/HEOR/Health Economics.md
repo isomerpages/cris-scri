@@ -31,21 +31,3 @@ Our HEOR department forms the nucleus of health economic evaluation expertise at
 **Scientific Review** - Due to our wide exposures to clinical research projects, we are recognized as experienced and well respected methodologists. We received invites to review grant applications, journal manuscripts, conference abstracts and theses of post-graduate students. Some project teams invited us as Co-Is after receiving our review comments and recommendations.
 
 **Training Workshops** - In order to nurture clinical research capabilities and timely introduce new methods and skills to local research community, we are the 1st team in Singapore started providing Health Economic Evaluation alongside Clinical Studies and Network Meta-analysis workshops. We also brought in and introduced the Cochrane’s method on Diagnostic Test Accuracy (DTA) evidence synthesis to Singapore in the same year as the new method was established by Cochrane DTA Group. All our workshops were full house and received very positive feedback from our participants. Our participants were from MOH including ACE, and universities including NUS, Duke-NUS, and LKC; the other majorities were clinicians, nurses, and researchers from public healthcare organizations.
-
-
-### Evidence Synthesis
-
-**Headed by Shi Luming**
-
-##### Evidence Synthesis services comprise:
-
-*   Development of systematic methodology to promote evidence-based medicine
-    
-*   Conducting synthesis of quantitative evidence to evaluate efficacy and cost-effectiveness
-    
-*   Use of systematic reviews to identify knowledge gaps, assess health services and inform decision-making
-    
-*   Support production of high quality systematic reviews for the Cochrane Collaboration
-    
-
-SCRI's HEOR team supports the practice of evidence-based medicine by developing and teaching review methodologies. Our staff have both clinical and research methodology training to ensure the successful conduct of high quality and clinically relevant systematic reviews and evidence syntheses. Through conducting tailor-made and interactive training workshops, we actively contribute our expertise to help clinical researchers in evidence synthesis. In recent years, we have shifted our focus from traditional interventional studies to meet the emerging demand for evidence synthesis in health economic evaluation and diagnostic test accuracy projects. We are also expanding our training and education activities to cover these new emerging interests. Through these endeavours, we hope to encourage more local researchers in contributing to filling in knowledge gaps by taking on impactful systematic reviews.
