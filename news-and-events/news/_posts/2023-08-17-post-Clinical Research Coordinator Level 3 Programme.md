@@ -47,7 +47,7 @@ All requirements&nbsp;must be&nbsp;fulfilled:
 *   Has basic understanding of randomisation and project management skills in multi-centre trials
 *   Has supported quality compliance checks for studies other than own studies
 
-##### **_CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;[CRC Level 2 Programme](https://www.scri.edu.sg/clinical-research-coordinator-crc-level-2-programme-upcoming/)&nbsp;prior to applying for the CRC Level 3 Programme._**
+##### **_CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;[CRC Level 2 Programme](/news-and-events/news/clinical-research-coordinator-level-2-programme/)&nbsp;prior to applying for the CRC Level 3 Programme._**
 
 **Course Outline**
 
