@@ -2,9 +2,9 @@ collections:
   paccman:
     output: true
     order:
-      - How to Reach Us.md
-      - Events.md
-      - Publications.md
-      - Research.md
       - Members.md
       - About PACCMAN.md
+      - Research.md
+      - Publications.md
+      - Events.md
+      - How to Reach Us.md
