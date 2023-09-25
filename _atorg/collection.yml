@@ -1,5 +1,5 @@
 collections:
-  atorg-oncology-research-group:
+  atorg:
     output: true
     order:
       - About ATORG.md
