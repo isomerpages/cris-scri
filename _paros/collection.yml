@@ -2,4 +2,5 @@ collections:
   paros:
     output: true
     order:
+      - Research.md
       - About PAROS.md
