@@ -162,3 +162,5 @@ description: ""
       </tr>
    </tbody>
 </table>
+
+**Academic partners:**&nbsp;AstraZeneca
