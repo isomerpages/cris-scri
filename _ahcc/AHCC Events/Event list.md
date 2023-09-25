@@ -15,4 +15,13 @@ third_nav_title: AHCC Events
 			</th>
 		</tr><tr>
 			<td>
-				</td></tr></tbody></table>
+			AHCC TRIALS GROUP 4TH SYMPOSIUM OF THE SINGAPORE LIVER CANCER CONSORTIUM (SLCC) 
+			</td>
+			<td>
+			26 MARCH 2022
+			</td>
+		</tr>
+	</tbody>
+</table>
+	
+			
