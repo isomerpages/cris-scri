@@ -23,10 +23,10 @@ Below are the National CRC Training and Certification Programmes:
 
 In addition to the structured training programmes, SCRI Academy also provides other training workshops and awards to recognize the CRCs effort in contributing to Singapore clinical research ecosystem.
 
-*   The Essentials of Clinical Trials for Beginners (e-Learning) A 16-week introductory e-learning course that provides you with an overview of the key activities in the conduct of clinical trials, ranging from study development, ethics, subject recruitment, study monitoring to trial closure. Click [here](/news-and-events/news/the-essentials-of-clinical-trials-for-beginners-programme/) for more details.
+*   **The Essentials of Clinical Trials for Beginners (e-Learning)** A 16-week introductory e-learning course that provides you with an overview of the key activities in the conduct of clinical trials, ranging from study development, ethics, subject recruitment, study monitoring to trial closure. Click [here](/news-and-events/news/the-essentials-of-clinical-trials-for-beginners-programme/) for more details.
     
 
-*   CRC Lunch Workshop (free) To ensure the CRCs stay abreast of the latest updates and trends in clinical research ecosystem, speakers from the regulatory, public healthcare institutes and commercial multinational corporations were invited to share about various aspects of clinical trial management and their best practices with the CRCs. This light-hearted annual lunch workshop provides an opportunity for the CRCs from different public healthcare institutes to mingle, network and gain deeper insights on industry best practices.
+*   **CRC Lunch Workshop (free)** To ensure the CRCs stay abreast of the latest updates and trends in clinical research ecosystem, speakers from the regulatory, public healthcare institutes and commercial multinational corporations were invited to share about various aspects of clinical trial management and their best practices with the CRCs. This light-hearted annual lunch workshop provides an opportunity for the CRCs from different public healthcare institutes to mingle, network and gain deeper insights on industry best practices.
 
 
 **Distinguished Contributor Award for CRCs**
