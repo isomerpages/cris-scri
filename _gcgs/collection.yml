@@ -2,6 +2,7 @@ collections:
   gcgs:
     output: true
     order:
+      - How to Reach Us.md
       - Events & Courses.md
       - About GCGS.md
       - Members.md
