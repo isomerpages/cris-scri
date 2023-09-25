@@ -11,4 +11,4 @@ The Asian Thoracic Oncology Research Group (ATORG) was formed in 2016 with the v
 Recent advances in medical science have led doctors and scientists to recognize that lung cancer is diverse and made up of molecular subsets of diseases. Work has begun to identify these sub-types of cancer so that collaborative studies can be initiated to uncover the types of treatment that can benefit each subgroup of patients.
 
 
-[Learn More](/atorg-oncology-research-group/about-atorg/)
+[Learn More](/atorg/about-atorg/)
