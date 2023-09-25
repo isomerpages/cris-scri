@@ -2,24 +2,6 @@ collections:
   ahcc:
     output: true
     order:
-      - AHCC Events/.keep
-      - AHCC Events/Event list.md
-      - AHCC Events/AHCC Trials Group 4th Symposium of the Singapore Liver
-        Cancer Consortium (SLCC) – 26 March 2022.md
-      - AHCC Events/AHCC Trials Group 3rd Symposium of the Singapore Liver
-        Cancer Consortium (SLCC) – 3 May 2019.md
-      - AHCC Events/AHCC06 Result Presentation.md
-      - AHCC Events/Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group
-        Scientific Forum and General Meeting.md
-      - AHCC Events/AHCC06 2nd Interim Analysis 2014.md
-      - AHCC Events/AHCC06 1st Interim Analysis 2013.md
-      - AHCC Events/AHCC06 Investigator Meeting 2012.md
-      - AHCC Events/AHCC06 Investigator Meeting.md
-      - "AHCC Events/Press Conference at National Cancer Centre Singapore:
-        Announcing the Launch of AHCC06 Trial.md"
-      - AHCC Events/Singapore General Hospital and Sirtex Medical Limited Signs
-        Sponsorship Agreement for AHCC06 Trial.md
-      - AHCC Events/5th AHCC Trials Group General Meeting 2010.md
       - About AHCC.md
       - Members.md
       - Completed Trials/.keep
@@ -38,5 +20,23 @@ collections:
       - Current Trials/AHCC09.md
       - AHCC Newsletters.md
       - AHCC Publications.md
+      - AHCC Events/.keep
+      - AHCC Events/Event list.md
+      - AHCC Events/AHCC Trials Group 4th Symposium of the Singapore Liver
+        Cancer Consortium (SLCC) – 26 March 2022.md
+      - AHCC Events/AHCC Trials Group 3rd Symposium of the Singapore Liver
+        Cancer Consortium (SLCC) – 3 May 2019.md
+      - AHCC Events/AHCC06 Result Presentation.md
+      - AHCC Events/Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group
+        Scientific Forum and General Meeting.md
+      - AHCC Events/AHCC06 2nd Interim Analysis 2014.md
+      - AHCC Events/AHCC06 1st Interim Analysis 2013.md
+      - AHCC Events/AHCC06 Investigator Meeting 2012.md
+      - AHCC Events/AHCC06 Investigator Meeting.md
+      - "AHCC Events/Press Conference at National Cancer Centre Singapore:
+        Announcing the Launch of AHCC06 Trial.md"
+      - AHCC Events/Singapore General Hospital and Sirtex Medical Limited Signs
+        Sponsorship Agreement for AHCC06 Trial.md
+      - AHCC Events/5th AHCC Trials Group General Meeting 2010.md
       - AHCC News.md
       - How To Reach Us.md
