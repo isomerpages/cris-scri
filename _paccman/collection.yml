@@ -1,5 +1,5 @@
 collections:
-  paccman-pediatric-acute:
+  paccman:
     output: true
     order:
       - About PACCMAN.md
