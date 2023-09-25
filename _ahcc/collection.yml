@@ -2,7 +2,6 @@ collections:
   ahcc:
     output: true
     order:
-      - AHCC Events/AHCC Events.md
       - AHCC Events/.keep
       - About AHCC.md
       - Members.md
