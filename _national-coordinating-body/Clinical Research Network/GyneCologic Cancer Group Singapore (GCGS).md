@@ -16,4 +16,4 @@ The aims of the GCGS are:
 *   To provide a national platform for women’s cancer research.
 
 
-[Learn More](/gcgs-gynecologic-cancer-group/about-gcgs/)
+[Learn More](/gcgs/about-gcgs/)
