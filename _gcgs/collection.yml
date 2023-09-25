@@ -2,5 +2,6 @@ collections:
   gcgs:
     output: true
     order:
+      - Research.md
       - Members.md
       - About GCGS.md
