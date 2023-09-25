@@ -1,5 +1,5 @@
 collections:
-  gcgs-gynecologic-cancer-group:
+  gcgs:
     output: true
     order:
       - About GCGS.md
