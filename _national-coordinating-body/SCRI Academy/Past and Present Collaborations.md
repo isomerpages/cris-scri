@@ -7,7 +7,7 @@ third_nav_title: SCRI Academy
 **Past and Present Collaborations:**
 ------------------------------------
 
-![SCRI Academy_Partner logos_For Verz](https://www.scri.edu.sg/wp-content/uploads/2022/05/SCRI-Academy_Partner-logos_For-Verz.jpg)
+![](/images/National%20Coordinating%20Body/scri-academy_partner-logos_for-verz.jpg)
 
 Apart from understanding the requirements, policies and regulations involved in the conduct of a clinical trial, it is also vital for the CRCs to have the ability to apply the theoretical concepts to real-life situations. Therefore, the programmes were designed with comprehensive practice-based activities, case scenarios, demonstrations and classroom discussions to reinforce the application work.
 
