@@ -2,6 +2,7 @@ collections:
   paccman:
     output: true
     order:
+      - How to Reach Us.md
       - Events.md
       - Publications.md
       - Research.md
