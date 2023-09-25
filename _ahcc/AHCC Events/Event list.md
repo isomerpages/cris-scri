@@ -34,7 +34,7 @@ third_nav_title: AHCC Events
 		</tr>
 		<tr>
 			<td>
-				<a href="">
+				<a href="/ahcc/ahcc-events/ahcc06-result-presentation/">
 			AHCC06 Result Presentation
 			</a></td>
 			<td>
