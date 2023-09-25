@@ -8,9 +8,8 @@ third_nav_title: AHCC Events
 <img src="/images/AHCC%20Trials%20Group/AHCC%20Events/3-1-283x300.jpg" style="width:300px">
 
 
-### **AHCC Trials Group Scientific Forum  
+### AHCC Trials Group Scientific Forum  
   
-**
 
 The Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group held its first ever Scientific Forum at National Cancer Centre Singapore on 31st October 2014. This forum was open to the general public and more than 90 participants from 12 countries took part in this event. There was a good line-up of scientific and clinical speakers who shared their extensive research and clinical experience with HCC.
 
@@ -24,7 +23,7 @@ The scientific forum ended with a lunch reception for all participants.
 
 ### AHCC Trials Group General Meeting
 
-![2](https://www.scri.edu.sg/wp-content/uploads/2016/04/2-1.jpg)
+![](/images/AHCC%20Trials%20Group/AHCC%20Events/2-1-event.jpg)
 
 The AHCC Trials Group also achieved another milestone by organizing its 6th General Meeting on 31st October 2014 at DUKE-NUS Graduate Medical School Singapore. The General Meeting commenced after the AHCC Trials Group Scientific Forum and more than 25 participants from Australia, Indonesia, Malaysia, Myanmar, Mongolia, Philippines, South Korea, Singapore and Taiwan took part in this event. The meeting was attended by both AHCC06 Investigators and other members of the AHCC Trials Group.
 
