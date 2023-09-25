@@ -2,6 +2,7 @@ collections:
   ahcc:
     output: true
     order:
+      - AHCC Events/5th AHCC Trials Group General Meeting 2010.md
       - AHCC Events/Singapore General Hospital and Sirtex Medical Limited Signs
         Sponsorship Agreement for AHCC06 Trial.md
       - "AHCC Events/Press Conference at National Cancer Centre Singapore:
