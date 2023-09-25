@@ -4,6 +4,8 @@ permalink: /ahcc/ahcc-events/ahcc06-1st-interim-analysis-2013/
 description: ""
 third_nav_title: AHCC Events
 ---
+![](/images/AHCC%20Trials%20Group/AHCC%20Events/1_-image.jpg)
+
 The AHCC06 trial had its scheduled first Interim Analysis on 22 May 2013 and we are pleased to share that the Data Safety and Monitoring Board (DSMB) found the trial to be on track with no safety issues. A DSMB is an independent group of experts who monitor safety of patients and treatment efficacy data while a clinical trial is ongoing.  
   
 The board comprised of Dr Thomas Leung (Chairman), Prof David Machin and Prof Bruno Sangro. The DSMB met in Singapore, with Prof Bruno participating via videoconferencing. The DSMB found the overall conduct of the trial to be good and recommended that the trial to continue in its present form.
