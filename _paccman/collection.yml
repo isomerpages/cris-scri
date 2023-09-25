@@ -2,8 +2,8 @@ collections:
   paccman:
     output: true
     order:
-      - Members.md
       - About PACCMAN.md
+      - Members.md
       - Research.md
       - Publications.md
       - Events.md
