@@ -1,5 +1,5 @@
 collections:
-  asian-pibd-research-network:
+  pibd:
     output: true
     order:
       - About Asian PIBD Research Network.md
