@@ -41,7 +41,7 @@ Online
 		</tr>
 		<tr>
 			<td style="width:33%">
-				<img src="/images/DRAGoN%20Asian%20Genetics%20Network/Events/yo-rtd.jpg"><b>IDEAL Young Oncologist Round-Table Discussion</b><br>September 2022 (Online) &amp; Dec 2022 (Singapore)
+				<img src="/images/DRAGoN%20Asian%20Genetics%20Network/Events/ffed9efb-7d60-4444-a9bf-8d0c351ae04c.jpeg"><b>1st ATORG Scientific Forum</b><br>18 August 2017<br>Singapore
 			</td>
 		</tr>
 	</tbody>
