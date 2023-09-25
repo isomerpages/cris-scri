@@ -2,6 +2,8 @@ collections:
   ahcc:
     output: true
     order:
+      - AHCC Events/AHCC Trials Group 4th Symposium of the Singapore Liver
+        Cancer Consortium (SLCC) – 26 March 2022.md
       - AHCC Events/Event list.md
       - AHCC Events/.keep
       - About AHCC.md
