@@ -2,5 +2,6 @@ collections:
   paccman:
     output: true
     order:
+      - Research.md
       - Members.md
       - About PACCMAN.md
