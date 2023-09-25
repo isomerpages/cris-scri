@@ -2,6 +2,7 @@ collections:
   ahcc:
     output: true
     order:
+      - AHCC Events/AHCC06 1st Interim Analysis 2013.md
       - AHCC Events/AHCC06 2nd Interim Analysis 2014.md
       - AHCC Events/Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group
         Scientific Forum and General Meeting.md
