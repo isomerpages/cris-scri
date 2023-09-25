@@ -2,6 +2,7 @@ collections:
   paccman:
     output: true
     order:
+      - Events.md
       - Publications.md
       - Research.md
       - Members.md
