@@ -31,4 +31,4 @@ In addition to the structured training programmes, SCRI Academy also provides ot
 
 **Distinguished Contributor Award for CRCs**
 
-The Distinguished Contributor Award for CRCs is given by SCRI Academy to recognize the contributions of outstanding CRCs and their significant contributions to the profession and community in Singapore. The award includes a professional development grant to enable the CRC awardee to further enhance his/her skillsets as a CRC. Click [here](https://www.scri.edu.sg/distinguished-contributor-award-for-clinical-research-coordinators-2021/) for more details.
+The Distinguished Contributor Award for CRCs is given by SCRI Academy to recognize the contributions of outstanding CRCs and their significant contributions to the profession and community in Singapore. The award includes a professional development grant to enable the CRC awardee to further enhance his/her skillsets as a CRC. Click [here](/news-and-events/news/distinguished-contributor-award-for-clinical-research-coordinators/) for more details.
