@@ -23,4 +23,4 @@ The MCTA is a live document that can be downloaded in editable form. Users can u
 
 If you have any questions or if you would like to provide feedback about the MCTA, please email [contact@scri.cris.sg](mailto:contact@scri.cris.sg). Our team will be on hand to address any queries.
 
-[Download Master Clinical Trial Agreement](https://www.scri.edu.sg/?smd_process_download=1&download_id=8517)
+[Download Master Clinical Trial Agreement](/files/mcta-v2-final.pdf)
