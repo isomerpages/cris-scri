@@ -4,7 +4,7 @@ permalink: /ahcc/ahcc-events/ahcc06-result-presentation/
 description: ""
 third_nav_title: AHCC Events
 ---
-<img src="/images/AHCC%20Trials%20Group/AHCC%20Events/4-1-283x300.jpg">
+<img src="/images/AHCC%20Trials%20Group/AHCC%20Events/4-1-283x300.jpg" style="width:300px">
 
 **AHCC06 Phase III Multi-Centre Open-Label Randomized Controlled Trial of Selective Internal Radiation Therapy (SIRT) Versus Sorafenib in Locally Advanced Hepatocellular Carcinoma (NCT01135056)**
 
