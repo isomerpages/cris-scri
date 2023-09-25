@@ -2,4 +2,5 @@ collections:
   paccman:
     output: true
     order:
+      - Members.md
       - About PACCMAN.md
