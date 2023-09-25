@@ -1,5 +1,5 @@
 collections:
-  ahcc-trials-group:
+  ahcc:
     output: true
     order:
       - About AHCC.md
