@@ -2,6 +2,8 @@ collections:
   ahcc:
     output: true
     order:
+      - AHCC Events/Asia Pacific Hepatocellular Carcinoma (AHCC) Trials Group
+        Scientific Forum and General Meeting.md
       - AHCC Events/AHCC06 Result Presentation.md
       - AHCC Events/AHCC Trials Group 3rd Symposium of the Singapore Liver
         Cancer Consortium (SLCC) – 3 May 2019.md
