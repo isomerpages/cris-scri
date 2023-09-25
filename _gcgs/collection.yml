@@ -2,6 +2,7 @@ collections:
   gcgs:
     output: true
     order:
+      - Events & Courses.md
       - About GCGS.md
       - Members.md
       - Research.md
