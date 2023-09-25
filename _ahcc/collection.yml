@@ -2,6 +2,8 @@ collections:
   ahcc:
     output: true
     order:
+      - "AHCC Events/Press Conference at National Cancer Centre Singapore:
+        Announcing the Launch of AHCC06 Trial.md"
       - AHCC Events/AHCC06 Investigator Meeting.md
       - AHCC Events/.keep
       - AHCC Events/Event list.md
