@@ -2,6 +2,8 @@ collections:
   paros:
     output: true
     order:
+      - About PAROS.md
+      - Research.md
       - Members/.keep
       - Members/Members.md
       - Members/EXCO Members of PAROS CRN 2022 to 2025.md
@@ -9,5 +11,3 @@ collections:
       - Members/EXCO Members of PAROS CRN 2016 to 2019.md
       - Members/EXCO Members of PAROS CRN 2013 to 2016.md
       - Members/EXCO Members of PAROS CRN 2010 to 2013.md
-      - Research.md
-      - About PAROS.md
