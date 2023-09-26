@@ -4,7 +4,7 @@ permalink: /paros/members/exco-members-of-paros-crn-2013-2016/
 description: ""
 third_nav_title: Members
 ---
-<table class="tb-1">
+<table>
    <thead>
       <tr>
          <th><span style="font-weight: normal;">&nbsp;</span></th>
