@@ -25,7 +25,7 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="/files/AHCC/AHCC%20News/grant-lhzb-14jun-p7.pdf">
+				 <a target="_blank" href="/files/AHCC/AHCC%20News/2022/grant-lhzb-14jun-p7.pdf">
 				 Singapore dedicates $25m to research aimed at improving liver cancer treatment.
 				 </a>
 			 </td>
@@ -35,7 +35,7 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a href="https://www.straitstimes.com/singapore/health/spore-dedicates-25m-to-liver-cancer-research-to-find-targeted-treatments">
+				 <a href="files/AHCC/AHCC%20News/2022/grant-tm-14jun-p2.pdf">
 				 Singapore dedicates $25m to liver cancer research.
 				 </a>
 			 </td>
@@ -55,3 +55,4 @@ description: ""
 		 </tr>
    </tbody>
 </table>
+
