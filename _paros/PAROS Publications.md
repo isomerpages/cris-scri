@@ -38,4 +38,3 @@ Study lead has to complete and publish the study: 1.**Within 2 years**&nbsp;from
 Study Proposals
 ---------------
 
-
