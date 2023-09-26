@@ -2,6 +2,7 @@ collections:
   paros:
     output: true
     order:
+      - Members/Members.md
       - Members/.keep
       - Research.md
       - About PAROS.md
