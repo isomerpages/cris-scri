@@ -88,4 +88,4 @@ This aims to identify genetic risk alleles that may be important in disease susc
 
 **Please refer to our protocol for more detailed aims and methods**
 
-Please click&nbsp;[here](https://www.scri.edu.sg/wp-content/uploads/2021/01/DRAGoN-Protocol-OV-Nov20_v14GC-1.pdf)&nbsp;for the protocol.
+Please click&nbsp;[here](/files/DRAGoN/dragon-protocol-ov-nov20_v14gc-1.pdf)&nbsp;for the protocol.
