@@ -28,7 +28,7 @@ The Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CR
 
 #### Update
 
-A paper entitled "Pan-Asian Resuscitation Outcomes Study (PAROS): Rationale, Methodology and Implementation" can be found [here](https://www.scri.edu.sg/wp-content/uploads/2016/06/Pan-Asian-Resuscitation-Outcomes-Study-PAROS_rationale-methodology-and-implementation.pdf).
+A paper entitled "Pan-Asian Resuscitation Outcomes Study (PAROS): Rationale, Methodology and Implementation" can be found [here](/files/PAROS/Research/pan-asian-resuscitation-outcomes-study-paros_rationale-methodology-and-implementation.pdf).
 
 **_Ongoing Research: Comparison of Emergency Medical Service Systems of Pan-Asian Countries_**
 ----------------------------------------------------------------------------------------------
@@ -64,5 +64,5 @@ Updates on the following studies will be provided when available.
 11.  Re-exploration of EMS Response Time to the Survival of OHCAs in Asia,
 12.  Does Advanced Airway Benefit the EMT-Resucitated OHCAs?
 13.  Non-Cardiac OHCAs in PAROS,
-14.  Outcomes from Manual vs Mechanical Chest Compressions at the Emergency Department Setting for OHCA - A Pan-Asian Perspective (A systematic review published at the Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine can be found [here](http://www.sjtrem.com/content/pdf/1757-7241-20-39.pdf).),
+14.  Outcomes from Manual vs Mechanical Chest Compressions at the Emergency Department Setting for OHCA - A Pan-Asian Perspective (A systematic review published at the Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine can be found [here](/files/PAROS/Research/1757-7241-20-39.pdf),
 15.  Asia EMS Survey on Ambulance Design and Safety Specifications
