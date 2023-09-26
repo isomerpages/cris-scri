@@ -4,7 +4,7 @@ permalink: /paccman/research/
 description: ""
 ---
 ### **New research&nbsp;ideas**
-
+[](/files/PACCMAN/Research/pardsproasia-daily-lpmv-check.pdf)[](/files/PACCMAN/Research/pardsproasia-daily-screening-workflow.pdf)[](/files/PACCMAN/Research/pardsproasia-screening-and-enrolment-log.pdf)
 If you have any research ideas that you would like to proposed to the team, please complete the&nbsp;[form](https://www.scri.edu.sg/wp-content/uploads/2020/03/PACCMAN-Study-Proposal-Form_2020.docx)&nbsp;and email it to Patricia Tay at&nbsp;[patricia.tay@scri.cris.sg](mailto:patricia.tay@scri.edu.sg). Please use this PowerPoint&nbsp;[template](https://www.scri.edu.sg/wp-content/uploads/2019/04/New-Study-Proposal-PPT-Template_PACCMAN_2019.pptx)&nbsp;for your proposal presentation at the annual PACCMAN Meeting.
 
 ### **On-going research**
@@ -23,11 +23,11 @@ _Study Documents:_
 
 **For PARDSProAsia I**&nbsp;\--
 
-[PARDSProAsia daily screening workflow](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-daily-screening-workflow.pdf)
+[PARDSProAsia daily screening workflow](/files/PACCMAN/Research/pardsproasia-daily-screening-workflow.pdf)
 
-[PARDSProAsia screening and enrolment log](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-screening-and-enrolment-log.pdf)
+[PARDSProAsia screening and enrolment log](/files/PACCMAN/Research/pardsproasia-screening-and-enrolment-log.pdf)
 
-[PARDSProAsia daily LPMV check](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-daily-LPMV-check.pdf)
+[PARDSProAsia daily LPMV check](/files/PACCMAN/Research/pardsproasia-daily-lpmv-check.pdf)
 
 **For PARDSProAsia II**&nbsp;\--
 
