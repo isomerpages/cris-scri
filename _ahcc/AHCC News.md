@@ -45,8 +45,8 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a href="https://www.straitstimes.com/singapore/health/spore-dedicates-25m-to-liver-cancer-research-to-find-targeted-treatments">
-				 $25m grant to find best ways to treat liver cancer.
+				 <a href="https://www.uweekly.sg/issue/129891">
+				 改进检验法肝癌早发现
 				 </a>
 			 </td>
 			 <td>
@@ -55,4 +55,3 @@ description: ""
 		 </tr>
    </tbody>
 </table>
-
