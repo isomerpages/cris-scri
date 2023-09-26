@@ -127,5 +127,65 @@ description: ""
 				 03 May 2022
 			 </td>
 		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.news-medical.net/news/20210503/New-study-launched-to-more-accurately-diagnose-early-hepatocellular-carcinoma.aspx">
+				 New study launched to more accurately diagnose early hepatocellular carcinoma  
+				 </a>
+			 </td>
+			 <td>
+				 03 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.eurekalert.org/news-releases/673309">
+				 Landmark study launched to detect liver cancer early in Singapore  
+				 </a>
+			 </td>
+			 <td>
+				 03 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.8world.com/singapore/liver-cancer-study-1465611">
+				 国立癌症中心研究 利用人工智能预测人们患癌风险  
+				 </a>
+			 </td>
+			 <td>
+				 03 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://preventhealthproblems.com/prevent-health-problems/landmark-study-launched-to-detect-liver-cancer-early-in-singapore/">
+				 Landmark study launched to detect liver cancer early in Singapore  
+				 </a>
+			 </td>
+			 <td>
+				 03 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.nccs.com.sg/patient-care/Pages/pulling-back-the-curtain-on-research-trials.aspx">
+				 Pulling back the curtain on research trials 
+				 </a>
+			 </td>
+			 <td>
+				 30 June 2021
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="/files/AHCC/AHCC%20News/asco-gi-id-229-c5.pdf">
+				 Differences in Presentation and Management Patterns in Patients with Hepatocellular Carcinoma (HCC): Data from HCC Registry in Asia  
+				 </a>
+			 </td>
+			 <td>
+				 14 jan 2019
+			 </td>
+		 </tr>
    </tbody>
 </table>
