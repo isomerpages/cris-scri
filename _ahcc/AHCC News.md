@@ -75,7 +75,7 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
+				 <a target="_blank" href="https://www.oncoshot.com/blog/f6a1c9507a1d491d87c98c6768441d5b">
 				 Prof Pierce Chow: ELEGANCE study explores cutting-edge methods to detect liver cancer early and more accurately 
 				 </a>
 			 </td>
@@ -85,12 +85,46 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
+				 <a target="_blank" href="https://www.biospectrumasia.com/news/98/18137/singapore-conducts-landmark-study-for-early-detection-of-liver-cancer.html">
 				 Singapore conducts landmark study for early detection of liver cancer
 				 </a>
 			 </td>
 			 <td>
 				 06 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.zaobao.com.sg/news/singapore/story20210505-1144327">
+				 跨机构四年肝癌研究招募2000高风险患者参与 
+				 </a>
+			 </td>
+			 <td>
+				 05 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.perspectum.com/our-company/news/perspectum-partners-in-a-new-study-in-singapore-for-the-early-detection-of-liver-cancer-using-precision-medicine/">
+				 Perspectum Partners in a New Study in Singapore for the Early Detection of Liver Cancer using Precision Medicine 
+				 </a>
+			 </td>
+			 <td>
+				 04 May 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.nccs.com.sg/news/research/landmark-study-launched-to-detect-liver-cancer-early-in-singapore">
+				 LANDMARK OBSERVATIONAL STUDY TO DETECT LIVER CANCER EARLY LAUNCHED IN SINGAPORE 
+				 </a>
+				 <br>
+				 <a target="_blank" href="https://www.ntu.edu.sg/medicine/news-events/news/detail/landmark-study-launched-to-detect-liver-cancer-early-in-singapore">
+				 LANDMARK STUDY LAUNCHED TO DETECT LIVER CANCER EARLY IN SINGAPORE
+				 </a>
+			 </td>
+			 <td>
+				 03 May 2022
 			 </td>
 		 </tr>
    </tbody>
