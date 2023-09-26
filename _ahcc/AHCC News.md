@@ -35,7 +35,7 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a href="files/AHCC/AHCC%20News/2022/grant-tm-14jun-p2.pdf">
+				 <a target="_blank" href="files/AHCC/AHCC%20News/2022/grant-tm-14jun-p2.pdf">
 				 Singapore dedicates $25m to liver cancer research.
 				 </a>
 			 </td>
@@ -45,7 +45,47 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a href="https://www.uweekly.sg/issue/129891">
+				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
+				 改进检验法肝癌早发现
+				 </a>
+			 </td>
+			 <td>
+				 08 Jan 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.straitstimes.com/singapore/moms-death-from-liver-cancer-spurs-her-to-take-charge-of-health-join-liver-cancer-study">
+				 Mum’s death from liver cancer spurs woman to take charge of health  
+				 </a>
+			 </td>
+			 <td>
+				 01 Aug 2021
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.straitstimes.com/singapore/local-study-to-shore-up-defences-against-liver-cancer-deadly-but-often-detected-late">
+				 Singapore study to aid early detection of primary liver cancer 
+				 </a>
+			 </td>
+			 <td>
+				 01 Aug 2021
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
+				 改进检验法肝癌早发现
+				 </a>
+			 </td>
+			 <td>
+				 08 Jan 2022
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
 				 改进检验法肝癌早发现
 				 </a>
 			 </td>
