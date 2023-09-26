@@ -13,9 +13,9 @@ Stay Tune. To be updated.
 Past Events
 -----------
 
-1.  PACCMAN Group Meeting, 22 April 2017. Please click [here](https://www.scri.edu.sg/wp-content/uploads/2017/05/PACCMAN-Group-Meeting-22-April-2017.pdf) for the highlights.
-2.  PACCMAN 2nd Group Meeting, 9 June 2018. Please click [here](https://www.scri.edu.sg/wp-content/uploads/2018/07/PACCMAN-2nd-Group-Meeting-9-June-2018.pdf) for highlights
-3.  PACCMAN 3rd Group Meeting, 24 March 2019. Please click [here](https://www.scri.edu.sg/wp-content/uploads/2019/04/PACCMAN-2nd-Group-Meeting-24-Mar-2019.pdf) for highlights
+1.  PACCMAN Group Meeting, 22 April 2017. Please click [here](/files/PACCMAN/Events/paccman-group-meeting-22-april-2017.pdf) for the highlights.
+2.  PACCMAN 2nd Group Meeting, 9 June 2018. Please click [here](/files/PACCMAN/Events/paccman-2nd-group-meeting-9-june-2018.pdf) for highlights
+3.  PACCMAN 3rd Group Meeting, 24 March 2019. Please click [here](/files/PACCMAN/Events/paccman-2nd-group-meeting-24-mar-2019.pdf) for highlights
 4.  PACCMAN Group Meeting, 27 March 2020 via Zoom.
 5.  PACCMAN Group Meeting, 30 Oct 2020 via Zoom.
 6.  PACCMAN Group Meeting, 16 April 2021 via Zoom.
