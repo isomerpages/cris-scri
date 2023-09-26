@@ -76,7 +76,7 @@ description: ""
 		 <tr>
 			 <td>
 				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
-				 改进检验法肝癌早发现
+				 Prof Pierce Chow: ELEGANCE study explores cutting-edge methods to detect liver cancer early and more accurately 
 				 </a>
 			 </td>
 			 <td>
@@ -86,7 +86,7 @@ description: ""
 		 <tr>
 			 <td>
 				 <a target="_blank" href="https://www.uweekly.sg/issue/129891">
-				 改进检验法肝癌早发现
+				 Singapore conducts landmark study for early detection of liver cancer
 				 </a>
 			 </td>
 			 <td>
