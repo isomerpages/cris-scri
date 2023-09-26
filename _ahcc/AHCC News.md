@@ -187,5 +187,45 @@ description: ""
 				 14 jan 2019
 			 </td>
 		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://interventionalnews.com/sirvenib-abstract-published-by-asco-to-be-presented-on-4-june/">
+				 SIRveNIB abstract published by ASCO, to be presented on 4 June   
+				 </a>
+			 </td>
+			 <td>
+				 01 June 2017
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="http://www.prnewswire.com/news-releases/american-society-of-clinical-oncology-asco-publishes-abstract-of-sirvenib-an-investigator-led-asia-pacific-primary-liver-cancer-study-to-be-presented-at-asco-annual-meeting-in-chicago-4-june-2017-622973624.html">
+				 American Society of Clinical Oncology (ASCO) Publishes Abstract of SIRveNIB, an Investigator-led Asia Pacific Primary Liver Cancer Study to be Presented at ASCO Annual Meeting in Chicago, 4 June 2017   
+				 </a>
+			 </td>
+			 <td>
+				 18 May 2017
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.a-star.edu.sg/News-and-Events/News/Press-releases/ID/5409/Doctors-a-step-closer-to-giving-liver-cancer-patients-a-more-precise-treatment.aspx">
+				 Doctors a step closer to giving liver cancer patients a more precise treatment  
+				 </a>
+			 </td>
+			 <td>
+				 16 Mar 2017
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 <a target="_blank" href="https://www.straitstimes.com/singapore/chance-for-personalised-treatment-if-liver-cancer-strikes-again">
+				 Chance for personalised treatment if liver cancer strikes again  
+				 </a>
+			 </td>
+			 <td>
+				 27 Oct 2016
+			 </td>
+		 </tr>
    </tbody>
 </table>
