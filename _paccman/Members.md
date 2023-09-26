@@ -24,7 +24,7 @@ Members: Phan Huu Phuc and Judith Wong
    <li>Participating in studies conducted under the auspices of the network</li>
    <li>Contributing data to the network</li>
    <li>Proposing studies to be conducted as part of the network’s research</li>
-   <li>Agree to the network constitution which is subjected to regular review. Please click <a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2020/06/PACCMAN_Constitution-V2_23June2020.pdf">here</a> for the constitution.</li>
+   <li>Agree to the network constitution which is subjected to regular review. Please click <a rel="noopener" target="_blank" href="/files/PACCMAN/paccman_constitution-v2_23june2020.pdf">here</a> for the constitution.</li>
 </ul>
 <strong>To join PACCMAN:</strong>
 We do not have a fixed criteria to join as member. We welcome anyone who is keen to collaborate and share common goal of developing best practices to improve survival in critically ill children in Asia. Please fill up this <a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/07/PACCMAN-Member-Registration-Form_2022.docx">form</a> and send it to <a href="mailto:patricia.tay@scri.cris.sg">patricia.tay@scri.cris.sg</a> if you are interested to join PACCMAN.
