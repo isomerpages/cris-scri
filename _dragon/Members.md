@@ -5,15 +5,12 @@ description: ""
 ---
 <p><strong>Principal investigator</strong></p>
 <p>Dr Ng Kar Hui (Email: <a href="mailto:kar_hui_ng@nuhs.edu.sg">kar_hui_ng@nuhs.edu.sg</a>)</p>
-<p>&nbsp;</p>
 <p><strong><br> Co-Investigators</strong></p>
 <p>Prof Yap Hui Kim</p>
 <p>Dr Liu Desheng, Isaac</p>
-<p>&nbsp;</p>
 <p><strong><br> Research Support Staff and Database Managers</strong></p>
 <p>Ms Ng Jun Li (email: <a href="mailto:paenjl@nus.edu.sg">paenjl@nus.edu.sg</a>)</p>
 <p>Dr U Mya Than (email: <a href="mailto:mya_than@nuhs.edu.sg">mya_than@nuhs.edu.sg</a>)</p>
-<p>&nbsp;</p>
 <p><strong><br> Scientists</strong></p>
 <table>
    <tbody>
