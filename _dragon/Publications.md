@@ -5,8 +5,9 @@ description: ""
 ---
 **Poster Presentation**
 
-*   **Genetic glomerular disease in Asia: design and methods for DRAGoN (Deciphering diversities: renal asian genetics network) study**.&nbsp;_H. Ng, I.D. Liu, J.L.Ng, C.C. Khor, H.L.A. Loh, P.H. Tan, F. Schaefer, H.K. Yap_. IPNA 2016. Brazil. 20 to 24 September 2016. Please click&nbsp;[here](https://www.scri.edu.sg/wp-content/uploads/2017/09/IPNA2016_poster_submit.pdf)&nbsp;for the poster.
-*   **Mutation spectrum among Asian pediatric patients with glomerulopathy.**&nbsp;_Jun Li Ng, Isaac Desheng Liu, Mya Than, Sadaf Asim, Iftikhar Ijaz, Duc Quang Nguyen, Thi Minh Tan Nguyen, Yok Chin Yap, Caroline Eng, Syed Saimul Huque, Indra Ganesan, Puay Hoon Tan, Alwin Loh, Sonia Davila, Beata S Lipska-Zietkiewicz, Franz Schaefer, Hui Kim Yap, Kar Hui Ng._&nbsp;Venice 17-21 October 2019. Please click&nbsp;[here](https://www.scri.edu.sg/wp-content/uploads/2021/01/DRAGoN_IPNA-2019v2.pdf)&nbsp;for poster
+
+*   **Genetic glomerular disease in Asia: design and methods for DRAGoN (Deciphering diversities: renal asian genetics network) study**.&nbsp;_H. Ng, I.D. Liu, J.L.Ng, C.C. Khor, H.L.A. Loh, P.H. Tan, F. Schaefer, H.K. Yap_. IPNA 2016. Brazil. 20 to 24 September 2016. Please click&nbsp;[here](/files/DRAGoN/Publications/ipna2016_poster_submit.pdf)&nbsp;for the poster.
+*   **Mutation spectrum among Asian pediatric patients with glomerulopathy.**&nbsp;_Jun Li Ng, Isaac Desheng Liu, Mya Than, Sadaf Asim, Iftikhar Ijaz, Duc Quang Nguyen, Thi Minh Tan Nguyen, Yok Chin Yap, Caroline Eng, Syed Saimul Huque, Indra Ganesan, Puay Hoon Tan, Alwin Loh, Sonia Davila, Beata S Lipska-Zietkiewicz, Franz Schaefer, Hui Kim Yap, Kar Hui Ng._&nbsp;Venice 17-21 October 2019. Please click&nbsp;[here](/files/DRAGoN/Publications/dragon_ipna-2019v2.pdf)&nbsp;for poster
 
 **Oral Presentation**
 
