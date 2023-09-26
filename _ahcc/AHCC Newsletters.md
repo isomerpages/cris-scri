@@ -64,4 +64,3 @@ View our newsletters to discover more about the Group and its clinical trials’
       </tr>
    </tbody>
 </table>
-
