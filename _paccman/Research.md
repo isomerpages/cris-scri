@@ -4,7 +4,7 @@ permalink: /paccman/research/
 description: ""
 ---
 ### **New research&nbsp;ideas**
-[](/files/PACCMAN/Research/pardsproasia-daily-lpmv-check.pdf)[](/files/PACCMAN/Research/pardsproasia-daily-screening-workflow.pdf)[](/files/PACCMAN/Research/pardsproasia-screening-and-enrolment-log.pdf)
+
 If you have any research ideas that you would like to proposed to the team, please complete the&nbsp;[form](https://www.scri.edu.sg/wp-content/uploads/2020/03/PACCMAN-Study-Proposal-Form_2020.docx)&nbsp;and email it to Patricia Tay at&nbsp;[patricia.tay@scri.cris.sg](mailto:patricia.tay@scri.edu.sg). Please use this PowerPoint&nbsp;[template](https://www.scri.edu.sg/wp-content/uploads/2019/04/New-Study-Proposal-PPT-Template_PACCMAN_2019.pptx)&nbsp;for your proposal presentation at the annual PACCMAN Meeting.
 
 ### **On-going research**
@@ -31,19 +31,19 @@ _Study Documents:_
 
 **For PARDSProAsia II**&nbsp;\--
 
-[PARDSProAsia II slides](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-slides.pdf)
+[PARDSProAsia II slides](/files/PACCMAN/Research/pardsproasia-ii-slides.pdf)
 
-[PARDSProAsia II LPMV protocol](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-LPMV-protocol.pdf)
+[PARDSProAsia II LPMV protocol](/files/PACCMAN/Research/pardsproasia-ii-lpmv-protocol.pdf)
 
-[PARDSProAsia II database crf4](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-database-crf4.pdf)
+[PARDSProAsia II database crf4](/files/PACCMAN/Research/pardsproasia-ii-database-crf4.pdf)
 
-[PARDSProAsia II PBW\_TV chart](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-PBW_TV-chart.pdf)
+[PARDSProAsia II PBW\_TV chart](/files/PACCMAN/Research/pardsproasia-ii-pbw_tv-chart.pdf)
 
-[PARDSProAsia II Peep FiO2 table](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-Peep-FiO2-table.pdf)
+[PARDSProAsia II Peep FiO2 table](files/PACCMAN/Research/pardsproasia-ii-peep-fio2-table.pdf)
 
-[PARDSProAsia II visual reminder](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-visual-reminder.pdf)
+[PARDSProAsia II visual reminder](/files/PACCMAN/Research/pardsproasia-ii-visual-reminder.pdf)
 
-[PARDSProAsia II timeline for enrolling centers](https://www.scri.edu.sg/wp-content/uploads/2020/03/PARDSProAsia-II-timeline-for-enrolling-centers.pdf)
+[PARDSProAsia II timeline for enrolling centers](/files/PACCMAN/Research/pardsproasia-ii-timeline-for-enrolling-centers.pdf)
 
 **2\. Does 3% hypertonic saline decrease mortality and improve long-term neurological outcomes among children with traumatic brain injury?**
 
