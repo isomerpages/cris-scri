@@ -7,7 +7,7 @@ description: ""
    <tbody>
       <tr>
          <th>
-					 Name
+					 Title
 				</th>
 				<th>
 					Date
