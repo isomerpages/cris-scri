@@ -2,10 +2,6 @@ collections:
   paros:
     output: true
     order:
-      - PAROS Newsletters.md
-      - Events.md
-      - Asian Association for Emergency Medical Services.md
-      - How to Reach Us.md
       - About PAROS.md
       - Research.md
       - Members/.keep
@@ -16,4 +12,8 @@ collections:
       - Members/EXCO Members of PAROS CRN 2013 to 2016.md
       - Members/EXCO Members of PAROS CRN 2010 to 2013.md
       - PAROS Publications.md
+      - Events.md
+      - PAROS Newsletters.md
       - PAROS FAQ.md
+      - Asian Association for Emergency Medical Services.md
+      - How to Reach Us.md
