@@ -2,6 +2,7 @@ collections:
   paros:
     output: true
     order:
+      - How to Reach Us.md
       - About PAROS.md
       - Research.md
       - Members/.keep
