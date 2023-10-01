@@ -2,6 +2,7 @@ collections:
   paros:
     output: true
     order:
+      - Asian Association for Emergency Medical Services.md
       - How to Reach Us.md
       - About PAROS.md
       - Research.md
