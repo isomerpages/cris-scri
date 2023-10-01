@@ -35,3 +35,20 @@ The Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CR
 [ Volume 6, Issue 2 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/paros-dec-newsletter-2016.pdf)
 
 [ Volume 6, Issue 1 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/paros-jun-newsletter-2016.pdf)
+
+[ Volume 5, Issue 1 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/newsletter-vol-5-issue-1_aug2015.pdf)
+
+[ Volume 4, Issue 2 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/paros_newsletter_vol_4_issue_2_web.pdf)
+
+[ Volume 4, Issue 1 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/paros_vol_4_issue_1_web.pdf)
+
+[ Volume 3, Issue 2 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/newsletter_vol3_issue2_web2.pdf)
+
+[ Volume 3, Issue 1 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/newsletter_vol3_issue1_final-2.pdf)
+
+[ Volume 2, Issue 2 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/newsletter_vol2_issue2_jun-2011_final.pdf)
+
+[ Volume 2, Issue 1 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/newsletter_vol2_issue2_feb-2011_final.pdf)
+
+[ Volume 1, Issue 1 of PAROS Bulletin](/files/PAROS/PAROS%20Newsletters/newsletter_vol1_issue1_jun-2010_final.pdf)
+
