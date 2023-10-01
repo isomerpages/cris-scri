@@ -2,7 +2,6 @@ collections:
   paros:
     output: true
     order:
-      - PAROS Event Photos.md
       - About PAROS.md
       - Research.md
       - Members/.keep
