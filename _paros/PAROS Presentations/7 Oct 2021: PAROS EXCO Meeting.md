@@ -8,7 +8,7 @@ third_nav_title: PAROS Presentations
 
 [Publication Committee Updates](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/publication-committee-updates.pdf)
 
-[The Impact of COVID-19 on OHCA in Asia](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/collaboration_the-impact-of-covid-19-on-ohca-in-asia.pdf)
+[OHCA Management & Women](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/collaboration_out-of-hospital-cardiac-arrest-ohca-management-women.pdf)
 
 [The Impact of COVID-19 on OHCA in Asia](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/collaboration_the-impact-of-covid-19-on-ohca-in-asia.pdf)
 
