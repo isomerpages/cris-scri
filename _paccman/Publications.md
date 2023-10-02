@@ -43,4 +43,12 @@ _Summary:_ Lianhe Zaobao published the story that was pitched on Paediatric Acu
 
 #### **PACCMAN Newsletter**
 
-[2018 Issue](https://www.scri.edu.sg/wp-content/uploads/2018/12/PACCMAN-Newsletter-2018.pdf)[2019 Issue 1](https://www.scri.edu.sg/wp-content/uploads/2019/07/PACCMAN-Newsletter-Issue-July-2019.pdf)[2019 Issue 2](https://www.scri.edu.sg/wp-content/uploads/2019/12/PACCMAN-Newsletter-Issue-Dec-2019.pdf)[2020 Issue 1](https://www.scri.edu.sg/wp-content/uploads/2021/01/PACCMAN-Newsletter-Issue-1-2020.pdf)[2020 Issue 2](https://www.scri.edu.sg/wp-content/uploads/2021/01/PACCMAN-Newsletter-Issue-2-2020.pdf)[2021 Issue 1](https://www.scri.edu.sg/wp-content/uploads/2022/03/PACCMAN-Newsletter-Issue-1-2021.pdf)[2021 Issue 2](https://www.scri.edu.sg/wp-content/uploads/2022/03/PACCMAN-Newsletter-Issue-2-2021.pdf)[2022 Issue 1](https://www.scri.edu.sg/wp-content/uploads/2023/06/PACCMAN-Newsletter-Issue-1-2022.pdf)[2023 Issue 1](https://www.scri.edu.sg/wp-content/uploads/2023/06/PACCMAN-Newsletter-Issue-1-2023.pdf)
+[2018 Issue](/files/PACCMAN/Publications/paccman-newsletter-2018.pdf)
+[2019 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-july-2019.pdf)
+[2019 Issue 2](/files/PACCMAN/Publications/paccman-newsletter-issue-dec-2019.pdf)
+[2020 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2020.pdf)
+[2020 Issue 2](/files/PACCMAN/Publications/paccman-newsletter-issue-2-2020.pdf)
+[2021 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2021.pdf)
+[2021 Issue 2](/files/PACCMAN/Publications/paccman-newsletter-issue-2-2021.pdf)
+[2022 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2022.pdf)
+[2023 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2023.pdf)
