@@ -2,6 +2,7 @@ collections:
   paros:
     output: true
     order:
+      - PAROS Presentations.md
       - Source Documents.md
       - About PAROS.md
       - Research.md
