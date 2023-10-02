@@ -2,11 +2,6 @@ collections:
   paros:
     output: true
     order:
-      - PAROS Presentations/.keep
-      - PAROS Presentations/PAROS Presentations.md
-      - "PAROS Presentations/21 May 2022: PAROS EXCO Meeting.md"
-      - "PAROS Presentations/7 Oct 2021: PAROS EXCO Meeting.md"
-      - Source Documents.md
       - About PAROS.md
       - Research.md
       - Members/.keep
@@ -17,6 +12,11 @@ collections:
       - Members/EXCO Members of PAROS CRN 2013 to 2016.md
       - Members/EXCO Members of PAROS CRN 2010 to 2013.md
       - PAROS Publications.md
+      - Source Documents.md
+      - PAROS Presentations/.keep
+      - PAROS Presentations/PAROS Presentations.md
+      - "PAROS Presentations/21 May 2022: PAROS EXCO Meeting.md"
+      - "PAROS Presentations/7 Oct 2021: PAROS EXCO Meeting.md"
       - Events.md
       - PAROS Newsletters.md
       - PAROS FAQ.md
