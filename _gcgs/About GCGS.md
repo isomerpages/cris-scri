@@ -5,6 +5,8 @@ description: ""
 ---
 <img src="/images/GCGS%20Gynecologic%20Cancer%20Group/gccs_logo-e1520343495993.png" style="width:300px" align="left">
 
+<br><br>
+
 The **GyneCologic Cancer Group Singapore (GCGS)** is a non-profit organization formed in 2017 for the study and advancement of gynecological cancer care in Singapore and the region.
 
 The aims of the GCGS are:
