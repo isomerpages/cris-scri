@@ -44,11 +44,19 @@ _Summary:_ Lianhe Zaobao published the story that was pitched on Paediatric Acu
 #### **PACCMAN Newsletter**
 
 [2018 Issue](/files/PACCMAN/Publications/paccman-newsletter-2018.pdf)
+
 [2019 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-july-2019.pdf)
+
 [2019 Issue 2](/files/PACCMAN/Publications/paccman-newsletter-issue-dec-2019.pdf)
+
 [2020 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2020.pdf)
+
 [2020 Issue 2](/files/PACCMAN/Publications/paccman-newsletter-issue-2-2020.pdf)
+
 [2021 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2021.pdf)
+
 [2021 Issue 2](/files/PACCMAN/Publications/paccman-newsletter-issue-2-2021.pdf)
+
 [2022 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2022.pdf)
+
 [2023 Issue 1](/files/PACCMAN/Publications/paccman-newsletter-issue-1-2023.pdf)
