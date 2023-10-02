@@ -28,6 +28,9 @@ In addition to the structured training programmes, SCRI Academy also provides ot
 
 *   **CRC Lunch Workshop (free)**&nbsp;To ensure the CRCs stay abreast of the latest updates and trends in clinical research ecosystem, speakers from the regulatory, public healthcare institutes and commercial multinational corporations were invited to share about various aspects of clinical trial management and their best practices with the CRCs. This light-hearted annual lunch workshop provides an opportunity for the CRCs from different public healthcare institutes to mingle, network and gain deeper insights on industry best practices.
 
+
+
+
 <table>
 	<tbody>
 		<tr>
