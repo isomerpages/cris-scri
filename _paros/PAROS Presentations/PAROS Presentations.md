@@ -19,6 +19,6 @@ PAROS CRN places a strong focus on education and research. At PAROS CRN events, 
 		2021
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">21 May 2022: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
 	</dd>
 </dl>
