@@ -4,3 +4,12 @@ permalink: /paros/paros-presentations/7-oct-2021-paros-exco-meeting/
 description: ""
 third_nav_title: PAROS Presentations
 ---
+[EXCO Meeting Agenda](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/exco-meeting-agenda.pdf)
+
+[Publication Committee Updates](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/publication-committee-updates.pdf)
+
+[The Impact of COVID-19 on OHCA in Asia](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/collaboration_the-impact-of-covid-19-on-ohca-in-asia.pdf)
+
+[The Impact of COVID-19 on OHCA in Asia](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/collaboration_the-impact-of-covid-19-on-ohca-in-asia.pdf)
+
+[GRA 10 Steps Study Updates](https://www.scri.edu.sg/wp-content/uploads/2022/03/Collaboration_The-impact-of-COVID-19-on-OHCA-in-Asia.pdf)
