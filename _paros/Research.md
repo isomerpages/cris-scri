@@ -2,6 +2,7 @@
 title: Research
 permalink: /paros/research/
 description: ""
+variant: markdown
 ---
 #### Studies under PAROS CRN
 
@@ -41,7 +42,7 @@ Spearheaded by Dr Sang Do Shin from Seoul (Co- Chair of PAROS), there is now a c
 
 #### Methods
 
-A survey in the form of a questionnaire will be conducted across the Network. The variables can be found [here](https://www.scri.edu.sg/wp-content/uploads/2016/03/6_EMS_your_project_variables.pdf).
+A survey in the form of a questionnaire will be conducted across the Network. The variables can be found [here](/files/PAROS/Research/6_ems_your_project_variables.pdf).
 
 #### Update
 
