@@ -2,6 +2,7 @@
 title: Members
 permalink: /paccman/members/
 description: ""
+variant: markdown
 ---
 <h4><strong>PACCMAN Committee </strong>(comprises of Executive and Scientific Committee)<span id="more-3494"></span></h4>
 <ul>
@@ -27,7 +28,7 @@ Members: Phan Huu Phuc and Judith Wong
    <li>Agree to the network constitution which is subjected to regular review. Please click <a rel="noopener" target="_blank" href="/files/PACCMAN/paccman_constitution-v2_23june2020.pdf">here</a> for the constitution.</li>
 </ul>
 <strong>To join PACCMAN:</strong>
-We do not have a fixed criteria to join as member. We welcome anyone who is keen to collaborate and share common goal of developing best practices to improve survival in critically ill children in Asia. Please fill up this <a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/07/PACCMAN-Member-Registration-Form_2022.docx">form</a> and send it to <a href="mailto:patricia.tay@scri.cris.sg">patricia.tay@scri.cris.sg</a> if you are interested to join PACCMAN.
+We do not have a fixed criteria to join as member. We welcome anyone who is keen to collaborate and share common goal of developing best practices to improve survival in critically ill children in Asia. Please fill up this <a rel="noopener" target="_blank" href="/files/PACCMAN/paccman-member-registration-form_2022.pdf">form</a> and send it to <a href="mailto:patricia.tay@scri.cris.sg">patricia.tay@scri.cris.sg</a> if you are interested to join PACCMAN.
 <h4><strong>Current Members:</strong></h4>
 <table style="border-color: #000000;">
    <tbody>
