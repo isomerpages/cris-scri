@@ -2,10 +2,11 @@
 title: Research
 permalink: /paccman/research/
 description: ""
+variant: markdown
 ---
 ### **New research&nbsp;ideas**
 
-If you have any research ideas that you would like to proposed to the team, please complete the&nbsp;[form](https://www.scri.edu.sg/wp-content/uploads/2020/03/PACCMAN-Study-Proposal-Form_2020.docx)&nbsp;and email it to Patricia Tay at&nbsp;[patricia.tay@scri.cris.sg](mailto:patricia.tay@scri.edu.sg). Please use this PowerPoint&nbsp;[template](https://www.scri.edu.sg/wp-content/uploads/2019/04/New-Study-Proposal-PPT-Template_PACCMAN_2019.pptx)&nbsp;for your proposal presentation at the annual PACCMAN Meeting.
+If you have any research ideas that you would like to proposed to the team, please complete the&nbsp;[form](/files/PACCMAN/Research/paccman-study-proposal-form_2020.pdf)&nbsp;and email it to Patricia Tay at&nbsp;[patricia.tay@scri.cris.sg](mailto:patricia.tay@scri.edu.sg). Please use this PowerPoint&nbsp;[template](/files/PACCMAN/Research/new-study-proposal-ppt-template_paccman_2019.pdf)&nbsp;for your proposal presentation at the annual PACCMAN Meeting.
 
 ### **On-going research**
 
