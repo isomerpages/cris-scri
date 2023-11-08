@@ -26,7 +26,7 @@ PAROS EXCO approval. Please submit your research ideas to the PAROS secretariat 
 
 <img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-proposal-submission-process-300x221.png" align="left" style="width:300px">
 
-Note: Please use this&nbsp;[form](/files/PAROS/new-study-proposal-template_2020.pdf)&nbsp;for submission
+Note: Please use this&nbsp;[form](/files/PAROS/Publications/new-study-proposal-template_2020.pdf)&nbsp;for submission
 
 <br><br><br>
 
@@ -38,3 +38,5 @@ Study lead has to complete and publish the study: 1.**Within 2 years**&nbsp;from
 
 Study Proposals
 ---------------
+
+[](/files/PAROS/Publications/study_abstract_regional_variation_of_witnessed_vf_ohca-2.pdf)
