@@ -3,6 +3,7 @@ title: Members
 permalink: /paros/members/members/
 description: ""
 third_nav_title: Members
+variant: markdown
 ---
 ### Members of PAROS CRN
 
@@ -26,4 +27,4 @@ As a guest of PAROS CRN, you will be invited to all PAROS open events and will b
 
 ### Becoming One of Us
 
-As a progressive network, PAROS CRN is constantly looking for opportunities to grow. If you would like to be part of the Network, either as a General Member or Guest, you are most welcome to register with us by filling out our registration form [here](https://www.scri.edu.sg/wp-content/uploads/2021/01/PAROS_Copy-of-Forms_Registration_2020.xls).
+As a progressive network, PAROS CRN is constantly looking for opportunities to grow. If you would like to be part of the Network, either as a General Member or Guest, you are most welcome to register with us by filling out our registration form [here](/files/PAROS/Members/paros_copy-of-forms_registration_2020.pdf).
