@@ -2,6 +2,7 @@
 title: PAROS Publications
 permalink: /paros/paros-publications/
 description: ""
+variant: markdown
 ---
 **PAROS CRN Publications Committees and Publications of Studies**
 -----------------------------------------------------------------
@@ -25,7 +26,7 @@ PAROS EXCO approval. Please submit your research ideas to the PAROS secretariat 
 
 <img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-proposal-submission-process-300x221.png" align="left" style="width:300px">
 
-Note: Please use this&nbsp;[form](https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal-Template_2020.doc)&nbsp;for submission
+Note: Please use this&nbsp;[form](/files/PAROS/new-study-proposal-template_2020.pdf)&nbsp;for submission
 
 <br><br>
 
@@ -37,4 +38,3 @@ Study lead has to complete and publish the study: 1.**Within 2 years**&nbsp;from
 
 Study Proposals
 ---------------
-
