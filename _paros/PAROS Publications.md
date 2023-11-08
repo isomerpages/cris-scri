@@ -40,5 +40,49 @@ Study lead has to complete and publish the study: 1.**Within 2 years**&nbsp;from
 
 Study Proposals
 ---------------
-
-[](/files/PAROS/Publications/study_abstract_regional_variation_of_witnessed_vf_ohca-2.pdf)
+<table>
+   <tbody>
+      <tr>
+         <td><a href="#">Paediatric OHCA Resuscitation Outcome (Tham Lai Peng)</a></td>
+      </tr>
+      <tr>
+         <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications/study_abstract_regional_variation_of_witnessed_vf_ohca-2.pdf">Regional Variation in Outcomes of Witnessed VF OHCA in Asia (Dr Tatsuya Nishiuchi)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Characteristics and Outcomes of Young Adults who suffered an Out-of-Hospital Cardiac Arrest (Michael Chia)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Time Interval between Collapse and Return of Spontaneous Circulation between Various Outcomes in Out-of-Hospital Cardiac Arrest (Sumitro)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Supraglottic Airways and Endotracheal Intubation (Kentaro Kajino)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Model derivation and validation to explore relationship between presenting rhythm, subsequent shockable rhythm, response time and survival outcomes (Marcus Ong)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Relationship between bystander CPR and ventricular fibrillation (VF) as presenting rhythm for out-of-hospital cardiac arrest (OHCA) patients (Marcus Ong)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Associations between Gender and Cardiac Arrest Outcomes in Pan-Asian OHCA Patients (Ander Zhou)</a></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.scri.edu.sg/wp-content/uploads/2016/11/Proposal-_Barriers-to-DACPR_Marcus.pdf">Barriers to Dispatcher-Assisted Cardiopulmonary Resuscitation (DA-CPR)&nbsp;(Marcus Ong)</a></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.scri.edu.sg/wp-content/uploads/2016/11/Proposal_RA-10Steps-in-PAROS_Marcus.pdf">Resuscitation Academy (RA) 10-Step Implementations in the Pan-Asian Resuscitation Outcomes Study (PAROS) group&nbsp;(Marcus Ong)</a></td>
+      </tr>
+      <tr>
+         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2017/01/Study-Proposal-Request-Form_Epi_OHCA_DevMO_Hara_Marcus.doc">Epidemiology of OHCA between developing and developed countries (Takahiro Hara)</a></td>
+      </tr>
+      <tr>
+         <td><a href="#">Association of outcomes and resuscitation efforts amongst &nbsp;OHCA occuring at night in the Asia Pacific - A prospective observational study (Andrew Ho)</a></td>
+      </tr>
+      <tr>
+         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2017/09/Tagami-Study-Proposal-PCI.pdf">Percutaneous coronary intervention provision and outcomes among cardiogenic out of hospital cardiac arrest in Asian countries (Takashi Tagami)</a></td>
+      </tr>
+      <tr>
+         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2017/09/Tagami-Study-Proposal-elderly-OHCA.pdf">Treatments and outcomes among elderly patients with out-of-hospital cardiac arrest in Asian countries (Takashi&nbsp;Tagami)</a></td>
+      </tr>
+   </tbody>
+</table>
