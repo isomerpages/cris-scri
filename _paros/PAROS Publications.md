@@ -28,7 +28,7 @@ PAROS EXCO approval. Please submit your research ideas to the PAROS secretariat 
 
 Note: Please use this&nbsp;[form](/files/PAROS/new-study-proposal-template_2020.pdf)&nbsp;for submission
 
-<br><br>
+<br><br><br>
 
 
 ## Study Timeline
