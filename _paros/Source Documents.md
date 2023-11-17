@@ -6,7 +6,8 @@ variant: markdown
 ---
 
 
-[](/files/PAROS/SD%20%20%20General/1_Constitution_of_PAROS_EXCO_with_definition_of_terms_7May10_Final.pdf)<h1><strong>Source Documents</strong></h1>
+
+<h1><strong>Source Documents</strong></h1>
 <div>
 <p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
 <h3>General</h3>
@@ -42,10 +43,10 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/06/IRB-Master-Template-PAROS_protocol_ver2.0_16Nov10.pdf">IRB Master Template (Version 2.0)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20IRB%20Related%20Documents/IRB_Master_Template_PAROS_protocol_ver2_0_16Nov10.pdf">IRB Master Template (Version 2.0)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_IRB-Register.xls">IRB Register</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20IRB%20Related%20Documents/2_IRB_Register.pdf">IRB Register</a></td>
       </tr>
    </tbody>
 </table>
