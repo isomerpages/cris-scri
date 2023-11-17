@@ -50,32 +50,32 @@ variant: markdown
       </tr>
    </tbody>
 </table>
+	
+[](/)
+[]()
 <h3>Data-related Documents</h3>
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_PAROS-Case-Report-Form.doc">PAROS Case Report Form (CRF) (version: 2.0, word format)</a></td>
+         <td><a target="_blank" href="files/PAROS/SD%20%20%20Data%20Related%20Documents/1_PAROS_Case_Report_Form.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_PAROS_Merged_Form7.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/3_PAROS_DataDictionary_taxonomy_10.pdf">PAROS Data Dictionary/Taxonomy (version 2.0)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_PAROS_DataDictionary_taxonomy_10.pdf">PAROS Data Dictionary/Taxonomy (version 2.0)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/4_PAROS_Core_Data_Variables_List.pdf">PAROS Core Data Variables List (version: 10 Nov 2010)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/4_PAROS-Core-Data-Variables-List.doc">PAROS Core Data Variables List (version: 10 Nov 2010)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/5_PAROS_Data_Agreement.pdf">PAROS Data Agreement (version: 10 Nov 2010)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_PAROS-Data-Agreement.doc">PAROS Data Agreement (version: 10 Nov 2010)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/6_PAROS_Study_Log.pdf">PAROS Study Log (to be maintained by each site)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/6_PAROS-Study-Log.xls">PAROS Study Log (to be maintained by each site)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/7_PAROS_Data_Quality_Assurance_Plan.pdf">PAROS Data Quality Assurance Plan</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/7_PAROS-Data-Quality-Assurance-Plan.pdf">PAROS Data Quality Assurance Plan</a></td>
-      </tr>
-      <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/8_PAROS-Data-Quality-Assurance-Log.xls">PAROS Data Quality Assurance Log (Annex A of DQA Plan)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/8_PAROS_Data_Quality_Assurance_Log.pdf">PAROS Data Quality Assurance Log (Annex A of DQA Plan)</a></td>
       </tr>
    </tbody>
 </table><h3>Guidebooks</h3>
