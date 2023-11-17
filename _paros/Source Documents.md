@@ -2,7 +2,215 @@
 title: Source Documents
 permalink: /paros/source-documents/
 description: ""
+variant: markdown
 ---
-### Source Documents
-
-Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.
+ <h1><strong>Source Documents</strong></h1>
+<div>
+<p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
+<h3>General</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Constitution_of_PAROS_EXCO_with_definition_of_terms_7May10_Final.pdf">Constitution of PAROS EXCO with definition of terms</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Gudelines_on_Research_on_Human_Subjects_ver1_Final.pdf">Guidelines for Human Research Subjects</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_COEP_Approved_Jun_2010.pdf">Code of Ethical Practice for Human Biomedical Research</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/4_PAROS_Industry_Liaison_Final_Oct10.pdf">PAROS Industry Liaison Person – Updates (includes information on FCPA and HCE)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_GrandStatus-Template.doc">Grant Status Template</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_PAROS_Guidelines_for_Organising_Country_Aug_2011v3.pdf">PAROS Guidelines for Organising Countries</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/6_EMS_your_project_variables.pdf">EMS Survey Variables</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/08/PAROS-Map_13-countries.pdf">PAROS Participating Countries Map</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>IRB-related Documents</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/06/IRB-Master-Template-PAROS_protocol_ver2.0_16Nov10.pdf">IRB Master Template (Version 2.0)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_IRB-Register.xls">IRB Register</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Data-related Documents</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_PAROS-Case-Report-Form.doc">PAROS Case Report Form (CRF) (version: 2.0, word format)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_PAROS_Merged_Form7.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_PAROS_DataDictionary_taxonomy_10.pdf">PAROS Data Dictionary/Taxonomy (version 2.0)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/4_PAROS-Core-Data-Variables-List.doc">PAROS Core Data Variables List (version: 10 Nov 2010)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_PAROS-Data-Agreement.doc">PAROS Data Agreement (version: 10 Nov 2010)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/6_PAROS-Study-Log.xls">PAROS Study Log (to be maintained by each site)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/7_PAROS-Data-Quality-Assurance-Plan.pdf">PAROS Data Quality Assurance Plan</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/8_PAROS-Data-Quality-Assurance-Log.xls">PAROS Data Quality Assurance Log (Annex A of DQA Plan)</a></td>
+      </tr>
+   </tbody>
+</table><h3>Guidebooks</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="#">Implementation Guidebook (Version 1.0)</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Abstract-related Documents</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Abstract-Related-Documents.doc">Abstract Submission Form</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Study Proposal-related Documents</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal-Template_2020.doc">New Study Proposal Template</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/06/PAROS-Study-Proposal-Presentation-Template.ppt">New Study Proposal Presentation Template</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Literature Review-related Documents</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Primary-Literature-Review-Template.doc">Primary Literature Review Template – Descriptive Studies</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Primary-Literature-Review-Template.doc">Primary Literature Review Template – Studies Related to Interventions, Therapies, Prognosis, Diagnosis</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Example-of-how-to-use-a-literature-Review.pdf">Example of how to use a Literature Review Template</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/4_Example-of-how-to-generate-a-systematic-review.pdf">Example of how to generate a systematic review using a Literature Review Template</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/04/13_Use-of-antiarrhythmic-drugs-for-adult-cardiac-arrest_Ong-et-al.pdf">Example of a systematic review</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Publications Committee Documents</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/06/PAROS_New_Study_Proposals_Collated_w_comments_Singapore__Tokyo.pdf">Consolidated Study Abstracts with Comments (April 2011)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Aims_of_the_Workshop.pdf">Aims of Literature Review Workshop (11 - 12 April 2011)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Collated-Research-Questions.doc">Collated Research Questions and Contacts (April 2011)</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Dispatcher CPR Module</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/PAROS_Dispatcher-CPR-Form3.pdf">Dispatcher CPR Case Report Form_version 3</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Final-dispatch-dictionary-for-CARES-PAROS_Oct2013.pdf">Dispatcher CPR Data Dictionary (for all countries)</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dispatch-data-dictionary-for-PAROS-version-1.1_May-2018updated.pdf">Dispatcher CPR Data Dictionary (for Singapore use)_version 1.1</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Target Temperature Management Module</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Case-Record-Form.pdf">Case Record Form</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Data-Dictionary-In-Hospital-Cardiac-Arrest.pdf">Data Dictionary- In-Hospital Cardiac Arrest</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Data-Dictionary-Out-of-Hospital-Cardiac-Arrest.pdf">Data Dictionary- Out-of-Hospital Cardiac Arrest</a></td>
+      </tr>
+   </tbody>
+</table>
+<h3>Implementation Guidebook</h3>
+<table>
+   <tbody>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_IntroductionToPAROS.pdf">Introduction to PAROS</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_PAROS-Data-Dictionary.pdf">PAROS Data Dictionary</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/PAROS_Merged-Form7.pdf">PAROS_Merged Form7</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/3_ePAROS-Training-Guide_Jun18.pdf">ePAROS Training Guide_June 2018</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_Hospital-Step-by-Step-Instructions.pdf">Hospital Step by Step Instructions</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/3_PAROS-Getting-Started-Training-Guidev2.pdf">PAROS Getting Started Training Guide_Aug 2017</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/7_PAROS-Case-Search.pdf">PAROS Records Search</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/4_PAROS-Case-Number-Search.pdf">PAROS Case Number Search</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/8_Export-Data-from-ePAROS.pdf">Export data from ePAROS</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/6_Generation-of-PAROS-Utstein-Reportv2.pdf">Generation of PAROS Utstein Report_July 2018</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/5_Export-data-from-ePAROS.pdf">Export Data from ePAROS</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/5.2_Validation-errors-report.pdf">Validation Errors Report</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/10_PAROS-Data-Audit-Form-ver-1.0.pdf">PAROS Data Audit Form ver 1.0</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/11_ePAROS-FAQ.pdf">ePAROS FAQ</a></td>
+      </tr>
+      <tr>
+         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/12_PAROS-General-FAQ.pdf">PAROS General FAQ</a></td>
+      </tr>
+   </tbody>
+</table></div>
