@@ -4,35 +4,37 @@ permalink: /paros/source-documents/
 description: ""
 variant: markdown
 ---
-<h1><strong>Source Documents</strong></h1>
+
+
+[](/files/PAROS/SD%20%20%20General/1_Constitution_of_PAROS_EXCO_with_definition_of_terms_7May10_Final.pdf)<h1><strong>Source Documents</strong></h1>
 <div>
 <p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
 <h3>General</h3>
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/1_Constitution_of_PAROS_EXCO_with_definition_of_terms_7May10_Final.pdf">Constitution of PAROS EXCO with definition of terms</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/1_Constitution_of_PAROS_EXCO_with_definition_of_terms_7May10_Final.pdf">Constitution of PAROS EXCO with definition of terms</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/2_Gudelines_on_Research_on_Human_Subjects_ver1_Final.pdf">Guidelines for Human Research Subjects</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/2_Gudelines_on_Research_on_Human_Subjects_ver1_Final.pdf">Guidelines for Human Research Subjects</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/3_COEP_Approved_Jun_2010.pdf">Code of Ethical Practice for Human Biomedical Research</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/3_COEP_Approved_Jun_2010.pdf">Code of Ethical Practice for Human Biomedical Research</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/4_PAROS_Industry_Liaison_Final_Oct10.pdf">PAROS Industry Liaison Person – Updates (includes information on FCPA and HCE)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/4_PAROS_Industry_Liaison_Final_Oct10.pdf">PAROS Industry Liaison Person – Updates (includes information on FCPA and HCE)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/5_GrandStatus_Template.pdf">Grant Status Template</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/5_GrandStatus_Template.pdf">Grant Status Template</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/5_PAROS_Guidelines_for_Organising_Country_Aug_2011v3.pdf">PAROS Guidelines for Organising Countries</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/5_PAROS_Guidelines_for_Organising_Country_Aug_2011v3.pdf">PAROS Guidelines for Organising Countries</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/6_EMS_your_project_variables.pdf">EMS Survey Variables</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/6_EMS_your_project_variables.pdf">EMS Survey Variables</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/Source%20Documents/PAROS_Map_13_countries.pdf">PAROS Participating Countries Map</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD%20%20%20General/PAROS_Map_13_countries.pdf">PAROS Participating Countries Map</a></td>
       </tr>
    </tbody>
 </table>
