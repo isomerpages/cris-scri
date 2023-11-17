@@ -50,9 +50,6 @@ variant: markdown
       </tr>
    </tbody>
 </table>
-	
-[](/)
-[]()
 <h3>Data-related Documents</h3>
 <table>
    <tbody>
