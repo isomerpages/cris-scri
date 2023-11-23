@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SCRI
+agency_name: Singapore Clinical Research Institute (SCRI)
 locations:
   - address:
       - 23 Rochester Park
