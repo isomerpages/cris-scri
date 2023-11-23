@@ -6,6 +6,10 @@ links:
     collection: national-coordinating-body
   - title: Academic Research Organization
     collection: academic-research-organization
+  - title: News & Events
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
   - title: CLINICAL RESEARCH NETWORKS
     url: /clinical-research-networks/overview/
     sublinks:
@@ -23,7 +27,3 @@ links:
         url: /paccman/about-paccman/
       - title: PAROS
         url: /paros/about-paros/
-  - title: News & Events
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
