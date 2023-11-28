@@ -4,7 +4,6 @@ permalink: /paros/source-documents/
 description: ""
 variant: markdown
 ---
-
 <h1><strong>Source Documents</strong></h1>
 <div>
 <p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
@@ -152,13 +151,13 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Case-Record-Form.pdf">Case Record Form</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Target_Temperature/1_Case_Record_Form.pdf">Case Record Form</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Data-Dictionary-In-Hospital-Cardiac-Arrest.pdf">Data Dictionary- In-Hospital Cardiac Arrest</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Target_Temperature/2_Data_Dictionary_In_Hospital_Cardiac_Arrest.pdf">Data Dictionary- In-Hospital Cardiac Arrest</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Data-Dictionary-Out-of-Hospital-Cardiac-Arrest.pdf">Data Dictionary- Out-of-Hospital Cardiac Arrest</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Target_Temperature/3_Data_Dictionary_Out_of_Hospital_Cardiac_Arrest.pdf">Data Dictionary- Out-of-Hospital Cardiac Arrest</a></td>
       </tr>
    </tbody>
 </table>
