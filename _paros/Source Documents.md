@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 
-
+[]()
+[]()
 <h1><strong>Source Documents</strong></h1>
 <div>
 <p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
@@ -86,7 +87,7 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Abstract-Related-Documents.doc">Abstract Submission Form</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Abstract_Related_Documents/1_Abstract_Related_Documents.pdf">Abstract Submission Form</a></td>
       </tr>
    </tbody>
 </table>
@@ -94,10 +95,10 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal-Template_2020.doc">New Study Proposal Template</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Study_Proposal_related/New_Study_Proposal_Template_2020.pdf">New Study Proposal Template</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/06/PAROS-Study-Proposal-Presentation-Template.ppt">New Study Proposal Presentation Template</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Study_Proposal_related/PAROS_Study_Proposal_Presentation_Template.pdf">New Study Proposal Presentation Template</a></td>
       </tr>
    </tbody>
 </table>
