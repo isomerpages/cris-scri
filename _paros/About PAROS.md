@@ -2,8 +2,9 @@
 title: About PAROS
 permalink: /paros/about-paros/
 description: ""
+variant: markdown
 ---
-<img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-logo-small.png" style="width:300px" align="left">
+<img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-logo-small.png" style="width:100px" align="left">
 
 The **PAROS CRN** is a collaborative research group formed in 2010 by dedicated Pre-hospital and Emergency Care (PEC) providers conducting PEC research in the Asia-Pacific region. It promotes&nbsp;collaboration by bringing together like-minded individuals to share experiences and develop joint initiatives for the betterment of PEC.
 
