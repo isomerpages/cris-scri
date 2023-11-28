@@ -123,13 +123,13 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/06/PAROS_New_Study_Proposals_Collated_w_comments_Singapore__Tokyo.pdf">Consolidated Study Abstracts with Comments (April 2011)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Publications_Committee/PAROS_New_Study_Proposals_Collated_w_comments_Singapore__Tokyo.pdf">Consolidated Study Abstracts with Comments (April 2011)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Aims_of_the_Workshop.pdf">Aims of Literature Review Workshop (11 - 12 April 2011)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Publications_Committee/2_Aims_of_the_Workshop.pdf">Aims of Literature Review Workshop (11 - 12 April 2011)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Collated-Research-Questions.doc">Collated Research Questions and Contacts (April 2011)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Publications_Committee/3_Collated_Research_Questions.pdf">Collated Research Questions and Contacts (April 2011)</a></td>
       </tr>
    </tbody>
 </table>
