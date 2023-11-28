@@ -4,6 +4,8 @@ permalink: /paros/source-documents/
 description: ""
 variant: markdown
 ---
+
+
 <h1><strong>Source Documents</strong></h1>
 <div>
 <p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
@@ -103,19 +105,19 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Primary-Literature-Review-Template.doc">Primary Literature Review Template – Descriptive Studies</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Literature_Review_related/1_Primary_Literature_Review_Template.pdf">Primary Literature Review Template – Descriptive Studies</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Primary-Literature-Review-Template.doc">Primary Literature Review Template – Studies Related to Interventions, Therapies, Prognosis, Diagnosis</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Literature_Review_related/2_Primary_Literature_Review_Template.pdf">Primary Literature Review Template – Studies Related to Interventions, Therapies, Prognosis, Diagnosis</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Example-of-how-to-use-a-literature-Review.pdf">Example of how to use a Literature Review Template</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Literature_Review_related/3_Example_of_how_to_use_a_literature_Review.pdf">Example of how to use a Literature Review Template</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/4_Example-of-how-to-generate-a-systematic-review.pdf">Example of how to generate a systematic review using a Literature Review Template</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Literature_Review_related/4_Example_of_how_to_generate_a_systematic_review.pdf">Example of how to generate a systematic review using a Literature Review Template</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/04/13_Use-of-antiarrhythmic-drugs-for-adult-cardiac-arrest_Ong-et-al.pdf">Example of a systematic review</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Literature_Review_related/13_Use_of_antiarrhythmic_drugs_for_adult_cardiac_arrest_Ong_et_al.pdf">Example of a systematic review</a></td>
       </tr>
    </tbody>
 </table>
