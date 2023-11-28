@@ -41,10 +41,10 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20IRB%20Related%20Documents/IRB_Master_Template_PAROS_protocol_ver2_0_16Nov10.pdf">IRB Master Template (Version 2.0)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_IRB_Related_Documents/IRB_Master_Template_PAROS_protocol_ver2_0_16Nov10.pdf">IRB Master Template (Version 2.0)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20IRB%20Related%20Documents/2_IRB_Register.pdf">IRB Register</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_IRB_Related_Documents/2_IRB_Register.pdf">IRB Register</a></td>
       </tr>
    </tbody>
 </table>
@@ -52,25 +52,25 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="files/PAROS/SD%20%20%20Data%20Related%20Documents/1_PAROS_Case_Report_Form.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
+         <td><a target="_blank" href="files/PAROS/SD_Data_Related_Documents/1_PAROS_Case_Report_Form.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/3_PAROS_DataDictionary_taxonomy_10.pdf">PAROS Data Dictionary/Taxonomy (version 2.0)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/3_PAROS_DataDictionary_taxonomy_10.pdf">PAROS Data Dictionary/Taxonomy (version 2.0)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/4_PAROS_Core_Data_Variables_List.pdf">PAROS Core Data Variables List (version: 10 Nov 2010)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/4_PAROS_Core_Data_Variables_List.pdf">PAROS Core Data Variables List (version: 10 Nov 2010)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/5_PAROS_Data_Agreement.pdf">PAROS Data Agreement (version: 10 Nov 2010)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/5_PAROS_Data_Agreement.pdf">PAROS Data Agreement (version: 10 Nov 2010)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/6_PAROS_Study_Log.pdf">PAROS Study Log (to be maintained by each site)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/6_PAROS_Study_Log.pdf">PAROS Study Log (to be maintained by each site)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/7_PAROS_Data_Quality_Assurance_Plan.pdf">PAROS Data Quality Assurance Plan</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/7_PAROS_Data_Quality_Assurance_Plan.pdf">PAROS Data Quality Assurance Plan</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="/files/PAROS/SD%20%20%20Data%20Related%20Documents/8_PAROS_Data_Quality_Assurance_Log.pdf">PAROS Data Quality Assurance Log (Annex A of DQA Plan)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/8_PAROS_Data_Quality_Assurance_Log.pdf">PAROS Data Quality Assurance Log (Annex A of DQA Plan)</a></td>
       </tr>
    </tbody>
 </table><h3>Guidebooks</h3>
