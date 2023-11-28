@@ -2,8 +2,9 @@
 title: About AHCC
 permalink: /ahcc/about-ahcc/
 description: ""
+variant: markdown
 ---
-<img src="/images/AHCC%20Trials%20Group/asia-pacific-hepatocellular-carcinoma.jpg" style="width:300px" align="left">
+<img src="/images/AHCC%20Trials%20Group/asia-pacific-hepatocellular-carcinoma.jpg" style="width:140px" align="left">
 
 <br>
 <br>
