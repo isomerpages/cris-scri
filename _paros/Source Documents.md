@@ -137,13 +137,13 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/PAROS_Dispatcher-CPR-Form3.pdf">Dispatcher CPR Case Report Form_version 3</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Dispatcher_CPR_Module/PAROS_Dispatcher_CPR_Form3.pdf">Dispatcher CPR Case Report Form_version 3</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Final-dispatch-dictionary-for-CARES-PAROS_Oct2013.pdf">Dispatcher CPR Data Dictionary (for all countries)</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Dispatcher_CPR_Module/Final_dispatch_dictionary_for_CARES_PAROS_Oct2013.pdf">Dispatcher CPR Data Dictionary (for all countries)</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dispatch-data-dictionary-for-PAROS-version-1.1_May-2018updated.pdf">Dispatcher CPR Data Dictionary (for Singapore use)_version 1.1</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Dispatcher_CPR_Module/Dispatch_data_dictionary_for_PAROS_version_1_1_May_2018updated.pdf">Dispatcher CPR Data Dictionary (for Singapore use)_version 1.1</a></td>
       </tr>
    </tbody>
 </table>
