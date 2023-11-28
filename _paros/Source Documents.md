@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 
-
-
 <h1><strong>Source Documents</strong></h1>
 <div>
 <p>Important documents used by the Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) can be downloaded from this page. The files will be updated from time to time.</p>
@@ -168,49 +166,49 @@ variant: markdown
 <table>
    <tbody>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_IntroductionToPAROS.pdf">Introduction to PAROS</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/1_IntroductionToPAROS.pdf">Introduction to PAROS</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_PAROS-Data-Dictionary.pdf">PAROS Data Dictionary</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/2_PAROS_Data_Dictionary.pdf">PAROS Data Dictionary</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/PAROS_Merged-Form7.pdf">PAROS_Merged Form7</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/PAROS_Merged_Form7.pdf">PAROS_Merged Form7</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/3_ePAROS-Training-Guide_Jun18.pdf">ePAROS Training Guide_June 2018</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/3_ePAROS_Training_Guide_Jun18.pdf">ePAROS Training Guide_June 2018</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_Hospital-Step-by-Step-Instructions.pdf">Hospital Step by Step Instructions</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/5_Hospital_Step_by_Step_Instructions.pdf">Hospital Step by Step Instructions</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/3_PAROS-Getting-Started-Training-Guidev2.pdf">PAROS Getting Started Training Guide_Aug 2017</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/3_PAROS_Getting_Started_Training_Guidev2.pdf">PAROS Getting Started Training Guide_Aug 2017</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/7_PAROS-Case-Search.pdf">PAROS Records Search</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/7_PAROS_Case_Search.pdf">PAROS Records Search</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/4_PAROS-Case-Number-Search.pdf">PAROS Case Number Search</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/4_PAROS_Case_Number_Search.pdf">PAROS Case Number Search</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/8_Export-Data-from-ePAROS.pdf">Export data from ePAROS</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/8_Export_Data_from_ePAROS.pdf">Export data from ePAROS</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/6_Generation-of-PAROS-Utstein-Reportv2.pdf">Generation of PAROS Utstein Report_July 2018</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/6_Generation_of_PAROS_Utstein_Reportv2.pdf">Generation of PAROS Utstein Report_July 2018</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/5_Export-data-from-ePAROS.pdf">Export Data from ePAROS</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/5_Export_data_from_ePAROS.pdf">Export Data from ePAROS</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/5.2_Validation-errors-report.pdf">Validation Errors Report</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/5_2_Validation_errors_report.pdf">Validation Errors Report</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/10_PAROS-Data-Audit-Form-ver-1.0.pdf">PAROS Data Audit Form ver 1.0</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/10_PAROS_Data_Audit_Form_ver_1_0.pdf">PAROS Data Audit Form ver 1.0</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/11_ePAROS-FAQ.pdf">ePAROS FAQ</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/11_ePAROS_FAQ.pdf">ePAROS FAQ</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/12_PAROS-General-FAQ.pdf">PAROS General FAQ</a></td>
+         <td><a target="_blank" href="/files/PAROS/SD_Implementation_Guidebook/12_PAROS_General_FAQ.pdf">PAROS General FAQ</a></td>
       </tr>
    </tbody>
 </table></div>
