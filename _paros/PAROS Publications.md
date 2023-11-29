@@ -4,10 +4,6 @@ permalink: /paros/paros-publications/
 description: ""
 variant: markdown
 ---
-
-
-
-
 **PAROS CRN Publications Committees and Publications of Studies**
 -----------------------------------------------------------------
 
