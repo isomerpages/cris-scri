@@ -4,6 +4,12 @@ permalink: /paros/paros-publications/
 description: ""
 variant: markdown
 ---
+
+
+
+
+
+
 **PAROS CRN Publications Committees and Publications of Studies**
 -----------------------------------------------------------------
 
@@ -87,36 +93,34 @@ Study Proposals
    </tbody>
 </table>
 
-<br><br>
-
 <table>
 <tbody>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/1_Study_Abstract_Incidence_of_VF_in_Asian_OHCA_Feb_2011.pdf">Incidence of VF in Asian OHCA (Benjamin Leong)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/1_Study_Abstract_Incidence_of_VF_in_Asian_OHCA_Feb_2011.pdf">Incidence of VF in Asian OHCA (Benjamin Leong)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/2_Population_Density_Kuo_Chan-Wei2.pdf">Relationship between OHCA burden and cardiac arrest outcomes (Kuo Chan-Wei)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/2_Population_Density_Kuo_Chan_Wei2.pdf">Relationship between OHCA burden and cardiac arrest outcomes (Kuo Chan-Wei)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/3_Study_Abstract_End_of_Life_Issues_Feb_2011.pdf">EMS Systems– “End-of-Life” Issues (Lin Chih-Hao)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/3_Study_Abstract_End_of_Life_Issues_Feb_2011.pdf">EMS Systems– “End-of-Life” Issues (Lin Chih-Hao)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/4_Study_Proposal_Request_Form_No_1_Patrick_Ko2.pdf">Location Characteristics and The Outcome Impact on OHCA among PAROS (Patrick Ko)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/4_Study_Proposal_Request_Form_No_1_Patrick_Ko2.pdf">Location Characteristics and The Outcome Impact on OHCA among PAROS (Patrick Ko)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/5_Heart_Disease_Survival_Outcomes.pdf">Impact of heart disease on survival outcomes after out-of hospital cardiac arrest (Magdalene Lee)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/5_Heart_Disease_Survival_Outcomes.pdf">Impact of heart disease on survival outcomes after out-of hospital cardiac arrest (Magdalene Lee)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/6_Proposal_on_place_and_first_cpr_time__by_Sang_Do_Shin.pdf">Place-Provider Matrix and Time Interval to Initiation of CPR and Defibrillation After OHCA (Sang Do Shin)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/6_Proposal_on_place_and_first_cpr_time__by_Sang_Do_Shin.pdf">Place-Provider Matrix and Time Interval to Initiation of CPR and Defibrillation After OHCA (Sang Do Shin)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/7_Resuscitation_time_interval_at_the_scene_and_outcomes_SHIN.pdf">Resuscitation time interval at the scene and outcomes after out-of-hospital cardiac arrest in PAROS communities (Sang Do Shin)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/7_Resuscitation_time_interval_at_the_scene_and_outcomes_SHIN.pdf">Resuscitation time interval at the scene and outcomes after out-of-hospital cardiac arrest in PAROS communities (Sang Do Shin)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2016/03/8_Study_Proposal_Request_Form_No_2_Patrick_Ko-AMENDED2.pdf">Survey on the utilization of ECMO for OHCA in current situation among PAROS communities (Patrick Ko)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/8_Study_Proposal_Request_Form_No_2_Patrick_Ko_AMENDED2.pdf">Survey on the utilization of ECMO for OHCA in current situation among PAROS communities (Patrick Ko)</a></td>
 </tr>
 <tr>
-<td><a href="https://www.scri.edu.sg/wp-content/uploads/2016/11/Proposal_Arrest-to-first-compression-time-and-survival-outcome-in-witness-OHCA_yujinlee.pdf">Arrest to first compression time and survival outcome in witness OHCA (Yu Jin Lee)</a></td>
+<td><a href="/files/PAROS/Publications_Study_Proposals/Proposal_Arrest_to_first_compression_time_and_survival_outcome_in_witness_OHCA_yujinlee.pdf">Arrest to first compression time and survival outcome in witness OHCA (Yu Jin Lee)</a></td>
 </tr>
 </tbody>
 </table>
