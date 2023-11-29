@@ -11,10 +11,6 @@ variant: markdown
 
 
 
-
-
-
-
 **PAROS CRN Publications Committees and Publications of Studies**
 -----------------------------------------------------------------
 
@@ -209,49 +205,49 @@ Study Proposals
 <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_Lim_Shir_Lynn_Spore_New_Study_Proposal_2018_P2.pdf">Monitoring the brain after cardiac arrest (Lim Shir Lynn)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dr-Mazen_Lebanon_New-Study-Proposal_2018.pdf">Basic versus Advanced Life Support in Out-of-Hospital Cardiac Arrest: A Retrospective Study of the Pan-Asian Resuscitation Outcomes Study (PAROS) Registry Population (Mazen)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_Mazen_Lebanon_New_Study_Proposal_2018.pdf">Basic versus Advanced Life Support in Out-of-Hospital Cardiac Arrest: A Retrospective Study of the Pan-Asian Resuscitation Outcomes Study (PAROS) Registry Population (Mazen)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dr-Michael-Chia_Spore_-New-Study-Proposal_2018.pdf">Utstein Factors and Outcomes in Traumatic Out-of-Hospital Cardiac Arrests (Michael Chia)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_Michael_Chia_Spore__New_Study_Proposal_2018.pdf">Utstein Factors and Outcomes in Traumatic Out-of-Hospital Cardiac Arrests (Michael Chia)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dr-So-Yeon-Joyce-Kong_Korea_New-Study-Proposal_2018.pdf">The effects of cancer on outcomes after out-of-hospital cardiac arrest (Joyce Kong)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_So_Yeon_Joyce_Kong_Korea_New_Study_Proposal_2018.pdf">The effects of cancer on outcomes after out-of-hospital cardiac arrest (Joyce Kong)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dr-SunYoung-Lee_Korea_New-Study-Proposal_2018.pdf">Gender difference in out-of-hospital cardiac arrest survival by region in Asian countries (Lee Sun Young)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_SunYoung_Lee_Korea_New_Study_Proposal_2018.pdf">Gender difference in out-of-hospital cardiac arrest survival by region in Asian countries (Lee Sun Young)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dr-Tham-Lai-Peng_Spore_New-Study-Proposal_2018.pdf">Pre-hospital Advanced Airway and Survival Outcomes after Paediatric Out-of-Hospital Cardiac Arrests (Tham Lai Peng)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_Tham_Lai_Peng_Spore_New_Study_Proposal_2018.pdf">Pre-hospital Advanced Airway and Survival Outcomes after Paediatric Out-of-Hospital Cardiac Arrests (Tham Lai Peng)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2018/07/Dr-Won-Chul-Cha_Korea_New-Study-Proposal_2018.pdf">The difference of on-scene resuscitation according to initial rhythm in patient with out-of-hospital cardiac arrest (Won Chul Cha)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Dr_Won_Chul_Cha_Korea_New_Study_Proposal_2018.pdf">The difference of on-scene resuscitation according to initial rhythm in patient with out-of-hospital cardiac arrest (Won Chul Cha)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/06/Gene-Ong_New-Study-Proposal_2019.pdf">Emergency department factors and outcomes of adult and paediatric out-of-hospital arrests in Pan-Asian Countries (Gene Ong)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Gene_Ong_New_Study_Proposal_2019.pdf">Emergency department factors and outcomes of adult and paediatric out-of-hospital arrests in Pan-Asian Countries (Gene Ong)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/06/LiuNan_New-Study-Proposal_2019.pdf">Development and Validation of a Predictive Model for Early Neuro-Prognostication after OHCA (Liu Nan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/LiuNan_New_Study_Proposal_2019.pdf">Development and Validation of a Predictive Model for Early Neuro-Prognostication after OHCA (Liu Nan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/06/Sattha-Riyapan_New-Study-Proposal_2019.pdf">Variability of a first responder dispatch after out-of-hospital cardiac arrest among Asian countries (Sattha Riyapan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Sattha_Riyapan_New_Study_Proposal_2019.pdf">Variability of a first responder dispatch after out-of-hospital cardiac arrest among Asian countries (Sattha Riyapan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2019_Liu-Nan_GenderDisparity.pdf">Gender Disparities Among Recipients of Bystander CPR and AED in Pan-Asian Communities (Liu Nan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2019_Liu_Nan_GenderDisparity.pdf">Gender Disparities Among Recipients of Bystander CPR and AED in Pan-Asian Communities (Liu Nan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_Kenneth-Doya-G.-Nonesa.pdf">Pediatric and Adult Non-Traumatic OHCA in Pan-Asian Countries in the time of COVID19 (Kenneth Doya G. Nonesa)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_Kenneth_Doya_G__Nonesa.pdf">Pediatric and Adult Non-Traumatic OHCA in Pan-Asian Countries in the time of COVID19 (Kenneth Doya G. Nonesa)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_Daniel-Unno-H.-Hiquiana.pdf">Early versus Late Intubation among Out-of-Hospital Cardiac Arrest Patients: A Prospective Observational Study (Daniel Unno H. Hiquiana)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_Daniel_Unno_H__Hiquiana.pdf">Early versus Late Intubation among Out-of-Hospital Cardiac Arrest Patients: A Prospective Observational Study (Daniel Unno H. Hiquiana)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_Gayathri.pdf">Descriptive comparison of OHCA survival and predictors amongst the geriatric age group in Asia (Gayathri Devi Nadarajan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_Gayathri.pdf">Descriptive comparison of OHCA survival and predictors amongst the geriatric age group in Asia (Gayathri Devi Nadarajan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_Ivan-Chua.pdf">Outcomes of OHCA patients stratified by mode of transport to the ED in Asia (Ivan Chua)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_Ivan_Chua.pdf">Outcomes of OHCA patients stratified by mode of transport to the ED in Asia (Ivan Chua)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_LiuNan_Deep-learning.pdf">Use Artificial Intelligence and Deep Learning to Predict Clinical Outcomes for Out-of-Hospital Cardiac Arrest Patients (Liu Nan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_LiuNan_Deep_learning.pdf">Use Artificial Intelligence and Deep Learning to Predict Clinical Outcomes for Out-of-Hospital Cardiac Arrest Patients (Liu Nan)</a></td>
 </tr>
 <tr>
 <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_LiuNan_PA-RACA.pdf">Development and Validation of the Pan-Asian ROSC After Cardiac Arrest (PA-RACA) Score (Liu Nan)</a></td>
