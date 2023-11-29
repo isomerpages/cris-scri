@@ -5,9 +5,6 @@ description: ""
 variant: markdown
 ---
 
-[](/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_LiuNan_PA_RACA.pdf)
-
-
 
 
 
@@ -250,52 +247,52 @@ Study Proposals
 <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_LiuNan_Deep_learning.pdf">Use Artificial Intelligence and Deep Learning to Predict Clinical Outcomes for Out-of-Hospital Cardiac Arrest Patients (Liu Nan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_LiuNan_PA-RACA.pdf">Development and Validation of the Pan-Asian ROSC After Cardiac Arrest (PA-RACA) Score (Liu Nan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_LiuNan_PA_RACA.pdf">Development and Validation of the Pan-Asian ROSC After Cardiac Arrest (PA-RACA) Score (Liu Nan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2021/01/New-Study-Proposal_2020_Shir-Lynn_23Aug.pdf">Temporal trends of non-shockable out-of-hospital cardiac arrest in Asia (Shir Lynn Lim)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2020_Shir_Lynn_23Aug.pdf">Temporal trends of non-shockable out-of-hospital cardiac arrest in Asia (Shir Lynn Lim)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal-2021_TOR-economic-evaluation_Gaya.pdf">Universal TOR rules and health economic outcomes if TOR is applied to the OHCA patients in Asia (Gayathri Devi Nadarajan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_TOR_economic_evaluation_Gaya.pdf">Universal TOR rules and health economic outcomes if TOR is applied to the OHCA patients in Asia (Gayathri Devi Nadarajan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal-2021_TOR2_Hsu-Shu-Hsien.pdf">The Validation and Development of TOR rules in Patients Following OHCA in Asia Countries (Hsu Shu-Hsien, Chiang Wen-Chu )</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_TOR2_Hsu_Shu_Hsien.pdf">The Validation and Development of TOR rules in Patients Following OHCA in Asia Countries (Hsu Shu-Hsien, Chiang Wen-Chu )</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal_2021_Airway_Hansol-Chang.pdf">Pre-hospital airway for out-of-hospital cardiac arrest (Hansol Chang)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_Airway_Hansol_Chang.pdf">Pre-hospital airway for out-of-hospital cardiac arrest (Hansol Chang)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal_2021_CPRprediction_Hansol-Chang.pdf">Developing a Time-Adaptive Prediction Model for Out-of-Hospital Cardiac Arrest: using PARSOS data (Ji woong Kim, Won Chul Cha, Hansol Chang)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_CPRprediction_Hansol_Chang.pdf">Developing a Time-Adaptive Prediction Model for Out-of-Hospital Cardiac Arrest: using PARSOS data (Ji woong Kim, Won Chul Cha, Hansol Chang)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal_2021_Kentaro-Kajino.pdf">Universal TOR rule predicts neurologically favorable outcome in Asian countries (Kentaro Kajino)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_Kentaro_Kajino.pdf">Universal TOR rule predicts neurologically favorable outcome in Asian countries (Kentaro Kajino)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal_2021_PAROS-2-DACPR-trends_Ng-Wei-Lin.pdf">Trends of DA-CPR and bystander CPR rates in OHCA patients between intervention groups (basic, comprehensive, control) of DA-CPR Resuscitation Package (Ng Wei Lin)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_PAROS_2_DACPR_trends_Ng_Wei_Lin.pdf">Trends of DA-CPR and bystander CPR rates in OHCA patients between intervention groups (basic, comprehensive, control) of DA-CPR Resuscitation Package (Ng Wei Lin)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal_2021_DA_Koshi-Nakagawa.pdf">Verification of the effect of introducing DA-CPR comprehensive package – a regression discontinuity design (Koshi Nakagawa, Hideharu Tanaka)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_DA_Koshi_Nakagawa.pdf">Verification of the effect of introducing DA-CPR comprehensive package – a regression discontinuity design (Koshi Nakagawa, Hideharu Tanaka)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal_2021_drug-administration_Tatsuya-Kaito.pdf">Association between drug administration and outcome after&nbsp;OHCA (Tatsuya Kaito , Hideharu Tanaka)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_drug_administration_Tatsuya_Kaito.pdf">Association between drug administration and outcome after&nbsp;OHCA (Tatsuya Kaito , Hideharu Tanaka)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2022/03/New-Study-Proposal-2021_AAM_Koshi-Nakagawa.pdf">Association between advanced airway management and outcome after OHCA - propensity score analysis (Koshi Nakagawa, Hideharu Tanaka)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2021_AAM_Koshi_Nakagawa.pdf">Association between advanced airway management and outcome after OHCA - propensity score analysis (Koshi Nakagawa, Hideharu Tanaka)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2023/06/New-Study-Proposal_2022_Liu-Nan_variable-importance.pdf">Evaluating variable importance in out-of-hospital cardiac arrest: an interpretable machine learning approach (Liu Nan)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2022_Liu_Nan_variable_importance.pdf">Evaluating variable importance in out-of-hospital cardiac arrest: an interpretable machine learning approach (Liu Nan)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2023/06/New-Study-Proposal_2022_Patrick-Tiglao-The-Asian-EMS-Personnel-preparedness-in-response-to-OHCA-during-the-COVID-19-Pandemic.pdf">The Asian EMS personnel preparedness in response to OHCA during the COVID 19 Pandemic (Patrick Tiglao)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2022_Patrick_Tiglao_The_Asian_EMS_Personnel_preparedness_in_response_to_OHCA_during_the_COVID_19_Pandemic.pdf">The Asian EMS personnel preparedness in response to OHCA during the COVID 19 Pandemic (Patrick Tiglao)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2023/06/New-Study-Proposal_2023_Wichayada-Rangabpai.pdf">Association between Activation Time Interval and Outcomes after Out-of-Hospital Cardiac Arrest (Wichayada Rangabpai, Sattha Riyapan, Sang Do Shin)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2023_Wichayada_Rangabpai.pdf">Association between Activation Time Interval and Outcomes after Out-of-Hospital Cardiac Arrest (Wichayada Rangabpai, Sattha Riyapan, Sang Do Shin)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2023/06/New-Study-Proposal_2023-Feishao.pdf">Association between age and bystander CPR in patients after out-of-hospital cardiac arrest among Pan-Asian countries (Shao Fei)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2023_Feishao.pdf">Association between age and bystander CPR in patients after out-of-hospital cardiac arrest among Pan-Asian countries (Shao Fei)</a></td>
 </tr>
 <tr>
-<td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2023/06/New-Study-Proposal_2023_Dung-Tuan-Dang_only-vietnam-data.pdf">The Provision of bystander Cardiopulmonary Resuscitation for OHCA in Vietnam: Impact on Outcomes (using Vietnam data only) (Dung Tuan Dang, Chinh Quoc Luong, Son Ngoc Do, Tuan Anh Nguyen)</a></td>
+<td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/New_Study_Proposal_2023_Dung_Tuan_Dang_only_vietnam_data.pdf">The Provision of bystander Cardiopulmonary Resuscitation for OHCA in Vietnam: Impact on Outcomes (using Vietnam data only) (Dung Tuan Dang, Chinh Quoc Luong, Son Ngoc Do, Tuan Anh Nguyen)</a></td>
 </tr>
 </tbody>
 </table>
