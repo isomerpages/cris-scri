@@ -2,8 +2,9 @@
 title: About DRAGoN
 permalink: /dragon/about-dragon/
 description: ""
+variant: markdown
 ---
-<img src="/images/DRAGoN%20Asian%20Genetics%20Network/dragon-247x300.jpg" style="width:200px" align="left">
+<img src="/images/DRAGoN%20Asian%20Genetics%20Network/dragon-247x300.jpg" style="float: left; width: 200px; margin-right: 50px;">
 
 DRAGoN stands for **“Deciphering Diversities: Renal Asian Genetics Network”**. It is a research consortium based in National University of Singapore, set up to investigate glomerular and proteinuric diseases in Asians. The network consists of nephrologists, paediatricians, pathologists scientists and biostatisticians.
 
