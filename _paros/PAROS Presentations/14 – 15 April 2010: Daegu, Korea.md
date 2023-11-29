@@ -9,7 +9,7 @@ third_nav_title: PAROS Presentations
 [](/files/PAROS/14–15April2010_Daegu_Korea/1_Benefits_of_Clinical_Research_Networks_ong.pdf)
 [](/files/PAROS/14–15April2010_Daegu_Korea/2_Overview_and_Operation_principles_ong.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/3_Proposed_constitution_of_PAROS_EXCO_ong.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/4_Comparison_of_EMS_Sys_of_Pan_Asian_Countries_shin.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/5_EMS_system_of_Tokyo_Japan_tanaka.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/6_EMS_system_of_Osaka_Japan_kajino.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/7_EMS_system_of_Singapore_ong.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/8_EMS_system_of_Malaysia_rahman.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/9_EMS_system_of_Taipei_ko.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/11_EMS_system_of_Thailand_Khunkhlai.pdf)
 [](/files/PAROS/14–15April2010_Daegu_Korea/12_EMS_system_of_Seoul_song.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/13_EMS_system_of_Jeju_park.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/14_Cardiac_Arrest_Data_Publication_Plan.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/15_Data_collection_Taxonomy_Ong.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/16_Asian_ED_Crowding_Study_cha.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/18_Multi_EMS_RCTs_of_Mechanical_compression_song.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/19_Pan_Asian_study_on_EMS_Performance_indicators_rahman_2.pdf)
-
+[](/files/PAROS/14–15April2010_Daegu_Korea/10_EMS_system_of_Tainan_lin_compressed.pdf)[](/files/PAROS/14–15April2010_Daegu_Korea/17_Comparison_of_Disaster_Medical_Service_System_Lin_compressed_compressed.pdf)
 
 
 
