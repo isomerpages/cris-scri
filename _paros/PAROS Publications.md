@@ -4,7 +4,6 @@ permalink: /paros/paros-publications/
 description: ""
 variant: markdown
 ---
-
 **PAROS CRN Publications Committees and Publications of Studies**
 -----------------------------------------------------------------
 
@@ -68,22 +67,22 @@ Study Proposals
          <td><a href="#">Associations between Gender and Cardiac Arrest Outcomes in Pan-Asian OHCA Patients (Ander Zhou)</a></td>
       </tr>
       <tr>
-         <td><a href="https://www.scri.edu.sg/wp-content/uploads/2016/11/Proposal-_Barriers-to-DACPR_Marcus.pdf">Barriers to Dispatcher-Assisted Cardiopulmonary Resuscitation (DA-CPR)&nbsp;(Marcus Ong)</a></td>
+         <td><a href="/files/PAROS/Publications_Study_Proposals/Proposal__Barriers_to_DACPR_Marcus.pdf">Barriers to Dispatcher-Assisted Cardiopulmonary Resuscitation (DA-CPR)&nbsp;(Marcus Ong)</a></td>
       </tr>
       <tr>
-         <td><a href="https://www.scri.edu.sg/wp-content/uploads/2016/11/Proposal_RA-10Steps-in-PAROS_Marcus.pdf">Resuscitation Academy (RA) 10-Step Implementations in the Pan-Asian Resuscitation Outcomes Study (PAROS) group&nbsp;(Marcus Ong)</a></td>
+         <td><a href="/files/PAROS/Publications_Study_Proposals/Proposal_RA_10Steps_in_PAROS_Marcus.pdf">Resuscitation Academy (RA) 10-Step Implementations in the Pan-Asian Resuscitation Outcomes Study (PAROS) group&nbsp;(Marcus Ong)</a></td>
       </tr>
       <tr>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2017/01/Study-Proposal-Request-Form_Epi_OHCA_DevMO_Hara_Marcus.doc">Epidemiology of OHCA between developing and developed countries (Takahiro Hara)</a></td>
+         <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Study_Proposal_Request_Form_Epi_OHCA_DevMO_Hara_Marcus.pdf">Epidemiology of OHCA between developing and developed countries (Takahiro Hara)</a></td>
       </tr>
       <tr>
          <td><a href="#">Association of outcomes and resuscitation efforts amongst &nbsp;OHCA occuring at night in the Asia Pacific - A prospective observational study (Andrew Ho)</a></td>
       </tr>
       <tr>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2017/09/Tagami-Study-Proposal-PCI.pdf">Percutaneous coronary intervention provision and outcomes among cardiogenic out of hospital cardiac arrest in Asian countries (Takashi Tagami)</a></td>
+         <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Tagami_Study_Proposal_PCI.pdf">Percutaneous coronary intervention provision and outcomes among cardiogenic out of hospital cardiac arrest in Asian countries (Takashi Tagami)</a></td>
       </tr>
       <tr>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2017/09/Tagami-Study-Proposal-elderly-OHCA.pdf">Treatments and outcomes among elderly patients with out-of-hospital cardiac arrest in Asian countries (Takashi&nbsp;Tagami)</a></td>
+         <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/Tagami_Study_Proposal_elderly_OHCA.pdf">Treatments and outcomes among elderly patients with out-of-hospital cardiac arrest in Asian countries (Takashi&nbsp;Tagami)</a></td>
       </tr>
    </tbody>
 </table>
