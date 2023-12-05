@@ -3,6 +3,7 @@ title: Past and Present Collaborations
 permalink: /national-coordinating-body/scri-academy/past-and-present-collaborations/
 description: ""
 third_nav_title: SCRI Academy
+variant: markdown
 ---
 **Past and Present Collaborations:**
 ------------------------------------
@@ -27,31 +28,6 @@ In addition to the structured training programmes, SCRI Academy also provides ot
     
 
 *   **CRC Lunch Workshop (free)**&nbsp;To ensure the CRCs stay abreast of the latest updates and trends in clinical research ecosystem, speakers from the regulatory, public healthcare institutes and commercial multinational corporations were invited to share about various aspects of clinical trial management and their best practices with the CRCs. This light-hearted annual lunch workshop provides an opportunity for the CRCs from different public healthcare institutes to mingle, network and gain deeper insights on industry best practices.
-
-
-
-
-<table>
-	<tbody>
-		<tr>
-			<th>
-				Year
-			</th>
-			<th>
-				Name
-			</th>
-		</tr>
-		<tr>
-			<td>
-				2017
-			</td>
-			<td>
-				<a href="/news-and-events/news/scri-3rd-annual-scientific-symposium-and-launch-of-scri-academy/">SCRI 3rd Annual Scientific Symposium and Launch of SCRI Academy</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
-				
 								 
 **Distinguished Contributor Award for CRCs**
 
