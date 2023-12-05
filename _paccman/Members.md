@@ -4,9 +4,6 @@ permalink: /paccman/members/
 description: ""
 variant: markdown
 ---
-
-
-
 <h4><strong>PACCMAN Committee </strong>(comprises of Executive and Scientific Committee)</h4>
 <ul>
    <li>Determines scope of research projects to ensure relevance to our overall aims</li>
@@ -43,7 +40,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
       <tr>
          <td>Beijing, China</td>
          <td>Beijing Children’s Hospital, Capital Medical University</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-qian-suyun-2/">Suyun Qian</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-qian-suyun/">Suyun Qian</a></td>
       </tr>
       <tr>
          <td></td>
