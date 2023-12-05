@@ -37,11 +37,13 @@ sections:
       button: Learn More
       url: /about-us/about-us/
   - infopic:
-      title: Clinical Trials Singapore CTSG
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Master Clinical Trial Agreement
+      description: Clinical trial start-up time is one of the key considerations when
+        performing site selection for clinical trials. It includes time taken
+        for clinical ...
+      button: Learn More
       alt: Image alt text
+      url: /national-coordinating-body/master-clinical-trial-agreement/
   - infopic:
       title: Clinical Trial Process Enhancement
       description: The Clinical Trial Enhancement Process involves refining and
@@ -52,14 +54,18 @@ sections:
       url: /national-coordinating-body/clinical-trial-process-enhancement/
   - infopic:
       title: Clinical Research Network
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Clinical research network has become a critical platform to gather
+        clinical evidence that has not been possible in the past with single
+        sites.
+      button: Learn More
       alt: Image alt text
+      url: /clinical-research-networks/overview/
   - infopic:
       title: SCRI Academy
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: The SCRI Academy was launched on 29 August 2017 by Dr Lam Pin Min,
+        Senior Minister State for Health, to serve as Singapore’s first national
+        learning ...
+      button: Learn more
       alt: Image alt text
+      url: /national-coordinating-body/scri-academy/introduction/
 ---
