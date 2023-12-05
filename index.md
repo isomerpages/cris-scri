@@ -44,10 +44,12 @@ sections:
       alt: Image alt text
   - infopic:
       title: Clinical Trial Process Enhancement
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: The Clinical Trial Enhancement Process involves refining and
+        optimizing various aspects of clinical trials to ensure its
+        effectiveness and reliability.
+      button: Learn More
       alt: Image alt text
+      url: /national-coordinating-body/clinical-trial-process-enhancement/
   - infopic:
       title: Clinical Research Network
       subtitle: Infopic Subtitle
