@@ -1,4 +1,5 @@
 collections:
   paccman-members:
     output: true
-    order: []
+    order:
+      - Dr Qian Suyun.md
