@@ -4,6 +4,9 @@ permalink: /paccman/members/
 description: ""
 variant: markdown
 ---
+
+
+
 <h4><strong>PACCMAN Committee </strong>(comprises of Executive and Scientific Committee)</h4>
 <ul>
    <li>Determines scope of research projects to ensure relevance to our overall aims</li>
