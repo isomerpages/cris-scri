@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: PAROS Presentations
 ---
-
-
-[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Current_Progress_of_VS_Project_AED_Placement_compressed.pdf)[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/OHCA_Geolocation_data_for_Public_Access_Defibrillator_PAD_compressed.pdf)[]()[]()[]()[]()[]()[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Current_Progress_of_VS_Project_ED_Evacuation.pdf)[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/GIS_Analysis_on_road_traffic_injury_in_a_district_in_Malaysia.pdf)[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Geospatial_and_Optimisation_Techniques.pdf)[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Introduction_to_Health_Services_Research_Data_Science_Core.pdf)[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Translational_Research_in_AI_and_Data_Analytics.pdf)[](/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Artificial_Intelligence_and_Data_Science_in_Emergency_Care.pdf)<table>
+<table>
    <tbody>
       <tr>
          <td>Geospatial Analytics and Operations Research in Emergencies Seminar</td>
@@ -28,28 +26,28 @@ third_nav_title: PAROS Presentations
          <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Introduction_to_Asia_wide_PAROS_data_and_Research_opportunities__1_.pdf">Introduction to Virtual Singapore </a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/Current-Progress-of-VS-Project_AED-Placement.pdf">Current Progress of VS Project_AED Placement </a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Current_Progress_of_VS_Project_AED_Placement_compressed.pdf">Current Progress of VS Project_AED Placement </a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/Current-Progress-of-VS-Project_ED-Evacuation.pdf">Current Progress of VS Project_ED Evacuation</a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Current_Progress_of_VS_Project_ED_Evacuation.pdf">Current Progress of VS Project_ED Evacuation</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/OHCA-Geolocation-data-for-Public-Access-Defibrillator-PAD.pdf">OHCA Geolocation data for Public Access Defibrillator (PAD) </a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/OHCA_Geolocation_data_for_Public_Access_Defibrillator_PAD_compressed.pdf">OHCA Geolocation data for Public Access Defibrillator (PAD) </a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/GIS-Analysis-on-road-traffic-injury-in-a-district-in-Malaysia.pdf">GIS Analysis on road traffic injury in a district in Malaysia</a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/GIS_Analysis_on_road_traffic_injury_in_a_district_in_Malaysia.pdf">GIS Analysis on road traffic injury in a district in Malaysia</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/Geospatial-and-Optimisation-Techniques.pdf">Geospatial and Optimisation Techniques</a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Geospatial_and_Optimisation_Techniques.pdf">Geospatial and Optimisation Techniques</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/Introduction-to-Health-Services-Research-Data-Science-Core.pdf">Introduction to Health Services Research Data Science Core</a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Introduction_to_Health_Services_Research_Data_Science_Core.pdf">Introduction to Health Services Research Data Science Core</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/Translational-Research-in-AI-and-Data-Analytics.pdf">Translational Research in AI and Data Analytics</a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Translational_Research_in_AI_and_Data_Analytics.pdf">Translational Research in AI and Data Analytics</a></td>
       </tr>
       <tr>
-         <td><a target="_blank" href="https://www.scri.edu.sg/wp-content/uploads/2019/07/Artificial-Intelligence-and-Data-Science-in-Emergency-Care.pdf">Artificial Intelligence and Data Science in Emergency Care</a></td>
+         <td><a target="_blank" href="/files/PAROS%20Presentations/18%20–%2019%20Feb%202019:%20Singapore/Artificial_Intelligence_and_Data_Science_in_Emergency_Care.pdf">Artificial Intelligence and Data Science in Emergency Care</a></td>
       </tr>
    </tbody>
 </table>
