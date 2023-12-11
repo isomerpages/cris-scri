@@ -8,7 +8,7 @@ third_nav_title: PAROS Presentations
 <table>
    <tbody>
       <tr>
-         <td>Publication Committee</td>
+         <th>Publication Committee</th>
       </tr>
       <tr>
          <td><a target="_blank" href="/files/PAROS%20Presentations/28%20May%202014:%20Sydney,%20Australia/2_3_2014_Progress_report_Sydney_1.pdf">PAD Progress Report</a></td>
