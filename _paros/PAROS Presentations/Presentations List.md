@@ -3,6 +3,7 @@ title: Presentations List
 permalink: /paros/paros-presentations/presentation-list/
 description: ""
 third_nav_title: PAROS Presentations
+variant: markdown
 ---
 #### Presentation Materials Shared at Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) Events
 
@@ -17,6 +18,72 @@ PAROS CRN places a strong focus on education and research. At PAROS CRN events, 
 	</dd>
 	<dt>
 		2021
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2020
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2019
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2018
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2017
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2016
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2015
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2014
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2013
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2012
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2011
+	</dt>
+	<dd>
+		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+	</dd>
+	<dt>
+		2010
 	</dt>
 	<dd>
 		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
