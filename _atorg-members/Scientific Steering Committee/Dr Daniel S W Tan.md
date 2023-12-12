@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Scientific Steering Committee
 ---
-<img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/Dr_daniel.png" style="width: 300px; float: left; margin-right: 10px;">
+<img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/Dr_daniel.png" style="width: 100px; float: left; margin-right: 10px;">
 
 <strong>Dr. Daniel S W Tan<br>
 Senior Consultant, Medical Oncology<br>
