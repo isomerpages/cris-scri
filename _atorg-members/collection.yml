@@ -1,4 +1,5 @@
 collections:
   atorg-members:
     output: true
-    order: []
+    order:
+      - Scientific Steering Committee/.keep
