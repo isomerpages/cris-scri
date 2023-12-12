@@ -2,6 +2,7 @@
 title: Members
 permalink: /dragon/members/
 description: ""
+variant: markdown
 ---
 <p><strong>Principal investigator</strong></p>
 <p>Dr Ng Kar Hui (Email: <a href="mailto:kar_hui_ng@nuhs.edu.sg">kar_hui_ng@nuhs.edu.sg</a>)</p>
@@ -11,72 +12,27 @@ description: ""
 <p><strong><br> Research Support Staff and Database Managers</strong></p>
 <p>Ms Ng Jun Li (email: <a href="mailto:paenjl@nus.edu.sg">paenjl@nus.edu.sg</a>)</p>
 <p>Dr U Mya Than (email: <a href="mailto:mya_than@nuhs.edu.sg">mya_than@nuhs.edu.sg</a>)</p>
+
 <p><strong><br> Scientists</strong></p>
-<table>
-   <tbody>
-      <tr>
-         <td>
-            <div>Dr Khor Chiea Chuen</div>
-            <p><em>Genome Institute of Singapore</em></p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <div>Dr Sonia Davila</div>
-            <p><em>SingHealth Duke-NUS Institute of Precision Medicine (PRISM)</em></p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <div>Dr Bruno Reversade</div>
-            <p><em>A*STAR Institute of Medical Biology</em></p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <div>Dr Beata S. Lipska</div>
-            <p><em>Universität Heidelberg</em></p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <div><em>Alvin Ng Yu Jin, Poon Kok Siong and Karen ML Tan</em></div>
-            <div><em>Molecular Diagnosis Centre</em></div>
-            <div><em>Department of Laboratory Medicine</em></div>
-            <div><em>National University Hospital</em></div>
-         </td>
-      </tr>
-   </tbody>
-</table>
-<p><strong><br> Pathologists</strong></p>
-<table>
-   <tbody>
-      <tr>
-         <td>
-            <div>A/Prof Tan Puay Hoon</div>
-            <div><em>Head and Senior Consultant</em></div>
-            <div><em>Department of Pathology</em></div>
-            <p><em>Singapore General Hospital</em></p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <div>Dr Alwin Hwai-Liang Loh</div>
-            <div><em>Senior Consultant</em></div>
-            <div><em>Department of Pathology</em></div>
-            <p><em>Singapore General Hospital</em></p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <div>Dr Ahmed Syed Salahuddin</div>
-            <div><em>Consultant</em></div>
-            <div><em>Department of Pathology</em></div>
-            <p><em>Singapore General Hospital</em></p>
-         </td>
-      </tr>
-   </tbody>
-</table>
+
+Dr Khor Chiea Chuen<br>
+<em>Genome Institute of Singapore</em>
+
+Dr Sonia Davila<br>
+<em>SingHealth Duke-NUS Institute of Precision Medicine (PRISM)</em>
+
+Dr Bruno Reversade<br>
+<em>A*STAR Institute of Medical Biology</em>
+
+Dr Beata S. Lipska<br>
+<em>Universität Heidelberg</em>
+
+Alvin Ng Yu Jin, Poon Kok Siong and Karen ML Tan<br>
+<em>Molecular Diagnosis Centre<br>
+Department of Laboratory Medicine<br>
+National University Hospital</em>
+
+
 <p><strong><br> Biostatistician</strong></p>
 <table>
    <tbody>
