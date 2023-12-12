@@ -2,5 +2,6 @@ collections:
   atorg-members:
     output: true
     order:
+      - Scientific Steering Committee/Prof Tony SK Mok.md
       - Scientific Steering Committee/Dr Daniel S W Tan.md
       - Scientific Steering Committee/.keep
