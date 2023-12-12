@@ -2,12 +2,12 @@ collections:
   atorg-members:
     output: true
     order:
+      - Scientific Steering Committee/.keep
+      - Scientific Steering Committee/Dr Daniel S W Tan.md
+      - Scientific Steering Committee/Prof Tony SK Mok.md
+      - Scientific Steering Committee/Prof Dong–Wan Kim.md
+      - Scientific Steering Committee/Dr James Chih–Hsin Yang.md
+      - Scientific Steering Committee/Dr Ross Soo.md
+      - Scientific Steering Committee/A Prof Chee Khoon Lee.md
       - Scientific Steering Committee/A Prof Thanyanan Baisamut
         (Reungwetwattana).md
-      - Scientific Steering Committee/A Prof Chee Khoon Lee.md
-      - Scientific Steering Committee/Dr Ross Soo.md
-      - Scientific Steering Committee/Dr James Chih–Hsin Yang.md
-      - Scientific Steering Committee/Prof Dong–Wan Kim.md
-      - Scientific Steering Committee/Prof Tony SK Mok.md
-      - Scientific Steering Committee/Dr Daniel S W Tan.md
-      - Scientific Steering Committee/.keep
