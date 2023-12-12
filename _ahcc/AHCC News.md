@@ -2,6 +2,7 @@
 title: AHCC News
 permalink: /ahcc/ahcc-news/
 description: ""
+variant: markdown
 ---
 <table>
    <tbody>
@@ -35,7 +36,7 @@ description: ""
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="files/AHCC/AHCC%20News/2022/grant-tm-14jun-p2.pdf">
+				 <a target="_blank" href="/files/AHCC/AHCC%20News/2022/grant-tm-14jun-p2.pdf">
 				 Singapore dedicates $25m to liver cancer research.
 				 </a>
 			 </td>
