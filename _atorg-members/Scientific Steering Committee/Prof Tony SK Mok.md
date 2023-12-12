@@ -10,6 +10,7 @@ third_nav_title: Scientific Steering Committee
 <strong>Prof. Tony SK Mok<br>
 Chairman, Department of Clinical Oncology<br>
 Li Shu Fan Professor of Clinical Oncology</strong>
+
 <br><br>
 Prof. Tony S. K. Mok trained at the University of Alberta, Canada and subsequently completed a fellowship in medical oncology at the Princess Margaret Hospital in Canada. After working as a community oncologist in Toronto, Canada for seven years, he returned to Hong Kong in 1996 to pursue an academic career.
 
