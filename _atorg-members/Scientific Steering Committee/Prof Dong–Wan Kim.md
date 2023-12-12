@@ -5,12 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Scientific Steering Committee
 ---
-<img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/dong.png" style="width: 300px; float: left; margin-right: 10px;">
+<img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/dong.png" style="width: 100px; float: left; margin-right: 10px;">
 
 <strong>Prof Dong-Wan Kim<br>
 Department of Internal Medicine<br>
-Seoul National University Hospital
-</strong>
+Seoul National University Hospital</strong>
 
 Dr. Dong-Wan Kim is a Professor of Medicine at the Seoul National University (SNU) College of Medicine and Seoul National University Hospital (SNUH), Seoul, Korea. Dr Kim received his MD from the SNU and completed a residency in internal medicine at the SNUH. After completing his fellowship at the SNUH, he has been working at SNUH and SNU College of Medicine as a staff member since 2003. He spent a year at the Duke Comprehensive Cancer Center as a Visiting Research Fellow in 2007.
 
