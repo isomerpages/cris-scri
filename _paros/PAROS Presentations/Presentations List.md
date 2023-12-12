@@ -74,36 +74,72 @@ PAROS CRN places a strong focus on education and research. At PAROS CRN events, 
 		2015
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/7-november-2015-taipei-taiwan/">7 November 2015: Taipei, Taiwan</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/30-march-2015-hangzhou/">30 March 2015: Hangzhou</a>
 	</dd>
 	<dt>
 		2014
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/17-october-2014-goa-india/">17 October 2014: Goa, India</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/10-june-2014-hong-kong/">10 June 2014: Hong Kong</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/28-may-2014-sydney-australia/">28 May 2014: Sydney, Australia</a>
 	</dd>
 	<dt>
 		2013
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/22-october-2013-tokyo-japan/">22 October 2013: Tokyo, Japan</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/21-august-2013-seoul-korea/">21 August 2013: Seoul, Korea</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/8-9-april-2013-dispatcher-course-singapore/">8–9 April 2013: Dispatcher Course Singapore</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/7-9-april-2013-singapore/">7–9 April 2013: Singapore</a>
 	</dd>
 	<dt>
 		2012
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/27-april-2012-singapore/">27 April 2012: Singapore</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/17-april-2012-dubai-united-arab-emirates/">17 April 2012: Dubai, United Arab Emirates</a>
 	</dd>
 	<dt>
 		2011
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/30-november-2011-taipei-taiwan/">30 November 2011: Taipei, Taiwan</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/28-september-2011-singapore/">28 September 2011: Singapore</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/4-july-2011-bangkok-thailand/">4 July 2011: Bangkok, Thailand</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/11-12-april-2011-singapore/">11 – 12 April 2011: Singapore</a>
 	</dd>
 	<dt>
 		2010
 	</dt>
 	<dd>
-		<a href="/paros/paros-presentations/7-oct-2021-paros-exco-meeting/">7 Oct 2021: PAROS EXCO Meeting</a>
+		<a href="/paros/paros-presentations/9-october-2010-tokyo-japan/">9 October 2010: Tokyo, Japan</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/9-june-2010-singapore/">9 June 2010: Singapore</a>
+	</dd>
+	<dd>
+		<a href="/paros/paros-presentations/14-15-april-2010-daegu-korea/">14 – 15 April 2010: Daegu, Korea</a>
 	</dd>
 </dl>
