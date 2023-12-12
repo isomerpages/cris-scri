@@ -28,7 +28,7 @@ PAROS EXCO approval. Please submit your research ideas to the PAROS secretariat 
 
 <img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-proposal-submission-process-300x221.png" align="left" style="width:300px">
 
-Note: Please use this&nbsp;[form](/files/PAROS/Publications/new-study-proposal-template_2020.pdf)&nbsp;for submission
+Note: Please use this&nbsp;[form](/files/PAROS/New_Study_Proposal_Template_2020.pdf)&nbsp;for submission
 
 <br><br><br>
 
