@@ -1,0 +1,7 @@
+---
+title: A Prof Chee Khoon Lee
+permalink: /atorg-members/scientific-steering-committee/dr-chee-khoon-lee/
+variant: markdown
+description: ""
+third_nav_title: Scientific Steering Committee
+---
