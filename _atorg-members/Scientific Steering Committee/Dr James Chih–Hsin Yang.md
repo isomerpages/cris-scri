@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Scientific Steering Committee
 ---
-<img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/dr_james.png" style="width: 100px; float: left; margin-right: 10px;">
+<img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/dr_james.png" style="width: 150px; float: left; margin-right: 10px;">
 
 <strong>Dr. James Chih-Hsin Yang<br>
 Director, Graduate Institute of Oncology<br>
