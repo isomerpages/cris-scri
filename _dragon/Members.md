@@ -13,7 +13,7 @@ variant: markdown
 <p>Ms Ng Jun Li (email: <a href="mailto:paenjl@nus.edu.sg">paenjl@nus.edu.sg</a>)</p>
 <p>Dr U Mya Than (email: <a href="mailto:mya_than@nuhs.edu.sg">mya_than@nuhs.edu.sg</a>)</p>
 
-<p><strong><br> Scientists</strong></p>
+<p><strong><br>Scientists</strong></p>
 
 Dr Khor Chiea Chuen<br>
 <em>Genome Institute of Singapore</em>
@@ -32,6 +32,22 @@ Alvin Ng Yu Jin, Poon Kok Siong and Karen ML Tan<br>
 Department of Laboratory Medicine<br>
 National University Hospital</em>
 
+<p><strong><br>Pathologists</strong></p>
+
+A/Prof Tan Puay Hoon
+Head and Senior Consultant
+Department of Pathology
+Singapore General Hospital
+
+Dr Alwin Hwai-Liang Loh
+Senior Consultant
+Department of Pathology
+Singapore General Hospital
+
+Dr Ahmed Syed Salahuddin
+Consultant
+Department of Pathology
+Singapore General Hospital
 
 <p><strong><br> Biostatistician</strong></p>
 <table>
@@ -52,7 +68,7 @@ National University Hospital</em>
          <td>
             <div>Dr Lisa Guay-Woodford</div>
             <div><em>Children's National Medical Center</em></div>
-            <em>Washington DC, USA                                                                                                           </em>
+            <em>Washington DC, USA</em>
          </td>
       </tr>
    </tbody>
