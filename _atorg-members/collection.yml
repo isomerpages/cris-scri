@@ -2,6 +2,7 @@ collections:
   atorg-members:
     output: true
     order:
+      - Scientific Steering Committee/Dr Ross Soo.md
       - Scientific Steering Committee/Dr James Chih–Hsin Yang.md
       - Scientific Steering Committee/Prof Dong–Wan Kim.md
       - Scientific Steering Committee/Prof Tony SK Mok.md
