@@ -1,0 +1,4 @@
+collections:
+  atorg-members:
+    output: true
+    order: []
