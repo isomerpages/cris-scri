@@ -4,15 +4,17 @@ permalink: /atorg/research-projects/
 description: ""
 variant: markdown
 ---
+<h1><b>Reasearch Projects</b></h1>
+
 ### **Upcoming Research**
 
-#### Non- Interventional Clinical Studies**
+#### Non- Interventional Clinical Studies
 
-**ATORG006 – Pan-Asian clinical database of _EGFR_ exon20 insertion mutated non-small cell lung cancer (NSCLC)**
+**ATORG006 – Pan-Asian clinical database of&nbsp;_EGFR_&nbsp;exon20 insertion mutated non-small cell lung cancer (NSCLC)**
 
-This study aims to comprehensively characterize the epidemiology and clinical outcomes of Asian advanced _EGFR_ exon 20 insertion mutated NSCLC patients. In addition, an enhanced understanding of the prognostic and predictive influence of _EGFR_ exon 20 insertion variants, and mechanisms of resistance to novel EGFR targeted therapies will be elucidated.
+This study aims to comprehensively characterize the epidemiology and clinical outcomes of Asian advanced&nbsp;_EGFR_&nbsp;exon 20 insertion mutated NSCLC patients. In addition, an enhanced understanding of the prognostic and predictive influence of&nbsp;_EGFR_&nbsp;exon 20 insertion variants, and mechanisms of resistance to novel EGFR targeted therapies will be elucidated.
 
-This will be a multi-centre observational and translational study of advanced _EGFR_ exon 20 insertion mutated NSCLC patients at sites in Asia. Patients will be both retrospectively and prospectively enrolled, with prospective genomic profiling of plasma and tumor tissue from baseline and at the time of resistance where feasible. Key demographic, clinicopathology, treatment (including subsequent therapies) and survival data will be collected.
+This will be a multi-centre observational and translational study of advanced&nbsp;_EGFR_&nbsp;exon 20 insertion mutated NSCLC patients at sites in Asia. Patients will be both retrospectively and prospectively enrolled, with prospective genomic profiling of plasma and tumor tissue from baseline and at the time of resistance where feasible. Key demographic, clinicopathology, treatment (including subsequent therapies) and survival data will be collected.
 
 ### **Ongoing Research**
 
@@ -43,6 +45,6 @@ This study aims to comprehensively characterize the epidemiology and clinical ma
 
 ATORG-003 - A single-arm, open-label, Phase 2 study of Dacomitinib with or without dose titration for the first-line treatment of locally advanced or metastatic non-small cell lung cancer in subjects with an epidermal growth factor receptor (EGFR) activation mutation**
 
-_Status:_ Active, recruitment complete
+_Status:_&nbsp;Active, recruitment complete
 
 This is a multi-national, single-arm, open-label Phase 2 clinical study of the efficacy and safety of first-line treatment with dacomitinib, with or without dose titration, in subjects with newly diagnosed stage IIIB/IIIC/IV or recurrent NSCLC. All subjects will have tumors that test positive for at least one EGFR activating mutation, either exon 19 deletion or exon 21 L858R mutation. This study has met its enrolment target of 118 subjects who will receive therapy until disease progression, new systemic anticancer therapy instituted, intolerable toxicities, withdrawal of consent, death, or 36 months from first dose, whichever occurs first.
