@@ -34,20 +34,20 @@ National University Hospital</em>
 
 <p><strong><br>Pathologists</strong></p>
 
-A/Prof Tan Puay Hoon
-Head and Senior Consultant
-Department of Pathology
-Singapore General Hospital
+A/Prof Tan Puay Hoon<br>
+<em>Head and Senior Consultant<br>
+Department of Pathology<br>
+Singapore General Hospital</em>
 
-Dr Alwin Hwai-Liang Loh
-Senior Consultant
-Department of Pathology
-Singapore General Hospital
+Dr Alwin Hwai-Liang Loh<br>
+<em>Senior Consultant<br>
+Department of Pathology<br>
+Singapore General Hospital</em>
 
-Dr Ahmed Syed Salahuddin
-Consultant
-Department of Pathology
-Singapore General Hospital
+Dr Ahmed Syed Salahuddin<br>
+<em>Consultant<br>
+Department of Pathology<br>
+Singapore General Hospital</em>
 
 <p><strong><br> Biostatistician</strong></p>
 <table>
