@@ -5,15 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Scientific Steering Committee
 ---
-<p>
 <img src="/images/ATORG%20Oncology%20Research%20Group/Scientific%20Steering%20Committee/Dr_daniel.png" style="width: 150px; float: left; margin-right: 10px;">
 
 <strong>Dr. Daniel S W Tan<br>
 Senior Consultant, Medical Oncology<br>
 National Cancer Centre Singapore</strong>
-				
-</p>
-test
+
+<br><br>
 Dr Daniel Tan is the current head of the Department of Clinical Trials and Epidemiological Sciences, National Cancer Centre Singapore (NCCS), an Associate Professor at Duke-NUS Medical School, and a Senior Clinician-Scientist at Genome Institute of Singapore. His main area of interest is in thoracic, head and neck malignancies and drug development. He currently leads the Experimental Cancer Therapeutics Unit (ECRU) at NCCS, and has been instrumental to growing it to one of the largest Phase I units in Asia, running up to 30 – 40 trials at any one time. He is also the Principal Investigator of the Cancer Therapeutics Research Laboratory at NCCS focused on developing representative patient-derived preclinical models to gain insights to drug response and resistance, complementing his role as the principal investigator for multiple biomarker-driven early phase clinical trials including first-in-human studies. He is the principal investigator for the National Medical Research Council Lung Cancer Large Collaborative Grant (2019 – 2023), and Chairs the Asian Thoracic Oncology Research Group, the latter set up as a platform to coordinate translational research and clinical trials in the region.
 
 Dr. Tan’s research interests include rational application of “omics” technologies to unravel drug resistance in cancer therapeutics and accelerating the development of novel agents and biomarkers in the clinic. His research has been recognized through multiple local and international awards, including European Society of Medical Oncology Congress Travel Award, American Society of Clinical Oncology (ASCO) Merit Awards, ASCO Young Investigator Award as well as most recently being awarded the IASLC Daniel C. Idhe Lectureship Award in 2019, the latter in recognition of his work in the field on medical oncology and extensive contributions to the lung cancer arena. Dr. Tan also holds a SingHealth GCEO Outstanding Clinician-Researcher Award and a National Medical Research Council Clinician-Scientists Award. He has published widely in journals including Nature, Nature Medicine, The New England Journal of Medicine, The Lancet, The Lancet Oncology and Journal of Clinical Oncology. Dr. Tan is the past Chair of the Education Committee of the International Association for Study of Lung Cancer (IASLC) and has participated in the organizing scientific committees and faculty member for multiple international conferences including WCLC, ESMO and ASCO. In ESMO 2021, he is the track chair for translational research. He has been active in developing educational resources to enhance quality of lung cancer care globally and was involved in The Lancet Commission on Lung Cancer. He serves as Associate Editor for the Journal of Thoracic Oncology and was the conference chair for the World Conference in Lung Cancer 2020, the flagship and largest interdisciplinary conference of the IASLC.
