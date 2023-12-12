@@ -8,7 +8,7 @@ third_nav_title: PAROS Presentations
 <table>
    <tbody>
       <tr>
-         <td>Educational Talks / Overviews </td>
+         <th>Educational Talks / Overviews </th>
       </tr>
       <tr>
          <td><a target="_blank" href="/files/PAROS%20Presentations/9%20June%202010:%20Singapore/1_Asian_EMS_Council.pdf">Asian EMS Council - Overview, Activity, and Perspectives</a></td>
@@ -26,7 +26,7 @@ third_nav_title: PAROS Presentations
          <td><a target="_blank" href="/files/PAROS%20Presentations/9%20June%202010:%20Singapore/5_PAROS_Updates_and_Demo.pdf">PAROS Updates &amp; Demo</a></td>
       </tr>
       <tr>
-         <td>Study Proposals</td>
+         <th>Study Proposals</th>
       </tr>
       <tr>
          <td><a target="_blank" href="/files/PAROS%20Presentations/9%20June%202010:%20Singapore/6_Overview_of_ED_Crowding_in_Asia.pdf">Overview of ED overcrowding in ASIA</a></td>
