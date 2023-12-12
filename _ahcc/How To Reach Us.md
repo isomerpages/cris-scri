@@ -2,6 +2,7 @@
 title: How To Reach Us
 permalink: /ahcc/how-to-reach-us/
 description: ""
+variant: markdown
 ---
 **How to Reach Us**
 ===================
@@ -24,14 +25,9 @@ The AHCC Trials Group has access to a diverse patient population around the Asia
 
 **The Network Secretariat**
 
-Patricia Tay
-
-Senior Clinical Research Network Associate
-
-Phone : (65) 6508 8356
-
-Fax: (65) 6508 8317
-
-Email:  patricia.tay@scri.cris.sg
-
+Patricia Tay<br>
+Senior Clinical Research Network Associate<br>
+Phone : (65) 6508 8356<br>
+Fax: (65) 6508 8317<br>
+Email:&nbsp; patricia.tay@scri.cris.sg<br>
 Mailing Address: 23 Rochester Park, #06-01, Singapore 139234
