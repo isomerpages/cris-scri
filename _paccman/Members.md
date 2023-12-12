@@ -12,14 +12,15 @@ variant: markdown
    <li>Oversees resources and budgeting</li>
    <li>Responsible for managing and resolving major operational and political issues/risks</li>
 </ul>
+
 <div><b>Executive committee members</b></div>
 <div>Chair: Rujipat Samransamruajkit</div>
 <div>Deputy Chair: Lee Jan Hau</div>
-Members: Jayashree M, Tang Swee Fong and Gan Chin Seng
+<div>Members: Jayashree M, Tang Swee Fong and Gan Chin Seng</div>
 <div><b>Scientific committee members</b></div>
 <div>Critical Care Chair: Atsushi Kawaguchi</div>
 <div>Acute Medicine Chair: Arun Bansal</div>
-Members: Phan Huu Phuc and Judith Wong
+<div>Members: Phan Huu Phuc and Judith Wong</div>
 <h4><strong>PACCMAN Members</strong></h4>
 <ul>
    <li>Participating in studies conducted under the auspices of the network</li>
