@@ -348,9 +348,10 @@ Asia-Pacific Hepatocellular Carcinoma (AHCC) Trials Group initiates Collaborativ
 				 29 Oct 2014
 			 </td>
 		 </tr>
+		 <!--
 		 <tr>
 			 <td>
-				 <a target="_blank" href="https://www.sgh.com.sg/about-us/newsroom/news-release/Documents/Media%20Release%20-%20AHCC06.pdf">
+				 <a href="https://www.sgh.com.sg/about-us/newsroom/news-release/Documents/Media%20Release%20-%20AHCC06.pdf" target="_blank">
 Interim analysis found SGH-led SIRveNIB regional phase III clinical trial to treat patients with locally advanced liver cancer right on track     
 				 </a>
 			 </td>
@@ -358,6 +359,7 @@ Interim analysis found SGH-led SIRveNIB regional phase III clinical trial to tre
 				 02 July 2013
 			 </td>
 		 </tr>
+		-->
 		 <tr>
 			 <td>
 				 <a target="_blank" href="http://www.sundaytimes.lk/120422/MediScene/mediscene_6.html">				 
