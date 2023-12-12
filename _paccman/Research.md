@@ -40,7 +40,7 @@ _Study Documents:_
 
 [PARDSProAsia II PBW\_TV chart](/files/PACCMAN/Research/pardsproasia-ii-pbw_tv-chart.pdf)
 
-[PARDSProAsia II Peep FiO2 table](files/PACCMAN/Research/pardsproasia-ii-peep-fio2-table.pdf)
+[PARDSProAsia II Peep FiO2 table](/files/PACCMAN/Research/pardsproasia-ii-peep-fio2-table.pdf)
 
 [PARDSProAsia II visual reminder](/files/PACCMAN/Research/pardsproasia-ii-visual-reminder.pdf)
 
