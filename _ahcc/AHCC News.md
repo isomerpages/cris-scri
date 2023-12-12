@@ -210,7 +210,7 @@ variant: markdown
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="https://www.a-star.edu.sg/News-and-Events/News/Press-releases/ID/5409/Doctors-a-step-closer-to-giving-liver-cancer-patients-a-more-precise-treatment.aspx">
+				 <a target="_blank" href="https://www.theonlinecitizen.com/2017/03/17/doctors-a-step-closer-to-give-liver-cancer-patients-more-healing-opportunities/">
 				 Doctors a step closer to giving liver cancer patients a more precise treatment  
 				 </a>
 			 </td>
@@ -310,7 +310,7 @@ variant: markdown
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="https://www.singhealth.com.sg/TomorrowsMed/Article/Pages/NationalCancerCentreSingaporeSignsMOUsforLiverCancerResearchCollaborations.aspx">
+				 <a target="_blank" href="https://www.healthxchange.sg/news/national-cancer-centre-singapore-signs-mous-for-liver-cancer-research-collaborations">
 				 National Cancer Centre Singapore signs MOUs for liver cancer research collaborations   
 				 </a>
 			 </td>
@@ -330,7 +330,7 @@ First in Asia to Develop Liver Cancer Registry Through Collaborations Among Nati
 		 </tr>
 		 <tr>
 			 <td>
-				 <a target="_blank" href="https://www.singhealth.com.sg/TomorrowsMed/Article/Pages/AHCCTrialsGroupunveilsnewinformationforlivercancertreatment.aspx">				 
+				 <a target="_blank" href="https://www.healthxchange.sg/news/ahcc-trials-group-unveils-new-information-for-liver-cancer-treatment">				 
 AHCC Trials Group unveils new information for liver cancer treatment    
 				 </a>
 			 </td>
