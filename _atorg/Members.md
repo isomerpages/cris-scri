@@ -2,6 +2,7 @@
 title: Members
 permalink: /atorg/members/
 description: ""
+variant: markdown
 ---
 #### **Executive Committee**
 <table>
@@ -29,7 +30,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>Daniel Tan</td>
+	<td><a href="/atorg-members/scientific-steering-committee/dr-daniel-s-w-tan/">Daniel Tan</a></td>
 <td>National Cancer Centre Singapore</td>
 </tr>
 <tr>
