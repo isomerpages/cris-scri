@@ -29,6 +29,8 @@ Members: Phan Huu Phuc and Judith Wong
 </ul>
 <strong>To join PACCMAN:</strong>
 We do not have a fixed criteria to join as member. We welcome anyone who is keen to collaborate and share common goal of developing best practices to improve survival in critically ill children in Asia. Please fill up this <a rel="noopener" target="_blank" href="/files/PACCMAN/paccman-member-registration-form_2022.pdf">form</a> and send it to <a href="mailto:patricia.tay@scri.cris.sg">patricia.tay@scri.cris.sg</a> if you are interested to join PACCMAN.
+
+
 <h4><strong>Current Members:</strong></h4>
 <table style="border-color: #000000;">
    <tbody>
@@ -43,22 +45,12 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td><a rel="noopener" target="_blank" href="/paccman-members/dr-qian-suyun/">Suyun Qian</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Chongqing, China</td>
          <td>Children's Hospital of Chongqing Medical University</td>
          <td>
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-xu-feng/">Xu Feng</a></div>
             <div>党红星</div>
          </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Guangzhou, China</td>
@@ -69,19 +61,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Henan, China</td>
          <td>zhengzhou Children’s Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-cheng-yibing/">Cheng Yibing</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Hubei, China</td>
@@ -89,19 +71,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-zhang-furong/">Zhang Furong</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Liaoning, China</td>
          <td>Shengjing hospital of China Medical University</td>
          <td>Liu Chunfeng</td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Shanghai, China</td>
@@ -111,11 +83,6 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-ming-meixiu/">Ming Meixiu</a></div>
             <div>Mary, Zhu Xuemei</div>
          </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Hong Kong</td>
@@ -128,11 +95,6 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Hong Kong</td>
          <td>Prince of Wales Hospital</td>
          <td>Cheung Hon Ming
@@ -140,19 +102,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Hong Kong</td>
          <td>Queen Mary Hospital</td>
          <td>Chow Chin Ying</td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>India</td>
@@ -163,11 +115,6 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Bali, Indonesia</td>
          <td>Sanglah Hospital Denpasar - Bali</td>
          <td>
@@ -176,22 +123,12 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Jakarta, Indonesia</td>
          <td>Pediatric Intensive Care Unit, Harapan Kita Women and Children Hospital</td>
          <td>
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-felix-liauw/">Felix Liauw</a></div>
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-pustika-efar/">Pustika Efar</a></div>
          </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Jakarta, Indonesia</td>
@@ -204,11 +141,6 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Malang, Jakarta</td>
          <td>
             <div>Saiful Anwar Hospital</div>
@@ -219,19 +151,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Sumatra, Indonesia</td>
          <td>Division of Emergency &amp; Pediatric Intensive Care, Child Health Department of Medical Faculty Sumatera Utara University</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-ririe-fachrina-malisie/">Ririe Fachrina Malisie</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Aichi, Japan</td>
@@ -239,19 +161,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-takanari-ikeyama/">Takanari Ikeyama</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Kobe, Japan</td>
          <td>Pediatric Critical Care Medicine, Kobe Children’s Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-hiroshi-kurosawa/">Hiroshi Kurosawa</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Tokyo, Japan</td>
@@ -265,29 +177,13 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Tokyo, Japan</td>
-         <td>St. Marianna University School of Medicine</td>
+         <td>St. Marianna University School<br> of Medicine</td>
          <td>
-            <table style="border-color: #000000;">
-               <tbody>
-                  <tr>
-                     <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-atsushi-kawaguchi/">Atsushi Kawaguchi</a></td>
-                  </tr>
-               </tbody>
-            </table>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-shinya-miura/">Shinya Miura</a></div>
+                     <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-atsushi-kawaguchi/">Atsushi Kawaguchi</a></div>
+										<div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-shinya-miura/">Shinya Miura</a></div>
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/prof-naoki-shimizu/">Naoki Shimizu</a></div>
-         </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
+	</td>
       </tr>
       <tr>
          <td>Tsukuba, Ibaraki, Japan</td>
@@ -298,29 +194,14 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Gwangju, Korea</td>
          <td>Chonnam National University Children’s Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-hwa-jin-cho/">Hwa Jin Cho</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Seoul, Korea</td>
          <td>Samsung Medical Center</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-joongbum-cho/">Joongbum Cho</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Ipoh, Malaysia</td>
@@ -330,19 +211,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>JB, Malaysia</td>
          <td>Sultan Aminah Hospital</td>
          <td>Lee Siew Wah</td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>KL, Malaysia</td>
@@ -357,11 +228,6 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>KL, Malaysia</td>
          <td>Universiti Kebangsaan Malaysia Medical Centre</td>
          <td>
@@ -371,11 +237,6 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>KL, Malaysia</td>
          <td>Women and Children's Hospital</td>
          <td>
@@ -383,19 +244,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Penang, Malaysia</td>
          <td>Penang Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-pon-kah-min/">Pon Kah Min</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Sarawak, Malaysia</td>
@@ -407,19 +258,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Pakistan</td>
          <td>Pediatric Criical Care Medicine, Aga Khan University</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-salab-abbas/">Qalab Abbas</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Batangas, Philippines</td>
@@ -427,19 +268,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-daisy-o-sanchez-mostiero/">Daisy O. Sanchez-Mostiero</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Cebu, Philippines</td>
          <td>Vicente Sotto Memorial Medical Center</td>
          <td>Audrey Anne Najarro</td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Manila, Philippines</td>
@@ -447,29 +278,14 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Florentina Ty</td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Manila, Philippines</td>
          <td>Philippine General Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-edward-vincent-s-faustino/">E. Vincent S. Faustino</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Saudi Arabia</td>
          <td>King Abdullah Specialized Children’s Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-yasser-mohammed-kazzaz/">Yasser Mohammed Kazzaz</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Singapore</td>
@@ -485,19 +301,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Singapore</td>
          <td>Duke - NUS</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/rehena-ganguly/">Rehena Ganguly</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Singapore</td>
@@ -508,29 +314,14 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Bangkok, Thailand</td>
          <td>Siriraj Hospital Mahidol University</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-suwannee-phumeetham/">Suwannee Phumeetham</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Bangkok, Thailand</td>
          <td>King Chulalongkorn Memorial Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-rujipat-samransamruajkit/">Rujipat Samransamruajkit</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Bangkok, Thailand</td>
@@ -541,19 +332,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          </td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Bangkok, Thailand</td>
          <td>Thammasat University Hospital</td>
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-chanapai-chaiyakulsil/">Chanapai Chaiyakulsil</a></td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Khon Kaen, Thailand</td>
@@ -561,19 +342,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Rattapon Uppala</td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Songkla, Thailand</td>
          <td>Prince of Songkla University, Songklanagarind Hospital</td>
          <td>Kantara Saelim</td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Hanoi, Vietnam</td>
@@ -581,19 +352,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-phan-huu-phuc/">Phan Huu Phuc</a></td>
       </tr>
       <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-      <tr>
          <td>Ho Chi Minh city, Vietnam</td>
          <td>Children's Hospital 2</td>
          <td>Bui Thanh Liem</td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
       </tr>
       <tr>
          <td>Ho Chi Minh city, Vietnam</td>
