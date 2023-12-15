@@ -51,7 +51,7 @@ variant: markdown
    <table>
       <tbody>
          <tr>
-            <td><a target="_blank" href="files/PAROS/SD_Data_Related_Documents/1_PAROS_Case_Report_Form.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
+            <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/1_PAROS_Case_Report_Form.pdf">PAROS Case Report Form (CRF) (version: 2.0, pdf format)</a></td>
          </tr>
          <tr>
             <td><a target="_blank" href="/files/PAROS/SD_Data_Related_Documents/3_PAROS_DataDictionary_taxonomy_10.pdf">PAROS Data Dictionary/Taxonomy (version 2.0)</a></td>
