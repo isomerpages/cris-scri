@@ -41,7 +41,7 @@ Study Proposals
          <td><a href="#">Paediatric OHCA Resuscitation Outcome (Tham Lai Peng)</a></td>
       </tr>
       <tr>
-         <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications/study_abstract_regional_variation_of_witnessed_vf_ohca-2.pdf">Regional Variation in Outcomes of Witnessed VF OHCA in Asia (Dr Tatsuya Nishiuchi)</a></td>
+         <td><a rel="noopener" target="_blank" href="/files/PAROS/Publications_Study_Proposals/study_abstract_regional_variation_of_witnessed_vf_ohca-2.pdf">Regional Variation in Outcomes of Witnessed VF OHCA in Asia (Dr Tatsuya Nishiuchi)</a></td>
       </tr>
       <tr>
          <td><a href="#">Characteristics and Outcomes of Young Adults who suffered an Out-of-Hospital Cardiac Arrest (Michael Chia)</a></td>
