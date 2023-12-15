@@ -20,7 +20,7 @@ variant: markdown
          <td><a href="/files/PAROS%20Presentations/7%20Oct%202021:%20PAROS%20EXCO%20Meeting/collaboration_the-impact-of-covid-19-on-ohca-in-asia.pdf">The Impact of COVID-19 on OHCA in Asia</a></td>
 		 </tr>
 		 <tr>
-         <td><a href="/files/PAROS%20Presentations/7%20Oct%202021:%20PAROS%20EXCO%20Meeting/Collaboration_The-impact-of-COVID-19-on-OHCA-in-Asia.pdf">GRA 10 Steps Study Updates</a></td>
+         <td><a href="/files/PAROS%20Presentations/7%20Oct%202021:%20PAROS%20EXCO%20Meeting/collaboration_the-impact-of-covid-19-on-ohca-in-asia.pdf">GRA 10 Steps Study Updates</a></td>
 		 </tr>
 	</tbody>
 </table>
