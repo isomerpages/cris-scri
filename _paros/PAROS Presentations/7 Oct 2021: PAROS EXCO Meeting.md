@@ -5,10 +5,11 @@ description: ""
 third_nav_title: PAROS Presentations
 variant: markdown
 ---
-<table>
+
+[]()<table>
    <tbody>
       <tr>
-         <td><a href="/files/PAROS/PAROS%20Presentations/7%20Oct%202021/exco-meeting-agenda.pdf">EXCO Meeting Agenda</a></td>
+         <td><a href="/files/PAROS%20Presentations/7%20Oct%202021:%20PAROS%20EXCO%20Meeting/exco-meeting-agenda.pdf">EXCO Meeting Agenda</a></td>
 		 </tr>
 		 <tr>
          <td><a href="/files/PAROS%20Presentations/7%20Oct%202021:%20PAROS%20EXCO%20Meeting/publication-committee-updates.pdf">Publication Committee Updates</a></td>
