@@ -24,10 +24,9 @@ Note: The data set is now available for secondary analysis and subjected to PARO
 
 <img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-proposal-submission-process-300x221.png" align="left" style="width:300px">
 
+<br><br><br><br><br><br>
+
 Note: Please use this&nbsp;[form](/files/PAROS/New_Study_Proposal_Template_2020.pdf)&nbsp;for submission
-
-<br><br><br>
-
 
 ## Study Timeline
 
