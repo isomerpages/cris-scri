@@ -52,4 +52,9 @@ sections:
         performing site selection for clinical trials. It includes ...
       button: Learn more
       url: /national-coordinating-body/master-clinical-trial-agreement/
+  - resources:
+      title: News and Workshops
+      subtitle: Resources
+      id: resources
+      button: View More
 ---
