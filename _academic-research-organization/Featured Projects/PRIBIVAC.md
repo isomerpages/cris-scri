@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Featured Projects
 variant: markdown
 ---
-PRIBIVAC is an adaptive, randomised, subject-blinded, controlled trial to assess a heterologous prime-boost-boost strategy in comparison with a homologous regimen in order to compare short and long-term immunogenicity of different COVID-19 vaccine combinations. It will help to address the following fundamental questions for the COVID-19 vaccination programs: Who needs a booster vaccination? How long after the primary series should it be administered? And, which vaccine should be used?
+**PRIBIVAC** is an adaptive, randomised, subject-blinded, controlled trial to assess a heterologous prime-boost-boost strategy in comparison with a homologous regimen in order to compare short and long-term immunogenicity of different COVID-19 vaccine combinations. It will help to address the following fundamental questions for the COVID-19 vaccination programs: Who needs a booster vaccination? How long after the primary series should it be administered? And, which vaccine should be used?
 
 Compared with other COVID-19 vaccination trials, PRIBIVAC is unique as
 
