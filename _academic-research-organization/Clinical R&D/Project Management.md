@@ -18,7 +18,8 @@ variant: markdown
 *   Proactively identify potential risks and develop mitigation plan to reduce disruptions and delays
     
 *   Main point of contact provides single source of information to the sponsor 
-    
+
+
 At SCRI, the clinical project managers support the Sponsor and Principal Investigator by managing intricate clinical trials operations so they can spend more time on what really matters, patient care. 
 
 Clinical project managers orchestrate various elements in clinical trials. We are meticulous in planning every phase of clinical trials from developing project plans, supporting protocol development, outlining timelines and milestones, conducting site feasibility, providing patient recruitment strategies, overseeing trial operations, monitoring and control to study close out. We craft a roadmap that not only meets trial objectives but also optimises time and resource allocation. This strategic planning of various clinical trials elements reduces ambiguity, streamlines processes, eases workload for the study team, and sets the stage for efficient trial progression. 
