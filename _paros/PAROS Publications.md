@@ -81,7 +81,6 @@ Study Proposals
       </tr>
    </tbody>
 </table>
-
 <table>
    <tbody>
       <tr>
@@ -141,7 +140,6 @@ Study Proposals
       </tr>
    </tbody>
 </table>
-
 <table>
    <tbody>
       <tr>
