@@ -37,21 +37,20 @@ sections:
       button: Learn More
       url: /about-us/about-us/
   - infopic:
+      title: About SCRI
+      description: The Singapore Clinical Research Institute (SCRI) is the national
+        academic research organisation dedicated to enhancing the standards of
+        clinical research ...
+      button: Learn More
+      alt: SCRI_Logo
+      url: /about-us/about-scri/
+      image: /images/Homepage/SCRI_Logo.jpg
+  - infobar:
       title: Master Clinical Trial Agreement
-      description: Clinical trial start-up time is one of the key considerations when
-        performing site selection for clinical trials. It includes time taken
-        for clinical ...
-      button: Learn More
-      alt: Image alt text
-      url: /national-coordinating-body/master-clinical-trial-agreement/
-  - infopic:
-      title: Clinical Trial Process Enhancement
-      description: The Clinical Trial Enhancement Process involves refining and
-        optimizing various aspects of clinical trials to ensure its
-        effectiveness and reliability.
-      button: Learn More
-      alt: Image alt text
-      url: /national-coordinating-body/clinical-trial-process-enhancement/
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: Clinical Research Network
       description: Clinical research network has become a critical platform to gather
@@ -60,12 +59,4 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /clinical-research-networks/overview/
-  - infopic:
-      title: SCRI Academy
-      description: The SCRI Academy was launched on 29 August 2017 by Dr Lam Pin Min,
-        Senior Minister State for Health, to serve as Singapore’s first national
-        learning ...
-      button: Learn more
-      alt: Image alt text
-      url: /national-coordinating-body/scri-academy/introduction/
 ---
