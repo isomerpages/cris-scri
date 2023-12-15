@@ -5,9 +5,7 @@ description: ""
 third_nav_title: PAROS Presentations
 variant: markdown
 ---
-
-
-[](/collaboration_out-of-hospital-cardiac-arrest-ohca-management-women.pdf)[EXCO Meeting Agenda](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/exco-meeting-agenda.pdf)
+[EXCO Meeting Agenda](/files/PAROS/PAROS%20Presentations/7%20Oct%202021/exco-meeting-agenda.pdf)
 
 [Publication Committee Updates](/files/PAROS%20Presentations/7%20Oct%202021:%20PAROS%20EXCO%20Meeting/publication-committee-updates.pdf)
 
