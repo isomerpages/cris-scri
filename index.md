@@ -12,7 +12,7 @@ description: >-
 
 
   This is accomplished through the deployment of innovative technologies and processes, and strategic coordination of ecosystem capabilities and infrastructure to achieve synergies that will enhance the clinical research ecosystem aimed towards a healthier community and better patient outcomes.
-image: /images/isomer-logo.svg
+image: /images/scri logo.png
 permalink: /
 notification: Registration for the Clinical Research Coordinator L1 Course is
   now open! (sample announcement)
