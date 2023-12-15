@@ -4,27 +4,23 @@ permalink: /paccman-members/dr-xu-feng/
 variant: markdown
 description: ""
 ---
-**Dr. Xu Feng**
+### Dr. Xu Feng
 
-Director
+Director <br>
+Critical Care Treatment Center and Intensive Care Medicine <br>
+Children's Hospital of Chongqing Medical University&nbsp;<br>
+China <br>
+Email:&nbsp;[xufeng9899@163.com](mailto:xufeng9899@163.com)
 
-Critical Care Treatment Center and Intensive Care Medicine
+#### Professional Experience:
 
-Children's Hospital of Chongqing Medical University 
-
-China
-
-Email: [xufeng9899@163.com](mailto:xufeng9899@163.com)
-
-**Professional Experience:**
-
-Current Position(s):
+**Current Position(s):**
 
 1.  Director, Critical Care Treatment Center, Children's Hospital of Chongqing Medical University, China
 2.  Director, Intensive Care Medicine, Children's Hospital of Chongqing Medical University, China
 3.  Professor, Chongqing Medical University, China
 
-Other Professional Activities (Current):
+**Other Professional Activities (Current):**
 
 1.  The pediatric branch of Chinese medical intensive care medicine consultant
 2.  The Chinese medical doctor association branch, vice President of children's intensive care medicine
