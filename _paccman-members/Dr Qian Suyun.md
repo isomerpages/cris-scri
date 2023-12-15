@@ -4,7 +4,7 @@ permalink: /paccman-members/dr-qian-suyun/
 variant: markdown
 description: ""
 ---
-<img src="/images/PACCMAN%20Pediatric%20Acute/Members/Dr_Qian_Suyun.jpg" style="width:200px">
+<img src="/images/PACCMAN%20Pediatric%20Acute/Members/Dr_Qian_Suyun.jpg" style="width:150px">
 
 ### Dr. Qian Suyun
 
