@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Featured Projects
 variant: markdown
 ---
-The Asian Myeloma Network (AMN) studies are a series of clinical trials on Asian patients with myeloma, plasma cell cancer. The Asian Myeloma Network was established by the International Myeloma Foundation (IMF) in 2011 to carry out clinical trials to bring promising new treatment to Asian Myeloma patients and help IMF in its physician education and patient support outreach in Asia. AMN members are mainly myeloma experts from several Asian countries and regions including Singapore, Japan, Korea, China, Hong Kong SAR, Taiwan, Malaysia and Thailand. 
+The **Asian Myeloma Network (AMN) studies** are a series of clinical trials on Asian patients with myeloma, plasma cell cancer. The Asian Myeloma Network was established by the International Myeloma Foundation (IMF) in 2011 to carry out clinical trials to bring promising new treatment to Asian Myeloma patients and help IMF in its physician education and patient support outreach in Asia. AMN members are mainly myeloma experts from several Asian countries and regions including Singapore, Japan, Korea, China, Hong Kong SAR, Taiwan, Malaysia and Thailand. 
 
 Myeloma, a plasma cell cancer is known to vary with ethnicity. While myeloma incidence for Asians used be relatively lower than for Caucasians, in recent years, Asian myeloma incidence has been fast approaching that for Caucasians, with myeloma becoming a growing health concern in Asia. As myeloma is one of the most common hematologic malignancies, there is a need to better understand the disease and identify effective treatments.
 
