@@ -2,4 +2,5 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Xu Feng.md
       - Dr Qian Suyun.md
