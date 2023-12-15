@@ -2,14 +2,12 @@
 title: Master Clinical Trial Agreement
 permalink: /national-coordinating-body/master-clinical-trial-agreement/
 description: ""
+variant: markdown
 ---
-**Clinical trial start-up time** is one of the key considerations when performing site selection for clinical trials. It includes time taken for clinical trial agreement negotiations, IRB approval, regulatory approval and site startup.  The time taken for negotiating the clinical trial agreements can go up to six (6) months. 
+**Clinical trial start-up time** is one of the key considerations when performing site selection for clinical trials. It includes time taken for clinical trial agreement negotiations, IRB approval, regulatory approval and site startup.  The time taken for negotiating the clinical trial agreements can go up to six (6) months. 
 
-  
+To address the slow contracting time due to legal issues, cost negotiations and response time, NCO has developed a master clinical trial agreement (MCTA) template for sponsored trials together with the Singapore Association for Pharmaceutical Industries (SAPI) and the three (3) public sector healthcare clusters (Singapore Health Services, National Health Group and National University Health System) to shorten contract review time. The terms and conditions in the MCTA template have been pre-negotiated between SAPI and the three (3) public sector healthcare clusters.
 
-To address the slow contracting time due to legal issues, cost negotiations and response time, NCO has developed master clinical trial agreement (MCTA) template for sponsored trials together with the Singapore Association for Pharmaceutical Industries (SAPI) and the three (3) public sector healthcare clusters (Singapore Health Services, National Health Group and National University Health System) to shorten the contract review time. The terms and conditions in the MCTA template have been pre-negotiated between SAPI and the three (3) public sector healthcare clusters.
-
-  
 
 **Who should be using the MCTA?**
 
