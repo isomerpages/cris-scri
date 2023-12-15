@@ -3,6 +3,7 @@ title: About R&D
 permalink: /academic-research-organization/clinical-randd/about-randd/
 description: ""
 third_nav_title: Clinical R&D
+variant: markdown
 ---
 Project management and monitoring are crucial aspects of clinical trials that contribute to their successful execution, data integrity, subject safety, and overall efficiency.
 
