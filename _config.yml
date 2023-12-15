@@ -62,9 +62,9 @@ plugins:
 staging: https://staging.d2ub3017uejw2j.amplifyapp.com
 prod: https://master.d2ub3017uejw2j.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/scri logo.png
 is_government: false
 google_analytics: ""
-google_analytics_ga4: ""
+google_analytics_ga4: G-DGDGY4NNDH
 linkedin-insights: ""
 resources_name: news-and-events
