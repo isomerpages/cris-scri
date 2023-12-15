@@ -26,21 +26,14 @@ third_nav_title: PAROS Presentations
       <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Data_Collection_and_Challenges.pdf">Data Collection and Challenges</a></td>
       </tr><tr></tr>
       <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Risk_Stratification_of_Outcome_Measures.pdf">Risk Stratification of Outcome Measures</a></td>
-      </tr><tr></tr>
-      <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/GRA_Introduction.pdf">GRA Introduction</a></td>
-      </tr><tr></tr>
-      <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Population_Metrics_and_Reporting.pdf">Population Metrics and Reporting</a></td>
-      </tr><tr></tr>
-      <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Data_Collection_and_Challenges.pdf">Data Collection and Challenges</a></td>
-      </tr><tr></tr>
-      <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Risk_Stratification_of_Outcome_Measures.pdf">Risk Stratification of Outcome Measures</a></td>
-      </tr><tr></tr>
+      </tr>
       <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Collaboration_Opportunities.pdf">Collaboration Opportunities</a></td>
       </tr><tr></tr>
       <tr><td><a href="/files/PAROS Presentations/29 30 Oct 2018: Singapore/Telephone_CPR_Metrics_and_Reporting.pdf">Telephone-CPR Metrics and Reporting</a></td>
       </tr>
    </tbody>
 </table>
+
 <h4>OHCA Registry Meeting Day 2</h4>
 <table>
    <tbody>
