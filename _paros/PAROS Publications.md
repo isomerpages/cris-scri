@@ -16,12 +16,9 @@ Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network (CRN) p
 
 <img src="/images/PAROS%20Pan%20Asian%20Resuscitation/paros-2-data-announcement-300x174.png" align="left" style="width:300px">
 
-<br><br>
+<br><br><br><br><br>
 
 Note: The data set is now available for secondary analysis and subjected to
-
-<br><br>
-
 PAROS EXCO approval. Please submit your research ideas to the PAROS secretariat using the form below.
 
 ### New/ Secondary Study Proposals Submission Process
