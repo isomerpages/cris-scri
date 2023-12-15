@@ -11,7 +11,7 @@ description: ""
 Attending Doctor <br>
 Beijing Children’s Hospital <br>
 Beijing, China <br>
-Email: syqian1211@163.com
+Email: [syqian1211@163.com](mailto:syqian1211@163.com)
 
 #### Professional Experience:
 
