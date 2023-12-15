@@ -3,6 +3,7 @@ title: ATOM3
 permalink: /academic-research-organization/featured-projects/atom3/
 description: ""
 third_nav_title: Featured Projects
+variant: markdown
 ---
 Singapore has one of the highest rates of myopia in the world. Short-sightedness affects 28 percent of children as young as seven years old, and the rate increases to 83 percent when they reach 18 years old.
 
