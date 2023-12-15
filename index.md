@@ -47,16 +47,9 @@ sections:
       image: /images/Homepage/SCRI_Logo.jpg
   - infobar:
       title: Master Clinical Trial Agreement
-      subtitle: Add informational text
       id: infobar
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Clinical Research Network
-      description: Clinical research network has become a critical platform to gather
-        clinical evidence that has not been possible in the past with single
-        sites.
-      button: Learn More
-      alt: Image alt text
-      url: /clinical-research-networks/overview/
+      description: Clinical trial start-up time is one of the key considerations when
+        performing site selection for clinical trials. It includes ...
+      button: Learn more
+      url: /national-coordinating-body/master-clinical-trial-agreement/
 ---
