@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Ririe Fachrina Malisie.md
       - Dr Kuniawan Taufiq Kadafi.md
       - Dr Saptadi Yuliarto.md
       - Dr Irene Yuniar.md
