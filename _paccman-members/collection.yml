@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Chong Shu Ling.md
       - Dr Fu Sheng.md
       - Dr Judith Wong Ju–Ming.md
       - Dr Lee Jan Hau.md
