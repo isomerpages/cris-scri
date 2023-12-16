@@ -2,5 +2,6 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Tao Jianping.md
       - Dr Xu Feng.md
       - Dr Qian Suyun.md
