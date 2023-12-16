@@ -69,7 +69,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
       <tr>
          <td>Hubei, China</td>
          <td>Wuhan Children’s Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-zhang-furong/">Zhang Furong</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-zhang-furong/">Zhang Furong</a></td>
       </tr>
       <tr>
          <td>Liaoning, China</td>
@@ -80,8 +80,8 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Shanghai, China</td>
          <td>Children's Hospital of Fudan University</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-lu-guoping/">Lu Guoping</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-ming-meixiu/">Ming Meixiu</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-lu-guoping/">Lu Guoping</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-ming-meixiu/">Ming Meixiu</a></div>
             <div>Mary, Zhu Xuemei</div>
          </td>
       </tr>
@@ -89,9 +89,9 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Hong Kong</td>
          <td>Hong Kong Children's Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/prof-ellis-hon/">Ellis Hon</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/prof-ellis-hon/">Ellis Hon</a></div>
             <div>Alvin Wun Fung HUI</div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-karen-ka-yan-leung/">Karen Ka Yan Leung</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-karen-ka-yan-leung/">Karen Ka Yan Leung</a></div>
             <div>Ku Shu Wing</div>
          </td>
       </tr>
@@ -111,7 +111,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>India</td>
          <td>Post graduate Institute of Medical Education and Research</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/prof-jayashree-m/">Jayashree M</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/prof-jayashree-m/">Jayashree M</a></div>
             <div>Arun Bansal</div>
          </td>
       </tr>
@@ -127,8 +127,8 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Jakarta, Indonesia</td>
          <td>Pediatric Intensive Care Unit, Harapan Kita Women and Children Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-felix-liauw/">Felix Liauw</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-pustika-efar/">Pustika Efar</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-felix-liauw/">Felix Liauw</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-pustika-efar/">Pustika Efar</a></div>
          </td>
       </tr>
       <tr>
@@ -137,8 +137,8 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
             <div>Cipto Mangunkusumo Hospital</div>
          </td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-yogi-prawira/">Yogi Prawira</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-irene-yuniar/">Irene Yuniar</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-yogi-prawira/">Yogi Prawira</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-irene-yuniar/">Irene Yuniar</a></div>
          </td>
       </tr>
       <tr>
@@ -147,31 +147,31 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
             <div>Saiful Anwar Hospital</div>
          </td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-saptadi-yuliarto/">Saptadi Yuliarto</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-kuniawan-taufiq-kadafi/">Kuniawan Taufiq Kadafi</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-saptadi-yuliarto/">Saptadi Yuliarto</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-kuniawan-taufiq-kadafi/">Kuniawan Taufiq Kadafi</a></div>
          </td>
       </tr>
       <tr>
          <td>Sumatra, Indonesia</td>
          <td>Division of Emergency &amp; Pediatric Intensive Care, Child Health Department of Medical Faculty Sumatera Utara University</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-ririe-fachrina-malisie/">Ririe Fachrina Malisie</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-ririe-fachrina-malisie/">Ririe Fachrina Malisie</a></td>
       </tr>
       <tr>
          <td>Aichi, Japan</td>
          <td>Aichi Children’s Health Medical Center</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-takanari-ikeyama/">Takanari Ikeyama</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-takanari-ikeyama/">Takanari Ikeyama</a></td>
       </tr>
       <tr>
          <td>Kobe, Japan</td>
          <td>Pediatric Critical Care Medicine, Kobe Children’s Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-hiroshi-kurosawa/">Hiroshi Kurosawa</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-hiroshi-kurosawa/">Hiroshi Kurosawa</a></td>
       </tr>
       <tr>
          <td>Tokyo, Japan</td>
          <td>Tokyo Metropolitan Children’s Medical Centre</td>
          <td>
             <div>Osamu Saito</div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/prof-naoki-shimizu/">Naoki Shimizu</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/prof-naoki-shimizu/">Naoki Shimizu</a></div>
             <div>Tadashi Kodani</div>
             <div>Ichiro Watanabe</div>
             <div>Mioko Kasagi</div>
@@ -181,8 +181,8 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Tokyo, Japan</td>
          <td>St. Marianna University School<br> of Medicine</td>
          <td>
-                     <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-atsushi-kawaguchi/">Atsushi Kawaguchi</a></div>
-										<div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-shinya-miura/">Shinya Miura</a></div>
+                     <div><a rel="noopener" target="_blank" href="/paccman-members/dr-atsushi-kawaguchi/">Atsushi Kawaguchi</a></div>
+										<div><a rel="noopener" target="_blank" href="/paccman-members/dr-shinya-miura/">Shinya Miura</a></div>
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/prof-naoki-shimizu/">Naoki Shimizu</a></div>
 	</td>
       </tr>
@@ -190,7 +190,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Tsukuba, Ibaraki, Japan</td>
          <td>University of Tsukuba Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/?page_id=6392&amp;preview=true">Yuki Enomoto</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-yuki-enomoto/">Yuki Enomoto</a></div>
             <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/mr-yujiro-matsuishi/">Yujiro Matsuishi</a></div>
          </td>
       </tr>
