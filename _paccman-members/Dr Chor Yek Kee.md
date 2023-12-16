@@ -4,30 +4,32 @@ permalink: /paccman-members/dr-chor-yek-kee/
 variant: markdown
 description: ""
 ---
+<img src="/images/PACCMAN%20Pediatric%20Acute/Members/Dr__Chor_Yek_Kee.jpg" style="width:150px">
+
 **Dr. Chor Yek Kee**
 
 Consultant
 
-Department of Pediatric, Sarawak General Hospital
+Department of Pediatric,&nbsp;Sarawak General Hospital
 
 Sarawak, Malaysia
 
-Email: [drchoryekee@hotmail.com](mailto:drchoryekee@hotmail.com)  
+Email:&nbsp;[drchoryekee@hotmail.com](mailto:drchoryekee@hotmail.com)  
 
 **Professional Experience:**
 
 **Current Position(s):**
 
-1.  Consultant Pediatric Intensivist  , Sarawak General Hospital, Malaysia
+1.  Consultant Pediatric Intensivist&nbsp; , Sarawak General Hospital, Malaysia
 2.  Founder of The Society For Critically Sick Kids (S.O.S.Kids ), Kuching, Sarawak
-3.  Instructor of WINFOCUS ( World Interactive Network Focused On Critical Ultrasound)  since 2014
+3.  Instructor of WINFOCUS ( World Interactive Network Focused On Critical Ultrasound)&nbsp; since 2014
 4.  Instructor for PERCUSS ( Pediatric Emergency and Critical Care Ultrasound Support ) since 2014
 
 **Previous Appointments:**
 
 July 1999 – July2000
 
-Internship in Pediatric, Surgery and O&G, Sarawak General Hospital
+Internship in Pediatric, Surgery and O&amp;G, Sarawak General Hospital
 
 July 2000 – Oct 2000
 
