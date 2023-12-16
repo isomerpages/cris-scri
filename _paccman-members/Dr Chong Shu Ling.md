@@ -18,7 +18,7 @@ Email:&nbsp;[Chong.Shu-Ling@kkh.com.sg](mailto:Chong.Shu-Ling@kkh.com.sg)
 
 **Professional Experience:**
 
-Current Position(s):
+**Current Position(s):**
 
 Staff Physician, Children’s Emergency Department, KK Women’s and Children’s Hospital, Singapore
 
