@@ -2,9 +2,9 @@ collections:
   paccman-members:
     output: true
     order:
-      - Dr Zhang Furong.md
-      - Dr Cheng Yibing.md
-      - Dr Huang Li.md
-      - Dr Tao Jianping.md
-      - Dr Xu Feng.md
       - Dr Qian Suyun.md
+      - Dr Xu Feng.md
+      - Dr Tao Jianping.md
+      - Dr Huang Li.md
+      - Dr Cheng Yibing.md
+      - Dr Zhang Furong.md
