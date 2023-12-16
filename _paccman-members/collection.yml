@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Prof Jayashree M.md
       - Dr Karen Ka Yan Leung.md
       - Prof Ellis Hon.md
       - Dr Ming Meixiu.md
