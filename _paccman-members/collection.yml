@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Suwannee Phumeetham.md
       - Dr Qian Suyun.md
       - Dr Xu Feng.md
       - Dr Tao Jianping.md
