@@ -4,6 +4,8 @@ permalink: /paccman-members/dr-gan-chin-seng/
 variant: markdown
 description: ""
 ---
+<img src="/images/PACCMAN%20Pediatric%20Acute/Members/Dr_Gan_Chin_Seng.jpg" style="width:150px">
+
 **Dr. Gan Chin Seng**
 
 Attending Professor
