@@ -2,13 +2,6 @@ collections:
   paccman-members:
     output: true
     order:
-      - Dr Joongbum Cho.md
-      - Dr Hwa Jin Cho.md
-      - Dr Anusha Devi Yogiswaran.md
-      - Dr Michelle Low Siu Yee.md
-      - Dr Justin Wang Qi Yuee.md
-      - Dr Chuah Soo Lin.md
-      - Dr Gan Chin Seng.md
       - Dr Qian Suyun.md
       - Dr Xu Feng.md
       - Dr Tao Jianping.md
@@ -34,3 +27,10 @@ collections:
       - Dr Shinya Miura.md
       - Dr Yuki Enomoto.md
       - Mr Yujiro Matsuishi.md
+      - Dr Hwa Jin Cho.md
+      - Dr Joongbum Cho.md
+      - Dr Gan Chin Seng.md
+      - Dr Chuah Soo Lin.md
+      - Dr Justin Wang Qi Yuee.md
+      - Dr Michelle Low Siu Yee.md
+      - Dr Anusha Devi Yogiswaran.md
