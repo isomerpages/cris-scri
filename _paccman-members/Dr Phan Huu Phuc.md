@@ -4,6 +4,8 @@ permalink: /paccman-members/dr-phan-huu-phuc/
 variant: markdown
 description: ""
 ---
+<img src="/images/PACCMAN%20Pediatric%20Acute/Members/Dr_Phan_Huu_Phuc.jpg" style="width:150px">
+
 **Dr. Phan Huu Phuc**
 
 Attending Physician
