@@ -183,7 +183,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>
                      <div><a rel="noopener" target="_blank" href="/paccman-members/dr-atsushi-kawaguchi/">Atsushi Kawaguchi</a></div>
 										<div><a rel="noopener" target="_blank" href="/paccman-members/dr-shinya-miura/">Shinya Miura</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/prof-naoki-shimizu/">Naoki Shimizu</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/prof-naoki-shimizu/">Naoki Shimizu</a></div>
 	</td>
       </tr>
       <tr>
@@ -191,18 +191,18 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>University of Tsukuba Hospital</td>
          <td>
             <div><a rel="noopener" target="_blank" href="/paccman-members/dr-yuki-enomoto/">Yuki Enomoto</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/mr-yujiro-matsuishi/">Yujiro Matsuishi</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/mr-yujiro-matsuishi/">Yujiro Matsuishi</a></div>
          </td>
       </tr>
       <tr>
          <td>Gwangju, Korea</td>
          <td>Chonnam National University Children’s Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-hwa-jin-cho/">Hwa Jin Cho</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-hwa-jin-cho/">Hwa Jin Cho</a></td>
       </tr>
       <tr>
          <td>Seoul, Korea</td>
          <td>Samsung Medical Center</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-joongbum-cho/">Joongbum Cho</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-joongbum-cho/">Joongbum Cho</a></td>
       </tr>
       <tr>
          <td>Ipoh, Malaysia</td>
@@ -220,11 +220,11 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>KL, Malaysia</td>
          <td>Universiti Malaysia Medical Centre</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-gan-chin-seng/">Gan Chin Seng</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-chuah-soo-lin/">Chuah Soo Lin</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-justin-wang-qi-yuee/">Justin Wang Qi Yuee</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-michelle-low-siu-yee/">Michelle Low Siu Yee</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-anusha-devi-yogiswaran/">Anusha Devi Yogiswaran</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-gan-chin-seng/">Gan Chin Seng</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-chuah-soo-lin/">Chuah Soo Lin</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-justin-wang-qi-yuee/">Justin Wang Qi Yuee</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-michelle-low-siu-yee/">Michelle Low Siu Yee</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-anusha-devi-yogiswaran/">Anusha Devi Yogiswaran</a></div>
             <div>Chee Yun Shan</div>
          </td>
       </tr>
@@ -232,41 +232,41 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>KL, Malaysia</td>
          <td>Universiti Kebangsaan Malaysia Medical Centre</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-tang-swee-fong/">Tang Swee Fong</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-lee-pei-cheun/">Lee Pei Chuen</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-tai-chian-wern/">Tai Chian Wern</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-tang-swee-fong/">Tang Swee Fong</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-lee-pei-cheun/">Lee Pei Chuen</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-tai-chian-wern/">Tai Chian Wern</a></div>
          </td>
       </tr>
       <tr>
          <td>KL, Malaysia</td>
          <td>Women and Children's Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-chong-jia-yueh/">Chong Jia Yueh</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-chong-jia-yueh/">Chong Jia Yueh</a></div>
          </td>
       </tr>
       <tr>
          <td>Penang, Malaysia</td>
          <td>Penang Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-pon-kah-min/">Pon Kah Min</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-pon-kah-min/">Pon Kah Min</a></td>
       </tr>
       <tr>
          <td>Sarawak, Malaysia</td>
          <td>Sarawak General Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-chor-yek-kee/">Chor Yek Kee</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-olive-lee-pei-ee/">Olive Lee Pei Ee</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-louise-ngu/">Louise Ngu</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-chor-yek-kee/">Chor Yek Kee</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-olive-lee-pei-ee/">Olive Lee Pei Ee</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-louise-ngu/">Louise Ngu</a></div>
          </td>
       </tr>
       <tr>
          <td>Pakistan</td>
          <td>Pediatric Criical Care Medicine, Aga Khan University</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-salab-abbas/">Qalab Abbas</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-salab-abbas/">Qalab Abbas</a></td>
       </tr>
       <tr>
          <td>Batangas, Philippines</td>
          <td>Batangas Medical Center</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-daisy-o-sanchez-mostiero/">Daisy O. Sanchez-Mostiero</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-daisy-o-sanchez-mostiero/">Daisy O. Sanchez-Mostiero</a></td>
       </tr>
       <tr>
          <td>Cebu, Philippines</td>
@@ -281,22 +281,22 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
       <tr>
          <td>Manila, Philippines</td>
          <td>Philippine General Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-edward-vincent-s-faustino/">E. Vincent S. Faustino</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-edward-vincent-s-faustino/">E. Vincent S. Faustino</a></td>
       </tr>
       <tr>
          <td>Saudi Arabia</td>
          <td>King Abdullah Specialized Children’s Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-yasser-mohammed-kazzaz/">Yasser Mohammed Kazzaz</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-yasser-mohammed-kazzaz/">Yasser Mohammed Kazzaz</a></td>
       </tr>
       <tr>
          <td>Singapore</td>
          <td>KK Women's and Children's Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-lee-jan-hau-2/">Lee Jan Hau</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-judith-wong-ju-ming/">Judith Wong Ju-Ming</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-lee-jan-hau-2/">Lee Jan Hau</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-judith-wong-ju-ming/">Judith Wong Ju-Ming</a></div>
             <div>Loh Tsee Foong</div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-fu-sheng/">Fu Sheng</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-chong-shu-ling-2/">Chong Shu Ling</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-fu-sheng/">Fu Sheng</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-chong-shu-ling-2/">Chong Shu Ling</a></div>
             <div>Chow Chu-Tian Cristelle</div>
             <div>Gene Ong</div>
          </td>
@@ -304,25 +304,25 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
       <tr>
          <td>Singapore</td>
          <td>Duke - NUS</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/rehena-ganguly/">Rehena Ganguly</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/rehena-ganguly/">Rehena Ganguly</a></td>
       </tr>
       <tr>
          <td>Singapore</td>
          <td>National University Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-jacqueline-ong-soo-may/">Jacqueline Ong Soo May</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-jacqueline-ong-soo-may/">Jacqueline Ong Soo May</a></div>
             <div>Fan Li Jia</div>
          </td>
       </tr>
       <tr>
          <td>Bangkok, Thailand</td>
          <td>Siriraj Hospital Mahidol University</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-suwannee-phumeetham/">Suwannee Phumeetham</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-suwannee-phumeetham/">Suwannee Phumeetham</a></td>
       </tr>
       <tr>
          <td>Bangkok, Thailand</td>
          <td>King Chulalongkorn Memorial Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-rujipat-samransamruajkit/">Rujipat Samransamruajkit</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-suwannee-phumeetham/">Rujipat Samransamruajkit</a></td>
       </tr>
       <tr>
          <td>Bangkok, Thailand</td>
