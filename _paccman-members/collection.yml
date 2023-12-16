@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Mr Yujiro Matsuishi.md
       - Dr Yuki Enomoto.md
       - Dr Shinya Miura.md
       - Dr Atsushi Kawaguchi.md
