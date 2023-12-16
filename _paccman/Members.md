@@ -49,7 +49,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Chongqing, China</td>
          <td>Children's Hospital of Chongqing Medical University</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-xu-feng/">Xu Feng</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-xu-feng/">Xu Feng</a></div>
             <div>党红星</div>
          </td>
       </tr>
@@ -57,14 +57,14 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
          <td>Guangzhou, China</td>
          <td>Guangzhou Women and Children’s Medical Center</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-tao-jianping/">Tao Jianping</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-huang-li/">Huang Li</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-tao-jianping/">Tao Jianping</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-huang-li/">Huang Li</a></div>
          </td>
       </tr>
       <tr>
          <td>Henan, China</td>
          <td>zhengzhou Children’s Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-cheng-yibing/">Cheng Yibing</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-cheng-yibing/">Cheng Yibing</a></td>
       </tr>
       <tr>
          <td>Hubei, China</td>
