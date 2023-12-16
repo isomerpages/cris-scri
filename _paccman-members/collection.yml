@@ -2,28 +2,28 @@ collections:
   paccman-members:
     output: true
     order:
-      - Mr Yujiro Matsuishi.md
-      - Dr Yuki Enomoto.md
-      - Dr Shinya Miura.md
-      - Dr Atsushi Kawaguchi.md
-      - Prof Naoki Shimizu.md
-      - Dr Hiroshi Kurosawa.md
-      - Dr Takanari Ikeyama.md
-      - Dr Ririe Fachrina Malisie.md
-      - Dr Kuniawan Taufiq Kadafi.md
-      - Dr Saptadi Yuliarto.md
-      - Dr Irene Yuniar.md
-      - Dr Yogi Prawira.md
-      - Dr Pustika Efar.md
-      - Dr Felix Liauw.md
-      - Prof Jayashree M.md
-      - Dr Karen Ka Yan Leung.md
-      - Prof Ellis Hon.md
-      - Dr Ming Meixiu.md
-      - Dr Lu Guoping.md
       - Dr Qian Suyun.md
       - Dr Xu Feng.md
       - Dr Tao Jianping.md
       - Dr Huang Li.md
       - Dr Cheng Yibing.md
       - Dr Zhang Furong.md
+      - Dr Lu Guoping.md
+      - Dr Ming Meixiu.md
+      - Prof Ellis Hon.md
+      - Dr Karen Ka Yan Leung.md
+      - Prof Jayashree M.md
+      - Dr Felix Liauw.md
+      - Dr Pustika Efar.md
+      - Dr Yogi Prawira.md
+      - Dr Irene Yuniar.md
+      - Dr Saptadi Yuliarto.md
+      - Dr Kuniawan Taufiq Kadafi.md
+      - Dr Ririe Fachrina Malisie.md
+      - Dr Takanari Ikeyama.md
+      - Dr Hiroshi Kurosawa.md
+      - Prof Naoki Shimizu.md
+      - Dr Atsushi Kawaguchi.md
+      - Dr Shinya Miura.md
+      - Dr Yuki Enomoto.md
+      - Mr Yujiro Matsuishi.md
