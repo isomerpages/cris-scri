@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Pon Kah Min.md
       - Dr Chong Jia Yueh.md
       - Dr Tai Chian Wern.md
       - Dr Lee Pei Cheun.md
