@@ -2,12 +2,6 @@ collections:
   paccman-members:
     output: true
     order:
-      - Dr Phan Huu Phuc.md
-      - Dr Chanapai Chaiyakulsil.md
-      - Dr Jarin Vaewapanich.md
-      - Dr Nattachai Anantasit.md
-      - Dr Rujipat Samransamruajkit.md
-      - Dr Suwannee Phumeetham.md
       - Dr Qian Suyun.md
       - Dr Xu Feng.md
       - Dr Tao Jianping.md
@@ -58,3 +52,9 @@ collections:
       - Dr Chong Shu Ling.md
       - Rehena Ganguly.md
       - Dr Jacqueline Ong Soo May.md
+      - Dr Suwannee Phumeetham.md
+      - Dr Rujipat Samransamruajkit.md
+      - Dr Nattachai Anantasit.md
+      - Dr Jarin Vaewapanich.md
+      - Dr Chanapai Chaiyakulsil.md
+      - Dr Phan Huu Phuc.md
