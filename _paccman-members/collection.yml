@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Phan Huu Phuc.md
       - Dr Chanapai Chaiyakulsil.md
       - Dr Jarin Vaewapanich.md
       - Dr Nattachai Anantasit.md
