@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Lee Jan Hau.md
       - Dr Yasser Mohammed Kazzaz.md
       - Dr Edward Vincent S Faustino.md
       - Dr Qian Suyun.md
