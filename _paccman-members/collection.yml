@@ -2,16 +2,6 @@ collections:
   paccman-members:
     output: true
     order:
-      - Dr Daisy O Sanchez–Mostiero.md
-      - Dr Qalab Abbas.md
-      - Dr Louise Ngu.md
-      - Dr Olive Lee Pei Ee.md
-      - Dr Chor Yek Kee.md
-      - Dr Pon Kah Min.md
-      - Dr Chong Jia Yueh.md
-      - Dr Tai Chian Wern.md
-      - Dr Lee Pei Cheun.md
-      - Dr Tang Swee Fong.md
       - Dr Qian Suyun.md
       - Dr Xu Feng.md
       - Dr Tao Jianping.md
@@ -44,3 +34,13 @@ collections:
       - Dr Justin Wang Qi Yuee.md
       - Dr Michelle Low Siu Yee.md
       - Dr Anusha Devi Yogiswaran.md
+      - Dr Tang Swee Fong.md
+      - Dr Lee Pei Cheun.md
+      - Dr Tai Chian Wern.md
+      - Dr Chong Jia Yueh.md
+      - Dr Pon Kah Min.md
+      - Dr Chor Yek Kee.md
+      - Dr Olive Lee Pei Ee.md
+      - Dr Louise Ngu.md
+      - Dr Qalab Abbas.md
+      - Dr Daisy O Sanchez–Mostiero.md
