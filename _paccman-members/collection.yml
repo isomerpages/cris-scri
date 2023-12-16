@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Yogi Prawira.md
       - Dr Pustika Efar.md
       - Dr Felix Liauw.md
       - Prof Jayashree M.md
