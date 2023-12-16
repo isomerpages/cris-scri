@@ -2,14 +2,6 @@ collections:
   paccman-members:
     output: true
     order:
-      - Dr Jacqueline Ong Soo May.md
-      - Rehena Ganguly.md
-      - Dr Chong Shu Ling.md
-      - Dr Fu Sheng.md
-      - Dr Judith Wong Ju–Ming.md
-      - Dr Lee Jan Hau.md
-      - Dr Yasser Mohammed Kazzaz.md
-      - Dr Edward Vincent S Faustino.md
       - Dr Qian Suyun.md
       - Dr Xu Feng.md
       - Dr Tao Jianping.md
@@ -52,3 +44,11 @@ collections:
       - Dr Louise Ngu.md
       - Dr Qalab Abbas.md
       - Dr Daisy O Sanchez–Mostiero.md
+      - Dr Edward Vincent S Faustino.md
+      - Dr Yasser Mohammed Kazzaz.md
+      - Dr Lee Jan Hau.md
+      - Dr Judith Wong Ju–Ming.md
+      - Dr Fu Sheng.md
+      - Dr Chong Shu Ling.md
+      - Rehena Ganguly.md
+      - Dr Jacqueline Ong Soo May.md
