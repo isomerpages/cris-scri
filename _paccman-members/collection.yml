@@ -2,6 +2,7 @@ collections:
   paccman-members:
     output: true
     order:
+      - Dr Hwa Jin Cho.md
       - Dr Anusha Devi Yogiswaran.md
       - Dr Michelle Low Siu Yee.md
       - Dr Justin Wang Qi Yuee.md
