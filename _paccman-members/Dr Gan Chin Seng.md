@@ -26,9 +26,7 @@ Current Position(s):
 2.  Pediatric intensivist, National Specialist Registry
 3.  Consultant Pediatrician, University Malaya Medical Centre (UMMC)
 
-Previous Appointments:
-
-Previous Appointments:
+**Previous Appointments:**
 
 1998	Member, Karnataka Medical Association<br>
 1998	Member, Fellowship of Academy of General Education, Manipal, India<br>
