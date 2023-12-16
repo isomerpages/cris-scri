@@ -4,6 +4,8 @@ permalink: /paccman-members/dr-xu-feng/
 variant: markdown
 description: ""
 ---
+<img src="/images/PACCMAN%20Pediatric%20Acute/Members/Dr_Xu_Feng.jpg" style="width:150px">
+
 ### Dr. Xu Feng
 
 Director <br>
