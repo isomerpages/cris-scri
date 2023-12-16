@@ -322,20 +322,20 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
       <tr>
          <td>Bangkok, Thailand</td>
          <td>King Chulalongkorn Memorial Hospital</td>
-         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-suwannee-phumeetham/">Rujipat Samransamruajkit</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-rujipat-samransamruajkit/">Rujipat Samransamruajkit</a></td>
       </tr>
       <tr>
          <td>Bangkok, Thailand</td>
          <td>Ramathibodi Hospital</td>
          <td>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-nattachai-anantasit/">Nattachai Anantasit</a></div>
-            <div><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-jarin-vaewapanich/">Jarin Vaewpanich</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-nattachai-anantasit/">Nattachai Anantasit</a></div>
+            <div><a rel="noopener" target="_blank" href="/paccman-members/dr-jarin-vaewapanich/">Jarin Vaewpanich</a></div>
          </td>
       </tr>
       <tr>
          <td>Bangkok, Thailand</td>
          <td>Thammasat University Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-chanapai-chaiyakulsil/">Chanapai Chaiyakulsil</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-chanapai-chaiyakulsil/">Chanapai Chaiyakulsil</a></td>
       </tr>
       <tr>
          <td>Khon Kaen, Thailand</td>
@@ -350,7 +350,7 @@ We do not have a fixed criteria to join as member. We welcome anyone who is keen
       <tr>
          <td>Hanoi, Vietnam</td>
          <td>Vietnam National Children's Hospital</td>
-         <td><a rel="noopener" target="_blank" href="https://www.scri.edu.sg/dr-phan-huu-phuc/">Phan Huu Phuc</a></td>
+         <td><a rel="noopener" target="_blank" href="/paccman-members/dr-phan-huu-phuc/">Phan Huu Phuc</a></td>
       </tr>
       <tr>
          <td>Ho Chi Minh city, Vietnam</td>
