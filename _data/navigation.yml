@@ -6,23 +6,6 @@ links:
     collection: national-coordinating-body
   - title: Academic Research Organization
     collection: academic-research-organization
-  - title: CLINICAL RESEARCH NETWORKS
-    url: /clinical-research-networks/overview/
-    sublinks:
-      - title: AHCC
-        url: /ahcc/about-ahcc/
-      - title: PIBD
-        url: /pibd/about-asian-pibd-research-network/
-      - title: ATORG
-        url: /atorg/about-atorg/
-      - title: DRAGoN
-        url: /dragon/about-dragon/
-      - title: GCGS
-        url: /gcgs/about-gcgs/
-      - title: PACCMAN
-        url: /paccman/about-paccman/
-      - title: PAROS
-        url: /paros/about-paros/
   - title: News & Events
     resource_room: true
   - title: Contact Us
