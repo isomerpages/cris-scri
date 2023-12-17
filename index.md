@@ -36,6 +36,7 @@ sections:
       subtitle: In search of Better Treatments for our Patients
       button: Learn More
       url: /about-us/about-us/
+      variant: center
   - infopic:
       title: About SCRI
       description: The Singapore Clinical Research Institute (SCRI) is the national
