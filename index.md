@@ -21,18 +21,18 @@ sections:
       title: Welcome to SCRI
       background: /images/Homepage/scri-web-banner_1400-468_b.jpg
       key_highlights:
-        - title: Academic Research Organization
+        - title: Featured Projects
           description: ""
-          url: /academic-research-organization/about-academic-research-organization/
-        - title: Public Sector Partners
+          url: /academic-research-organization/featured-projects/atom3/
+        - title: CLINICAL RESEARCH NETWORKS
           description: ""
-          url: /about-us/our-partners/public-sector-partners/
-        - title: Industry Partners
-          description: ""
-          url: /about-us/our-partners/industry-partners/
+          url: /clinical-research-networks/overview/
         - title: Master Clinical Trial Agreement
           description: ""
           url: /national-coordinating-body/master-clinical-trial-agreement/
+        - title: SCRI Academy
+          description: ""
+          url: /national-coordinating-body/scri-academy/introduction/
       subtitle: In search of Better Treatments for our Patients
       button: Learn More
       url: /about-us/about-us/
