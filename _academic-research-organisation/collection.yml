@@ -2,7 +2,7 @@ collections:
   academic-research-organisation:
     output: true
     order:
-      - About Academic Research Organization.md
+      - About Academic Research Organisation.md
       - HEOR/.keep
       - HEOR/Health Economics.md
       - HEOR/Health Outcomes.md
