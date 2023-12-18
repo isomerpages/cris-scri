@@ -1,5 +1,5 @@
 collections:
-  academic-research-organization:
+  academic-research-organisation:
     output: true
     order:
       - About Academic Research Organization.md
