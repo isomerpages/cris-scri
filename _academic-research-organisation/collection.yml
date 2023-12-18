@@ -1,0 +1,30 @@
+collections:
+  academic-research-organisation:
+    output: true
+    order:
+      - About Academic Research Organisation.md
+      - HEOR/.keep
+      - HEOR/Health Economics.md
+      - HEOR/Health Outcomes.md
+      - Data & Technology/About Data and Technology.md
+      - Data & Technology/.keep
+      - Data & Technology/Biostatistics.md
+      - Data & Technology/Data Management.md
+      - Data & Technology/Research Informatics.md
+      - Clinical R&D/About R&D.md
+      - Clinical R&D/.keep
+      - Clinical R&D/Project Management.md
+      - Clinical R&D/Research Monitoring.md
+      - Featured Projects/.keep
+      - Featured Projects/ATOM3.md
+      - Featured Projects/S–CATCH.md
+      - Featured Projects/CPPL–DSO–2018.md
+      - Featured Projects/EMPOWER.md
+      - Featured Projects/NIH20–0006.md
+      - Featured Projects/PRIBIVAC.md
+      - Featured Projects/AMN Network.md
+      - Featured Projects/ACORN'HAI.md
+      - Featured Projects/MUC–1.md
+      - Featured Projects/ACTIV3.md
+      - Featured Projects/TRUNCATE.md
+      - Featured Projects/CEA PsyEdu.md

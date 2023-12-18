@@ -1,0 +1,10 @@
+collections:
+  atorg:
+    output: true
+    order:
+      - About ATORG.md
+      - Members.md
+      - Research Projects.md
+      - Publications.md
+      - Events.md
+      - Contact Us.md
