@@ -32,10 +32,12 @@ sections:
         - title: SCRI Academy
           description: ""
           url: /national-coordinating-body/scri-academy/introduction/
-      subtitle: In search of Better Treatments for our Patients
+      subtitle: In search of better treatments for our patients
       button: Learn More
       url: /about-us/about-scri/
-      variant: center
+      variant: side
+      backgroundColor: gray
+      size: md
   - infopic:
       title: About SCRI
       description: The Singapore Clinical Research Institute (SCRI) is the national
