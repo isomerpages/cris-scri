@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PAROS Event Photos/.keep
-      - PAROS Event Photos.md
       - About PAROS.md
       - Research.md
       - Members/.keep
