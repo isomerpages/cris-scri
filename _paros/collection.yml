@@ -2,6 +2,7 @@ collections:
   paros:
     output: true
     order:
+      - PAROS Event Photos/Hong Kong Meeting (10 June 2014).md
       - PAROS Event Photos/Hangzhou Meeting (27 March 2015).md
       - PAROS Event Photos/PAROS Event Photo List.md
       - PAROS Event Photos/.keep
