@@ -22,7 +22,7 @@ variant: markdown
 			</td>
 			<td style="width:33%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">
-				<b>Mr SOH GIM TEIK</b>
+				<b>MR SOH GIM TEIK</b>
 				<br><br>Member<br>CRIS Board
 			</td>
 			<td style="width:33%">
