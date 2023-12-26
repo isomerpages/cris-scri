@@ -9,7 +9,7 @@ variant: markdown
 		<img style="width:200px" src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
 </div>
 <div align="center">
-	<b>Mr Peter Ho (Chairman)</b>
+	<b>PROFESSOR JOHN LIM</b>
 </div>
 
 <table>
