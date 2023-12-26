@@ -2,4 +2,5 @@ collections:
   anah:
     output: true
     order:
+      - Members.md
       - About ANAH.md
