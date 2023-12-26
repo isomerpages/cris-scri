@@ -2,6 +2,7 @@ collections:
   anah-members:
     output: true
     order:
+      - Members/Dr Sum Satha.md
       - Members/Dr Alice Yong Moi Ling.md
       - Members/.keep
       - Executive Committee/Prof Dr Norela Sukor.md
