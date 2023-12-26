@@ -2,6 +2,7 @@ collections:
   anah:
     output: true
     order:
+      - How to Join Us.md
       - Events.md
       - Resources (steroid card).md
       - Publications.md
