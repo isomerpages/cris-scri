@@ -3,6 +3,7 @@ title: Board Oversight Committee
 permalink: /about-us/leadership/board-oversight-committee/
 description: ""
 third_nav_title: Leadership
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -10,7 +11,7 @@ third_nav_title: Leadership
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
 				<b>PROFESSOR JOHN CW LIM</b>
-				<br><br>Chairman,<br>Consortium for Clinical Research &amp; Innovation Singapore<br><br>Senior Advisor,Ministry of Health<br><br>Executive Director, Centre of Regulatory Excellence, Duke-NUS Medical School
+				<b><br><br>BOC Chair<br>Executive Director, CoRE, Duke-NUS GMS<br>Chairman CRIS</b>
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg">
@@ -49,4 +50,3 @@ PROFESSOR BENJAMIN SEET</b>
 		</tr>
 	</tbody>
 	</table>
-	
