@@ -25,3 +25,5 @@ Adult and pediatric steroid cards can be downloaded from this page. The cards wi
 * Malay
 * Khmer 
 * Myanmar
+
+![](/images/ANAH%20ASEAN%20Network%20of%20Adrenal/steroid_card.png)
