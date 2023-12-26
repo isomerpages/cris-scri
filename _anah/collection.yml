@@ -2,10 +2,10 @@ collections:
   anah:
     output: true
     order:
-      - How to Join Us.md
-      - Events.md
-      - Resources (steroid card).md
-      - Publications.md
-      - Research.md
-      - Members.md
       - About ANAH.md
+      - Members.md
+      - Research.md
+      - Publications.md
+      - Resources (steroid card).md
+      - Events.md
+      - How to Join Us.md
