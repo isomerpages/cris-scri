@@ -16,12 +16,12 @@ variant: markdown
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg">
 				<b>PROFESSOR TAN SAY BENG</b>
-				<br><br>Executive Director, National Medical Research Council, Ministry of Health Group Chief Research Officer, SingHealth Senior Associate Dean, Research, Duke-NUS Medical School
+				<br><br>Executive Director<br>National Medical Research Council
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">
-				<b>PROFESSOR JOHN CW LIM</b>
-				<br><br>Partner, <br>Finix Corporate Advisory LLP
+				<b>MR SOH GIM TEIK</b>
+				<br><br><br>Member<br>CRIS Board
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-matthew-ng_2.jpg">
