@@ -2,10 +2,10 @@ collections:
   anah:
     output: true
     order:
+      - About ANAH.md
+      - Members/.keep
       - Members/Executive Committee.md
       - Members/Members.md
-      - Members/.keep
-      - About ANAH.md
       - Research.md
       - Publications.md
       - Resources (steroid card).md
