@@ -8,4 +8,4 @@ We welcome anyone who is keen to collaborate and share a common goal with us. Yo
 
 The application will be reviewed by the ANAH EXCO and is subjected to ANAH EXCO’s approval. [yiling.teo@scri.cris.sg](mailto:yiling.teo@scri.cris.sg)
 
-<img src="/images/ANAH%20ASEAN%20Network%20of%20Adrenal/join_us_qr_code.png" style="width:150px">
+<img src="/images/ANAH%20ASEAN%20Network%20of%20Adrenal/join_us_qr_code.png" style="width:150px" align="left">
