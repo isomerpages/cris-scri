@@ -24,28 +24,27 @@ variant: markdown
 				<br><br><br>Member<br>CRIS Board
 			</td>
 			<td style="width:25%">
-				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-matthew-ng_2.jpg">
-				<b>A/PROFESSOR MATTHEW NG</b>
-				<br><br>Clinical and Scientific Director, Investigational Medicine Unit,  <br>SingHealth
-			</td>
-		</tr>
-		<tr>
-			<td style="width:25%">
-				<img src="/images/Leadership/Board%20Oversight%20Committee/dr-khoo-chin-meng_2.jpg">
-				<b>DR KHOO CHIN MENG</b>
-				<br><br>Director, Investigational Medicine Unit,  
-National University Health System
-			</td>
-			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg">
 				<b> 
 PROFESSOR BENJAMIN SEET</b>
 				<br><br>Deputy Group CEO (Education &amp; Research),  <br>National Healthcare Groupc<br><br>Assistant CEO (Corporate Services), Tan Tock Seng Hospital
 			</td>
+		</tr>
+		<tr>
 			<td style="width:25%">
-				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-chong-yap-seng_2.jpg">
-				<b>PROFESSOR CHONG YAP SENG</b>
-				<br><br>Dean, Yong Loo Lin School of Medicine, <br>National University of Singapore
+				<img src="/images/Leadership/Board%20Oversight%20Committee/tan_ker_kan.png">
+				<b>Assoc Prof Tan Ker Kan</b>
+				<br><br>Vice Chairman<br>(Research)<br>National University Hospital Medical Board
+			</td>
+			<td style="width:25%">
+				<img src="/images/Leadership/Board%20Oversight%20Committee/prof_lim_soon_thye.png">
+				<b>Prof Lim Soon Thye</b>
+				<br><br>Deputy Group CEO<br>(Clinical)<br>SingHealth
+			</td>
+			<td style="width:25%">
+				<img src="/images/Leadership/Board%20Oversight%20Committee/dan_yock_young_img.jpg">
+				<b>A/Prof Dan Yock Young</b>
+				<br><br>Deputy Director<br>General of Health<br>(Health Services)<br>MOH
 			</td>
 		</tr>
 	</tbody>
