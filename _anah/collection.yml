@@ -2,6 +2,7 @@ collections:
   anah:
     output: true
     order:
+      - Members/Members.md
       - Members/.keep
       - About ANAH.md
       - Research.md
