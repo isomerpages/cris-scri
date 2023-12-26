@@ -1,4 +1,5 @@
 collections:
   anah-members:
     output: true
-    order: []
+    order:
+      - Prof Dr Norela Sukor.md
