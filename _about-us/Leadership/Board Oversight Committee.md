@@ -27,7 +27,7 @@ variant: markdown
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg">
 				<b> 
 PROFESSOR BENJAMIN SEET</b>
-				<br><br>Deputy Group CEO (Education &amp; Research),  <br>National Healthcare Groupc<br><br>Assistant CEO (Corporate Services), Tan Tock Seng Hospital
+				<br><br>Deputy Group CEO<br>(Education &amp; Research)<br>National Healthcare Group
 			</td>
 		</tr>
 		<tr>
