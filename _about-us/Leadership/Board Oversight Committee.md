@@ -10,23 +10,22 @@ variant: markdown
 		<tr>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
-				<b>PROFESSOR JOHN CW LIM</b>
+				<b>Prof John Lim</b>
 				<br><br>BOC Chair<br>Executive Director, CoRE, Duke-NUS GMS<br>Chairman CRIS
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg">
-				<b>PROFESSOR TAN SAY BENG</b>
+				<b>Prof Tan Say Beng</b>
 				<br><br>Executive Director<br>National Medical Research Council
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">
-				<b>MR SOH GIM TEIK</b>
+				<b>Mr Soh Gim Teik</b>
 				<br><br><br>Member<br>CRIS Board
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg">
-				<b> 
-PROFESSOR BENJAMIN SEET</b>
+				<b>Prof Benjamin Seet</b>
 				<br><br>Deputy Group CEO<br>(Education &amp; Research)<br>National Healthcare Group
 			</td>
 		</tr>
