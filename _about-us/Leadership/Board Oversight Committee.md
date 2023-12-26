@@ -21,7 +21,7 @@ variant: markdown
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/soh-gim-teik-2016-ar-01-01-1.jpg">
 				<b>Mr Soh Gim Teik</b>
-				<br><br><br>Member<br>CRIS Board
+				<br><br>Member<br>CRIS Board
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-benjamin-seet_2.jpg">
