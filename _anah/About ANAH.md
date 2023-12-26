@@ -23,3 +23,11 @@ To create a platform for clinicians, scientists, and healthcare professionals, t
 •	Adrenal tumours: Adrenocortical carcinoma, Adrenal incidentalomas
 
 •	Adrenal Insufficiency
+
+### Mission
+
+To improve health outcomes and quality of life in individuals affected by Adrenal Hypertension throughout the ASEAN region.
+
+### Vision
+
+ANAH aspires that every individual with Adrenal Hypertension can receive timely and equitable access to care, resources and support.
