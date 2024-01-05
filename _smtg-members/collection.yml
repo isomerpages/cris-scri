@@ -1,0 +1,4 @@
+collections:
+  smtg-members:
+    output: true
+    order: []
