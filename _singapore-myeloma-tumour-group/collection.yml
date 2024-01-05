@@ -2,5 +2,6 @@ collections:
   singapore-myeloma-tumour-group:
     output: true
     order:
+      - List of Clinical Trials.md
       - Publications.md
       - Contact Us.md
