@@ -2,4 +2,5 @@ collections:
   smtg-members:
     output: true
     order:
+      - Dr Cao Ling.md
       - Dr Allison Tso.md
