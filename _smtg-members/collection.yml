@@ -1,4 +1,5 @@
 collections:
   smtg-members:
     output: true
-    order: []
+    order:
+      - Dr Allison Tso.md
