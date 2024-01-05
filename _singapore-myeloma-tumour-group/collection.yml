@@ -2,6 +2,7 @@ collections:
   singapore-myeloma-tumour-group:
     output: true
     order:
+      - About SMTG.md
       - Members.md
       - Consensus Guideline.md
       - List of Clinical Trials.md
