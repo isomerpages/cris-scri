@@ -2,8 +2,8 @@ collections:
   anah:
     output: true
     order:
-      - Members.md
       - About ANAH.md
+      - Members.md
       - Research.md
       - Publications.md
       - Resources (steroid card).md
