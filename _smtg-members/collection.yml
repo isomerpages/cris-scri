@@ -2,6 +2,7 @@ collections:
   smtg-members:
     output: true
     order:
+      - Dr Cinnie Soekojo.md
       - Dr Chen Yunxin.md
       - Prof Goh Yeow Tee.md
       - Dr Nicholas Francis Grigoropoulos.md
