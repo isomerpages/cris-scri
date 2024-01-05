@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Executive Committee/.keep
-      - Executive Committee/Prof Dr Norela Sukor.md
       - Executive Committee/Prof Leilani B Mercado Asis.md
       - Members/.keep
       - Members/Dr Alice Yong Moi Ling.md
