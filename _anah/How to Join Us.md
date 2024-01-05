@@ -1,13 +1,7 @@
 ---
 title: How to Join Us
 permalink: /anah/how-to-join-us/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-We welcome anyone who is keen to collaborate and share a common goal with us. You can either fill up the member registration form and/or contact the Network Secretariat [yiling.teo@scri.cris.sg](mailto:yiling.teo@scri.cris.sg).
-
-The application will be reviewed by the ANAH EXCO and is subjected to ANAH EXCO’s approval. [yiling.teo@scri.cris.sg](mailto:yiling.teo@scri.cris.sg)
-
-<img src="/images/ANAH%20ASEAN%20Network%20of%20Adrenal/join_us_qr_code.png" style="width:150px" align="left">
-
-Link to [registration form](https://imsva91-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fdocs.google.com%2fforms%2fd%2fe%2f1FAIpQLScS393RnVSXMvaJrtlOLwLVC2gAMACpXW%5f%5fTVayylwygG1%5fzw%2fviewform%3fusp%3dsf%5flink&amp;umid=60CB3857-0821-D206-84E0-122DFA8C5AC7&amp;auth=6e3fe59570831a389716849e93b5d483c90c3fe4-c3b0cab286a3bb4858be7db79ac76bd95de3cbe7) 
+<p>We welcome anyone who is keen to collaborate and share a common goal with us. You can either fill up the member registration form and/or contact the Network Secretariat at <a href="mailto:yiling.teo@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">yiling.teo@scri.cris.sg</a>.</p><p>The application will be reviewed by the ANAH EXCO and is subjected to ANAH EXCO’s approval. </p><div class="isomer-image-wrapper"><img style="width:150px" height="auto" width="100%" src="/images/ANAH%20ASEAN%20Network%20of%20Adrenal/join_us_qr_code.png"></div><p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLScS393RnVSXMvaJrtlOLwLVC2gAMACpXW__TVayylwygG1_zw/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a> or scan QR code to access the registration form</p>
