@@ -4,7 +4,6 @@ collections:
     order:
       - Members.md
       - About ANAH.md
-      - Members/.keep
       - Research.md
       - Publications.md
       - Resources (steroid card).md
