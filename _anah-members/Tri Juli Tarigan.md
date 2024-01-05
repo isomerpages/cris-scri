@@ -4,3 +4,4 @@ permalink: /anah-members/tri-juli-tarigan/
 variant: tiptap
 description: ""
 ---
+<p>pending</p>
