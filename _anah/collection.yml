@@ -2,7 +2,7 @@ collections:
   anah:
     output: true
     order:
-      - About ANAH.md
+      - About ASEAN Network of Adrenal Hypertension.md
       - Members.md
       - Research.md
       - Publications.md
