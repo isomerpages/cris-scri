@@ -3,18 +3,6 @@ title: Overview
 permalink: /clinical-research-networks/overview/
 description: ""
 third_nav_title: Clinical Research Network
-variant: markdown
+variant: tiptap
 ---
-**Clinical research network** has become a critical platform to gather clinical evidence that has not been possible in the past with single sites. SCRI’s development of networks in the Asia-Pacific region provides engagement opportunities in critically important and relevant research for diseases of Asian significance. Networks facilitate and enhance the collaborative partnerships between academia, industry and the government. SCRI assists in connecting investigators with research interests in the same disease areas. We further support networks with our operational capabilities. SCRI endeavours to provide network participants the opportunity to develop high-impact research questions, acquire funding and be part of high quality research. Presently, the nine clinical research networks established are:
-
-*   The Asia-Pacific Hepatocellular Carcinoma (AHCC) Trials Group
-*   ADVANcing Clinical Evidence in Infectious Disease (ADVANCE ID) Network (webpage under construction)
-*   [Asian Myeloma Network (AMN)](https://www.myeloma.org/asian-myeloma-network)
-*   Singapore Myeloma Tumour Group (SMTG)
-*   Asian Pediatrics Inflammatory Bowel Disease (PIBD) Research Network
-*   Asian Thoracic Oncology Research Group (ATORG)
-*   Deciphering Diversities: Renal Asian Genetics Network (DRAGoN)
-*   GyneCologic Cancer Group Singapore (GCGS)
-*   Pediatric Acute & Critical Care Medicine Asian Network (PACCMAN)
-*   Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network 
-*   ASEAN Network of Adrenal Hypertension (ANAH)
+<p><strong>Clinical research network</strong> has become a critical platform to gather clinical evidence that has not been possible in the past with single sites. SCRI’s development of networks in the Asia-Pacific region provides engagement opportunities in critically important and relevant research for diseases of Asian significance. Networks facilitate and enhance the collaborative partnerships between academia, industry and the government. SCRI assists in connecting investigators with research interests in the same disease areas. We further support networks with our operational capabilities. SCRI endeavours to provide network participants the opportunity to develop high-impact research questions, acquire funding and be part of high quality research. Presently, the nine clinical research networks established are:</p><ul data-tight="true" class="tight"><li><p>The Asia-Pacific Hepatocellular Carcinoma (AHCC) Trials Group</p></li><li><p>ADVANcing Clinical Evidence in Infectious Disease (ADVANCE ID) Network (webpage under construction)</p></li><li><p><a href="https://www.myeloma.org/asian-myeloma-network" rel="noopener noreferrer nofollow" target="_blank">Asian Myeloma Network&nbsp;(AMN)</a></p></li><li><p>Singapore Myeloma Tumour Group (SMTG)</p></li><li><p>Asian Pediatrics Inflammatory Bowel Disease (PIBD) Research Network</p></li><li><p>Asian Thoracic Oncology Research Group (ATORG)</p></li><li><p>Deciphering Diversities: Renal Asian Genetics Network (DRAGoN)</p></li><li><p>GyneCologic Cancer Group Singapore (GCGS)</p></li><li><p>Pediatric Acute &amp; Critical Care Medicine Asian Network (PACCMAN)</p></li><li><p>Pan-Asian Resuscitation Outcomes Study (PAROS) Clinical Research Network</p></li><li><p>ASEAN Network of Adrenal Hypertension (ANAH)</p></li></ul><p></p>
