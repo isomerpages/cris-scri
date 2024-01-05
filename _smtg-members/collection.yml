@@ -2,6 +2,7 @@ collections:
   smtg-members:
     output: true
     order:
+      - Prof Goh Yeow Tee.md
       - Dr Nicholas Francis Grigoropoulos.md
       - Dr Melinda Tan.md
       - Dr Cao Ling.md
