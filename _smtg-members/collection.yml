@@ -2,6 +2,7 @@ collections:
   smtg-members:
     output: true
     order:
+      - Dr Daryl Tan.md
       - Dr Melissa Ooi.md
       - Dr Widanalage Sanjay Prasad De Mel.md
       - Dr Cinnie Soekojo.md
