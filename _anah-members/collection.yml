@@ -2,6 +2,7 @@ collections:
   anah-members:
     output: true
     order:
+      - Sarat Sunthornyothin.md
       - Dr Troy Puar.md
       - Prof Dr Norela Sukor.md
       - Prof Leilani B Mercado Asis.md
