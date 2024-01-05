@@ -2,4 +2,5 @@ collections:
   singapore-myeloma-tumour-group:
     output: true
     order:
+      - Publications.md
       - Contact Us.md
