@@ -2,11 +2,11 @@ collections:
   anah:
     output: true
     order:
-      - Resources/Steroid Cards.md
-      - Resources/.keep
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
       - Research.md
       - Publications.md
+      - Resources/.keep
+      - Resources/Steroid Cards.md
       - Events.md
       - How to Join Us.md
