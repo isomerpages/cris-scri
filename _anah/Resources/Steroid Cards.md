@@ -19,12 +19,8 @@ Adult and pediatric steroid cards can be downloaded from this page. The cards wi
 * [Burmese](/files/ANAH/Adult_Steroid_Card_Myanmar.pdf)
 
 **Pediatric Steroid Cards**
-* English 
-* Chinese 
-* Vietnamese
-* Thai
-* Malay
-* Khmer 
-* Myanmar
-
-![](/images/ANAH%20ASEAN%20Network%20of%20Adrenal/steroid_card.png)
+* [English](/files/ANAH/Pediatric_Steroid_Card_English.pdf)
+* [Chinese](/files/ANAH/Pediatric_Steroid_Card_Chinese.pdf)
+* [Vietnamese](/files/ANAH/Pediatric_Steroid_Card_Vietnam.pdf)
+* [Khmer](/files/ANAH/Pediatric_Steroid_Card_Cambodia.pdf)
+* [Burmese](/files/ANAH/Pediatric_Steroid_Card_Myanmar.pdf)
