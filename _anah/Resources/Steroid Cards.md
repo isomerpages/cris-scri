@@ -7,7 +7,7 @@ third_nav_title: Resources
 ---
 ##### Adrenal Steroid Card in local languages 
 
-People suffering from adrenal insufficiency need to consistently take their steroid replacement medications.  Failure to do so, or acute illness, can lead to life-threatening adrenal crisis. In collaboration with AdrenalNET (adrenals.eu), ANAH has developed steroid emergency cards translated to local languages.
+People suffering from adrenal insufficiency need to consistently take their steroid replacement medications.  Failure to do so, or acute illness, can lead to life-threatening adrenal crisis. In collaboration with [AdrenalNet (adrenals.edu)](https://adrenals.eu/), ANAH has developed steroid emergency cards translated to local languages.
 
 Adult and pediatric steroid cards can be downloaded from this page. The cards will be updated from time to time. More cards, where available, may also be added to this page.  
 
