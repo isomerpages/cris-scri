@@ -2,6 +2,7 @@ collections:
   national-coordinating-body:
     output: true
     order:
+      - SCRI Academy/The Essentials of Clinical Trials for Investigators.md
       - SCRI Academy/.keep
       - SCRI Academy/Introduction.md
       - SCRI Academy/Past and Present Collaborations.md
