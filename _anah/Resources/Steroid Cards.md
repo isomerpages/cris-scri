@@ -10,13 +10,13 @@ third_nav_title: Resources
 Adult and pediatric steroid cards can be downloaded from this page. The cards will be updated from time to time. More cards, where available, may also be added to this page.  
 
 **Adult Steroid Cards**
-* English 
-* Chinese 
-* Vietnamese
-* Thai
-* Malay
-* Khmer 
-* Myanmar
+* [English](/files/ANAH/Adult_Steroid_Card.pdf)
+* [Chinese](/files/ANAH/Adult_Steroid_Card_Chinese.pdf)
+* [Vietnamese](/files/ANAH/Adult_Steroid_Card_Vietnam.pdf)
+* [Thai](/files/ANAH/Adult_Steroid_Card_Thailand.pdf)
+* [Malay](/files/ANAH/Adult_Steroid_Card_Malaysia.pdf)
+* [Khmer](/files/ANAH/Adult_Steroid_Card_Cambodia.pdf) 
+* [Burmese](/files/ANAH/Adult_Steroid_Card_Myanmar.pdf)
 
 **Pediatric Steroid Cards**
 * English 
