@@ -26,3 +26,6 @@ Adult and pediatric steroid cards can be downloaded from this page. The cards wi
 * [Vietnamese](/files/ANAH/Pediatric_Steroid_Card_Vietnam.pdf)
 * [Khmer](/files/ANAH/Pediatric_Steroid_Card_Cambodia.pdf)
 * [Burmese](/files/ANAH/Pediatric_Steroid_Card_Myanmar.pdf)
+
+ANAH shares close relations with the European Adrenal Network, a platform where local patient and advocacy organisations team up to share knowledge. Information on the European Adrenal Network and its members can be found on its [website](https://adrenals.eu/european-adrenal-network/).
+
