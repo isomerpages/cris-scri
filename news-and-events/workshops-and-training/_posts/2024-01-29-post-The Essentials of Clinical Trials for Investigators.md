@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture1.png">
 </div>
 <p>This is a 16-week online self-paced course that will equip a clinician
 investigator with the essential skills in navigating through the clinical
