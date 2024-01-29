@@ -27,7 +27,8 @@ within 16 weeks at your own pace.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Topic</p>
+<p><strong>Topic</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore version</strong>
