@@ -32,6 +32,10 @@ of clinical trials.</p>
 how to effectively carry out the above duties mentioned, as well as gauge
 protocol feasibility, draw up study budgets, conduct safety reporting to
 site closure.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interactive virtual games made learning fun and participants got to know one another better" src="/images/Resources/News 2023/2023_09_07___SCRI_CRC_L1_Sep_2.jpeg">
+</div>
 <p>To-date, over 280 junior CRCs have been trained and SCRI Academy welcomed
 another 30 junior CRCs to the 11th cohort of CRC Level 1 Programme in September
 2023.</p>
