@@ -4,7 +4,11 @@ title: "Cochrane Workshop 2023: Basic Systematic Review and Meta Analysis and
 permalink: /news-and-events/news/cochraneworkshop2023/
 date: 2023-07-10
 layout: post
-description: ""
+description: In collaboration with Cochrane Singapore and National University
+  Singapore (NUS), the Singapore Clinical Research Institute (SCRI) Epidemiology
+  team conducted two virtual workshops titled “Basic Systematic Review and
+  Meta-Analysis” (10 – 13 Jul 2023) and “Introduction to Network Meta-Analysis”
+  (17 – 20 Jul 2023).
 image: /images/Resources/News 2023/2023_07_13_Cochrane_ShiLuming.jpg
 variant: tiptap
 ---
