@@ -11,7 +11,7 @@ description: Clinical Research Coordinator Level 1 Programme (September 2023
 image: ""
 variant: tiptap
 ---
-<p><strong>Clinical Research Coordinator Level 1 Programme (September 2023 intake)</strong>
+<p><strong>Empowering CRCs with Essential Skills for Effective Clinical Trial Management</strong>
 </p>
 <p>Clinical research coordinators (CRC) play a pivotal role in running clinical
 trials, managing various responsibilities daily to ensure the smooth progress
