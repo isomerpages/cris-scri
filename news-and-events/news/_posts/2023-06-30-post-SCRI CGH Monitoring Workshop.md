@@ -7,11 +7,11 @@ description: SCRI CGH Monitoring Workshop
 image: /images/Resources/News 2023/2023_06_20_SCRI_CGH_Monitoring_workshop.jpg
 variant: tiptap
 ---
-<p><strong>Research Office staff enrich their professional skills at SCRI-CGH Monitoring Workshop</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2023-06-30 SCRI CGH Monitoring workshop" src="/images/Resources/News 2023/2023_06_20_SCRI_CGH_Monitoring_workshop.jpg">
 </div>
+<p><strong>Research Office staff enrich their professional skills at SCRI-CGH Monitoring Workshop</strong>
+</p>
 <p>SCRI Academy collaborated with Changi General Hospital (CGH) to conduct
 a monitoring workshop on 20, 22 and 30 June 2023 for four staff from the
 CGH Research Office (RO).</p>
