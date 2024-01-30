@@ -76,8 +76,5 @@ conflict management.</p>
 skills and refined their soft skills in mentorship and communication. This
 will help them mentor their team as well as manage various stakeholders
 such as principal investigators, study sponsors and trial site managers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2023/2023_08_17_Participants_Takeaways.JPG">
-</div>
 <p>Congratulations to all CRCs who completed the programme and we wish you
 all the best in your career ahead!</p>
