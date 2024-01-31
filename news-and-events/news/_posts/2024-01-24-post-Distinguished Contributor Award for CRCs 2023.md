@@ -20,8 +20,8 @@ in 2019, and there were 34 nominations received from the public healthcare
 institutions.</p>
 <p>Presented by the Singapore Clinical Research Institute (SCRI), the Distinguished
 Contributor Award recognises exceptional clinical research coordinators
-for their commitment, dedication and significant contributions to the profession
-and clinical research community.</p>
+for their commitment and significant contributions which bring value to
+clinical research.</p>
 <p>CRCs form the bedrock of Singapore’s clinical research ecosystem. They
 are instrumental in not just driving clinical research but more importantly,
 ensuring the quality of the clinical research studies.</p>
