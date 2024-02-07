@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Member Photos/Chandramouli_Nagarajan.png">
 </div>
-<h4>Profile</h4>
+<h4><strong>Profile</strong></h4>
 <p>Dr. Chandramouli is a Senior Consultant Hematologist and Transplant Physician
 in the Department of Hematology at Singapore General Hospital (SGH) and
 National Cancer Center Singapore (NCCS).</p>
@@ -33,7 +33,7 @@ University of California San Francisco.</p>
 <p>His other area of interest is medical education. He is an RCP accredited
 Educator and has served as the Programme Director for SingHealth Hematology
 Senior Residency Programme from 2018 – Jun 2023.</p>
-<h4>Affiliations:</h4>
+<h4><strong>Affiliations</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Senior Consultant, Dept. of&nbsp;Hematology. Singapore General Hospital
