@@ -1,5 +1,5 @@
 collections:
-  singapore-myeloma-tumour-group:
+  singapore-myeloma-study-group:
     output: true
     order:
       - About SMTG.md
