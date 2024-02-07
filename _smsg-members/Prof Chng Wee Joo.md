@@ -8,9 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Member Photos/MTG___Prof_Chng_Wee_Joo.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Myeloma Tumour Group/Member Photos/MTG___Prof_Chng_Wee_Joo.png">
-</div>
 <h4><strong>Prof Chng Wee Joo</strong></h4>
 <p>MB ChB, PhD, FRCP (UK), FRCPath (UK), FAMS</p>
 <h4><strong>Profile</strong></h4>
