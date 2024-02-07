@@ -1,5 +1,5 @@
 collections:
-  smtg-members:
+  smsg-members:
     output: true
     order:
       - Prof Chng Wee Joo.md
