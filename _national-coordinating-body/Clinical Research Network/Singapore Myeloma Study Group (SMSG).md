@@ -11,4 +11,4 @@ clinical trials to bring promising new treatment to Singapore Myeloma patients
 and help the myeloma networks in Asia as well as International Myeloma
 Foundation (IMF) in its physician education and patient support outreach
 in Singapore.</p>
-<p><a href="/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
+<p><a href="/singapore-myeloma-study-group/about/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
