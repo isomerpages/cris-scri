@@ -5,12 +5,15 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Member Photos/Chandramouli_Nagarajan.png">
+</div>
 <h4>Profile</h4>
 <p>Dr. Chandramouli is a Senior Consultant Hematologist and Transplant Physician
-in the Department of Hematology at Singapore General Hospital and National
-Cancer Center Singapore.</p>
+in the Department of Hematology at Singapore General Hospital (SGH) and
+National Cancer Center Singapore (NCCS).</p>
 <p>After completing undergraduate and post graduate education from India
-and the United Kingdom he subspecialized in Hematology before moving to
+and the United Kingdom, he subspecialized in Hematology before moving to
 Singapore. He serves as the Director / Sub-Specialty Lead for Multiple
 Myeloma and Lymphoma in SGH and SingHealth-Duke NUS Blood Cancer Center.
 He has a passion for conducting clinical trials especially using novel
