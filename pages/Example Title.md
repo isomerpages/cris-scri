@@ -3,10 +3,11 @@ title: Example Title
 permalink: /about-us/permalink/
 description: ""
 ---
+
 <h3 id="board-members"><strong>Board Members</strong></h3>
 <div class="row">
     <div class="col is-4">
-        <img alt="Bob TAN Beng Hai" src="https://d33wubrfki0l68.cloudfront.net/f175b29ddd023fb255e196c203fcfd278639b758/d998c/images/who-we-are/organisational-structure/mrbobtanbenghai.jpg">
+        <img alt="Bob TAN Beng Hai" src="/images/Who We Are/Organisational Structure/mrbobtanbenghai.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
@@ -21,7 +22,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="THIEN Kwee Eng" src="https://d33wubrfki0l68.cloudfront.net/8a0c28637795f457100d4385b0c8e2aeec2bd73d/1545f/images/who-we-are/organisational-structure/thien-kwee-engupdated.jpg">
+        <img alt="THIEN Kwee Eng" src="/images/Who We Are/Organisational Structure/thien-kwee-engupdated.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -32,7 +33,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="ANG Shih-Huei" src="https://d33wubrfki0l68.cloudfront.net/2dd133e8dad32e6dd1022ecebe1e66f50e681184/1b384/images/who-we-are/organisational-structure/angshihhuei.jpg">
+        <img alt="ANG Shih-Huei" src="/images/Who We Are/Organisational Structure/angshihhuei.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">ANG Shih-Huei</p>
@@ -43,7 +44,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Angelene CHAN" src="https://d33wubrfki0l68.cloudfront.net/d8599bc1f697fa24140795c171bae5d89bf662b0/94f81/images/who-we-are/organisational-structure/angelene_chan.jpg">
+        <img alt="Angelene CHAN" src="/images/Who We Are/Organisational Structure/angelene_chan.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Angelene CHAN</p>
@@ -54,7 +55,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Guna CHELLAPPAN" src="https://d33wubrfki0l68.cloudfront.net/e0af952e338383ed33faee21717b93c86e4d724a/cc78f/images/who-we-are/organisational-structure/guna_chellappan.jpg">
+        <img alt="Guna CHELLAPPAN" src="/images/Who We Are/Organisational Structure/guna_chellappan.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Guna CHELLAPPAN</p>
@@ -65,7 +66,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Adrian CHUA" src="https://d33wubrfki0l68.cloudfront.net/5349231778aa7a244bf0397e69546f944814e5b9/b6f60/images/who-we-are/organisational-structure/adrian_chua.jpg">
+        <img alt="Adrian CHUA" src="/images/Who We Are/Organisational Structure/adrian_chua.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Adrian CHUA</p>
@@ -76,7 +77,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Mariam JAAFAR" src="https://d33wubrfki0l68.cloudfront.net/3c4183226841bfa62ed346b4cc11558a3eaee3d8/01784/images/who-we-are/organisational-structure/mariam_jaafar.jpg">
+        <img alt="Mariam JAAFAR" src="/images/Who We Are/Organisational Structure/mariam_jaafar.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mariam JAAFAR</p>
@@ -87,7 +88,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Benjamin Stewart KING" src="https://d33wubrfki0l68.cloudfront.net/45066f470868e9687640c7b4d6588fbf83611d29/256a7/images/who-we-are/organisational-structure/board-benjamin-king.jpg">
+        <img alt="Benjamin Stewart KING" src="/images/Who We Are/Organisational Structure/board-benjamin-king.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>
@@ -98,7 +99,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Kevin KWOK" src="https://d33wubrfki0l68.cloudfront.net/3134d781f665798dc107bf1e39b852241722f8ef/342cf/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg">
+        <img alt="Kevin KWOK" src="/images/Who We Are/Organisational Structure/bod-kevin-kwok.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>
@@ -109,7 +110,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Andrew LIM" src="https://d33wubrfki0l68.cloudfront.net/aec19702bc3471ac48768f732938c74bce38b6fc/e16cd/images/who-we-are/organisational-structure/mrandrewlim.jpeg">
+        <img alt="Andrew LIM" src="/images/Who We Are/Organisational Structure/mrandrewlim.jpeg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew LIM</p>
@@ -120,7 +121,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Geraldine LOW" src="https://d33wubrfki0l68.cloudfront.net/460f0cb73ad8b9e7b5c8b56887f9d5939aa07664/06303/images/who-we-are/organisational-structure/board-geraldine-low-updated.jpg">
+        <img alt="Geraldine LOW" src="/images/Who We Are/Organisational Structure/board-geraldine-low-updated.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>
@@ -131,7 +132,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Melissa Ow" src="https://d33wubrfki0l68.cloudfront.net/f247318fa0d9cafe8cfd50ac743b4c469745da61/d964b/images/who-we-are/organisational-structure/melissa_ow.png">
+        <img alt="Melissa Ow" src="/images/Who We Are/Organisational Structure/melissa_ow.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Melissa OW</p>
@@ -142,7 +143,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Michael SYN" src="https://d33wubrfki0l68.cloudfront.net/7bb9c2e9bc5f30aca68b3c082a0c97961bc5cbba/faf6e/images/who-we-are/organisational-structure/michael_syn.jpg">
+        <img alt="Michael SYN" src="/images/Who We Are/Organisational Structure/michael_syn.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael SYN</p>
@@ -153,7 +154,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Keith TAN" src="https://d33wubrfki0l68.cloudfront.net/7fcdb87f688289e12ee93ee5abe4aaba28f6268e/3183d/images/who-we-are/organisational-structure/mrkeithtan.jpg">
+        <img alt="Keith TAN" src="/images/Who We Are/Organisational Structure/mrkeithtan.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
@@ -164,7 +165,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Keith TAN" src="https://d33wubrfki0l68.cloudfront.net/ea7a120795abfaa8fb8121b1202196da43af2310/7373f/images/who-we-are/organisational-structure/ron_tan.png">
+        <img alt="Keith TAN" src="/images/Who We Are/Organisational Structure/ron_tan.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ron TAN Aik Ti</p>
@@ -179,7 +180,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="CHIN Sak Hin" src="https://d33wubrfki0l68.cloudfront.net/2368aaf6d97fc3c7c296418f09bc9584665a5030/a01d9/images/who-we-are/organisational-structure/mrchinsakhin.jpg">
+        <img alt="CHIN Sak Hin" src="/images/Who We Are/Organisational Structure/mrchinsakhin.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHIN Sak Hin</p>
@@ -189,7 +190,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="HEAH Soon Poh" src="/images/who-we-are/organisational-structure/soon poh.png">
+        <img alt="HEAH Soon Poh" src="/images/Who We Are/Organisational Structure/soon poh.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>
@@ -199,7 +200,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Michael MA" src="https://d33wubrfki0l68.cloudfront.net/4b8e4cf995ad8272fec142f33677aa49b254c334/3520c/images/who-we-are/organisational-structure/set-michael-ma.jpg">
+        <img alt="Michael MA" src="/images/Who We Are/Organisational Structure/set-michael-ma.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael MA</p>
@@ -209,7 +210,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Mira BHARIN" src="https://d33wubrfki0l68.cloudfront.net/eabe6eafee7d4391caec428fa7f39fa3e79c0876/a1110/images/who-we-are/organisational-structure/set-mira-bharin.jpg">
+        <img alt="Mira BHARIN" src="/images/Who We Are/Organisational Structure/set-mira-bharin.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mira BHARIN</p>
@@ -219,7 +220,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="CHAN Beng Kiat" src="https://d33wubrfki0l68.cloudfront.net/641da88f6b107be161bfea68e36972126bab4349/20d0c/images/who-we-are/organisational-structure/set_chan_beng_kiat.jpg">
+        <img alt="CHAN Beng Kiat" src="/images/Who We Are/Organisational Structure/set_chan_beng_kiat.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHAN Beng Kiat</p>
@@ -229,7 +230,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="CHEW Tiong Heng" src="https://d33wubrfki0l68.cloudfront.net/e95be5352532ec6111755a1b3a6758d58ec5a596/6caf3/images/who-we-are/organisational-structure/set-chew-tiong-heng.jpg">
+        <img alt="CHEW Tiong Heng" src="/images/Who We Are/Organisational Structure/set-chew-tiong-heng.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Tiong Heng</p>
@@ -239,7 +240,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="KOH Piak Huat" src="https://d33wubrfki0l68.cloudfront.net/2c5ecb853bddcd8ff5677ef01895ae5d974a23ab/2c233/images/who-we-are/organisational-structure/mrkohpiakhuat.jpg">
+        <img alt="KOH Piak Huat" src="/images/Who We Are/Organisational Structure/mrkohpiakhuat.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
@@ -249,7 +250,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="LAM Yue Kwai" src="https://d33wubrfki0l68.cloudfront.net/98660ff0b366f158eb8eda864c122d730727c0bc/3732b/images/who-we-are/organisational-structure/mrlamyuekwai.jpg">
+        <img alt="LAM Yue Kwai" src="/images/Who We Are/Organisational Structure/mrlamyuekwai.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>
@@ -259,7 +260,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="LEE Cheh Hsien" src="https://d33wubrfki0l68.cloudfront.net/8a68adc008c5ca690cd67d8c2a9dac27fb60a079/e5e63/images/who-we-are/organisational-structure/leechehhsien.jpg">
+        <img alt="LEE Cheh Hsien" src="/images/Who We Are/Organisational Structure/leechehhsien.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
@@ -269,7 +270,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Linda LEE" src="https://d33wubrfki0l68.cloudfront.net/92a8d27fb7050f6cc0811fa28c22408cd3598880/e4b07/images/who-we-are/organisational-structure/mslindalee.jpg">
+        <img alt="Linda LEE" src="/images/Who We Are/Organisational Structure/mslindalee.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
@@ -279,7 +280,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Gary NG" src="https://d33wubrfki0l68.cloudfront.net/e5e4c704f419d9cbc87b58ca4f5d49977413b316/c1c92/images/who-we-are/organisational-structure/set-gary-ng.jpg">
+        <img alt="Gary NG" src="/images/Who We Are/Organisational Structure/set-gary-ng.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>
@@ -289,7 +290,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Raymond YEO" src="https://d33wubrfki0l68.cloudfront.net/9769948f7d4b5b3c5225e0eafeae5fdf0b7ca2ba/52b39/images/who-we-are/organisational-structure/setraymondyeo_cropped.png">
+        <img alt="Raymond YEO" src="/images/Who We Are/Organisational Structure/setraymondyeo_cropped.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Raymond YEO</p>
@@ -299,7 +300,7 @@ description: ""
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Andy JOHNSTON" src="https://d33wubrfki0l68.cloudfront.net/c60b669b1f1052a271f19de93d059b39525297e5/0ca3b/images/who-we-are/organisational-structure/mrandyjohnston.jpg">
+        <img alt="Andy JOHNSTON" src="/images/Who We Are/Organisational Structure/mrandyjohnston.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andy JOHNSTON</p>
