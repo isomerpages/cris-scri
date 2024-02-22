@@ -1,0 +1,12 @@
+logo: /images/scri logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: National Coordinating Body
+    collection: national-coordinating-body
+  - title: Academic Research Organisation
+    collection: academic-research-organisation
+  - title: News & Events
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/

@@ -1,0 +1,8 @@
+---
+title: Goa Meeting (17 October 2014)
+permalink: /paros/paros-event-photos/goa-meeting-17-october-2014/
+variant: tiptap
+description: ""
+third_nav_title: PAROS Event Photos
+---
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAROS Event Photos/Goa Meeting (17 10 2014)/EMS_Dispatcher_workshop_by_the_sea.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Associate_PAROS_member_Dr_Zhou_Sheng_Ang_giving_an_update_on_the_progress_of_PAROS_in_Zhejiang" src="/images/PAROS Event Photos/Goa Meeting (17 10 2014)/Associate_PAROS_member_Dr_Zhou_Sheng_Ang_giving_an_update_on_the_progress_of_PAROS_in_Zhejiang_China.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Associate_PAROS_member_Dr_Hoang_Trong_Ai_Quoc_giving_an_update_on_the_progress_of_PAROS_in_Hue_Viet" src="/images/PAROS Event Photos/Goa Meeting (17 10 2014)/Associate_PAROS_member_Dr_Hoang_Trong_Ai_Quoc_giving_an_update_on_the_progress_of_PAROS_in_Hue_Vietnam.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PAROS_EXCO_Meeting_at_the_Bogmallo_Beach_Resort.jpg" src="/images/PAROS Event Photos/Goa Meeting (17 10 2014)/PAROS_EXCO_Meeting_at_the_Bogmallo_Beach_Resort.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mughlai_cuisine_during_the_PAROS_dinner.jpg" src="/images/PAROS Event Photos/Goa Meeting (17 10 2014)/Mughlai_cuisine_during_the_PAROS_dinner.jpg"></div><p></p>

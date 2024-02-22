@@ -1,0 +1,10 @@
+collections:
+  gcgs:
+    output: true
+    order:
+      - About GCGS.md
+      - Members.md
+      - Research.md
+      - Publications.md
+      - Events & Courses.md
+      - How to Reach Us.md

@@ -1,0 +1,10 @@
+---
+title: Clinical Research Coordinator Level 1 Programme (March 2019 intake)
+permalink: /news-and-events/news/clinical-research-coordinator-level-1-programme-march-2019-intake/
+date: 2019-03-01
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p><strong>Programme Duration:</strong> 01 March 2019 to 31 May 2019</p><p><strong>Venue:</strong> NTU@one-north</p><p><strong>Organiser:</strong> SCRI Academy</p><p>The SCRI Academy welcomed a total of 29 Clinical Research Coordinators (CRCs) in its third intake of the CRC Level 1 Programme. Within a span of 12 weeks, participating CRCs across various healthcare organisations in Singapore were able to enhance their knowledge about clinical trial operations and learn how to apply those skills to their workplace.</p><p>The CRC Level 1 Programme opened a multitude of opportunities for CRCs to expand their knowledge through a range of group activities and classroom discussions. Many were able to gain insight to other CRCs’ personal work experiences, in addition to their institution’s best practices when conducting clinical trials. During the course of the 12 weeks, they were also able learn from trainers who provided guidance and offered tips on how to perform better as a CRC.</p><p>By the end of the programme, lasting friendships and connections were forged, making it easier for CRCs to build a network support group among themselves. With the help from both peers and trainers, all 29 CRCs were also able to successfully graduate from the programme in May 2019.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2019/1.jpg"></div><p>CRCs in thoughtful discussion about the challenges faced at work.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2019/2.jpg"></div><p>Trainer Ms Ng Siok Ting reviewing answers written by a group of CRCs after a group activity.</p>

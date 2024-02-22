@@ -1,0 +1,11 @@
+---
+title: SCRI In–House Meta–Analysis Workshop with Overseas Visiting Expert Dr
+  Micheal Borenstein
+permalink: /news-and-events/news/scri-in-house-meta-analysis-workshop-with-overseas-visiting-expert-dr-micheal/
+date: 2016-03-03
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p>Dr Michael Borenstein presented two workshops, <strong>Software for Meta-Analysis </strong>and<strong> Computer Power for Multi-Level Studies </strong>to our Biostatistics and Epidemiology Department on 3rd March 2016 in SCRI Conference Room. He introduced and demonstrated the computer program, Comprehensive Meta-Analysis (CMA) i.e. to perform a simple meta-analysis, to assess the impact of moderators using subgroup-analysis, and to assess the impact of moderators using meta-regression.</p><p><br>Dr Borenstein also showed the computer program , CRT-Power that is able to estimate the ICC at every level and work with a range of ICCs, to find the most cost effective design, taking into account the ICC and the cost at each level as well as any constraints , how to create plots that clearly show the trade-off among various options (i.e. power as a function of unit and cost) and how to create reports that documents all of these assumptions.</p><p>Our staff skills and capabilities were enhanced in performing meta-analysis and were provided user-friendly tools for sample size calculation especially for clustered randomized trials, which will be beneficial for future studies.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2016/11.jpg"></div><p>A group photo with the visiting expert, Dr Micheal Borenstein with Associate Professor Teoh Yee Leong, CEO of SCRI, Associate Professor Edwin Chan, CSO SCRI</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2016/12.jpg"></div><p>Dr Borenstein was presented a token of appreciation&nbsp; from Associate Professor Edwin Chan .</p>

@@ -1,0 +1,10 @@
+collections:
+  paccman:
+    output: true
+    order:
+      - About PACCMAN.md
+      - Members.md
+      - Research.md
+      - Publications.md
+      - Events.md
+      - How to Reach Us.md

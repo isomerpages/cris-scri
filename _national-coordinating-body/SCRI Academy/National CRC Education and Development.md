@@ -1,0 +1,8 @@
+---
+title: National CRC Education and Development
+permalink: /national-coordinating-body/scri-academy/national-crc-education-and-development/
+description: ""
+third_nav_title: SCRI Academy
+variant: tiptap
+---
+<h4>National CRC Education and Development</h4><p>Skilled Clinical Research Coordinators (CRCs) play an important role in supporting research investigators in the execution of quality clinical research. Maintaining a well-trained talent pool of CRCs was critical in Singapore’s pursuit to be a leading centre for healthcare innovation, as well as retaining its attractiveness as a site for clinical trials.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/National%20Coordinating%20Body/scri_2-1024x539.png"></div><p>In 2017, the Ministry of Health tasked SCRI with the implementation of national training programmes for CRCs and set aside funding for development of CRCs. SCRI consulted the Subject Matter Experts, such as Health Sciences Authority (HSA), and collaborated with various local and overseas education partners to develop a series of structured national CRC training programmes.</p><p>The series of structured programmes by SCRI Academy provides a stepwise training for the CRCs to improve on their clinical research knowledge and skills to support their career progression.</p><p>Watch the video of the SCRI 3rd Annual Scientific Symposium &amp; Launch of SCRI Academy here:</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/National%20Coordinating%20Body/scri_4.jpg"></div><p></p>

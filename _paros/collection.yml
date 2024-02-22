@@ -1,0 +1,61 @@
+collections:
+  paros:
+    output: true
+    order:
+      - About PAROS.md
+      - Research.md
+      - Members/.keep
+      - Members/Members.md
+      - Members/EXCO Members of PAROS CRN 2022 to 2025.md
+      - Members/EXCO Members of PAROS CRN 2019 to 2022.md
+      - Members/EXCO Members of PAROS CRN 2016 to 2019.md
+      - Members/EXCO Members of PAROS CRN 2013 to 2016.md
+      - Members/EXCO Members of PAROS CRN 2010 to 2013.md
+      - PAROS Publications.md
+      - Source Documents.md
+      - PAROS Presentations/.keep
+      - PAROS Presentations/Presentations List.md
+      - "PAROS Presentations/21 May 2022: PAROS EXCO Meeting.md"
+      - "PAROS Presentations/7 Oct 2021: PAROS EXCO Meeting.md"
+      - "PAROS Presentations/16 Dec 2020: PAROS Open Meeting.md"
+      - "PAROS Presentations/11 Aug 2020: PAROS EXCO Meeting.md"
+      - "PAROS Presentations/18 – 19 Feb 2019: Singapore.md"
+      - "PAROS Presentations/15 June 2019: Seoul Korea.md"
+      - "PAROS Presentations/29 – 30 Oct 2018: Singapore.md"
+      - "PAROS Presentations/17–19 June 2018: Davao City, Philippines.md"
+      - "PAROS Presentations/3–5 Nov 2017: Hangzhou, China.md"
+      - "PAROS Presentations/1–2 Aug 2017: Singapore.md"
+      - "PAROS Presentations/22 July 2017: Penang, Malaysia.md"
+      - "PAROS Presentations/24 Aug 2016: Seoul, Korea.md"
+      - "PAROS Presentations/29 Sept – 1 Oct 2016: Singapore.md"
+      - "PAROS Presentations/7 November 2015: Taipei, Taiwan.md"
+      - "PAROS Presentations/30 March 2015: Hangzhou.md"
+      - "PAROS Presentations/17 October 2014: Goa, India.md"
+      - "PAROS Presentations/10 June 2014: Hong Kong.md"
+      - "PAROS Presentations/28 May 2014: Sydney, Australia.md"
+      - "PAROS Presentations/22 October 2013: Tokyo, Japan.md"
+      - "PAROS Presentations/21 August 2013: Seoul, Korea.md"
+      - "PAROS Presentations/8–9 April 2013: Dispatcher Course Singapore.md"
+      - "PAROS Presentations/7–9 April 2013: Singapore.md"
+      - "PAROS Presentations/27 April 2012: Singapore.md"
+      - "PAROS Presentations/17 April 2012: Dubai, United Arab Emirates.md"
+      - "PAROS Presentations/30 November 2011: Taipei, Taiwan.md"
+      - "PAROS Presentations/28 September 2011: Singapore.md"
+      - "PAROS Presentations/4 July 2011: Bangkok, Thailand.md"
+      - "PAROS Presentations/11 – 12 April 2011: Singapore.md"
+      - "PAROS Presentations/9 October 2010: Tokyo, Japan.md"
+      - "PAROS Presentations/9 June 2010: Singapore.md"
+      - "PAROS Presentations/14 – 15 April 2010: Daegu, Korea.md"
+      - Events.md
+      - PAROS Event Photos/.keep
+      - PAROS Event Photos/Hangzhou Meeting (27 March 2015).md
+      - PAROS Event Photos/Goa Meeting (17 October 2014).md
+      - PAROS Event Photos/Hong Kong Meeting (10 June 2014).md
+      - PAROS Event Photos/Seoul Meeting (21 August 2013).md
+      - PAROS Event Photos/Singapore Meeting (7 April 2013).md
+      - PAROS Event Photos/Japan Meeting (13 November 2012).md
+      - PAROS Event Photos/Malaysia Meeting (11 September 2012).md
+      - PAROS Newsletters.md
+      - PAROS FAQ.md
+      - Asian Association for Emergency Medical Services.md
+      - How to Reach Us.md

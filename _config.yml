@@ -1,0 +1,70 @@
+title: Singapore Clinical Research Institute (SCRI)
+url: https://www.scri.edu.sg
+favicon: /images/scri favicon.png
+colors:
+  primary-color: "#424e8f"
+  secondary-color: "#f47d4c"
+  media-colors:
+    - title: media-color-one
+      color: "#424e8f"
+    - title: media-color-two
+      color: "#f47d4c"
+    - title: media-color-three
+      color: "#424e8f"
+    - title: media-color-four
+      color: "#f47d4c"
+    - title: media-color-five
+      color: "#424e8f"
+description: >-
+  Established in 2008, the Singapore Clinical Research Institute (SCRI) was set
+  up as the national academic clinical research organisation to enhance the
+  standards of clinical research in Singapore by developing core capabilities,
+  infrastructure and scientific leadership for clinical research. 
+
+
+  In 2021, SCRI was appointed as the national coordinating body to implement the national clinical trial strategy and enhance Singapore’s clinical trial ecosystem.
+
+
+  This is accomplished through the deployment of innovative technologies and processes, and strategic coordination of ecosystem capabilities and infrastructure to achieve synergies that will enhance the clinical research ecosystem aimed towards a healthier community and better patient outcomes.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2ub3017uejw2j.amplifyapp.com
+prod: https://master.d2ub3017uejw2j.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/scri logo.png
+is_government: false
+google_analytics: ""
+google_analytics_ga4: G-DGDGY4NNDH
+linkedin-insights: ""
+resources_name: news-and-events

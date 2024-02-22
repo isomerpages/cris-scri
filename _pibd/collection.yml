@@ -1,0 +1,10 @@
+collections:
+  pibd:
+    output: true
+    order:
+      - About Asian PIBD Research Network.md
+      - Members.md
+      - Research.md
+      - Publications.md
+      - Events.md
+      - How To Reach Us.md
