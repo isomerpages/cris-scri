@@ -54,7 +54,7 @@ sections:
       description: "The conference is themed “The Promise of Clinical Trials:
         Transforming Tomorrow’s Health”, and gathers clinical research
         professionals from around the world."
-      button: LEARN MORE
+      button: REGISTER INTEREST
       url: https://for.sg/symposium
       image: /images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png
       alt: Image alt text
