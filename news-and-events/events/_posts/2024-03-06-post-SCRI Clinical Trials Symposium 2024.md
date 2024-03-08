@@ -18,7 +18,7 @@ academics, and industry experts in clinical research from around the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SCRI Clinical Trials Symposium 2024" src="/images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png">
 </div>
 <p>The Symposium will showcase the value proposition of clinical trials in
-Singapore and launch an initiative to provide integrated #access to trial
+Singapore and launch an initiative to provide integrated access to trial
 information for industry partners, research volunteers and medical experts.</p>
 <p>Look forward to engaging discussions on:</p>
 <ul data-tight="true" class="tight">
@@ -26,7 +26,7 @@ information for industry partners, research volunteers and medical experts.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; The value proposition of clinical trials in Singapore</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; The importance of #healtheconomicoutcomesresearch</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; The importance of health economic outcomes research</p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; How real-world data complements traditional clinical
