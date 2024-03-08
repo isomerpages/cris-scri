@@ -50,9 +50,9 @@ sections:
   - infopic:
       title: SCRI Clinical Trials Symposium 2024
       id: infopic
-      description: "The conference is themed “The Promise of Clinical Trials:
-        Transforming Tomorrow’s Health”, and gathers clinical research
-        professionals from around the world."
+      description: "The conference themed “The Promise of Clinical Trials:
+        Transforming Tomorrow’s Health”, will showcase the value proposition of
+        clinical trials in Singapore."
       button: REGISTER INTEREST
       url: https://for.sg/symposium
       image: /images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png
