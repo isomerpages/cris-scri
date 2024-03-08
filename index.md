@@ -49,7 +49,6 @@ sections:
       image: /images/Homepage/SCRI_Logo.jpg
   - infopic:
       title: SCRI Clinical Trials Symposium 2024
-      subtitle: Add an image and text
       id: infopic
       description: "The conference is themed “The Promise of Clinical Trials:
         Transforming Tomorrow’s Health”, and gathers clinical research
