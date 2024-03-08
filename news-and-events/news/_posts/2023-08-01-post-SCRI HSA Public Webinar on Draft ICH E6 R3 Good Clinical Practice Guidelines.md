@@ -73,10 +73,18 @@ timelines for Singapore.</p>
 (R2) GCP guideline, and it would be crucial for sponsors and investigators
 to be re-trained on the revised guideline and revise their Quality Management
 Systems in order to ensure compliance.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2023/SCRI_HSA_Public_Webinar.jpg">
+</div>
 <p>The principles document and Annex 1 of the draft ICH E6 (R3) GCP guideline
 are currently available for <a href="https://www.hsa.gov.sg/therapeutic-products/international-collaboration/ich" class="app-aware-link" rel="noopener noreferrer nofollow" target="_self">public consultation</a> till
 30 September 2023. The draft Annex 2 guideline will be shared at a later
 date.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2023/SCRI_HSA_webinar_pic_2.png">
+</div>
 <p>The webinar concluded with a 75-min question and answer session, with
 over 80 questions addressed.</p>
 <p>The attendees gave their virtual thumbs-up to express their appreciation
