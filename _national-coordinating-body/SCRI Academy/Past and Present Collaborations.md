@@ -53,12 +53,29 @@ other training workshops and awards to recognize the CRCs effort in contributing
 to Singapore clinical research ecosystem.</p>
 <ul>
 <li>
-<p><strong>The Essentials of Clinical Trials for Beginners (e-Learning)</strong>&nbsp;A
-16-week introductory e-learning course that provides you with an overview
-of the key activities in the conduct of clinical trials, ranging from study
-development, ethics, subject recruitment, study monitoring to trial closure.
-Click&nbsp;<a href="/news-and-events/news/the-essentials-of-clinical-trials-for-beginners-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p><strong>The Essentials of Clinical Trials for Beginners (E-Learning)</strong>&nbsp;A
+16-week online self-paced course will chart a roadmap for those who are
+keen to gain foundational knowledge on clinical trials. The course covers
+all the basic knowledge required of a clinical research coordinator to
+conduct a trial at site. Click <a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
+</li>
+<li>
+<p><strong>The Essentials of Clinical Trials for Investigators (E-Learning)</strong> A
+16-week online self-paced course that will equip a clinician investigator
+with the essential skills in navigating through the clinical trial activities
+with confidence and ease. Click <a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-investigators/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more details.</p>
+</li>
+<li>
+<p><strong>CRC Lunch Workshop (free)</strong>&nbsp;To ensure the CRCs stay
+abreast of the latest updates and trends in clinical research ecosystem,
+speakers from the regulatory, public healthcare institutes and commercial
+multinational corporations were invited to share about various aspects
+of clinical trial management and their best practices with the CRCs. This
+light-hearted annual lunch workshop provides an opportunity for the CRCs
+from different public healthcare institutes to mingle, network and gain
+deeper insights on industry best practices.</p>
 </li>
 </ul>
 <p><strong>Distinguished Contributor Award for CRCs</strong>

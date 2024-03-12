@@ -1,5 +1,5 @@
 collections:
-  smtg-members:
+  smsg-members:
     output: true
     order:
       - Prof Chng Wee Joo.md
@@ -8,6 +8,7 @@ collections:
       - Dr Widanalage Sanjay Prasad De Mel.md
       - Dr Cinnie Soekojo.md
       - Dr Chen Yunxin.md
+      - Dr Chandramouli Nagarajan.md
       - Prof Goh Yeow Tee.md
       - Dr Nicholas Francis Grigoropoulos.md
       - Dr Melinda Tan.md

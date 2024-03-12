@@ -17,7 +17,7 @@ covers all the basic knowledge required of a clinical research coordinator
 to conduct a trial at site. You can access this course anytime, anywhere
 within 16 weeks at your own pace.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Beginners_Oct2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Beginners_Jan2024.jpg">
 </div>
 <p>The registration page can be accessed at&nbsp;<a href="https://for.sg/tms8p2" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/tms8p2</a>.</p>
 <p><strong>Topics covered in the programme:</strong>
