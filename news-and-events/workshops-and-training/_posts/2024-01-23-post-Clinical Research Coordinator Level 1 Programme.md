@@ -180,8 +180,7 @@ essential documents</p>
 <h4><strong>Who Should Attend</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>CRCs with at least one year of experience coordinating clinical research
-studies.</p>
+<p>CRCs with at least one year of experience</p>
 </li>
 </ul>
 <hr>
