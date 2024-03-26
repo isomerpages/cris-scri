@@ -150,7 +150,7 @@ CRC, and</p>
 <p>All requirements&nbsp;must be&nbsp;fulfilled:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>At least 4 years of experience in coordinating clinical research studies;</p>
+<p>At least 4 years of experience in coordinating clinical trials;</p>
 </li>
 <li>
 <p>Has experience in participant recruitment, obtaining informed consent,
