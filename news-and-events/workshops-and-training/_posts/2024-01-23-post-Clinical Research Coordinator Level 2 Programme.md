@@ -150,16 +150,13 @@ CRC, and</p>
 <p>All requirements&nbsp;must be&nbsp;fulfilled:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>At least 5 years of experience in coordinating clinical research studies;</p>
+<p>At least 4 years of experience in coordinating clinical research studies;</p>
 </li>
 <li>
-<p>Has experience in subject recruitment, informed consent and/or subject
-follow-up; and</p>
-</li>
-<li>
-<p>Has basic understanding of clinical research, such as IRB requirements,
-ICH Good Clinical Practice, source documentation, essential documents,
-safety reporting and management of investigational product.</p>
+<p>Has experience in participant recruitment, obtaining informed consent,
+participant visit follow-up, IRB submissions, source documentation, maintenance
+of essential documents, safety reporting and management of investigational
+product.</p>
 </li>
 </ul>
 <h5><strong><em>CRCs, who do not possess a comprehensive fundamental knowledge in clinical trials, may wish to attend the CRC Level 1 Programme prior to applying for the CRC Level 2 Programme.</em></strong></h5>
@@ -402,7 +399,7 @@ healthcare institutes under MOH Holdings.</p>
 <p>Participants who successfully completed all modules of this programme
 with at least 75% class attendance will receive a certificate of Completion
 (CRC Level 2 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V2_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V2_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
