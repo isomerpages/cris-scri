@@ -402,7 +402,7 @@ healthcare institutes under MOH Holdings.</p>
 <p>Participants who successfully completed all modules of this programme
 with at least 75% class attendance will receive a certificate of Completion
 (CRC Level 2 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/crc_l2_programme_brochure_flyerv2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V2_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
