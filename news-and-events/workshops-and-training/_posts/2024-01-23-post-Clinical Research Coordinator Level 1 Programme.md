@@ -114,7 +114,7 @@ variant: tiptap
 <p>The Clinical Research Coordinator (CRC) is a specialised research professional
 working with the research investigator to ensure smooth progress of the
 research project. The CRC Level 1 Programme (Blended) is designed for CRCs
-with less than one year of experience and who are interested in gaining
+with at least one year of experience and who are interested in gaining
 knowledge about coordinating clinical trials. The programme offers a comprehensive
 introduction to the operations of clinical trial at site and practical,
 hands-on training through the blended learning approach to provide flexible
