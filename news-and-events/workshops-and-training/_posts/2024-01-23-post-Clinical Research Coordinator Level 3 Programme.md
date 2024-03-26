@@ -356,7 +356,7 @@ public healthcare institutes under the MOH Holdings.</p>
 <p>Participants who successfully completed all modules of this programme
 with at least 75% class attendance will receive a certificate of Completion
 (CRC Level 3 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L3_Programme_brochure_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L3_Programme_brochure_V2_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg</a>.</p>
