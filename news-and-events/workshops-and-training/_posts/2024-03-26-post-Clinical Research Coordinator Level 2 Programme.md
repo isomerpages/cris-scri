@@ -1,7 +1,7 @@
 ---
 title: Clinical Research Coordinator Level 2 Programme
 permalink: /news-and-events/workshops-and-training/clinical-research-coordinator-level-2-programme/
-date: 2024-01-23
+date: 2024-03-26
 layout: post
 description: ""
 image: ""

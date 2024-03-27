@@ -1,7 +1,7 @@
 ---
 title: Clinical Research Coordinator Level 1 Programme
 permalink: /news-and-events/news/clinical-research-coordinator-level-1-programme/
-date: 2024-01-23
+date: 2024-03-26
 layout: post
 description: ""
 image: ""
