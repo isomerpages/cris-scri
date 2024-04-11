@@ -43,7 +43,7 @@ design</p>
 <p></p>
 <p><strong>Date: </strong>30 - 31 July 2024</p>
 <p><strong>Venue: </strong>Raffles City Convention Centre</p>
-<p><strong>Register your interest here: <a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/symposium</a></strong>
+<p><strong>Visit the website and register here: <a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/symposium</a></strong>
 </p>
 <p>The two-day Symposium will also offer an excellent opportunity for knowledge
 exchange and networking, share practical insights of how clinical trials
