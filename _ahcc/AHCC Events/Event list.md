@@ -3,6 +3,7 @@ title: Event list
 permalink: /ahcc/ahcc-events/event-list/
 description: ""
 third_nav_title: AHCC Events
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -70,7 +71,7 @@ third_nav_title: AHCC Events
 		</tr>
 		<tr>
 			<td>
-				<a href="ahcc06-investigator-meeting-2012/">
+				<a href="https://www.scri.edu.sg/ahcc/ahcc-events/ahcc06-investigator-meeting-2012/">
 			AHCC06 INVESTIGATOR MEETING 2012
 			</a></td>
 			<td>

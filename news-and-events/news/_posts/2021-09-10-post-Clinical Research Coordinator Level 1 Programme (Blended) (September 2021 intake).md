@@ -6,6 +6,7 @@ date: 2021-09-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **Programme Duration:** 10 September 2021 to 26 November 2021
 
@@ -31,4 +32,4 @@ Since launching the CRC training programme in 2018, SCRI has trained over 200 CR
 
 Once again, congratulations to all graduating CRCs who completed the programme!
 
-Click [here](/news-and-events/workshops-and-training/) to find out more about the CRC Level 1 Programme!
+Click [here](https://www.scri.edu.sg/news-and-events/workshops-and-training/) to find out more about the CRC Level 1 Programme!
