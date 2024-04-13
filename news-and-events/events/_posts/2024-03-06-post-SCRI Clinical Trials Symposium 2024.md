@@ -43,13 +43,13 @@ design</p>
 <p></p>
 <p><strong>Date: </strong>30 - 31 July 2024</p>
 <p><strong>Venue: </strong>Raffles City Convention Centre</p>
-<p><strong>Visit the website and register here: <a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/symposium</a></strong>
+<p><strong>Visit the website and register here: <a href="https://for.sg/symposium" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/symposium</a></strong>
 </p>
 <p>The two-day Symposium will also offer an excellent opportunity for knowledge
 exchange and networking, share practical insights of how clinical trials
 improve patients’ lives and contribute towards positive health and economic
 outcomes in Singapore and beyond.</p>
 <p><strong>Calling for partners: </strong>Explore our partnership opportunities
-and engage with the research community. Get in touch with us at <a rel="noopener noreferrer nofollow" target="_blank">secretariat@scri-symposium.sg</a> to
+and engage with the research community. Get in touch with us at <a href="mailto:secretariat@scri-symposium.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@scri-symposium.sg</a> to
 find out more.</p>
 <p>We very much look forward to receiving and engaging you at this conference.</p>
