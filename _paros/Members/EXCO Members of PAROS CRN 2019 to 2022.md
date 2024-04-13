@@ -3,6 +3,7 @@ title: EXCO Members of PAROS CRN 2019 to 2022
 permalink: /paros/members/exco-members-of-paros-crn-2019-2022/
 description: ""
 third_nav_title: Members
+variant: markdown
 ---
 <table>
    <thead>
@@ -33,7 +34,7 @@ third_nav_title: Members
          <td>South Korea</td>
          <td>Department of Emergency Medicine Seoul National University</td>
          <td>28 Daehak-Ro, Chongno-gu, Seoul, 110-744 Korea</td>
-         <td><a href="shinsangdo@snuh.org">shinsangdo@snuh.org</a></td>
+         <td><a href="mailto:shinsangdo@snuh.org">shinsangdo@snuh.org</a></td>
       </tr>
       <tr>
          <td>Co-Chairman</td>
