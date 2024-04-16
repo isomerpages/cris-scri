@@ -9,7 +9,8 @@ third_nav_title: Resources
 <h4>About the Support Group</h4>
 <p>The Multiple Myeloma Support Group was established to reach out to Multiple
 Myeloma (MM) patients as well as their caregivers. This group is open to
-all MM patients, regardless of which hospital they are from.&nbsp;</p>
+all MM patients, regardless of which hospital they are receiving treatment
+from.&nbsp;</p>
 <h3>Mission</h3>
 <ul data-tight="true" class="tight">
 <li>
