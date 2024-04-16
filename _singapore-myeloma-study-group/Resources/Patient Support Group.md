@@ -32,13 +32,13 @@ from.&nbsp;</p>
 <h3>Upcoming Activities</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Upcoming_Events_2024.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Upcoming_Events_2024.png">
 </div>
 <h3>Past Activities</h3>
 <p><strong>Asian Myeloma Network, Bangkok, October 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Asian Myeloma Network, Bangkok, October 2023" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/AMF___BKK___Nov_2023.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Asian Myeloma Network, Bangkok, October 2023" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/AMF___BKK___Nov_2023.png">
 </div>
 <p>Standing with the Singapore participants are Dr. Chandramouli from SGH,
 Dr. Daryl Tan from Mt Elizabeth Novena, International Myeloma Foundation
@@ -48,17 +48,17 @@ CEO Yelak Biru, a 28-year myeloma patient and Prof. Chng Wee Joo from NCIS
 <p><strong>Morning Walk and Coffee Chat, November 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Morning_Walk___Hort_Park___Nov_2023.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Morning_Walk___Hort_Park___Nov_2023.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Coffee__Hort_Park___Nov_2023.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Coffee__Hort_Park___Nov_2023.png">
 </div>
 <p><strong>New Patients Meet Old Patients August 2023</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Patient_Session___Aug_2023.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Patient_Session___Aug_2023.png">
 </div>
 <h3>Contact Details</h3>
 <p>SG Myeloma Support Group</p>
