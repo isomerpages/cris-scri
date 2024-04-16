@@ -2,6 +2,7 @@ collections:
   singapore-myeloma-study-group:
     output: true
     order:
+      - Patient Education/.keep
       - About SMSG.md
       - Members.md
       - Consensus Guideline.md
