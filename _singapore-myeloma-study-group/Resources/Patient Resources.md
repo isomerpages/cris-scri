@@ -30,4 +30,11 @@ all MM patients, regardless of which hospital they are from.&nbsp;</p>
 </ul>
 <h3>Upcoming Activities</h3>
 <p></p>
-<p></p>
+<h3>Contact Details</h3>
+<p>SG Myeloma Support Group</p>
+<p>Email - <a href="mailto:myelomasg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myelomasg@gmail.com</a>
+</p>
+<p><a href="https://docs.google.com/forms/d/1oKa4ry9OftWleu19LtWukPWyi0PQ8m-Au9KNyjn-Ero/edit" rel="noopener noreferrer nofollow" target="_blank">Join Us</a>
+</p>
+<p><strong><br></strong>
+</p>
