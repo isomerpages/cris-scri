@@ -58,4 +58,5 @@ Programme and Leukemia Lymphoma Foundation.</p>
 <p>Clinical Professor, Duke-NUS Medical School</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.sgh.com.sg/profile/goh-yeow-tee" rel="noopener noreferrer nofollow" target="_blank">Click here to access Prof Goh's Institution Profile.</a>
+</p>
