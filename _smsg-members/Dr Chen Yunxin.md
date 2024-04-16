@@ -42,4 +42,5 @@ Duke-NUS Cell&nbsp;Therapy Centre​</p>
 <p>Clinical Assistant Professor, Duke-NUS Medical School​</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.sgh.com.sg/profile/chen-yunxin" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Chen's Institution Profile.</a>
+</p>
