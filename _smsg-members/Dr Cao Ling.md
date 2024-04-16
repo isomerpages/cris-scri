@@ -22,4 +22,5 @@ of the natural history of relapsed/refractory multiple myeloma after progression
 on one or two prior lines of therapy.&nbsp;&nbsp;</p>
 <h4><strong>Affiliations</strong></h4>
 <p>Consultant, Department of Haematology, Tan Tock Seng Hospital, Singapore</p>
-<p></p>
+<p><a href="https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Cao-Ling" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Cao's Institution Profile.</a>
+</p>
