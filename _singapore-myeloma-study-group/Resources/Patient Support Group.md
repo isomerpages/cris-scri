@@ -30,6 +30,10 @@ from.&nbsp;</p>
 </li>
 </ul>
 <h3>Upcoming Activities</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore Myeloma Study Group/Multiple Myeloma Support Group/Upcoming_Events_2024.png">
+</div>
 <h3>Past Activities</h3>
 <p><strong>Asian Myeloma Network, Bangkok, October 2023</strong>
 </p>
