@@ -2,11 +2,11 @@ collections:
   singapore-myeloma-study-group:
     output: true
     order:
-      - Resources/Resources.md
-      - Resources/.keep
       - About SMSG.md
       - Members.md
       - Consensus Guideline.md
       - List of Clinical Trials.md
       - Publications.md
+      - Resources/.keep
+      - Resources/Resources.md
       - Contact Us.md
