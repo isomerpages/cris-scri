@@ -40,4 +40,5 @@ in Singapore.&nbsp;</p>
 <h4><strong>Affiliations</strong></h4>
 <p>Consultant Haematologist at the Clinic for myeloma, Lymphoma and Blood
 Disorders, Mount Elizabeth Novena Hospital, Singapore</p>
-<p></p>
+<p><a href="https://www.mountelizabeth.com.sg/patient-services/specialists/profile/tan-chen-lung-daryl" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Tan's Institution Profile.</a>
+</p>
