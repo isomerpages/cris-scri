@@ -20,4 +20,5 @@ diagnosed multiple myeloma. MD, MRCP (UK), FRCPath (UK).</p>
 <h4><strong>Affiliations</strong></h4>
 <p>Senior Consultant, Division of Haematology, Department of Haematology-Oncology,
 National University Cancer Institute, Singapore</p>
-<p></p>
+<p><a href="https://www.ncis.com.sg/For-Patients-and-Visitors/Pages/Find-a-Doctor-Listing.aspx?docname=Sanjay&amp;specialty=ALL&amp;condition=&amp;institution=National%20University%20Cancer%20Institute%2C%20Singapore" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Sanjay De Mel's Institution Profile.</a>
+</p>
