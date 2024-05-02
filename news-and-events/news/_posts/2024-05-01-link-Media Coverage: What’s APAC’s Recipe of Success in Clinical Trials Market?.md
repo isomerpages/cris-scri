@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.biospectrumasia.com/analysis/96/24150/whats-apacs-recipe-of-success-in-clinical-trials-market.html
+external: https://www.biospectrumasia.com/analysis/96/24150/whats-apacs-recipe-of-success-in-clinical-trials-market.html
 ---
