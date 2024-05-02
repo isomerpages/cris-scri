@@ -40,4 +40,5 @@ Technological University, Singapore</p>
 of Singapore</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tso-Ching-Yee-Allison" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Tso's Institution Profile.</a>
+</p>

@@ -27,4 +27,5 @@ various clinical trials.&nbsp;</p>
 <p>Consultant, National Cancer Centre, Singapore</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.sgh.com.sg/profile/Tan-Si-Yun-Melinda" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Tan's Institution Profile.</a>
+</p>

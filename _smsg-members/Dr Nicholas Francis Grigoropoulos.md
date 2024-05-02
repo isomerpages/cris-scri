@@ -30,4 +30,5 @@ Centre.</p>
 <p>Senior Consultant, National Cancer Centre Singapore</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.sgh.com.sg/profile/grigoropoulos-nicholas-francis" rel="noopener noreferrer nofollow" target="_blank">Click here to access Dr Grigoropoulo's Institution Profile.</a>
+</p>
