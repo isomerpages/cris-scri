@@ -125,4 +125,3 @@ radiologists in reading mammography images. The team will also <a href="https://
 <p>Ying Jia aspires to visit the Everest base camp one day, which mirrors
 her professional ambition to scale new heights in advancing women’s health
 — a climb she deems the most purposeful and worthwhile in her CRC journey.</p>
-<p></p>
