@@ -26,12 +26,26 @@ They are also recipients of the <a href="https://www.scri.edu.sg/news-and-events
 in January this year. With their fundamental skills and a spirit of excellence,
 they have brought science and innovation into clinics and hospitals to
 manage complex clinical trials and achieve better outcomes for our patients.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</strong>
-</p>
-</li>
-</ul>
-<p>Chew Ying Jia</p>
-<p>Senior Clinical Research Coordinator</p>
-<p>Department of Surgery, National University Hospital (NUH)</p>
+<p></p>
+<h4><strong>Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</strong></h4>
+<p><strong>Chew Ying Jia</strong>
+<br>Senior Clinical Research Coordinator
+<br>Department of Surgery, National University Hospital (NUH)</p>
+<h4><strong>“Scoring goals” to advance research to treat childhood blood cancers</strong></h4>
+<p><strong>Germaine Liew</strong>
+<br>Senior Clinical Research Coordinator
+<br>Children’s Blood and Cancer Centre, Haematology / Oncology Service, KK
+Women’s and Children’s Hospital (KKH)</p>
+<h4><strong>Adrenaline fuels her passion and drive to develop the next generation of CRCs</strong></h4>
+<p><strong>Geraldine Lim</strong>
+<br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
+General Hospital (CGH)</p>
+<h4><strong>Bringing the latest health technologies into local healthcare settings to benefit more women</strong></h4>
+<p><strong>Agnes Teo</strong>
+<br>Senior Clinical Research Coordinator
+<br>Department of Women’s Anaesthesia, KKH</p>
+<h4><strong>Finding her calling in helping others through clinical research</strong></h4>
+<p><strong>Nur Qasrina Binte Iskandar Lim</strong>
+<br>Clinical Research Coordinator
+<br>Department of Medicine, National University Hospital (NUH)</p>
+<p></p>
