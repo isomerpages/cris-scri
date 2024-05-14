@@ -87,4 +87,35 @@ using uSINE<strong><sup>®</sup></strong> were revealed in clinical trials:</p>
 </li>
 </ul>
 <h4><strong>Reflecting on her journey in contributing towards safer childbirth experiences for mothers</strong></h4>
+<p>Driven by a passion to bring medtech innovations and new technologies
+into clinical practice, Agnes shared that such successful new methodologies
+would contribute to safer child delivery experiences for mothers in future.</p>
+<p>There were many complexities in obtaining regulatory approvals for new
+technologies which involves not only understanding the technical aspects
+of the devices but also effectively managing the safety and maintenance
+processes. Despite the challenges, Agnes persevered, motivated by the dedication
+of her team.</p>
+<p>Agnes attributes her relentless passion and perseverance for her work
+to her team of CRCs, clinicians, and senior research fellows, some of whom
+she has been colleagues with since she started working in the department
+in 2006.</p>
+<blockquote>
+<p>“They are like my second family,” Agnes said with conviction. Together,
+this team continues to strive at improving the maternity care experience
+for mothers in Singapore.</p>
+</blockquote>
+<p>Outside of work, Agnes prioritises spending quality time with her children
+through outdoor activities and sing-along sessions.</p>
+<p>“As much as childbirth and parenthood is a learning journey that can be
+exhausting at times, at the end of the day, it is worth it when we as mothers
+are able to watch our children grow up,” she shared. Agnes finds joy in
+her daughter’s love for performing which she finds adorable and whose antics
+makes her laugh. On weary days, significant moments such as these reminds
+her of her calling to do her job well and ensure that the patients and
+mothers-to-be feel safe, heard and cared for — a full circle moment for
+her.</p>
+<p>Agnes finds a unique sense of achievement when her children excitedly
+spot her work in news reports. Looking ahead, Agnes continues to lead new
+trials that will improve the patient’s experience, ranging from antenatal
+to postnatal care.</p>
 <p></p>
