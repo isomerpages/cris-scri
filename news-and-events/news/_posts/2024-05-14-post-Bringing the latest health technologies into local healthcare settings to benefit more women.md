@@ -78,4 +78,13 @@ institutions in Singapore.</p>
 <p>uSINE<strong><sup>®</sup></strong> was implemented in KKH in May 2023.
 The success rate for achieving spinal anaesthesia at the first attempt
 using uSINE<strong><sup>®</sup></strong> were revealed in clinical trials:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Women with high body mass index (&gt;30kg/m2): 43% to 82% in obese women.</p>
+</li>
+<li>
+<p>Women with normal body mass index (&lt;30kg/m2): 70% to 92%</p>
+</li>
+</ul>
+<h4><strong>Reflecting on her journey in contributing towards safer childbirth experiences for mothers</strong></h4>
 <p></p>
