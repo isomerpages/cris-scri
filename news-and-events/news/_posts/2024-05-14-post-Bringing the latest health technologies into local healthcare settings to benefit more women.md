@@ -38,6 +38,11 @@ she shared.</p>
 108 women undergoing elective C-sections, those who underwent the programme
 experienced a significant 50% reduction in their anxiety scores, and their
 pain magnification scores decreased by 35%.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg">
+</div>
+<p><em>Agnes Teo, a CRC of 17 years</em>
+</p>
 <h4><strong>Bringing new technologies from ideation into clinical practice to elevate patient care during childbirth</strong></h4>
 <p>The journey from developing innovation through to adoption, commercialisation
 and into clinical practice requires determination and patience to problem-solve
