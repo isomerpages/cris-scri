@@ -31,6 +31,11 @@ for patients intrigued me,” she said.</p>
 </blockquote>
 <p>Previously, she had only applied to jobs that were well-known in the science
 field, such as those of a research assistant or medical writer.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
+</div>
+<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of 2 years</em>
+</p>
 <p>In May 2021, Qasrina began her role as a CRC in NUH, marking a fresh start
 in her career.</p>
 <p>Her first two weeks of training and orientation were a balancing act,
@@ -50,8 +55,10 @@ quickly,” shared Qasrina.</p>
 Qasrina persisted and sought guidance from senior CRCs to refine her recruitment
 strategies and began building rapport with nurses from whom she learnt
 skills in patient engagement.</p>
+<blockquote>
 <p>“I kept a resilient mindset by approaching each patient with empathy and
 to address their anxieties,” she said.</p>
+</blockquote>
 <p>Turning her own challenges as a new CRC into something valuable others
 can benefit from, Qasrina designed an orientation programme to ease future
 newcomers into the role. This included a training checklist which served
@@ -77,10 +84,11 @@ presented their research at a dermatology conference in San Diego in March
 this year.</p>
 <p>“It was nerve-wracking to speak to a room full of clinicians but a great
 learning opportunity nonetheless,” she recounted.</p>
-<p>&nbsp;</p>
-<p><em>&lt;To input photo of Qasrina at the San Diego conference&gt; *Received</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Nur_Qasrina_conference.jpg">
+</div>
+<p><em>Qasrina at the JAMA Dermatology conference in San Diego</em>
 </p>
-<p>&nbsp;</p>
 <p>Reflecting on the study, Qasrina expressed gratitude to the patients who
 were involved in the research study, whose consent has facilitated advancements
 in clinical research. In spite of the discomfort of their chronic conditions,
