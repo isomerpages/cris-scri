@@ -28,7 +28,13 @@ university, where there were fewer chances for many face-to-face meetings,
 as a CRC today, I get to engage with patients while still contributing
 to scientific research. This job has allowed me to experience the best
 of both worlds,” she said.</p>
+<p></p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg">
+</div>
+<p><em>Chew Ying Jia, a CRC of 8 years</em>
+</p>
 <p>A milestone year in Ying Jia’s career was in 2021, where she helmed the
 set-up of <a href="https://www.researchgate.net/publication/359641005_BREAst_screening_Tailored_for_HEr_BREATHE-A_study_protocol_on_personalised_risk-based_breast_cancer_screening_programme" rel="noopener noreferrer nofollow" target="_blank">Singapore’s first risk-based breast cancer screening research programme, Breast Screening Tailored for Her (BREATHE)</a>,
 while she was working at Ng Teng Fong General Hospital, one of the study’s
@@ -57,6 +63,11 @@ absence of face-to-face training. Ying Jia ensured the smooth progress
 of the study recruitment, follow-up with recruited participants and engaged
 the team of CRCs from all participating institutions via virtual meetings
 to alleviate any concerns and enhance communication.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_BREATHE.jpg">
+</div>
+<p><em>BREATHE's first participation in a public outreach event — Public Health Talk for Ladies held at Ng Teng Fong General Hospital</em>
+</p>
 <p>During the recruitment process for BREATHE, she discovered that healthy
 women had less incentive to take part in the study as compared to hospitalised
 patients. “We had to be patient in understanding their concerns first and
