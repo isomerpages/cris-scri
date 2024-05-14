@@ -28,24 +28,44 @@ they have brought science and innovation into clinics and hospitals to
 manage complex clinical trials and achieve better outcomes for our patients.</p>
 <p></p>
 <h4><strong>Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</strong></h4>
-<p><strong>Chew Ying Jia</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg">
+</div>
+<p><strong>Chew Ying Jia</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Surgery, National University Hospital (NUH)</p>
 <h4><strong>“Scoring goals” to advance research to treat childhood blood cancers</strong></h4>
-<p><strong>Germaine Liew</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg">
+</div>
+<p><strong>Germaine Liew</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Children’s Blood and Cancer Centre, Haematology / Oncology Service, KK
 Women’s and Children’s Hospital (KKH)</p>
 <h4><strong>Adrenaline fuels her passion and drive to develop the next generation of CRCs</strong></h4>
-<p><strong>Geraldine Lim</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_portrait_edit.jpg">
+</div>
+<p><strong>Geraldine Lim</strong> 
 <br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
 General Hospital (CGH)</p>
 <h4><strong>Bringing the latest health technologies into local healthcare settings to benefit more women</strong></h4>
-<p><strong>Agnes Teo</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg">
+</div>
+<p><strong>Agnes Teo</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Women’s Anaesthesia, KKH</p>
 <h4><strong>Finding her calling in helping others through clinical research</strong></h4>
-<p><strong>Nur Qasrina Binte Iskandar Lim</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
+</div>
+<p><strong>Nur Qasrina Binte Iskandar Lim</strong> 
 <br>Clinical Research Coordinator
 <br>Department of Medicine, National University Hospital (NUH)</p>
 <p></p>
