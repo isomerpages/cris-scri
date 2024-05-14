@@ -83,4 +83,46 @@ to her younger colleagues. She often stresses the importance of empathy.
 <p>She actively seeks to understand her colleagues and participants' perspectives.
 When her mentees face challenges at recruitment sites, she takes a listening
 approach to hear them out and create a safe space within her team.</p>
+<blockquote>
+<p>Ying Jia mentors over 20 junior CRCs across NUHS. Though she has assumed
+the role of a clinical research manager, she fondly recalls her days as
+a research coordinator, running the groundwork. “When they feel comfortable
+to share their difficulties with you, it means there is a level of trust
+present,” she said.</p>
+</blockquote>
+<p>Ying Jia's favourite pastime is hiking – scaling heights to reach the
+peak which mirrors her work in setting up well-functioning and organised
+research programmes. Despite the uphill challenge that clinical research
+presents in “venturing into unchartered terrain”, Ying Jia also experiences
+the satisfaction that comes from scaling new heights in clinical research.</p>
+<p>A recent personal milestone of hers, was reaching the summit of Mount
+Kinabalu (Mt KK), the highest peak in Malaysia at 4,095 metres above sea
+level. She shared that this achievement was not without regular training
+sessions on various hiking trails in Singapore to gradually build up stamina
+– whether it’s the Rail Corridor, MacRitchie Reservoir or Bukit Timah Nature
+Reserve, she has conquered them all in the lead-up to the expedition to
+scale Mt KK.</p>
+<p>Drawing parallels to her hiking experiences, she highlighted that trails
+are marked out by the people who precede them. She finds inspiration in
+setting the course and laying the groundwork for the next generation of
+hikers, ensuring that those who follow have a well-laid foundation to build
+upon.</p>
+<p>She often advises her mentees: “If you are given a good opportunity, pursue
+it and learn from there,” she stressed. She would arrange face-to-face
+meetings with institutional partners so that they can share updates, challenges
+and analysis from data collected. This approach allows her CRCs to see
+the fruits of their labour and learn from their peers as well.</p>
+<blockquote>
+<p>“Reaching the summit takes time, once you finally do reach the peak, you
+realise how breath-taking the view is. All the work you put in to get to
+the top would have been worth it,” she reflected on going the distance
+as a CRC.</p>
+</blockquote>
+<p>Presently, Ying Jia is the project lead for a pilot trial at the National
+University Hospital (NUH), focusing on the implementation of an AI-powered
+tool to improve current screening performance and efficiency by assisting
+radiologists in reading mammography images. The team will also <a href="https://www.fathomx.co/post/fxmammo-approved-by-hsa-and-wins-award-in-healthcare-innomatch-2022" rel="noopener noreferrer nofollow" target="_blank">explore the possibility to scale up the project within public healthcare. This will accelerate the development of a market-ready AI assistant for breast cancer diagnosis</a>.</p>
+<p>Ying Jia aspires to visit the Everest base camp one day, which mirrors
+her professional ambition to scale new heights in advancing women’s health
+— a climb she deems the most purposeful and worthwhile in her CRC journey.</p>
 <p></p>
