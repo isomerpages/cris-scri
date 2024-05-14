@@ -59,3 +59,61 @@ to help her juniors face significantly less challenges in coordinating
 research studies, data entry, budget tracking and management and patient
 interactions. Her thoughtful approach streamlined training processes, making
 the learning curve for new CRCs less daunting.</p>
+<h4><strong>Making steady strides in a new career: understanding patients on a deeper level</strong></h4>
+<p>As a junior CRC, Qasrina was given the opportunity to work with various
+departments across the hospital from internal medicine to infectious diseases
+and the organ transplant unit.</p>
+<p>Over the past year, Qasrina has been managing a cross-sectional dermatology
+qualitative research study that focused on the care experience of over
+1,000 patients who were being treated for their chronic eczema and psoriasis.</p>
+<p>The behind-the-scenes heavy lifting included obtaining approval from regulatory
+authorities, optimising participant recruitment strategies, improving workflows
+and maintaining stakeholder relationships.</p>
+<p>This cross-sectional study explored possible ways to improve the patient-physician
+relationship.</p>
+<p>The study’s findings were published in the Journal of the American Medical
+Association (JAMA) Dermatology in July 2023, and Qasrina and her team also
+presented their research at a dermatology conference in San Diego in March
+this year.</p>
+<p>“It was nerve-wracking to speak to a room full of clinicians but a great
+learning opportunity nonetheless,” she recounted.</p>
+<p>&nbsp;</p>
+<p><em>&lt;To input photo of Qasrina at the San Diego conference&gt; *Received</em>
+</p>
+<p>&nbsp;</p>
+<p>Reflecting on the study, Qasrina expressed gratitude to the patients who
+were involved in the research study, whose consent has facilitated advancements
+in clinical research. In spite of the discomfort of their chronic conditions,
+their commitment to keep showing up for their medical appointments and
+research reviews has been an inspiration to Qasrina.</p>
+<blockquote>
+<p>"It really warms my heart when patients give feedback that their conditions
+are improving,” she said.</p>
+</blockquote>
+<p>Qasrina also shared that patient have conveyed their appreciation when
+they learn about the research efforts to help them better manage their
+chronic conditions and thanked the research team for the care and effort
+poured into doing research in Dermatology even though their conditions
+may not be life threatening.</p>
+<h4><strong>CRC’s advanced clinical research seeks to achieve “small wins” that can re-shape future medical practice</strong></h4>
+<p>These poignant moments have strengthened Qasrina's determination to continue
+in her role as a CRC, contributing to the advancement of clinical research
+studies for patients.</p>
+<p>Reminded of the steps she took to get to where she is today, Qasrina firmly
+believes that small wins, such as new discoveries from research studies,
+can lead to big advances, potentially reshaping future medical practices
+and refining the approach to patient consultations.</p>
+<blockquote>
+<p>As clinical research studies are conducted in phases, they can last for
+months to years. “Despite the long journey, the studies do offer a ray
+of hope to patients,” she reflected.</p>
+</blockquote>
+<p>The empowerment for CRCs to create a sustained impact and enhance patients’
+lives on a broader scale, which Qasrina shared, is one area she aspired
+for her future career to fulfil, back when she was a fresh university graduate.
+Her role as a CRC, fittingly translated that hope into reality.</p>
+<p>Qasrina offered this advice to others who are at career crossroads, “Stay
+open to unexpected opportunities. Each experience serves as a stepping-stone
+to develop skills and build resilience for future roles. Even if you have
+veered from your initially envisioned path, trust that it will eventually
+lead you to your desired destination.”</p>
