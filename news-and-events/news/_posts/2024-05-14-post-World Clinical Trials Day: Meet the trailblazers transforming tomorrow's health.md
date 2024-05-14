@@ -28,7 +28,6 @@ they have brought science and innovation into clinics and hospitals to
 manage complex clinical trials and achieve better outcomes for our patients.</p>
 <p><strong>Click the links below to read about their stories.</strong>
 </p>
-<p></p>
 <h4><strong>Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
