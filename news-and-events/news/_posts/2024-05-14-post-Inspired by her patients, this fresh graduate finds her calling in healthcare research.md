@@ -73,6 +73,11 @@ and the organ transplant unit.</p>
 <p>Over the past year, Qasrina has been managing a cross-sectional dermatology
 qualitative research study that focused on the care experience of over
 1,000 patients who were being treated for their chronic eczema and psoriasis.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina___NUH_patient.jpg">
+</div>
+<p><em>One of Qasrina's duties involves the collection of skin samples from study participants</em>
+</p>
 <p>The behind-the-scenes heavy lifting included obtaining approval from regulatory
 authorities, optimising participant recruitment strategies, improving workflows
 and maintaining stakeholder relationships.</p>
