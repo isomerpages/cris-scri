@@ -100,7 +100,13 @@ the role of a clinical research manager, she fondly recalls her days as
 a research coordinator, running the groundwork. “When they feel comfortable
 to share their difficulties with you, it means there is a level of trust
 present,” she said.</p>
+<p></p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_colleagues.jpg">
+</div>
+<p><em>Ying Jia (middle)'s colleagues and mentees who came to support her at the Distinguished Contributor Award for CRCs award ceremony in January 2024</em>
+</p>
 <p>Ying Jia's favourite pastime is hiking – scaling heights to reach the
 peak which mirrors her work in setting up well-functioning and organised
 research programmes. Despite the uphill challenge that clinical research
@@ -128,7 +134,13 @@ the fruits of their labour and learn from their peers as well.</p>
 realise how breath-taking the view is. All the work you put in to get to
 the top would have been worth it,” she reflected on going the distance
 as a CRC.</p>
+<p></p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_hiking.jpg">
+</div>
+<p><em>The view from Mount Kinabalu</em>
+</p>
 <p>Presently, Ying Jia is the project lead for a pilot trial at the National
 University Hospital (NUH), focusing on the implementation of an AI-powered
 tool to improve current screening performance and efficiency by assisting
