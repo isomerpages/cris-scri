@@ -66,7 +66,7 @@ to alleviate any concerns and enhance communication.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_BREATHE.jpg">
 </div>
-<p><em>BREATHE's first participation in a public outreach event — Public Health Talk for Ladies held at Ng Teng Fong General Hospital</em>
+<p><em>BREATHE's first participation in a public outreach event — Public Health Talk for Ladies held at Ng Teng Fong General Hospital (Ying Jia, third from right)</em>
 </p>
 <p>During the recruitment process for BREATHE, she discovered that healthy
 women had less incentive to take part in the study as compared to hospitalised
