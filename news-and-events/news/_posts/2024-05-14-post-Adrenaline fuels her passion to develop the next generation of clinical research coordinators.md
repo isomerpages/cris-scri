@@ -23,6 +23,12 @@ submissions, study initiation to completion, as well as publication.</p>
 <p>In her twelve-year career as a clinical research coordinator (CRC), Geraldine
 finds fulfilment in coordinating and supporting the delivery of research
 outcomes from bench to bedside.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_portrait_edit.jpg">
+</div>
+<p><em>Geraldine Lim, a CRC of 12 years</em>
+</p>
 <h4><strong>Supporting early intervention and preventive health for patients with primary aldosteronism</strong></h4>
 <p>Among all patients with hypertension in Singapore, including those with
 the more commonly known salt-sensitive hypertension, about 5% have primary
@@ -45,6 +51,8 @@ across the institutions is integral in the studies’ success. In February
 2023, CGH successfully launched clinical blood tests to accurately identify
 and diagnose those with primary aldosteronism at the Shimadzu-CGH Clinomics
 Centre (SC<sup>3</sup>).</p>
+<p><strong><em>photo of geraldine + SC3 PIs</em></strong>
+</p>
 <h4><strong>Keeping pace and building rapport</strong></h4>
 <p>Although the fast-paced work may be intimidating for young CRCs, she shares
 that the adrenaline is invigorating and fuels her passion for research,
@@ -98,7 +106,7 @@ patients and clinicians for successful study outcomes.</p>
 fosters a collaborative spirit and camaraderie through team outings and
 activities like karaoke sessions.</p>
 <p></p>
-<p><em>To request from Geraldine: Photo of her and her team</em>
+<p><strong><em>To request from Geraldine: Photo of her and her team</em></strong>
 </p>
 <p></p>
 <p>She finds fulfilment in witnessing the growth of the individuals she mentored
