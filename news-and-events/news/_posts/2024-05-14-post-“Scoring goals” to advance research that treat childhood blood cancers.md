@@ -26,7 +26,13 @@ and Cancer Centre.</p>
 at the time. However, while I was serving at the registry, I discovered
 that there is so much in clinical research I could contribute to,” she
 explained.</p>
+<p></p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg">
+</div>
+<p><em>Germaine Liew, a CRC of 14 years</em>
+</p>
 <p>Drawing a parallel to her role of “defender” on the futsal field, she
 likens a CRC as one who safeguards team goals and makes critical decisions
 to direct the team’s strategies, benefiting both the patients she serves
@@ -51,8 +57,8 @@ have also steadily improved thanks to the advancements in our local medical
 landscape,” she said. For the then young CRC, being part of this study
 and witnessing its impact on patient survival outcomes, she felt the similar
 sense of satisfaction, akin to scoring her first goal in her career.</p>
-<p><em><a rel="noopener noreferrer nofollow" target="_blank">To request from Germaine: Photo of her days as a junior CRC</a></em> 
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[AC(1]</a>&nbsp;</p>
+<p><em>Germaine (2nd from left)'s days as a junior CRC</em>
+</p>
 <p>As the study progressed to the next phase (now named MASPORE ALL 2020),
 it has become the longest running study that Germaine has managed since
 the beginning of her career (the study began in 2003; 21 years). In MASPORE
@@ -114,7 +120,10 @@ well-being of their child,” she added.</p>
 <p>When asked what advice she would give to junior CRCs, Germaine emphasises
 that apart from extending empathy to patients, it is important for them
 to remain adaptable, learn from mistakes and make timely improvements.</p>
-<p><em>To request from Germaine: Photo of her playing futsal / with futsal friends</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_futsal.jpg">
+</div>
+<p><em>Germaine (2nd row, 3rd from left) with her futsal team</em>
 </p>
 <p>Much like in futsal, she encourages her mentees to stay agile, anticipate
 unforeseen developments and be reliable team players on whom clinicians
