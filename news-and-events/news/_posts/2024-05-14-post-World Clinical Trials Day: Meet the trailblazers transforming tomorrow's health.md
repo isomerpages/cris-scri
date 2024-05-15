@@ -8,6 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/2024_05_16___Clinical_Trials_Day_Banner_v1_01.jpg">
+</div>
 <p>Clinical trials drive impactful patient, healthcare, and economic outcomes
 and are at the core of translational research – transforming results from
 research studies into innovative applications that benefit people. &nbsp;Trials
