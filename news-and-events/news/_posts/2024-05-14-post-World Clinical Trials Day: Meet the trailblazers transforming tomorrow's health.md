@@ -72,5 +72,5 @@ General Hospital (CGH)</p>
 </div>
 <p><strong>Nur Qasrina Binte Iskandar Lim</strong> 
 <br>Clinical Research Coordinator
-<br>Department of Medicine, National University Hospital (NUH)</p>
+<br>Department of Medicine, NUH</p>
 <p></p>
