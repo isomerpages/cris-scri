@@ -57,7 +57,10 @@ have also steadily improved thanks to the advancements in our local medical
 landscape,” she said. For the then young CRC, being part of this study
 and witnessing its impact on patient survival outcomes, she felt the similar
 sense of satisfaction, akin to scoring her first goal in her career.</p>
-<p><em>Germaine (2nd from left)'s days as a junior CRC</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Maspore_CRCs_at_St_Jude_VIVA_Forum_2015.jpg">
+</div>
+<p><em>Germaine (3rd from left) with her fellow CRCs from the MASPORE study at the St Jude-VIVA Forum in 2015</em>
 </p>
 <p>As the study progressed to the next phase (now named MASPORE ALL 2020),
 it has become the longest running study that Germaine has managed since
