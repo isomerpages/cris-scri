@@ -56,7 +56,7 @@ Women’s and Children’s Hospital (KKH)</p>
 </div>
 <p><strong>Geraldine Lim</strong> 
 <br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
-General Hospital</p>
+General Hospital (CGH)</p>
 <h4><strong><a href="https://www.scri.edu.sg/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -64,7 +64,8 @@ General Hospital</p>
 </div>
 <p><strong>Agnes Teo</strong> 
 <br>Senior Clinical Research Coordinator
-<br>Department of Women’s Anaesthesia, KKH</p>
+<br>Department of Women’s Anaesthesia, KK Women’s and Children’s Hospital
+(KKH)</p>
 <h4><strong><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Finding her calling in helping others through clinical research</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -72,5 +73,5 @@ General Hospital</p>
 </div>
 <p><strong>Nur Qasrina Binte Iskandar Lim</strong> 
 <br>Clinical Research Coordinator
-<br>Department of Medicine, NUH</p>
+<br>Department of Medicine, National University Hospital (NUH)</p>
 <p></p>
