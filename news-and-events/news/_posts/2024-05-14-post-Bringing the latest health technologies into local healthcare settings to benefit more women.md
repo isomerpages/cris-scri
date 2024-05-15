@@ -123,4 +123,27 @@ her.</p>
 spot her work in news reports. Looking ahead, Agnes continues to lead new
 trials that will improve the patient’s experience, ranging from antenatal
 to postnatal care.</p>
+<h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.scri.edu.sg/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Finding her calling in helping others through clinical research</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
+</p>
+</li>
+</ul>
 <p></p>
