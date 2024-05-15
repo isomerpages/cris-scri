@@ -51,7 +51,10 @@ across the institutions is integral in the studies’ success. In February
 2023, CGH successfully launched clinical blood tests to accurately identify
 and diagnose those with primary aldosteronism at the Shimadzu-CGH Clinomics
 Centre (SC<sup>3</sup>).</p>
-<p><strong><em>photo of geraldine + SC3 PIs</em></strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_with_adrenal_hypertension_study_team__Dr_Troy__PI__on_right__second_row.jpg">
+</div>
+<p><em>Geraldine (1st row, 5th from left) and Dr Troy (2nd row, right) with the adrenal hypertension study team</em>
 </p>
 <h4><strong>Keeping pace and building rapport</strong></h4>
 <p>Although the fast-paced work may be intimidating for young CRCs, she shares
