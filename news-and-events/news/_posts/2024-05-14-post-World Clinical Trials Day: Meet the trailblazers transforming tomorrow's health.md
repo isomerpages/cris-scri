@@ -56,7 +56,7 @@ Women’s and Children’s Hospital (KKH)</p>
 </div>
 <p><strong>Geraldine Lim</strong> 
 <br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
-General Hospital (CGH)</p>
+General Hospital</p>
 <h4><strong><a href="https://www.scri.edu.sg/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
