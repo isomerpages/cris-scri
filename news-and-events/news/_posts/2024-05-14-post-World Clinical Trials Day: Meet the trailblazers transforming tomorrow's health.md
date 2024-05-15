@@ -32,7 +32,7 @@ they have brought science and innovation into clinics and hospitals to
 manage complex clinical trials and achieve better outcomes for our patients.</p>
 <p><strong>Click the links below to read about their stories.</strong>
 </p>
-<h4><strong>Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg">
@@ -40,7 +40,7 @@ manage complex clinical trials and achieve better outcomes for our patients.</p>
 <p><strong>Chew Ying Jia</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Surgery, National University Hospital (NUH)</p>
-<h4><strong>“Scoring goals” to advance research to treat childhood blood cancers</strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg">
