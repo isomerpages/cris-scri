@@ -49,7 +49,7 @@ manage complex clinical trials and achieve better outcomes for our patients.</p>
 <br>Senior Clinical Research Coordinator
 <br>Children’s Blood and Cancer Centre, Haematology / Oncology Service, KK
 Women’s and Children’s Hospital (KKH)</p>
-<h4><strong>Adrenaline fuels her passion and drive to develop the next generation of CRCs</strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_portrait_edit.jpg">
@@ -57,7 +57,7 @@ Women’s and Children’s Hospital (KKH)</p>
 <p><strong>Geraldine Lim</strong> 
 <br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
 General Hospital (CGH)</p>
-<h4><strong>Bringing the latest health technologies into local healthcare settings to benefit more women</strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg">
@@ -65,7 +65,7 @@ General Hospital (CGH)</p>
 <p><strong>Agnes Teo</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Women’s Anaesthesia, KKH</p>
-<h4><strong>Finding her calling in helping others through clinical research</strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Finding her calling in helping others through clinical research</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
