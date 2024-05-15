@@ -51,7 +51,7 @@ have also steadily improved thanks to the advancements in our local medical
 landscape,” she said. For the then young CRC, being part of this study
 and witnessing its impact on patient survival outcomes, she felt the similar
 sense of satisfaction, akin to scoring her first goal in her career.</p>
-<p><em><a rel="noopener noreferrer nofollow" target="_blank">To request from Germaine: Photo of her days as a junior CRC</a></em>
+<p><em><a rel="noopener noreferrer nofollow" target="_blank">To request from Germaine: Photo of her days as a junior CRC</a></em> 
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[AC(1]</a>&nbsp;</p>
 <p>As the study progressed to the next phase (now named MASPORE ALL 2020),
 it has become the longest running study that Germaine has managed since
@@ -70,12 +70,14 @@ logistics, liaising with manufacturing sites and communicating with clinicians
 across various institutions. Her work also involved ensuring compliance
 with ethical and regulatory requirements and organising extensive training
 sessions for her team to navigate the new treatment modality.</p>
+<blockquote>
 <p>When asked how she manages to keep everything in-check and running smoothly,
 she shared, “There is a lot of trust within the team — everyone does the
 heavy lifting according to their area of expertise. The dedication of the
 doctors and nurses who have their own responsibilities but still devote
 their time to saving lives serves as a major inspiration for me to keep
 going as well,” Germaine said.</p>
+</blockquote>
 <p>She shared that hard work and the team effort is especially worthwhile
 when <a href="https://www.straitstimes.com/singapore/health/new-treatment-saves-toddler-with-aggressive-leukaemia-after-chemotherapy-failed-to-work" rel="noopener noreferrer nofollow" target="_blank">young patients who have gained access to CAR-T treatments through local clinical trials</a> can
 overcome their condition, thrive and are given a second chance at life.</p>
