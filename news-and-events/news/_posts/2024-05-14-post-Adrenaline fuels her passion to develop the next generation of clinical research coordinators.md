@@ -108,13 +108,32 @@ patients and clinicians for successful study outcomes.</p>
 <p>Her love for nurturing others extends beyond the work environment; Geraldine
 fosters a collaborative spirit and camaraderie through team outings and
 activities like karaoke sessions.</p>
-<p></p>
-<p><strong><em>To request from Geraldine: Photo of her and her team</em></strong>
-</p>
-<p></p>
 <p>She finds fulfilment in witnessing the growth of the individuals she mentored
 and patients she has encountered through the many studies, echoing the
 sentiment with a background chorus of Rachel Platten's 'Fight Song’, reinvigorating
 her commitment to her work and the people she supports as the hospital
 innovates healthcare for tomorrow.</p>
+<h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.scri.edu.sg/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Finding her calling in helping others through clinical research</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
+</p>
+</li>
+</ul>
 <p></p>
