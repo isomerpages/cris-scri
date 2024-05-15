@@ -72,14 +72,12 @@ situations.</p>
 on the waiting list for a new organ, which involved shift work around a
 24-hour roster. However, after she became a mum, she was looking for a
 role with regular hours and transitioned to become a CRC.</p>
-<blockquote>
 <p>“Similar to being a transplant coordinator, as a CRC, you are involved
 with the patient from the initial recruitment to assessing their suitability
 for the trial. In fact, you follow some patients for many years. Despite
 the long journey through the research process, it offers the opportunity
 to witness new developments in patient treatment and clinical practices,”
 she explained.</p>
-</blockquote>
 <p>Through follow-ups with patients over the years, she is heartened by the
 trust established where they share their feedback with her.</p>
 <p>Geraldine highlights that the strong rapport built with patients allows
@@ -90,10 +88,12 @@ focus on the broader scientific and medical aspects of the trial.</p>
 <p>This approach helps drive collaborative synergy between CRCs and PIs,
 allowing both roles to utilise their specific expertise more effectively
 – trial coordination and medical background – to advance research together.</p>
+<blockquote>
 <p>“PIs, CRCs and patients form fundamental pillars in CGH’s research ecosystem
 as we drive new discoveries, improve outcomes and transform care delivery,
 for the better health of our community in Singapore and beyond,” Geraldine
 shared.&nbsp;</p>
+</blockquote>
 <h4><strong>Strengthening relationships and growing the CRC career path at SingHealth</strong></h4>
 <p>Apart from taking care of trial participants, Geraldine also oversees
 the technical aspects of study operations and overseeing the development
