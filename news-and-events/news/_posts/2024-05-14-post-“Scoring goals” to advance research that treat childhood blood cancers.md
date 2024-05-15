@@ -87,6 +87,12 @@ doctors and nurses who have their own responsibilities but still devote
 their time to saving lives serves as a major inspiration for me to keep
 going as well,” Germaine said.</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine__Dr_Michaela_Seng_KKH.jpg">
+</div>
+<p><em>Germaine with Dr Michaela Seng, Senior Consultant, Haematology/Oncology Service and Lead PI for one of the multi-site CAR-T therapy trials</em>
+</p>
 <p>She shared that hard work and the team effort is especially worthwhile
 when <a href="https://www.straitstimes.com/singapore/health/new-treatment-saves-toddler-with-aggressive-leukaemia-after-chemotherapy-failed-to-work" rel="noopener noreferrer nofollow" target="_blank">young patients who have gained access to CAR-T treatments through local clinical trials</a> can
 overcome their condition, thrive and are given a second chance at life.</p>
