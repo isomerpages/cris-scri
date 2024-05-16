@@ -158,7 +158,7 @@ protect the team's objectives and achieve the best outcomes for their patients.<
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in helping others through clinical research</a>
+<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a>
 </p>
 </li>
 <li>
