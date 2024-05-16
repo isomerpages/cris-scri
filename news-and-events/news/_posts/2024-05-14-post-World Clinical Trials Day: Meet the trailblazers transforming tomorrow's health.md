@@ -66,7 +66,7 @@ General Hospital (CGH)</p>
 <br>Senior Clinical Research Coordinator
 <br>Department of Women’s Anaesthesia, KK Women’s and Children’s Hospital
 (KKH)</p>
-<h4><strong><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in helping others through clinical research</a></strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
