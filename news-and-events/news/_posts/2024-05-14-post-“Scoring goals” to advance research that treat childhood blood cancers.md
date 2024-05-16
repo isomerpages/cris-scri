@@ -120,17 +120,17 @@ despite often feeling overwhelmed and helpless themselves,” she shared.</p>
 Germaine makes a conscious effort to be present in those meetings from
 start to end such that she is not perceived as someone who “appears abruptly
 just to seek consent”.</p>
-<blockquote>
 <p>Instead, she explores ways to go beyond her role, such as being a comforting
 pillar of support for patients and their family, and deepening the trust
 and rapport between the parents and clinicians.</p>
-</blockquote>
 <p>“It can be an isolating journey for families. It is crucial that we do
 more than just answer their questions; offering them reassurance is equally
 important,” she shared.</p>
+<blockquote>
 <p>“This approach is a comforting reminder that the medical team walks with
 families on the challenging path, with the ultimate goal of ensuring the
 well-being of their child,” she added.</p>
+</blockquote>
 <p>When asked what advice she would give to junior CRCs, Germaine emphasises
 that apart from extending empathy to patients, it is important for them
 to remain adaptable, learn from mistakes and make timely improvements.</p>
