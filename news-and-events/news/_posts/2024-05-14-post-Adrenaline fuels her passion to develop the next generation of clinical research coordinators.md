@@ -54,7 +54,7 @@ Centre (SC<sup>3</sup>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_with_adrenal_hypertension_study_team__Dr_Troy__PI__on_right__second_row.jpg">
 </div>
-<p><em>Geraldine (first row, fifth from left) and Dr Troy (second row, right) with the adrenal hypertension study team</em>
+<p><em>Geraldine (first row, fifth from left) and Dr Troy Puar (second row, right) with the adrenal hypertension study team</em>
 </p>
 <h4><strong>Keeping pace and building rapport</strong></h4>
 <p>Although the fast-paced work may be intimidating for young CRCs, she shares
@@ -123,7 +123,7 @@ innovates healthcare for tomorrow.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a>
+<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
 </p>
 </li>
 <li>
