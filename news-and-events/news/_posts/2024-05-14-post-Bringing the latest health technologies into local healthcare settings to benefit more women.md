@@ -78,7 +78,8 @@ professionals, and worked closely with software developers of uSINE<sup>®</sup>
 improve the user experience. Their efforts eventually received positive
 responses from doctors, who found the software user-friendly and greatly
 beneficial.</p>
-<p>PHOTO OF USINE TEAM</p>
+<p><strong>PHOTO OF USINE TEAM (PENDING FRIDAY / MONDAY)</strong>
+</p>
 <p>It was a fulfilling moment when the team’s hard work contributed to the
 successful clinical evaluation of uSINE<strong><sup>®</sup></strong> which
 secured approval from the Health Sciences Authority for use in other healthcare
@@ -105,8 +106,7 @@ processes. Despite the challenges, Agnes persevered, motivated by the dedication
 of her team.</p>
 <p>Agnes attributes her relentless passion and perseverance for her work
 to her team of CRCs, clinicians, and senior research fellows, some of whom
-she has been colleagues with since she started working in the department
-in 2006.</p>
+she has been colleagues with since she started working in the department.</p>
 <blockquote>
 <p>“They are like my second family,” Agnes said with conviction. Together,
 this team continues to strive at improving the maternity care experience
@@ -133,7 +133,7 @@ to postnatal care.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a>
+<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
 </p>
 </li>
 <li>
