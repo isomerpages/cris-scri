@@ -54,7 +54,7 @@ Centre (SC<sup>3</sup>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_with_adrenal_hypertension_study_team__Dr_Troy__PI__on_right__second_row.jpg">
 </div>
-<p><em>Geraldine (1st row, 5th from left) and Dr Troy (2nd row, right) with the adrenal hypertension study team</em>
+<p><em>Geraldine (first row, fifth from left) and Dr Troy (second row, right) with the adrenal hypertension study team</em>
 </p>
 <h4><strong>Keeping pace and building rapport</strong></h4>
 <p>Although the fast-paced work may be intimidating for young CRCs, she shares
@@ -101,10 +101,13 @@ of CRCs. Recognised for her ability to connect with and empower others,
 Geraldine was selected for the administration pathway under <a href="https://www.singhealthdukenus.com.sg/research/ctcc/developing-our-clinical-trials-or-research-enablers" rel="noopener noreferrer nofollow" target="_blank">SingHealth's CRC Career Development Plan (CDP)</a> in
 2015, a framework meant to facilitate career progression in the cluster.</p>
 <p>Engaging with junior CRCs, she seeks to understand their competencies
-and guide them towards leadership roles. “Whatever we promise to do, we
-need to deliver,” she said. Through her years of experience, she emphasises
-to her team that transparency and resilience is key to building trust with
-patients and clinicians for successful study outcomes.</p>
+and guide them towards leadership roles.</p>
+<blockquote>
+<p>“Whatever we promise to do, we need to deliver,” she said.</p>
+</blockquote>
+<p>Through her years of experience, she emphasises to her team that transparency
+and resilience is key to building trust with patients and clinicians for
+successful study outcomes.</p>
 <p>Her love for nurturing others extends beyond the work environment; Geraldine
 fosters a collaborative spirit and camaraderie through team outings and
 activities like karaoke sessions.</p>
