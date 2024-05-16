@@ -82,13 +82,15 @@ logistics, liaising with manufacturing sites and communicating with clinicians
 across various institutions. Her work also involved ensuring compliance
 with ethical and regulatory requirements and organising extensive training
 sessions for her team to navigate the new treatment modality.</p>
-<blockquote>
 <p>When asked how she manages to keep everything in-check and running smoothly,
 she shared, “There is a lot of trust within the team — everyone does the
-heavy lifting according to their area of expertise. The dedication of the
-doctors and nurses who have their own responsibilities but still devote
-their time to saving lives serves as a major inspiration for me to keep
-going as well,” Germaine said.</p>
+heavy lifting according to their area of expertise."
+<br>
+</p>
+<blockquote>
+<p>"The dedication of the doctors and nurses who have their own responsibilities
+but still devote their time to saving lives serves as a major inspiration
+for me to keep going as well,” Germaine said.</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
