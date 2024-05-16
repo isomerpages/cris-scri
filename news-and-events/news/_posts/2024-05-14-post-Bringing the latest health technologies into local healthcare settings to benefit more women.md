@@ -9,9 +9,12 @@ image: ""
 variant: tiptap
 ---
 <p>An experienced Clinical Research Coordinator (CRC), Agnes Teo, Senior
-Clinical Research Coordinator (CRC) has been serving in KKH’s Women’s Anaesthesia
-department for 14 years. She has led numerous clinical trials and introduced
-medtech innovations into clinical practice, such as <a href="https://www.straitstimes.com/singapore/kkh-taps-ai-to-better-deliver-spinal-anaesthesia-to-women-giving-birth-via-caesarean-section" rel="noopener noreferrer nofollow" target="_blank">the world’s first artificial intelligence-powered ultrasound guided automated spinal landmark identification system, uSINE<sup>®</sup></a>.</p>
+Clinical Research Coordinator (CRC) has been serving in the Department
+of Women’s Anaesthesia at KK Women's and Children’s Hospital (KKH) for
+14 years. Prior to that, she was a CRC in the KK Research Centre for three
+years.</p>
+<p>She has led numerous clinical trials and introduced medtech innovations
+into clinical practice, such as <a href="https://www.straitstimes.com/singapore/kkh-taps-ai-to-better-deliver-spinal-anaesthesia-to-women-giving-birth-via-caesarean-section" rel="noopener noreferrer nofollow" target="_blank">the world’s first artificial intelligence-powered ultrasound guided automated spinal landmark identification system, uSINE<sup>®</sup></a>.</p>
 <p>Spinal anaesthesia is widely used for pain relief for women in labour.
 However, identifying the precise site for needle insertion is a manual
 process, and higher accuracy is required. To minimise pain and complications
