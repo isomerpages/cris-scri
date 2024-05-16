@@ -163,7 +163,7 @@ her professional ambition to scale new heights in advancing women’s health
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in helping others through clinical research</a>
+<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a>
 </p>
 </li>
 <li>
