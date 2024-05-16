@@ -45,9 +45,10 @@ chain reaction (PCR)-based minimal residual disease marker to stratify
 patients according to their risk profile and disease severity as a key
 consideration as part of the treatment plan. For patients assessed to be
 non-high-risk, a three-drug induction regimen was prescribed for these
-patients. The effort led to an improvement in six-year event-free survival
-at 80%, with an overall survival of 88%. The study showed that treatment
-could be appropriately tailored to disease risk, and that an anthracycline-free
+patients.</p>
+<p>The effort led to an improvement in six-year event-free survival at 80%,
+with an overall survival of 88%. The study showed that treatment could
+be appropriately tailored to disease risk, and that an anthracycline-free
 induction strategy did not compromise outcome for the majority of patients.
 The study also led to a follow-up trial MASPORE ALL 2010 to optimise the
 treatment plan for patients in the high-risk group.</p>
@@ -60,7 +61,7 @@ sense of satisfaction, akin to scoring her first goal in her career.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Maspore_CRCs_at_St_Jude_VIVA_Forum_2015.jpg">
 </div>
-<p><em>Germaine (3rd from left) with her fellow CRCs from the MASPORE study at the St Jude-VIVA Forum in 2015</em>
+<p><em>Germaine (third from left) with her fellow CRCs from the MASPORE study at the St Jude-VIVA Forum in 2015</em>
 </p>
 <p>As the study progressed to the next phase (now named MASPORE ALL 2020),
 it has become the longest running study that Germaine has managed since
@@ -132,7 +133,7 @@ to remain adaptable, learn from mistakes and make timely improvements.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_futsal.jpg">
 </div>
-<p><em>Germaine (2nd row, 3rd from left) with her futsal team</em>
+<p><em>Germaine (first row, third from left) with her futsal team</em>
 </p>
 <p>Much like in futsal, she encourages her mentees to stay agile, anticipate
 unforeseen developments and be reliable team players on whom clinicians
