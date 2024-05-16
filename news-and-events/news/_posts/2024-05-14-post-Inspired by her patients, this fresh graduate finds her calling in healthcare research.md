@@ -34,7 +34,7 @@ field, such as those of a research assistant or medical writer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
 </div>
-<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of 2 years</em>
+<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of two years</em>
 </p>
 <p>In May 2021, Qasrina began her role as a CRC in NUH, marking a fresh start
 in her career.</p>
@@ -92,7 +92,7 @@ learning opportunity nonetheless,” she recounted.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Nur_Qasrina_conference.jpg">
 </div>
-<p><em>Qasrina at the JAMA Dermatology conference in San Diego</em>
+<p><em>Qasrina at the JAMA Dermatology conference in San Diego in 2024</em>
 </p>
 <p>Reflecting on the study, Qasrina expressed gratitude to the patients who
 were involved in the research study, whose consent has facilitated advancements
