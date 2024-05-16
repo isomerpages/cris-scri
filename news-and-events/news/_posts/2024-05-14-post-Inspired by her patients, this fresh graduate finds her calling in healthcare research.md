@@ -34,7 +34,7 @@ field, such as those of a research assistant or medical writer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
 </div>
-<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of two years</em>
+<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of over two years</em>
 </p>
 <p>In May 2021, Qasrina began her role as a CRC in NUH, marking a fresh start
 in her career.</p>
@@ -137,7 +137,7 @@ lead you to your desired destination.”</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a>
+<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
 </p>
 </li>
 <li>
