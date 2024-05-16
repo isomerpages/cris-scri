@@ -40,7 +40,7 @@ manage complex clinical trials and achieve better outcomes for our patients.</p>
 <p><strong>Chew Ying Jia</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Surgery, National University Hospital (NUH)</p>
-<h4><strong><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research to treat childhood blood cancers</a></strong></h4>
+<h4><strong><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg">
