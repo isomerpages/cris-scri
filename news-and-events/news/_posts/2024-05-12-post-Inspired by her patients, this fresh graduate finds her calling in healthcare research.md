@@ -58,11 +58,11 @@ addressed their anxieties,” she said.</p>
 </blockquote>
 <p>Turning her own challenges as a new CRC into something valuable others
 can benefit from, Qasrina designed an orientation programme to ease future
-newcomers into the role. This included a training checklist which served
-to help her juniors face significantly less challenges in coordinating
-research studies, data entry, budget tracking and management and patient
-interactions. Her thoughtful approach streamlined training processes, making
-the learning curve for new CRCs less daunting.</p>
+newcomers into the role. This included a training checklist which helps
+her juniors face significantly less challenges in coordinating research
+studies, data entry, budget tracking and management and patient interactions.
+Her thoughtful approach streamlined training processes, making the learning
+curve for new CRCs less daunting.</p>
 <h4><strong>Making steady strides in a new career: understanding patients on a deeper level</strong></h4>
 <p>As a junior CRC, Qasrina was given the opportunity to work with various
 departments across the hospital from internal medicine to infectious diseases
