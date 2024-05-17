@@ -13,8 +13,8 @@ New technologies are also used to develop treatments and advance medical
 diagnostics, including devices that enable early detection of diseases
 so that patients can be provided with early treatment for improved outcomes.</p>
 <p>Chew Ying Jia is a Senior Clinical Research Coordinator (CRC) at the Department
-of Surgery, National University Hospital, who is now in her eighth year
-in the clinical research field. Over her career, Ying Jia has developed
+of Surgery, National University Hospital (NUH), who is now in her eighth
+year in the clinical research field. Over her career, Ying Jia has developed
 her interest in advancing women’s health, especially in supporting early
 screening for breast cancer.</p>
 <p>She finds her chosen career in research fulfilling, as she had always
@@ -141,10 +141,12 @@ as a CRC.</p>
 </div>
 <p><em>The view from Mount Kinabalu</em>
 </p>
-<p>Presently, Ying Jia is the project lead for a pilot trial at the National
-University Hospital (NUH), focusing on the implementation of an AI-powered
-tool to improve current screening performance and efficiency by assisting
-radiologists in reading mammography images. The team will also <a href="https://www.fathomx.co/post/fxmammo-approved-by-hsa-and-wins-award-in-healthcare-innomatch-2022" rel="noopener noreferrer nofollow" target="_blank">explore the possibility to scale up the project within public healthcare. This will accelerate the development of a market-ready AI assistant for breast cancer diagnosis</a>.</p>
+<p>Presently, Ying Jia is the project lead for a pilot trial at NUH which
+looks at implementating an AI-powered tool to aid radiologists in reading
+mammography images more efficiently and accurately. The team will also
+<a href="https://www.fathomx.co/post/fxmammo-approved-by-hsa-and-wins-award-in-healthcare-innomatch-2022" rel="noopener noreferrer nofollow" target="_blank">explore the possibility to scale up the project within public healthcare.
+This will accelerate the development of a market-ready AI assistant for
+breast cancer diagnosis</a>.</p>
 <p>Ying Jia aspires to visit the Everest base camp one day, which mirrors
 her professional ambition to scale new heights in advancing women’s health
 — a climb she deems the most purposeful and worthwhile in her CRC journey.</p>
