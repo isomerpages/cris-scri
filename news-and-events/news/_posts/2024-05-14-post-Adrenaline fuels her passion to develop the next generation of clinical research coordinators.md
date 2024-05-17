@@ -74,7 +74,7 @@ hours and transitioned to become a CRC.</p>
 with the patient from the initial recruitment to assess their suitability
 for the trial. In fact, you follow some patients for many years. Despite
 the long journey through the clinical research process, it offers the opportunity
-to witness new developments in patient treatment and clinical practices,”
+to develop new treatments and clinical practices which benefits patients,”
 she explained.</p>
 <p>Through follow-ups with patients over the years, she is heartened by the
 trust established where they share their feedback with her.</p>
