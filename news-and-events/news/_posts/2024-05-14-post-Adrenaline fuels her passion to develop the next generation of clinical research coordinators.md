@@ -71,7 +71,7 @@ on waiting lists for new organs, which involved shift work around a 24-hour
 roster. However, after she became a mum, she looked for a role with regular
 hours and transitioned to become a CRC.</p>
 <p>“Similar to being a transplant coordinator, as a CRC, you are involved
-with the patient from the initial recruitment to assessing their suitability
+with the patient from the initial recruitment to assess their suitability
 for the trial. In fact, you follow some patients for many years. Despite
 the long journey through the research process, it offers the opportunity
 to witness new developments in patient treatment and clinical practices,”
