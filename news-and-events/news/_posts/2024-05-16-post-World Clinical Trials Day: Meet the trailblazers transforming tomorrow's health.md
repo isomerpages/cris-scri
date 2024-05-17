@@ -26,15 +26,13 @@ research into real-world health solutions.</p>
 <p>To mark <a href="https://www.clinicaltrialsday.org/#ctd2024" rel="noopener noreferrer nofollow" target="_blank">World Clinical Trials Day</a>,
 we celebrate these trailblazers of clinical research among us.</p>
 <p>Hear what keeps these CRCs passionate about driving clinical research.
-They are also recipients of the <a href="/news-and-events/news/pdistinguished-contributor-award-for-crcs-2023/" rel="noopener noreferrer nofollow" target="_blank">Distinguished Contributor Award for CRCs.</a>
-</p>
-<p>held in January this year. With their fundamental skills and a spirit
-of excellence, they have brought science and innovation into clinics and
-hospitals to manage complex clinical trials and achieve better outcomes
-for our patients.</p>
+They are also recipients of the <a href="/news-and-events/news/pdistinguished-contributor-award-for-crcs-2023/" rel="noopener noreferrer nofollow" target="_blank">Distinguished Contributor Award for CRCs</a> held
+in January this year. With their fundamental skills and a spirit of excellence,
+they have brought science and innovation into clinics and hospitals to
+manage complex clinical trials and achieve better outcomes for our patients.</p>
 <p><strong>Click the links below to read their stories.</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chew Ying Jia" src="/images/Resources/News 2024/Ying_Jia_600x400_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</div><div class="isomer-card-description">Chew Ying Jia, Senior Clinical Research Coordinator, Department of Surgery, NUH</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chew Ying Jia" src="/images/Resources/News 2024/Ying_Jia_600x400_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scaling new heights in clinical research</div><div class="isomer-card-description">Chew Ying Jia, Senior Clinical Research Coordinator, Department of Surgery, NUH</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
