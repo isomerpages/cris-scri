@@ -22,7 +22,7 @@ role as a Clinical Research Coordinator (CRC), where she manages several
 novel and cutting-edge clinical research studies at KK Women’s and Children's
 Hospital (KKH)'s Children’s Blood and Cancer Centre.</p>
 <blockquote>
-<p>“Being a CRC was not a widely-recognised role in the Biomedical industry
+<p>“Being a CRC was not a widely recognised role in the Biomedical industry
 at the time. However, while I was serving at the registry, I discovered
 that there is so much in clinical research I could contribute to,” she
 explained.</p>
