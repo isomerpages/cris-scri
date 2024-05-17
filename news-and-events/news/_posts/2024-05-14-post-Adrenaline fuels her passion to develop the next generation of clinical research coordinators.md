@@ -94,9 +94,9 @@ shared.&nbsp;</p>
 </blockquote>
 <h4><strong>Strengthening relationships and growing the CRC career path at SingHealth</strong></h4>
 <p>Apart from taking care of trial participants, Geraldine also oversees
-the technical aspects of study operations and overseeing the development
-of CRCs. Recognised for her ability to connect with and empower others,
-Geraldine was selected for the administration pathway under <a href="https://www.singhealthdukenus.com.sg/research/ctcc/developing-our-clinical-trials-or-research-enablers" rel="noopener noreferrer nofollow" target="_blank">SingHealth's CRC Career Development Plan (CDP)</a> in
+the technical aspects of study operations and the development of CRCs.
+Recognised for her ability to connect with and empower others, Geraldine
+was selected for the administration pathway under <a href="https://www.singhealthdukenus.com.sg/research/ctcc/developing-our-clinical-trials-or-research-enablers" rel="noopener noreferrer nofollow" target="_blank">SingHealth's CRC Career Development Plan (CDP)</a> in
 2015, a framework meant to facilitate career progression in the cluster.</p>
 <p>Engaging with junior CRCs, she seeks to understand their competencies
 and guide them towards leadership roles.</p>
