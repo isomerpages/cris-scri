@@ -100,8 +100,9 @@ that keeps me going,” Germaine said.</p>
 <p><em>Germaine with Dr Michaela Seng, Senior Consultant, Haematology/Oncology Service and Lead PI for one of the multi-site CAR-T therapy trials</em>
 </p>
 <p>She shared that hard work and the team effort is especially worthwhile
-when <a href="https://www.straitstimes.com/singapore/health/new-treatment-saves-toddler-with-aggressive-leukaemia-after-chemotherapy-failed-to-work" rel="noopener noreferrer nofollow" target="_blank">young patients who have gained access to CAR-T treatments through local clinical trials</a> can
-overcome their condition, thrive and are given a second chance at life.</p>
+when young patients who have gained access to CAR-T treatments through
+<a href="https://www.straitstimes.com/singapore/health/new-treatment-saves-toddler-with-aggressive-leukaemia-after-chemotherapy-failed-to-work" rel="noopener noreferrer nofollow" target="_blank">local clinical trials</a>can overcome their condition, thrive and are
+given a second chance at life.</p>
 <h4><strong>Bridging gaps and building trust</strong></h4>
 <p>For young cancer patients who have exhausted traditional methods of treatment,
 they may be considered for CAR-T treatment through the trials. Before enrolling
