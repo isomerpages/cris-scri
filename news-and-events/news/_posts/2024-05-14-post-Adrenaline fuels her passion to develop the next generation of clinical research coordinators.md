@@ -80,7 +80,7 @@ she explained.</p>
 trust established where they share their feedback with her.</p>
 <p>Geraldine highlights that the strong rapport built with patients allows
 for a smoother management of trials as they may be more likely to adhere
-to study protocols and seek help when having enquiries. When CRCs are able
+to study protocols and seek help when having queries. When CRCs are able
 to address their queries, this allows Principal Investigators (PIs) to
 focus on the broader scientific and medical aspects of the trial.</p>
 <p>This approach helps drive collaborative synergy between CRCs and PIs,
