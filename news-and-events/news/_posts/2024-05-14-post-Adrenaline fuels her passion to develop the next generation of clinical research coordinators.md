@@ -8,18 +8,17 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Geraldine relishes both an active role and a front-row seat to advancements
-in clinical research and technology.</p>
+<p>Geraldine relishes an active role in advancing clinical research and technology.</p>
 <p>As a manager at the Clinical Trials and Research Unit (CTRU), which is
 part of the Research Office of Changi General Hospital (CGH), Geraldine
 leads a team of 25 staff that supports CGH research clinicians across over
 100 research studies. It is no easy feat, as these studies range from examining
 drug efficacy or introducing new medical devices to complement patient
 care or observational studies that contribute to clinical research.</p>
-<p>The CTRU centralises resources and efficiently provides support to research
-activities in CGH, in both investigator-led studies and sponsored trials.
-The team supports researchers in grant applications, ethics and regulatory
-submissions, study initiation to completion, as well as publication.</p>
+<p>The CTRU centralises resources and efficiently supports research activities
+in CGH, in both investigator-led studies and sponsored trials. The team
+supports researchers in grant applications, ethics and regulatory submissions,
+study initiation to completion, as well as publication.</p>
 <p>In her twelve-year career as a clinical research coordinator (CRC), Geraldine
 finds fulfilment in coordinating and supporting the delivery of research
 outcomes from bench to bedside.</p>
