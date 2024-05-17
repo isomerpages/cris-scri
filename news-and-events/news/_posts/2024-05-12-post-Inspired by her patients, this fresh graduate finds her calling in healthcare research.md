@@ -118,10 +118,10 @@ and refining the approach to patient consultations.</p>
 months to years. “Despite the long journey, the studies do offer a ray
 of hope to patients,” she reflected.</p>
 </blockquote>
-<p>The empowerment for CRCs to create a sustained impact and enhance patients’
-lives on a broader scale, which Qasrina shared, is one area she aspired
-for her future career to fulfil, back when she was a fresh university graduate.
-Her role as a CRC, fittingly translated that hope into reality.</p>
+<p>As a fresh university graduate, Qasrina aspired to create a sustained
+impact and enhance people's lives. Her role as a CRC has translated that
+hope into reality, and empowered her with the competency to do so on a
+broader scale.</p>
 <p>Qasrina offered this advice to others who are at career crossroads, “Stay
 open to unexpected opportunities. Each experience serves as a stepping-stone
 to develop skills and build resilience for future roles. Even if you have
