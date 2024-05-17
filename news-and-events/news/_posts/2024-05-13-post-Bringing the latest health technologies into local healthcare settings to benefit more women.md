@@ -13,6 +13,11 @@ Clinical Research Coordinator (CRC) has been serving in the Department
 of Women’s Anaesthesia at KK Women's and Children’s Hospital (KKH) for
 14 years. Prior to that, she was a CRC in the KK Research Centre for three
 years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg">
+</div>
+<p><em>Agnes Teo, a CRC of 17 years</em>
+</p>
 <p>She has led numerous clinical trials and introduced medtech innovations
 into clinical practice, such as <a href="https://www.straitstimes.com/singapore/kkh-taps-ai-to-better-deliver-spinal-anaesthesia-to-women-giving-birth-via-caesarean-section" rel="noopener noreferrer nofollow" target="_blank">the world’s first artificial intelligence-powered ultrasound guided automated spinal landmark identification system, uSINE<sup>®</sup></a>.</p>
 <p>Spinal anaesthesia is widely used for pain relief for women in labour.
@@ -33,19 +38,13 @@ or less anxious deliveries for women during childbirth,” she shared.</p>
 of a team to develop a <a href="https://cnalifestyle.channelnewsasia.com/women/c-section-music-therapy-kkh-healing-tunes-356906" rel="noopener noreferrer nofollow" target="_blank">music-based intervention programme, 'Healing Tunes'</a><u>,</u> and
 witness its integration into clinical practice at KKH.</p>
 <p>'Healing Tunes', the first such programme in Singapore, aims to reduce
-anxiety and minimise pain magnification for women undergoing elective C-sections
-in the operating theatres. Using a mobile device, patients could select
-and listen to their preferred tunes before, during and after surgery,”
-she shared.</p>
+anxiety and minimise pain magnification for women undergoing elective C-sections.
+Using a mobile device, patients could select and listen to their preferred
+tunes before, during and after surgery,” she shared.</p>
 <p>'Healing Tunes' is backed by evidence. In a comprehensive study involving
 108 women undergoing elective C-sections, those who underwent the programme
 experienced a significant 50% reduction in their anxiety scores, and their
 pain magnification scores decreased by 35%.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg">
-</div>
-<p><em>Agnes Teo, a CRC of 17 years</em>
-</p>
 <h4><strong>Bringing new technologies from ideation into clinical practice to elevate patient care during childbirth</strong></h4>
 <p>The journey from developing innovation through to adoption, commercialisation
 and into clinical practice requires determination and patience to problem-solve
