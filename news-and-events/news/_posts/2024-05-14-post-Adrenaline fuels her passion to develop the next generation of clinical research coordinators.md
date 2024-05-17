@@ -106,14 +106,15 @@ and guide them towards leadership roles.</p>
 <p>Through her years of experience, she emphasises to her team that transparency
 and resilience is key to building trust with patients and clinicians for
 successful study outcomes.</p>
+<p>She finds fulfillment in witnessing the growth of the individuals she
+mentored and patients she has encountered through the many studies.</p>
 <p>Her love for nurturing others extends beyond the work environment; Geraldine
 fosters a collaborative spirit and camaraderie through team outings and
 activities like karaoke sessions.</p>
-<p>She finds fulfilment in witnessing the growth of the individuals she mentored
-and patients she has encountered through the many studies, echoing the
-sentiment with a background chorus of Rachel Platten's 'Fight Song’, reinvigorating
-her commitment to her work and the people she supports as the hospital
-innovates healthcare for tomorrow.</p>
+<p>Geradline and her team's favourite bonding activity is belting out tunes
+at karaoke joints. Their favourite song? Rachel Platten's 'Fight Song’,
+a song that reinvigorates them as they strive to support the clinical research
+studies that innovate healthcare for tomorrow.</p>
 <h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
 <ul data-tight="true" class="tight">
 <li>
