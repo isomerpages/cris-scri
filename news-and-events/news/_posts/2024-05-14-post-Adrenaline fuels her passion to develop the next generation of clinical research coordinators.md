@@ -17,9 +17,9 @@ drug efficacy or introducing new medical devices to complement patient
 care or observational studies that contribute to clinical research.</p>
 <p>The CTRU centralises resources and efficiently supports research activities
 in CGH, in both investigator-led studies and sponsored trials. The team
-supports researchers in grant applications, ethics and regulatory submissions,
+aids researchers in grant applications, ethics and regulatory submissions,
 study initiation to completion, as well as publication.</p>
-<p>In her twelve-year career as a clinical research coordinator (CRC), Geraldine
+<p>In her 12-year career as a clinical research coordinator (CRC), Geraldine
 finds fulfilment in coordinating and supporting the delivery of research
 outcomes from bench to bedside.</p>
 <p></p>
