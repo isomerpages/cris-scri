@@ -91,7 +91,7 @@ heavy lifting according to their area of expertise."
 <blockquote>
 <p>"The dedication of the doctors and nurses who have their own responsibilities
 but still devote their time to saving lives serves as a major inspiration
-for me to keep going as well,” Germaine said.</p>
+that keeps me going,” Germaine said.</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
