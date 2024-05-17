@@ -21,6 +21,11 @@ my turn? Am I not good enough?” she said.</p>
 joined National University Hospital (NUH) as a Clinical Research Coordinator
 (CRC), posted a job opening on LinkedIn. While it was not a profession
 she was familiar with, it opened up new possibilities for her career.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
+</div>
+<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of over two years</em>
+</p>
 <p>When she read up more about the profession, Qasrina realised that there
 were CRC positions available across public healthcare institutions in Singapore
 and the job scope appealed to her.</p>
@@ -30,11 +35,6 @@ for patients intrigued me,” she said.</p>
 </blockquote>
 <p>Previously, she had only applied to jobs that were more well-known in
 the science field, such as those of a research assistant or medical writer.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
-</div>
-<p><em>Nur Qasrina Binte Iskandar Lim, a young CRC of over two years</em>
-</p>
 <p>In May 2021, Qasrina began her role as a CRC in NUH, marking a fresh start
 in her career.</p>
 <p>Her first two weeks of training and orientation were a balancing act,
