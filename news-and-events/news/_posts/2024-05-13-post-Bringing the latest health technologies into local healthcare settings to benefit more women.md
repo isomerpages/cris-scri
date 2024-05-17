@@ -70,7 +70,7 @@ of using uSINE<sup>®</sup>,” she said.</p>
 <p>In addition to patient recruitment, there was the challenge of encouraging
 clinicians who were accustomed to the manual method of identifying where
 to place the spinal needle in the patient’s lumbar spine, to become more
-willing to use uSINE<sup>®</sup>.</p>
+willing to adopt uSINE<sup>®</sup>.</p>
 <p>Determined to showcase the benefits of uSINE<sup>®</sup>, Agnes and her
 team conducted numerous user tests, gathered diverse feedback from healthcare
 professionals, and worked closely with software developers of uSINE<sup>®</sup> to
