@@ -103,8 +103,8 @@ are improving,” she said.</p>
 <p>Qasrina also shared that patients have conveyed their appreciation when
 they learn about the research efforts to help them better manage their
 chronic conditions and thanked the research team for the care and effort
-poured into doing research in Dermatology even though their conditions
-may not be life threatening.</p>
+poured into researching their conditions even though it may not be life
+threatening.</p>
 <h4><strong>CRC’s advanced clinical research seeks to achieve “small wins” that can re-shape future medical practice</strong></h4>
 <p>These poignant moments have strengthened Qasrina's determination to continue
 in her role as a CRC, contributing to the advancement of clinical research
