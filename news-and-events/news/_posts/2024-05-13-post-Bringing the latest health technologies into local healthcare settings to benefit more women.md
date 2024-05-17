@@ -75,7 +75,9 @@ who found the software user-friendly and greatly beneficial.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_with_the_KKH_and_HiCura_Team.jpg">
 </div>
-<p><em>Agnes (third from right) with her KKH colleagues and the team from HiCura Medical. The system was licensed to the medical device company for commercialisation.</em>
+<p><em>Some of the KKH staff and HiCura Medical team members behind uSINE</em><strong><em><sup>® </sup></em></strong><em>(From L to R): Dr Jason Chan, KKH, Mr Alex Goh and Dr Ng Cailin, HiCura Medical, Ms Agnes Teo, KKH, Mr Joshua Chen, HiCura Medical and A/Prof Sng Ban Leong, KKH.</em>
+</p>
+<p><em>The system was licensed to HiCura Medical for commercialisation.</em>
 </p>
 <p>It was a fulfilling moment when the team’s hard work contributed uSINE<strong><sup>®</sup></strong> securing
 the approval from the Health Sciences Authority for use in Singapore.</p>
