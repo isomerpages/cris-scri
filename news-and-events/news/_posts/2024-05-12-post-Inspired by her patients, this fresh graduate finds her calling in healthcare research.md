@@ -45,8 +45,7 @@ day required her to apply the new skills she had picked up during the orientatio
 coordinating logistics and ensuring the collection of quality data and
 data entry.</p>
 <p>CRCs are professionals who have core skills and knowledge to manage clinical
-trials and research studies. This consists of both soft skills and hard
-skills.</p>
+research studies. This consists of both soft skills and hard skills.</p>
 <p>“My science degree and prior experience in clinical research would help
 me grasp concepts such as study protocols and research monitoring more
 quickly,” shared Qasrina.</p>
