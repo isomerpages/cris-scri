@@ -101,8 +101,8 @@ of the devices but also effectively managing the safety and maintenance
 processes. Despite the challenges, Agnes persevered, motivated by the dedication
 of her team.</p>
 <p>Agnes attributes her relentless passion and perseverance to her team of
-CRCs, clinicians, and senior research fellows, some of whom she has been
-colleagues with since she started working in the department.</p>
+CRCs, clinicians, and senior research fellows, some of whom she been colleagues
+with Agnes since she started working in the department.</p>
 <blockquote>
 <p>“They are like my second family,” Agnes said with conviction. Together,
 this team continues to strive at improving the maternity care experience
