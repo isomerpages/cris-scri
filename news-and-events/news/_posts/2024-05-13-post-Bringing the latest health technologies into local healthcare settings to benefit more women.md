@@ -45,10 +45,10 @@ tunes before, during and after surgery,” she shared.</p>
 108 women undergoing elective C-sections, those who underwent the programme
 experienced a significant 50% reduction in their anxiety scores, and their
 pain magnification scores decreased by 35%.</p>
-<h4><strong>Bringing new technologies from ideation into clinical practice to elevate patient care during childbirth</strong></h4>
-<p>The journey from developing innovation through to adoption, commercialisation
-and into clinical practice requires determination and patience to problem-solve
-and find solutions at each step of the way.</p>
+<h4><strong>Introducing new technologies into clinical practice to elevate patient care during childbirth</strong></h4>
+<p>The journey from developing an innovative idea into a product which can
+be commercialised and adopted into clinical practice requires determination
+and patience to problem-solve and find solutions at each step of the way.</p>
 <p>Agnes shared that introducing uSINE<sup>®</sup> into clinical practice
 took three years. As lead CRC, Agnes supported the lead Principal Investigator
 (PI) in the project, where the team conducted a clinical study that evaluated
@@ -56,7 +56,7 @@ the safety and efficacy of uSINE<sup>®</sup> to be adopted into clinical
 workflow and practice.</p>
 <p>Agnes played a crucial role in managing the intricacies of study operations
 and administration. She worked closely with the software developers of
-uSINE<sup>®</sup>, engaged in user testing with clinicians, and prepared
+uSINE<sup>®</sup>, conducted user testing with clinicians, and prepared
 training materials as the software and device underwent multiple versions
 based on user-experience feedback.</p>
 <p>When the team encountered challenges in recruiting prospective mothers,
