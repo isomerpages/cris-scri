@@ -141,8 +141,8 @@ to remain adaptable, learn from mistakes and make timely improvements.</p>
 <p><em>Germaine (first row, second from right) with her futsal team</em>
 </p>
 <p>Much like in futsal, she encourages her mentees to stay agile, anticipate
-unforeseen developments and be reliable team players on whom clinicians
-and nurses can depend. This approach helps ensure that they effectively
+unforeseen developments and be reliable team players that clinicians and
+nurses can depend on. This approach helps ensure that they effectively
 protect the team's objectives and achieve the best outcomes for their patients.</p>
 <h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
 <ul data-tight="true" class="tight">
