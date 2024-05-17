@@ -34,17 +34,6 @@ my career. It is fulfilling to be actively involved in research studies
 that translate to a direct and positive impact for patients, such as safer
 or less anxious deliveries for women during childbirth,” she shared.</p>
 </blockquote>
-<p>Another memorable project she recalled over her career, was being part
-of a team to develop a <a href="https://cnalifestyle.channelnewsasia.com/women/c-section-music-therapy-kkh-healing-tunes-356906" rel="noopener noreferrer nofollow" target="_blank">music-based intervention programme, 'Healing Tunes'</a><u>,</u> and
-witness its integration into clinical practice at KKH.</p>
-<p>'Healing Tunes', the first such programme in Singapore, aims to reduce
-anxiety and minimise pain magnification for women undergoing elective C-sections.
-Using a mobile device, patients could select and listen to their preferred
-tunes before, during and after surgery,” she shared.</p>
-<p>'Healing Tunes' is backed by evidence. In a comprehensive study involving
-108 women undergoing elective C-sections, those who underwent the programme
-experienced a significant 50% reduction in their anxiety scores, and their
-pain magnification scores decreased by 35%.</p>
 <h4><strong>Introducing new technologies into clinical practice to elevate patient care during childbirth</strong></h4>
 <p>The journey from developing an innovative idea into a product which can
 be commercialised and adopted into clinical practice requires determination
@@ -92,9 +81,22 @@ were revealed in clinical trials:</p>
 </li>
 </ul>
 <h4><strong>Reflecting on her journey in contributing towards safer childbirth experiences for mothers</strong></h4>
+<p>Another memorable project Agnes recalled over her career, was being part
+of a team to develop a <a href="https://cnalifestyle.channelnewsasia.com/women/c-section-music-therapy-kkh-healing-tunes-356906" rel="noopener noreferrer nofollow" target="_blank">music-based intervention programme, 'Healing Tunes'</a><u>,</u> and
+witness its integration into clinical practice at KKH.</p>
+<p>'Healing Tunes', the first such programme in Singapore, aims to reduce
+anxiety and minimise pain magnification for women undergoing elective C-sections.
+Using a mobile device, patients could select and listen to their preferred
+tunes before, during and after surgery,” she shared.</p>
+<p>'Healing Tunes' is backed by evidence. In a comprehensive study involving
+108 women undergoing elective C-sections, those who underwent the programme
+experienced a significant 50% reduction in their anxiety scores, and their
+pain magnification scores decreased by 35%.</p>
+<h4><strong>Reflecting on her journey in contributing towards safer childbirth experiences for mothers</strong></h4>
 <p>Driven by a passion to bring medtech innovations and new technologies
 into clinical practice, Agnes shared that such successful new methodologies
-would contribute to safer child delivery experiences for mothers in future.</p>
+would contribute to safer and less anxious child delivery experiences for
+mothers in future.</p>
 <p>There were many complexities in obtaining regulatory approvals for new
 technologies which involves not only understanding the technical aspects
 of the devices but also effectively managing the safety and maintenance
