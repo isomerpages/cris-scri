@@ -148,29 +148,30 @@ mammography images more efficiently and accurately. The team will also
 This will accelerate the development of a market-ready AI assistant for
 breast cancer diagnosis</a>.</p>
 <p>Ying Jia aspires to visit the Everest base camp one day, and continue
-to scale new heights in advancing women’s health — a climb she deems the
-most purposeful and worthwhile in her CRC journey thus far.</p>
+scale new heights in advancing women’s health — a climb she deems the most
+purposeful and worthwhile in her CRC journey thus far.</p>
 <h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
+<p><a href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
+<p><a href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a>
+<p><a href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a>
+<p><a href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
+<p><a href="/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
 </p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/2024_05_16___Clinical_Trials_Day_Banner_v1_01.jpg"></a>
 <p></p>
