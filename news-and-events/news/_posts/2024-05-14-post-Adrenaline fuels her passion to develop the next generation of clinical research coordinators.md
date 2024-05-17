@@ -46,7 +46,7 @@ funded. She also works closely with the study teams to conceptualise the
 study framework, operational needs, draft essential documents, analyse
 the study’s challenges, and offer solutions.</p>
 <p>Geraldine’s experience in organising and overseeing the patients and coordinators
-across the institutions is integral in the studies’ success. In February
+across the institutions is integral to the studies’ success. In February
 2023, CGH successfully launched clinical blood tests to accurately identify
 and diagnose those with primary aldosteronism at the Shimadzu-CGH Clinomics
 Centre (SC<sup>3</sup>).</p>
