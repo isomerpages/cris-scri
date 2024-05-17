@@ -106,8 +106,8 @@ given a second chance at life.</p>
 <h4><strong>Bridging gaps and building trust</strong></h4>
 <p>For young cancer patients who have exhausted traditional methods of treatment,
 they may be considered for CAR-T treatment through the trials. Before enrolling
-them, informed consent is required. Germaine steps in to speak with the
-families of these patients, which ranges from newborns to teenagers. She
+them, informed consent is required. Germaine steps in to speak with patients
+and their families. These patients ranges from newborns to teenagers. She
 maintains empathy and compassion by putting herself in their shoes, and
 carefully explains the details of the clinical research study to them.</p>
 <p>Germaine is a reassuring presence and valuable member of the healthcare
@@ -132,13 +132,13 @@ important,” she shared.</p>
 families on the challenging path, with the ultimate goal of ensuring the
 well-being of their child,” she added.</p>
 </blockquote>
-<p>When asked what advice she would give to junior CRCs, Germaine emphasises
+<p>When asked what advice she would give to junior CRCs, Germaine emphasised
 that apart from extending empathy to patients, it is important for them
 to remain adaptable, learn from mistakes and make timely improvements.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_futsal.jpg">
 </div>
-<p><em>Germaine (first row, third from left) with her futsal team</em>
+<p><em>Germaine (first row, second from right) with her futsal team</em>
 </p>
 <p>Much like in futsal, she encourages her mentees to stay agile, anticipate
 unforeseen developments and be reliable team players on whom clinicians
