@@ -26,10 +26,12 @@ research into real-world health solutions.</p>
 <p>To mark <a href="https://www.clinicaltrialsday.org/#ctd2024" rel="noopener noreferrer nofollow" target="_blank">World Clinical Trials Day</a>,
 we celebrate these trailblazers of clinical research among us.</p>
 <p>Hear what keeps these CRCs passionate about driving clinical research.
-They are also recipients of the <a href="https://www.scri.edu.sg/news-and-events/news/pdistinguished-contributor-award-for-crcs-2023/" rel="noopener noreferrer nofollow" target="_blank">Distinguished Contributor Award for CRCs</a><u> </u>held
-in January this year. With their fundamental skills and a spirit of excellence,
-they have brought science and innovation into clinics and hospitals to
-manage complex clinical trials and achieve better outcomes for our patients.</p>
+They are also recipients of the <a href="/news-and-events/news/pdistinguished-contributor-award-for-crcs-2023/" rel="noopener noreferrer nofollow" target="_blank">Distinguished Contributor Award for CRCs</a>
+</p>
+<p>held in January this year. With their fundamental skills and a spirit
+of excellence, they have brought science and innovation into clinics and
+hospitals to manage complex clinical trials and achieve better outcomes
+for our patients.</p>
 <p><strong>Click the links below to read about their stories.</strong>
 </p>
 <h4><strong><a href="https://www.scri.edu.sg/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a></strong></h4>
