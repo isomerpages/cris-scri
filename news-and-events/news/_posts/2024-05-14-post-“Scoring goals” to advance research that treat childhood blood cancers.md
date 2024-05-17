@@ -44,7 +44,7 @@ marked a pivotal moment in her career. The trial utilised a single polymerase
 chain reaction (PCR)-based minimal residual disease marker to stratify
 patients according to their risk profile and disease severity as a key
 consideration as part of the treatment plan. For patients assessed to be
-non-high-risk, a three-drug induction regimen was prescribed for these
+at non-high-risk, a three-drug induction regimen was prescribed for these
 patients.</p>
 <p>The effort led to an improvement in six-year event-free survival at 80%,
 with an overall survival of 88%. The study showed that treatment could
