@@ -20,7 +20,7 @@ in CGH, in both investigator-led studies and sponsored trials. The team
 aids researchers in grant applications, ethics and regulatory submissions,
 study initiation to completion, as well as publication.</p>
 <p>In her 12-year career as a clinical research coordinator (CRC), Geraldine
-finds fulfilment in coordinating and supporting the delivery of research
+finds fulfillment in coordinating and supporting the delivery of research
 outcomes from bench to bedside.</p>
 <p></p>
 <div class="isomer-image-wrapper">
