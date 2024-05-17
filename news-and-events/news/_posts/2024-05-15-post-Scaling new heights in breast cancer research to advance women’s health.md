@@ -147,9 +147,9 @@ mammography images more efficiently and accurately. The team will also
 <a href="https://www.fathomx.co/post/fxmammo-approved-by-hsa-and-wins-award-in-healthcare-innomatch-2022" rel="noopener noreferrer nofollow" target="_blank">explore the possibility to scale up the project within public healthcare.
 This will accelerate the development of a market-ready AI assistant for
 breast cancer diagnosis</a>.</p>
-<p>Ying Jia aspires to visit the Everest base camp one day, which mirrors
-her professional ambition to scale new heights in advancing women’s health
-— a climb she deems the most purposeful and worthwhile in her CRC journey.</p>
+<p>Ying Jia aspires to visit the Everest base camp one day, and continue
+to scale new heights in advancing women’s health — a climb she deems the
+most purposeful and worthwhile in her CRC journey thus far.</p>
 <h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
 <ul data-tight="true" class="tight">
 <li>
