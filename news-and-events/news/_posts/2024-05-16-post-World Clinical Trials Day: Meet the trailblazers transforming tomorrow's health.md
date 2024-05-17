@@ -35,44 +35,29 @@ for our patients.</p>
 <p><strong>Click the links below to read about their stories.</strong>
 </p>
 <h4><strong><a href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a></strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg"></a>
 <p><strong>Chew Ying Jia</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Surgery, National University Hospital (NUH)</p>
 <h4><strong><a href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a></strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg"></a>
 <p><strong>Germaine Liew</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Children’s Blood and Cancer Centre, Haematology / Oncology Service, KK
 Women’s and Children’s Hospital (KKH)</p>
 <h4><strong><a href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a></strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_portrait_edit.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_portrait_edit.jpg"></a>
 <p><strong>Geraldine Lim</strong> 
 <br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
 General Hospital (CGH)</p>
 <h4><strong><a href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a></strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg"></a>
 <p><strong>Agnes Teo</strong> 
 <br>Senior Clinical Research Coordinator
 <br>Department of Women’s Anaesthesia, KK Women’s and Children’s Hospital
 (KKH)</p>
 <h4><strong><a href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a></strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg"></a>
 <p><strong>Nur Qasrina Binte Iskandar Lim</strong> 
 <br>Clinical Research Coordinator
 <br>Department of Medicine, National University Hospital (NUH)</p>
