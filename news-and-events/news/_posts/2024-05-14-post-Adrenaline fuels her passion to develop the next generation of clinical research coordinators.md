@@ -30,12 +30,12 @@ outcomes from bench to bedside.</p>
 </p>
 <h4><strong>Supporting early intervention and preventive health for patients with primary aldosteronism</strong></h4>
 <p>Among all patients with hypertension in Singapore, including those with
-the more commonly known salt-sensitive hypertension, about 5% have primary
-aldosteronism hypertension – a lesser-known and curable form of hypertension.
-These patients are at a higher risk of developing heart disease, stroke,
-and kidney failure compared to regular patients with hypertension. However,
-despite the higher prevalence, many patients with primary aldosteronism
-are not screened and treated.</p>
+the more commonly known condition known as salt-sensitive hypertension,
+about 5% have primary aldosteronism hypertension – a lesser-known and curable
+form of hypertension. These patients are at a higher risk of developing
+heart disease, stroke, and kidney failure compared to regular patients
+with hypertension. However, despite the higher prevalence, many patients
+with primary aldosteronism are not screened and treated.</p>
 <p>Since 2016, Geraldine has been closely involved in a multi-centre, multi-study
 research project led by Clinical Assistant Professor Troy Puar, Head and
 Senior Consultant, Department of Endocrinology, CGH, which focuses on enhancing
@@ -73,7 +73,7 @@ hours and transitioned to become a CRC.</p>
 <p>“Similar to being a transplant coordinator, as a CRC, you are involved
 with the patient from the initial recruitment to assess their suitability
 for the trial. In fact, you follow some patients for many years. Despite
-the long journey through the research process, it offers the opportunity
+the long journey through the clinical research process, it offers the opportunity
 to witness new developments in patient treatment and clinical practices,”
 she explained.</p>
 <p>Through follow-ups with patients over the years, she is heartened by the
