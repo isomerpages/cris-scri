@@ -80,7 +80,7 @@ were revealed in clinical trials:</p>
 <p>Women with normal body mass index (&lt;30kg/m2): 70% to 92%</p>
 </li>
 </ul>
-<h4><strong>Reflecting on her journey in contributing towards safer childbirth experiences for mothers</strong></h4>
+<h4><strong>Comforting mothers with the sound of music</strong></h4>
 <p>Another memorable project Agnes recalled over her career, was being part
 of a team to develop a <a href="https://cnalifestyle.channelnewsasia.com/women/c-section-music-therapy-kkh-healing-tunes-356906" rel="noopener noreferrer nofollow" target="_blank">music-based intervention programme, 'Healing Tunes'</a><u>,</u> and
 witness its integration into clinical practice at KKH.</p>
