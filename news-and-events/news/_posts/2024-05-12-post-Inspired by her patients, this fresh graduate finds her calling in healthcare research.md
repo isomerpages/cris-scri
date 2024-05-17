@@ -100,7 +100,7 @@ research reviews has been an inspiration to Qasrina.</p>
 <p>"It really warms my heart when patients give feedback that their conditions
 are improving,” she said.</p>
 </blockquote>
-<p>Qasrina also shared that patient have conveyed their appreciation when
+<p>Qasrina also shared that patients have conveyed their appreciation when
 they learn about the research efforts to help them better manage their
 chronic conditions and thanked the research team for the care and effort
 poured into doing research in Dermatology even though their conditions
