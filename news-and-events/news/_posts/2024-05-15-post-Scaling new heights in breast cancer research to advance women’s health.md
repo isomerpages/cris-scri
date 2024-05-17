@@ -36,7 +36,8 @@ of both worlds,” she said.</p>
 <p><em>Chew Ying Jia, a CRC of 8 years</em>
 </p>
 <p>A milestone year in Ying Jia’s career was in 2021, where she helmed the
-set-up of <a href="https://www.researchgate.net/publication/359641005_BREAst_screening_Tailored_for_HEr_BREATHE-A_study_protocol_on_personalised_risk-based_breast_cancer_screening_programme" rel="noopener noreferrer nofollow" target="_blank">Singapore’s first risk-based breast cancer screening research programme, Breast Screening Tailored for Her (BREATHE)</a>,
+set-up of Singapore’s first risk-based breast cancer screening research
+programme, <a href="https://www.researchgate.net/publication/359641005_BREAst_screening_Tailored_for_HEr_BREATHE-A_study_protocol_on_personalised_risk-based_breast_cancer_screening_programme" rel="noopener noreferrer nofollow" target="_blank">Breast Screening Tailored for Her (BREATHE)</a>,
 while she was working at Ng Teng Fong General Hospital, one of the study’s
 recruitment site.</p>
 <p>Breast cancer is a complex disease, and current clinical guidelines which
@@ -144,9 +145,9 @@ as a CRC.</p>
 <p>Presently, Ying Jia is the project lead for a pilot trial at NUH which
 looks at implementating an AI-powered tool to aid radiologists in reading
 mammography images more efficiently and accurately. The team will also
-<a href="https://www.fathomx.co/post/fxmammo-approved-by-hsa-and-wins-award-in-healthcare-innomatch-2022" rel="noopener noreferrer nofollow" target="_blank">explore the possibility to scale up the project within public healthcare.
-This will accelerate the development of a market-ready AI assistant for
-breast cancer diagnosis</a>.</p>
+explore the possibility to <a href="https://www.fathomx.co/post/fxmammo-approved-by-hsa-and-wins-award-in-healthcare-innomatch-2022" rel="noopener noreferrer nofollow" target="_blank">scale up the project within public healthcare.</a> This
+will accelerate the development of a market-ready AI assistant for breast
+cancer diagnosis.</p>
 <p>Ying Jia aspires to visit the Everest base camp one day, and continue
 scale new heights in advancing women’s health — a climb she deems the most
 purposeful and worthwhile in her CRC journey thus far.</p>
