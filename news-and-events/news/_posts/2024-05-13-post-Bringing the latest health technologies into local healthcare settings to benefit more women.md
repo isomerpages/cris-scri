@@ -71,12 +71,11 @@ of using uSINE<sup>®</sup>,” she said.</p>
 clinicians who were accustomed to the manual method of identifying where
 to place the spinal needle in the patient’s lumbar spine, to become more
 willing to adopt uSINE<sup>®</sup>.</p>
-<p>Determined to showcase the benefits of uSINE<sup>®</sup>, Agnes and her
-team conducted numerous user tests, gathered diverse feedback from healthcare
-professionals, and worked closely with software developers of uSINE<sup>®</sup> to
-improve the user experience. Their efforts eventually received positive
-responses from doctors, who found the software user-friendly and greatly
-beneficial.</p>
+<p>Determined to showcase the benefits of the technology, Agnes and her team
+conducted numerous user tests, gathered diverse feedback from healthcare
+professionals, and worked closely with software developers to improve user
+experience. Their efforts eventually received positive responses from doctors,
+who found the software user-friendly and greatly beneficial.</p>
 <p><strong>PHOTO OF USINE TEAM (PENDING FRIDAY / MONDAY)</strong>
 </p>
 <p>It was a fulfilling moment when the team’s hard work contributed to the
