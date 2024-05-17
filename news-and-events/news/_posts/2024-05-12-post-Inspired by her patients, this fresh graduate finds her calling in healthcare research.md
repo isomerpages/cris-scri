@@ -46,9 +46,8 @@ coordinating logistics and ensuring the collection of quality data and
 data entry.</p>
 <p>CRCs are professionals who have core skills and knowledge to manage clinical
 research studies. This consists of both soft skills and hard skills.</p>
-<p>“My science degree and prior experience in clinical research would help
-me grasp concepts such as study protocols and research monitoring more
-quickly,” shared Qasrina.</p>
+<p>“My science degree helped me grasp concepts such as study protocols and
+research monitoring more quickly,” shared Qasrina.</p>
 <p>As a newcomer however, she faced difficulties in recruiting patients.
 Qasrina persisted and sought guidance from senior CRCs to refine her recruitment
 strategies and began building rapport with nurses from whom she learnt
@@ -131,24 +130,25 @@ lead you to your desired destination.”</p>
 <h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.scri.edu.sg/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a>
+<p><a href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
+<p><a href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
+<p><a href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a>
+<p><a href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
+<p><a href="/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
 </p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/2024_05_16___Clinical_Trials_Day_Banner_v1_01.jpg"></a>
 <p></p>
