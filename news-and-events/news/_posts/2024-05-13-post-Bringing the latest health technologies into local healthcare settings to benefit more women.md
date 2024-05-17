@@ -128,24 +128,25 @@ to postnatal care.</p>
 <h4>Keen to learn about the stories of other CRCs? Read more below.</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.scri.edu.sg/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a>
+<p><a href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" rel="noopener noreferrer nofollow" target="_blank">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
+<p><a href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
+<p><a href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a>
+<p><a href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
+<p><a href="/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/" rel="noopener noreferrer nofollow" target="_blank">Back to World Clinical Trials Day</a>
 </p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/2024_05_16___Clinical_Trials_Day_Banner_v1_01.jpg"></a>
 <p></p>
