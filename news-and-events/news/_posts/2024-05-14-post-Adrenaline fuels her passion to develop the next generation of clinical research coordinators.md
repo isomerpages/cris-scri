@@ -37,14 +37,14 @@ and kidney failure compared to regular patients with hypertension. However,
 despite the higher prevalence, many patients with primary aldosteronism
 are not screened and treated.</p>
 <p>Since 2016, Geraldine has been closely involved in a multi-centre, multi-study
-key research project led by Clinical Assistant Professor Troy Puar, Head
-and Senior Consultant, Department of Endocrinology, CGH, which focuses
-on enhancing outcomes for patients with primary aldosteronism. With her
-clinical research expertise, she supports the Principal Investigators (PIs)
-and guides her research staff in the various clinical studies, some of
-which are nationally funded. She also works closely with the study teams
-to conceptualise the study framework, operational needs, draft essential
-documents, analyse the study’s challenges, and offer solutions.</p>
+research project led by Clinical Assistant Professor Troy Puar, Head and
+Senior Consultant, Department of Endocrinology, CGH, which focuses on enhancing
+outcomes for patients with primary aldosteronism. With her clinical research
+expertise, she supports the Principal Investigators (PIs) and guides her
+research staff in the various clinical studies, some of which are nationally
+funded. She also works closely with the study teams to conceptualise the
+study framework, operational needs, draft essential documents, analyse
+the study’s challenges, and offer solutions.</p>
 <p>Geraldine’s experience in organising and overseeing the patients and coordinators
 across the institutions is integral in the studies’ success. In February
 2023, CGH successfully launched clinical blood tests to accurately identify
