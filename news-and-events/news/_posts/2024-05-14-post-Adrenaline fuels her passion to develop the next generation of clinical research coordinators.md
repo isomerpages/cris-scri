@@ -110,7 +110,7 @@ successful study outcomes.</p>
 mentored and patients she has encountered through the many studies.</p>
 <p>Her love for nurturing others extends beyond the work environment; Geraldine
 fosters a collaborative spirit and camaraderie through team outings.</p>
-<p>Geradline and her team's favourite bonding activity is belting out tunes
+<p>Geraldine and her team's favourite bonding activity is belting out tunes
 at karaoke joints. Their favourite song? Rachel Platten's 'Fight Song’,
 a song that reinvigorates them as they strive to support the clinical research
 studies that innovate healthcare for tomorrow.</p>
