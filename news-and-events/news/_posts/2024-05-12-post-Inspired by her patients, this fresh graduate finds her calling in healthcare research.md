@@ -60,7 +60,7 @@ addressed their anxieties,” she said.</p>
 can benefit from, Qasrina designed an orientation programme to ease future
 newcomers into the role. This included a training checklist which helps
 her juniors face significantly less challenges in coordinating research
-studies, data entry, budget tracking and management and patient interactions.
+studies, entering data entry, tracking budgets and interacting with patients.
 Her thoughtful approach streamlined training processes, making the learning
 curve for new CRCs less daunting.</p>
 <h4><strong>Making steady strides in a new career: understanding patients on a deeper level</strong></h4>
