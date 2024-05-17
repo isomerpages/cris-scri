@@ -46,9 +46,9 @@ funded. She also works closely with the study teams to conceptualise the
 study framework, operational needs, draft essential documents, analyse
 the study’s challenges, and offer solutions.</p>
 <p>Geraldine’s experience in organising and overseeing the patients and coordinators
-across the institutions is integral to the studies’ success. In February
-2023, CGH successfully launched clinical blood tests to accurately identify
-and diagnose those with primary aldosteronism at the Shimadzu-CGH Clinomics
+across the institutions is integral to the studies’ success. In <a href="https://www.cgh.com.sg/news/announcements/changi-general-hospital-offers-advanced-mass-spectrometry-and-ai-assisted-testing-to-diagnose-salt-sensitive-and-curable-forms-of-hypertension-for-enhanced-patient-outcomes" rel="noopener noreferrer nofollow" target="_blank">February 2023</a>,
+CGH successfully launched clinical blood tests to accurately identify and
+diagnose those with primary aldosteronism at the Shimadzu-CGH Clinomics
 Centre (SC<sup>3</sup>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_with_adrenal_hypertension_study_team__Dr_Troy__PI__on_right__second_row.jpg">
@@ -64,9 +64,8 @@ dire situations.</p>
 <p>While the context of her work as a CRC differs from the fictional scenarios
 depicted in horror movies, Geraldine draws parallel lessons from the films
 that teamwork is a significant part of navigating the complex landscape
-of clinical research. She also credits these movies for helping her to
-reflect and cultivating her ability to remain calm and resilient in high-pressure
-situations.</p>
+of clinical research. She also credits these movies for helping to reflect
+and cultivating her ability to remain calm and resilient.</p>
 <p>Earlier in her career, Geraldine was a transplant coordinator for patients
 on the waiting list for a new organ, which involved shift work around a
 24-hour roster. However, after she became a mum, she was looking for a
