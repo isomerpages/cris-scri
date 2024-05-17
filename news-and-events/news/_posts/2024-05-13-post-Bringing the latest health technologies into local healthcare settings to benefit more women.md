@@ -19,7 +19,8 @@ years.</p>
 <p><em>Agnes Teo, a CRC of 17 years</em>
 </p>
 <p>She has led numerous clinical trials and introduced medtech innovations
-into clinical practice, such as <a href="https://www.straitstimes.com/singapore/kkh-taps-ai-to-better-deliver-spinal-anaesthesia-to-women-giving-birth-via-caesarean-section" rel="noopener noreferrer nofollow" target="_blank">the world’s first artificial intelligence-powered ultrasound guided automated spinal landmark identification system, uSINE<sup>®</sup></a>.</p>
+into clinical practice, such as the world’s first artificial intelligence-powered
+ultrasound guided automated spinal landmark identification system, <a href="https://www.straitstimes.com/singapore/kkh-taps-ai-to-better-deliver-spinal-anaesthesia-to-women-giving-birth-via-caesarean-section" rel="noopener noreferrer nofollow" target="_blank">uSINE<sup>®</sup></a>.</p>
 <p>Spinal anaesthesia is widely used for pain relief for women in labour.
 However, identifying the precise site for needle insertion is a manual
 process, and higher accuracy is required. To minimise pain and complications
@@ -94,7 +95,7 @@ were revealed in clinical trials:</p>
 </ul>
 <h4><strong>Comforting mothers through music</strong></h4>
 <p>Another memorable project Agnes recalled over her career, was being part
-of a team to develop a <a href="https://cnalifestyle.channelnewsasia.com/women/c-section-music-therapy-kkh-healing-tunes-356906" rel="noopener noreferrer nofollow" target="_blank">music-based intervention programme, 'Healing Tunes'</a><u>,</u> and
+of a team to develop a music-based intervention programme, <a href="https://cnalifestyle.channelnewsasia.com/women/c-section-music-therapy-kkh-healing-tunes-356906" rel="noopener noreferrer nofollow" target="_blank">'Healing Tunes'</a><u>,</u> and
 witness its integration into clinical practice at KKH.</p>
 <p>'Healing Tunes', the first such programme in Singapore, aims to reduce
 anxiety and minimise pain magnification for women undergoing elective C-sections.
