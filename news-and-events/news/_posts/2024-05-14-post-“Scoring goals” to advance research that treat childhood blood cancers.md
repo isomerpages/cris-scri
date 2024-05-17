@@ -106,10 +106,10 @@ given a second chance at life.</p>
 <h4><strong>Bridging gaps and building trust</strong></h4>
 <p>For young cancer patients who have exhausted traditional methods of treatment,
 they may be considered for CAR-T treatment through the trials. Before enrolling
-them, informed consent is required. Germaine steps in to speak with families
-of these patients, which ranges from newborns to teenagers. She maintains
-empathy and compassion by putting herself in their shoes, and carefully
-explains the details of the clinical research study to them.</p>
+them, informed consent is required. Germaine steps in to speak with the
+families of these patients, which ranges from newborns to teenagers. She
+maintains empathy and compassion by putting herself in their shoes, and
+carefully explains the details of the clinical research study to them.</p>
 <p>Germaine is a reassuring presence and valuable member of the healthcare
 team, supporting parents, clinicians, and social workers to connect better
 with one another. Recognising the isolation that some families may feel,
