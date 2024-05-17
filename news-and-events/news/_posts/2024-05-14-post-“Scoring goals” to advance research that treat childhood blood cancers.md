@@ -52,12 +52,15 @@ be appropriately tailored to disease risk, and that an anthracycline-free
 induction strategy did not compromise outcome for the majority of patients.
 The study also led to a follow-up trial MASPORE ALL 2010 to optimise the
 treatment plan for patients in the high-risk group.</p>
+<blockquote>
 <p>“Back then, I was still learning the ropes. It wasn’t until we concluded
 the study and analysed the data that I saw how our patient survivor outcomes
 have also steadily improved thanks to the advancements in our local medical
-landscape,” she said. For the then young CRC, being part of this study
-and witnessing its impact on patient survival outcomes, she felt the similar
-sense of satisfaction, akin to scoring her first goal in her career.</p>
+landscape,” she said.</p>
+</blockquote>
+<p>For the then young CRC, being part of this study and witnessing its impact
+on patient survival outcomes, she felt the similar sense of satisfaction,
+akin to scoring her first goal in her career.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Maspore_CRCs_at_St_Jude_VIVA_Forum_2015.jpg">
 </div>
