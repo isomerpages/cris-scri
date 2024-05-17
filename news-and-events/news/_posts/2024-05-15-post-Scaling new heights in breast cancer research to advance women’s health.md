@@ -113,22 +113,22 @@ research programmes. Despite the uphill challenge that clinical research
 presents in “venturing into unchartered terrain”, Ying Jia also experiences
 the satisfaction that comes from scaling new heights in clinical research.</p>
 <p>A recent personal milestone of hers, was reaching the summit of Mount
-Kinabalu (Mt KK), the highest peak in Malaysia at 4,095 metres above sea
-level. She shared that this achievement was not without regular training
-sessions on various hiking trails in Singapore to gradually build up stamina
-– whether it’s the Rail Corridor, MacRitchie Reservoir or Bukit Timah Nature
-Reserve, she has conquered them all in the lead-up to the expedition to
-scale Mt KK.</p>
+Kinabalu, the highest peak in Malaysia at 4,095 metres above sea level.
+She shared that this achievement was not without regular training sessions
+on various hiking trails in Singapore to gradually build up stamina – whether
+it’s the Rail Corridor, MacRitchie Reservoir or Bukit Timah Nature Reserve,
+she has conquered them all in the lead-up to the expedition to scale the
+mountain.</p>
 <p>Drawing parallels to her hiking experiences, she highlighted that trails
 are marked out by the people who precede them. She finds inspiration in
 setting the course and laying the groundwork for the next generation of
 hikers, ensuring that those who follow have a well-laid foundation to build
 upon.</p>
 <p>She often advises her mentees: “If you are given a good opportunity, pursue
-it and learn from there,” she stressed. She would arrange face-to-face
-meetings with institutional partners so that they can share updates, challenges
-and analysis from data collected. This approach allows her CRCs to see
-the fruits of their labour and learn from their peers as well.</p>
+it and learn from there." She would arrange face-to-face meetings with
+institutional partners so that they can share updates, challenges and analysis
+from data collected. This approach allows her CRCs to see the fruits of
+their labour and learn from their peers as well.</p>
 <blockquote>
 <p>“Reaching the summit takes time, once you finally do reach the peak, you
 realise how breath-taking the view is. All the work you put in to get to
