@@ -42,10 +42,10 @@ for our patients.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">“Scoring goals” to advance research that treat childhood blood cancers</div>
-<div class="isomer-card-description">Germaine Liew Senior Clinical Research Coordinator Children’s Blood and
-Cancer Centre, Haematology / Oncology Service, KK Women’s and Children’s
-Hospital (KKH)</div>
+<div class="isomer-card-title">Germaine Liew | “Scoring goals” to advance research that treat childhood
+blood cancers</div>
+<div class="isomer-card-description">Senior Clinical Research Coordinator Children’s Blood and Cancer Centre,
+Haematology / Oncology Service, KK Women’s and Children’s Hospital (KKH)</div>
 <div class="isomer-card-link">Click to read her story</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
