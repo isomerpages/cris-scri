@@ -17,11 +17,10 @@ adult.</p>
 to progress into anything concrete.</p>
 <p>“As I saw my peers securing job offers, I kept thinking when will it be
 my turn? Am I not good enough?” she said.</p>
-<p>&nbsp;A turning point in Qasrina’s job search came when her batchmate
-who had joined National University Hospital (NUH) as a Clinical Research
-Coordinator (CRC), posted a job opening on LinkedIn. While it was not a
-profession she was familiar with, it opened up new possibilities for her
-career.</p>
+<p>A turning point in Qasrina’s job search came when her batchmate who had
+joined National University Hospital (NUH) as a Clinical Research Coordinator
+(CRC), posted a job opening on LinkedIn. While it was not a profession
+she was familiar with, it opened up new possibilities for her career.</p>
 <p>When she read up more about the profession, Qasrina realised that there
 were CRC positions available across public healthcare institutions in Singapore
 and the job scope appealed to her.</p>
