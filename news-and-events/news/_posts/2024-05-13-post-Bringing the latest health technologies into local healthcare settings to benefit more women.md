@@ -82,7 +82,7 @@ who found the software user-friendly and greatly beneficial.</p>
 the approval from the Health Sciences Authority for use in Singapore.</p>
 <p>uSINE<strong><sup>®</sup></strong> was implemented in KKH in May 2023.
 The success rate for achieving spinal anaesthesia at the first attempt
-using the technology were revealed in clinical trials:</p>
+were revealed in clinical trials:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Women with high body mass index (&gt;30kg/m2): 43% to 82% in obese women.</p>
@@ -100,9 +100,9 @@ technologies which involves not only understanding the technical aspects
 of the devices but also effectively managing the safety and maintenance
 processes. Despite the challenges, Agnes persevered, motivated by the dedication
 of her team.</p>
-<p>Agnes attributes her relentless passion and perseverance for her work
-to her team of CRCs, clinicians, and senior research fellows, some of whom
-she has been colleagues with since she started working in the department.</p>
+<p>Agnes attributes her relentless passion and perseverance to her team of
+CRCs, clinicians, and senior research fellows, some of whom she has been
+colleagues with since she started working in the department.</p>
 <blockquote>
 <p>“They are like my second family,” Agnes said with conviction. Together,
 this team continues to strive at improving the maternity care experience
