@@ -65,8 +65,8 @@ Her thoughtful approach streamlined training processes, making the learning
 curve for new CRCs less daunting.</p>
 <h4><strong>Beyond skin deep: understanding patients on a deeper level</strong></h4>
 <p>As a junior CRC, Qasrina was given the opportunity to work with various
-departments across the hospital from internal medicine to infectious diseases
-and the organ transplant unit.</p>
+departments across the hospital from internal medicine, infectious diseases,
+to the organ transplant unit.</p>
 <p>Over the past year, Qasrina has been managing a cross-sectional dermatology
 qualitative research study that focused on the care experience of over
 1,000 patients who were being treated for their chronic eczema and psoriasis.</p>
