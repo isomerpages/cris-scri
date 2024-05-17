@@ -97,9 +97,9 @@ approach to hear them out and create a safe space within her team.</p>
 <blockquote>
 <p>Ying Jia mentors over 20 junior CRCs across NUHS. Though she has assumed
 the role of a clinical research manager, she fondly recalls her days as
-a research coordinator, running the groundwork. “When they feel comfortable
-to share their difficulties with you, it means there is a level of trust
-present,” she said.</p>
+a research coordinator, running the groundwork. “When my team mates feel
+comfortable to share their difficulties with me, it means there is a level
+of trust present,” she said.</p>
 <p></p>
 </blockquote>
 <div class="isomer-image-wrapper">
