@@ -54,7 +54,7 @@ strategies and began building rapport with nurses from whom she learnt
 skills in patient engagement.</p>
 <blockquote>
 <p>“I kept a resilient mindset by approaching each patient with empathy and
-to address their anxieties,” she said.</p>
+addressed their anxieties,” she said.</p>
 </blockquote>
 <p>Turning her own challenges as a new CRC into something valuable others
 can benefit from, Qasrina designed an orientation programme to ease future
