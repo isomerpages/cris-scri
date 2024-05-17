@@ -105,9 +105,9 @@ and guide them towards leadership roles.</p>
 </blockquote>
 <p>Through her years of experience, she emphasises to her team that transparency
 and resilience is key to building trust with patients and clinicians for
-successful study outcomes.</p>
-<p>She finds fulfillment in witnessing the growth of the individuals she
-mentored and patients she has encountered through the many studies.</p>
+successful study outcomes. She finds fulfillment in witnessing the growth
+of the individuals she mentored and patients she has encountered through
+the many studies.</p>
 <p>Her love for nurturing others extends beyond the work environment; Geraldine
 fosters a collaborative spirit and camaraderie through team outings.</p>
 <p>Geraldine and her team's favourite bonding activity is belting out tunes
