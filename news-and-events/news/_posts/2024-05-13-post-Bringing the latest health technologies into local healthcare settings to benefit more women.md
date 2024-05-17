@@ -65,7 +65,11 @@ conducted numerous user tests, gathered diverse feedback from healthcare
 professionals, and worked closely with software developers to improve user
 experience. Their efforts eventually received positive responses from doctors,
 who found the software user-friendly and greatly beneficial.</p>
-<p><strong>PHOTO OF USINE TEAM (PENDING FRIDAY / MONDAY)</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_with_the_KKH_and_HiCura_Team.jpg">
+</div>
+<p><em>Agnes (third from right) with her KKH colleagues and HiCura team</em>
 </p>
 <p>It was a fulfilling moment when the team’s hard work contributed uSINE<strong><sup>®</sup></strong> securing
 the approval from the Health Sciences Authority for use in Singapore.</p>
