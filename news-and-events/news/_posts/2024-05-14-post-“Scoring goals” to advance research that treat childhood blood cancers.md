@@ -71,10 +71,8 @@ it has become the longest running study that Germaine has managed since
 the beginning of her career (the study began in 2003; 21 years). In MASPORE
 ALL 2020, precision medicine and risk-adapted therapy remains the cornerstone
 strategy for treating this childhood cancer.</p>
-<blockquote>
 <p>She reflected, “I hope that current medical advancements will continue
 to challenge the perception that cancer is difficult to cure in young patients.”</p>
-</blockquote>
 <h4><strong>Empowering teams to run effective CAR-T therapy trials</strong></h4>
 <p>In recent years, Germaine has also supported Principal Investigators in
 leading a new type of revolutionary treatment that has shown to be highly
