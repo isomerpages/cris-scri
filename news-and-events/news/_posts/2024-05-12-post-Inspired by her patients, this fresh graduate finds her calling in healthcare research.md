@@ -13,8 +13,8 @@ defence against COVID-19 and finding a new normal through pandemic hobbies
 such as perfecting sourdough starters, Nur Qasrina Binte Iskandar Lim graduated
 with a degree in Life Science and was looking forward to becoming a working
 adult.</p>
-<p>&nbsp;However, Qasrina soon grew disheartened when her job search did
-not seem to progress into anything concrete.</p>
+<p>However, Qasrina soon grew disheartened when her job search did not seem
+to progress into anything concrete.</p>
 <p>“As I saw my peers securing job offers, I kept thinking when will it be
 my turn? Am I not good enough?” she said.</p>
 <p>&nbsp;A turning point in Qasrina’s job search came when her batchmate
