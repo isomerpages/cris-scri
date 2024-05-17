@@ -35,7 +35,7 @@ explained.</p>
 </p>
 <p>Drawing a parallel to her role of “defender” on the futsal field, she
 likens a CRC as one who safeguards team goals and makes critical decisions
-to direct the team’s strategies, benefiting both the patients she serves
+to direct the team’s strategies, benefitting both the patients she serves
 and the studies she oversees.</p>
 <p>She extends these same values to her work, where she specialises in coordinating
 research trials for children with blood cancers, particularly acute lymphoblastic
