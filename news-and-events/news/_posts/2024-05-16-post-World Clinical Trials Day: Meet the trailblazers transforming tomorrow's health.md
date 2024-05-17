@@ -34,8 +34,7 @@ hospitals to manage complex clinical trials and achieve better outcomes
 for our patients.</p>
 <p><strong>Click the links below to read about their stories.</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chew Ying Jia" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chew Ying Jia</div><div class="isomer-card-description">Senior Clinical Research Coordinator 
-Department of Surgery, National University Hospital (NUH)</div><div class="isomer-card-link">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chew Ying Jia" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chew Ying Jia</div><div class="isomer-card-description">Senior Clinical Research Coordinator Department of Surgery, National University Hospital (NUH)</div><div class="isomer-card-link">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -73,4 +72,3 @@ General Hospital (CGH)</p>
 <p><strong>Nur Qasrina Binte Iskandar Lim</strong> 
 <br>Clinical Research Coordinator
 <br>Department of Medicine, National University Hospital (NUH)</p>
-<p></p>
