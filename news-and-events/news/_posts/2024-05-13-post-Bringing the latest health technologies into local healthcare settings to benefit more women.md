@@ -43,6 +43,12 @@ took three years. As lead CRC, Agnes supported the lead Principal Investigator
 (PI) in the project, where the team conducted a clinical study that evaluated
 the safety and efficacy of uSINE<sup>®</sup> to be adopted into clinical
 workflow and practice.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_with_uSINE.jpg">
+</div>
+<p><em>Agnes with the uSINE<sup>®</sup> system</em>
+</p>
 <p>Agnes played a crucial role in managing the intricacies of study operations
 and administration. She worked closely with the software developers of
 uSINE<sup>®</sup>, conducted user testing with clinicians, and prepared
@@ -69,7 +75,7 @@ who found the software user-friendly and greatly beneficial.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_with_the_KKH_and_HiCura_Team.jpg">
 </div>
-<p><em>Agnes (third from right) with her KKH colleagues and HiCura team</em>
+<p><em>Agnes (third from right) with her KKH colleagues and the team from HiCura Medical. The system was licensed to the medical device company for commercialisation.</em>
 </p>
 <p>It was a fulfilling moment when the team’s hard work contributed uSINE<strong><sup>®</sup></strong> securing
 the approval from the Health Sciences Authority for use in Singapore.</p>
