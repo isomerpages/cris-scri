@@ -78,13 +78,11 @@ experience. Their efforts eventually received positive responses from doctors,
 who found the software user-friendly and greatly beneficial.</p>
 <p><strong>PHOTO OF USINE TEAM (PENDING FRIDAY / MONDAY)</strong>
 </p>
-<p>It was a fulfilling moment when the team’s hard work contributed to the
-successful clinical evaluation of uSINE<strong><sup>®</sup></strong> which
-secured approval from the Health Sciences Authority for use in other healthcare
-institutions in Singapore.</p>
+<p>It was a fulfilling moment when the team’s hard work contributed uSINE<strong><sup>®</sup></strong> securing
+the approval from the Health Sciences Authority for use in Singapore.</p>
 <p>uSINE<strong><sup>®</sup></strong> was implemented in KKH in May 2023.
 The success rate for achieving spinal anaesthesia at the first attempt
-using uSINE<strong><sup>®</sup></strong> were revealed in clinical trials:</p>
+using the technology were revealed in clinical trials:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Women with high body mass index (&gt;30kg/m2): 43% to 82% in obese women.</p>
