@@ -137,5 +137,5 @@ studies that innovate healthcare for tomorrow.</p>
 </p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/2024_05_16___Clinical_Trials_Day_Banner_v1_01.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/2024_05_16___Clinical_Trials_Day_Banner_v1_01.jpg"></a>
 <p></p>
