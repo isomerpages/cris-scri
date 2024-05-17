@@ -105,7 +105,7 @@ they learn about the research efforts to help them better manage their
 chronic conditions and thanked the research team for the care and effort
 poured into researching their conditions even though it may not be life
 threatening.</p>
-<h4><strong>Achieving small wins that can re-shape the future of medical practice</strong></h4>
+<h4><strong>Small wins that re-shape the future of medical practice</strong></h4>
 <p>These poignant moments have strengthened Qasrina's determination to continue
 in her role as a CRC, contributing to the advancement of clinical research
 studies for patients.</p>
