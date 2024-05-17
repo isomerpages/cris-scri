@@ -28,8 +28,8 @@ and the job scope appealed to her.</p>
 <p>“The opportunity to contribute to healthcare research and make a difference
 for patients intrigued me,” she said.</p>
 </blockquote>
-<p>Previously, she had only applied to jobs that were well-known in the science
-field, such as those of a research assistant or medical writer.</p>
+<p>Previously, she had only applied to jobs that were more well-known in
+the science field, such as those of a research assistant or medical writer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg">
 </div>
@@ -42,8 +42,8 @@ as she had to quickly get up to speed in unfamiliar tasks such as patient
 recruitment and data collection. It was overwhelming at first, as each
 day required her to apply the new skills she had picked up during the orientation.</p>
 <p>These include patient consent-taking, patient recruitment for cohort studies,
-gathering logistics and ensuring the collection of quality data and data
-entry.</p>
+coordinating logistics and ensuring the collection of quality data and
+data entry.</p>
 <p>CRCs are professionals who have core skills and knowledge to run clinical
 trials and research studies. This consists of both soft skills and hard
 skills.</p>
