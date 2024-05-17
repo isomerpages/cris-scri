@@ -34,41 +34,39 @@ hospitals to manage complex clinical trials and achieve better outcomes
 for our patients.</p>
 <p><strong>Click the links below to read about their stories.</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chew Ying Jia" src="/images/Resources/News 2024/Chew_Ying_Jia_portrait.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chew Ying Jia</div><div class="isomer-card-description">Senior Clinical Research Coordinator Department of Surgery, National University Hospital (NUH)</div><div class="isomer-card-link">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/scaling-new-heights-in-breast-cancer-research-to-advance-women-s-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chew Ying Jia" src="/images/Resources/News 2024/Ying_Jia_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scaling new heights in clinical research – driving pioneer breast cancer research studies to advance women’s health</div><div class="isomer-card-description">Chew Ying Jia
+
+Senior Clinical Research Coordinator, Department of Surgery, NUH</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Germaine Liew" src="/images/Resources/News 2024/Germaine_portrait2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Germaine Liew" src="/images/Resources/News 2024/Germaine_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Germaine Liew | “Scoring goals” to advance research that treat childhood
-blood cancers</div>
-<div class="isomer-card-description">Senior Clinical Research Coordinator Children’s Blood and Cancer Centre,
-Haematology / Oncology Service, KK Women’s and Children’s Hospital (KKH)</div>
-<div class="isomer-card-link">Click to read her story</div>
+<div class="isomer-card-title">“Scoring goals” to advance research that treat childhood blood cancers</div>
+<div class="isomer-card-description">Germaine Liew Senior Clinical Research Coordinator, Children’s Blood and
+Cancer Centre, Haematology / Oncology Service, KKH</div>
+<div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Geraldine Lim" src="/images/Resources/News 2024/Geraldine_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adrenaline fuels her passion and drive to develop the next generation of CRCs</div><div class="isomer-card-description">Geraldine Lim
+
+Manager, Clinical Trials and Research Unit, CGH</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Agnes Teo" src="/images/Resources/News 2024/Agnes_600x400.jpg">
 </div>
-<h4><strong><a href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/" rel="noopener noreferrer nofollow" target="_blank">“Scoring goals” to advance research that treat childhood blood cancers</a></strong></h4>
-<p></p><a class="isomer-image-wrapper" href="/scoring-goals-to-advance-research-that-treat-childhood-blood-cancers/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Germaine_portrait2.jpg"></a>
-<p><strong>Germaine Liew</strong> 
-<br>Senior Clinical Research Coordinator
-<br>Children’s Blood and Cancer Centre, Haematology / Oncology Service, KK
-Women’s and Children’s Hospital (KKH)</p>
-<h4><strong><a href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">Adrenaline fuels her passion and drive to develop the next generation of CRCs</a></strong></h4>
-<p></p><a class="isomer-image-wrapper" href="/adrenaline-fuels-her-passion-to-develop-the-next-generation-of-clinical-research-coordinators/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Geraldine_portrait_edit.jpg"></a>
-<p><strong>Geraldine Lim</strong> 
-<br>Manager<strong><br></strong>Clinical Trials and Research Unit<strong>, </strong>Changi
-General Hospital (CGH)</p>
-<h4><strong><a href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/" rel="noopener noreferrer nofollow" target="_blank">Bringing the latest health technologies into local healthcare settings to benefit more women</a></strong></h4>
-<p></p><a class="isomer-image-wrapper" href="/bringing-the-latest-health-technologies-into-local-healthcare-settings-to-benefit-more-women/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Agnes_half3.jpg"></a>
-<p><strong>Agnes Teo</strong> 
-<br>Senior Clinical Research Coordinator
-<br>Department of Women’s Anaesthesia, KK Women’s and Children’s Hospital
-(KKH)</p>
-<h4><strong><a href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" rel="noopener noreferrer nofollow" target="_blank">Inspired by her patients, this fresh graduate finds her calling in healthcare research</a></strong></h4>
-<p></p><a class="isomer-image-wrapper" href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/Qasrina_portrait.jpg"></a>
-<p><strong>Nur Qasrina Binte Iskandar Lim</strong> 
-<br>Clinical Research Coordinator
-<br>Department of Medicine, National University Hospital (NUH)</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bringing the latest health technologies into local healthcare settings
+to benefit more women</div>
+<div class="isomer-card-description">Agnes Teo Senior Clinical Research Coordinator, Department of Women’s
+Anaesthesia, KKH</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/inspired-by-her-patients-this-fresh-graduate-finds-her-calling-in-healthcare-research/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nur Qasrina Binte Iskandar Lim" src="/images/Resources/News 2024/Qasrina_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Inspired by her patients, this fresh graduate finds her calling in healthcare research</div><div class="isomer-card-description">Nur Qasrina Binte Iskandar Lim
+
+Clinical Research Coordinator, Department of Medicine, NUH</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
