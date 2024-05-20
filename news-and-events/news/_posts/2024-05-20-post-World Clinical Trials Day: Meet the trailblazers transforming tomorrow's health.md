@@ -2,7 +2,7 @@
 title: "World Clinical Trials Day: Meet the trailblazers transforming tomorrow's
   health"
 permalink: /world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/
-date: 2024-05-16
+date: 2024-05-20
 layout: post
 description: ""
 image: ""
