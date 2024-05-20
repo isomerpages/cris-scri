@@ -49,4 +49,4 @@ of Medicine Universitas Indonesia (FKUI) Internal Medicine Study Program.</p>
 </li>
 </ul>
 <h4><strong>Research interests</strong></h4>
-<p>Primary Aldosteronism, Pheochromocytoma&nbsp;</p>
+<p>Adrenal, Pituitary, Immunogenicity in Biosimilar Insulin and Thyroid Intervention</p>
