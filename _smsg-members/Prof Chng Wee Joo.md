@@ -60,5 +60,5 @@ National University of Singapore</p>
 <p>Group Director of Research, National University Health System&nbsp;</p>
 </li>
 </ul>
-<p><a href="https://www.ncis.com.sg/For-Patients-and-Visitors/Pages/Find-a-Doctor-Details.aspx?docid=Chng_Wee_Joo" rel="noopener noreferrer nofollow" target="_blank">Click here to access Prof Chng's Institution Profile.</a>
+<p><a href="https://csi.nus.edu.sg/researcher/wee-joo-chng/" rel="noopener noreferrer nofollow" target="_blank">Click here to access Prof Chng's Institution Profile.</a>
 </p>
