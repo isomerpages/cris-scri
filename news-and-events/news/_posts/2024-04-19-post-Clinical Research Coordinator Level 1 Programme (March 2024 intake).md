@@ -16,6 +16,12 @@ trials are run. The course is tailored for junior clinical research coordinators
 real-world case studies and hands-on application of skills through role-play.</p>
 <p>&nbsp;In March 2024, SCRI Academy welcomed 36 junior CRCs to the 12<sup>th</sup> cohort
 of the CRC Level 1 Programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participants from the CRC Level 1 Programme, March 2024 intake" src="/images/Resources/News 2024/CRC_L1_March_2024_1.jpg">
+</div>
+<p><em>Participants from the CRC Level 1 Programme, March 2024 intake</em>
+</p>
 <p>The seven-week programme offered a strong foundation for participants
 to effectively carry out their duties as a CRCs in public healthcare institutions
 such as hospitals and polyclinics.&nbsp;</p>
@@ -59,6 +65,7 @@ whom doctors or investigators can approach to find out if they are keen
 to join the study. If a potential participant expresses interest, the investigators
 will seek their consent before proceeding with screening activities, which
 may include lab tests, physical examinations, and data collection.</p>
+<p></p>
 <p>The course was taught by an experienced team of trainers from both the
 public and private sector organisations from the clinical research industry.
 They drew from their vast experience in clinical trials and provided the
@@ -68,6 +75,16 @@ the course of their work.&nbsp;</p>
 partners – Nanyang Polytechnic, Health Sciences Authority, Labcorp Drug
 Development Pte Ltd. and Ms Michellore Aguillar from the SingHealth Investigational
 Medicine Unit – for their unwavering support throughout the programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heartfelt thanks to all training partners" src="/images/Resources/News 2024/CRC_L1_March_2024_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heartfelt thanks to all training partners" src="/images/Resources/News 2024/CRC_L1_March_2024_3.jpg">
+</div>
+<p><em>Heartfelt thanks to all training partners</em>
+</p>
 <p>By the end of the course, participants shared that they found the group
 discussions and role-play activities provided good opportunities for them
 to practise their newfound skills. They also gained a better understanding
@@ -77,6 +94,16 @@ for assistance.&nbsp;</p>
 <p>Armed with new knowledge from the course, participants commented that
 they now felt more confident to manage clinical trials, as well as navigate
 tricky situations should they encounter similar situations in future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participants engaging in group discussions and hands-on activities such as role-playing." src="/images/Resources/News 2024/CRC_L1_March_2024_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participants engaging in group discussions and hands-on activities such as role-playing." src="/images/Resources/News 2024/CRC_L1_March_2024_6.jpg">
+</div>
+<p><em>Participants engaging in group discussions and hands-on activities such as role-playing.</em>
+</p>
 <p>The next run of CRC Level 1 Programme will be in September 2024. Registrations
 open from 1 June 2024 to 30 June 2024. Click <a href="https://www.scri.edu.sg/news-and-events/news/clinical-research-coordinator-level-1-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 updates of the programme!</p>
