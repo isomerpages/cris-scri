@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p><strong>Programme Duration:</strong>&nbsp;1 March to 19 April 2024</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong>Venue:</strong>&nbsp;NTU@one-north</p>
+<p><strong>Venue:</strong>&nbsp;NTU@one-north</p>
 <p>&nbsp;<strong>Organiser:</strong>&nbsp;SCRI Academy</p>
 <p>The CRC Level 1 Programme is a comprehensive introduction to how clinical
 trials are run. The course is tailored for junior clinical research coordinators
@@ -42,23 +42,27 @@ conducted in Singapore were also taught during the programme.</p>
 swiftly clarified during the programme. Read on below for useful tips for
 junior CRCs:</p>
 <p></p>
-<p><strong>Question:</strong> Do I need to start a new delegation log when
-there is a change in PI?&nbsp;</p>
+<blockquote>
+<p>Do I need to start a new delegation log when there is a change in PI?&nbsp;</p>
+</blockquote>
 <p><strong>Answer:</strong> Yes. The CRC must close the delegation log for
 the previous PI by entering the end date (i.e. the date of study handover).
 Following this, a new delegation log should be created for the new PI,
 re-delegating the study team members with a start date that begins immediately
 after the end date of the previous PI.&nbsp;</p>
-<p><strong>Question:</strong> After the amended protocol version has been
-approved by IRB and regulatory authorities, can the study team discard
-the previous version to save storage space?&nbsp;</p>
+<blockquote>
+<p>After the amended protocol version has been approved by IRB and regulatory
+authorities, can the study team discard the previous version to save storage
+space?&nbsp;</p>
+</blockquote>
 <p><strong>Answer:</strong> No, all versions of the documents should be retained
 in the investigator site file and archived in accordance with the institution’s
 policy.&nbsp;</p>
-<p><strong>Question:</strong> What is the difference between pre-screening
-and screening when considering potential trial participants for clinical
-trials?<strong>&nbsp;</strong>
+<blockquote>
+<p>What is the difference between pre-screening and screening when considering
+potential trial participants for clinical trials?<strong>&nbsp;</strong>
 </p>
+</blockquote>
 <p><strong>Answer:</strong> Pre-screening is a preliminary step that does
 not entail any study procedures. It aims to identify potential participants
 whom doctors or investigators can approach to find out if they are keen
