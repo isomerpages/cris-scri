@@ -16,8 +16,7 @@ role, Eugene leads both an operations team that support the conduct and
 running of public-funded clinical trials in Singapore, as well as a coordinating
 office that work with various partners to strategise and execute key initiatives
 aimed at enhancing Singapore’s clinical trials ecosystem.</p>
-<p>
-<br>Eugene previously spent 10 years at the Singapore Agency for Science,
+<p>Eugene previously spent 10 years at the Singapore Agency for Science,
 Technology and Research (A*STAR) where he held several roles. The most
 recent position was his appointment as the Deputy Chief Executive Officer
 of the Experimental Drug Development Centre (EDDC). In this role, Eugene
@@ -26,8 +25,7 @@ more than 20 projects to discover and develop novel medicines against various
 human diseases. He was also in charge of the 20-plus EDDC Operations team
 that was responsible for the funding strategy, project management, innovation
 initiatives, and general day-to-day operations of the unit.</p>
-<p>
-<br>Prior to his appointment as Deputy CEO of EDDC, Eugene was the Chief Operating
+<p>Prior to his appointment as Deputy CEO of EDDC, Eugene was the Chief Operating
 Officer (COO) of the Experimental Biotherapeutics Centre (EBC) from 2017
 to 2018. Other appointments he had held at A*STAR included Business Development
 Manager at the Biomedical Sciences Industry Partnership Office (BMS IPO),
@@ -38,8 +36,7 @@ MOH, the PharmBio Cluster (now the HBM cluster) at BMRC, the Therapeutics
 Development Review Grant (TDR) at BMRC, and the EBC at A*STAR. He also
 played a supporting role in the creation of the Research Support Centre
 (RSC) and several Industry Alignment Fund Pre-Positioning (IAF-PP) programmes.</p>
-<p>
-<br>Eugene was previously a Research Scientist at Eli Lilly &amp; Company
+<p>Eugene was previously a Research Scientist at Eli Lilly &amp; Company
 where he worked on several target validation and drug discovery projects.
 He graduated with a Bachelor of Science (with Honours) and Master of Science,
 both in Biochemistry from the Department of Chemistry at Indiana University
