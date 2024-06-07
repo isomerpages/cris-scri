@@ -4,12 +4,26 @@ permalink: /bio/eugene-gan/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/Leadership/Senior%20Management/eugene-gan.png">
 </div>
-<p><strong>Ph.D.</strong>
-<br>Senior Director, Operations
-<br>Singapore Clinical Research Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ph.D.<br>Senior Director, Operations <br>Singapore Clinical Research Institute</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Dr Eugene Gan</strong> joined the Singapore Clinical Research Institute
 (SCRI) in September 2021 as the Senior Director for Operations. In this
 role, Eugene leads both an operations team that support the conduct and
