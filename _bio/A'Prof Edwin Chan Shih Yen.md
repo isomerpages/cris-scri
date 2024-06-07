@@ -37,16 +37,17 @@ He has taught many research methodology courses on clinical trials, biostatistic
 epidemiology, clinical practice guidelines (CPG) development, meta-analysis
 &amp; evidence-based medicine (EBM). His interests are in the teaching
 of critical appraisal skills, epidemiology, health technology assessment
-and evidence synthesis. He leads the scientific team of biostatisticians
-and epidemiologists In the Singapore Clinical Research Institute in supporting
-clinical investigators produce evidence reviews, develop research protocols
-for grants and data analyses of completed studies. Under SCRI Academy he
-has organised and developed many clinical research methods workshops for
-academic researchers &amp; pharma medical affairs teams. As Director of
-Cochrane Singapore, he promotes the mission of the Cochrane Collaboration
-and has conducted EBM and systematic review training for researchers in
-Singapore, Brunei, Hong Kong, Japan, Malaysia, South Korea and Taiwan.
-His other external roles include being a committee member of an IRB (NHG
+and evidence synthesis.</p>
+<p>He leads the scientific team of biostatisticians and epidemiologists In
+the Singapore Clinical Research Institute in supporting clinical investigators
+produce evidence reviews, develop research protocols for grants and data
+analyses of completed studies. Under SCRI Academy he has organised and
+developed many clinical research methods workshops for academic researchers
+&amp; pharma medical affairs teams. As Director of Cochrane Singapore,
+he promotes the mission of the Cochrane Collaboration and has conducted
+EBM and systematic review training for researchers in Singapore, Brunei,
+Hong Kong, Japan, Malaysia, South Korea and Taiwan.</p>
+<p>His other external roles include being a committee member of an IRB (NHG
 DSRB), a clinician scientist training committee (NHG CSPP), an evidence-based
 medicine training committee (NUH), a local grant review panel (NMRC NIG)
 and the steering committee of Guidelines International Network (Asia chapter).</p>
