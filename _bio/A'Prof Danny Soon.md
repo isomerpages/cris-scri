@@ -2,6 +2,7 @@
 title: A'Prof Danny Soon
 permalink: /bio/dr-danny-soon/
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
