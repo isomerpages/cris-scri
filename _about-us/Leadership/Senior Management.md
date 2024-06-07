@@ -20,7 +20,7 @@ Advanced Cell Therapy and Research Institute, Singapore
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Senior%20Management/3_professor-edwin-chan-shih-yen.jpg">
-				<a style="text-decoration:none" href="/bio/edwin-chan/"><b>A/PROFESSOR EDWIN CHAN SHIH-YEN</b></a>
+				<a style="text-decoration:none" href="/bio/edwin-chan/"><b>A/PROF EDWIN CHAN SHIH-YEN</b></a>
 				<br><br>BSc, BVMS (1st class Hons), PhD
 Director, Cochrane Singapore
 Associate Professor, Duke-NUS Medical School
@@ -29,7 +29,7 @@ Consortium for Clinical Research &amp; Innovation Singapore
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Senior%20Management/eugene-gan.png">
-				<a style="text-decoration:none" href="/bio/eugene-gan/"><b>EUGENE GAN</b></a>
+				<a style="text-decoration:none" href="/bio/eugene-gan/"><b>DR EUGENE GAN</b></a>
 				<br><br>Ph.D.
 Senior Director, Operations
 Singapore Clinical Research Institute
