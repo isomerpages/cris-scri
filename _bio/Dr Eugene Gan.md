@@ -18,7 +18,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ph.D.<br>Senior Director, Operations <br>Singapore Clinical Research Institute</strong>
+<p>
+<br><strong>Ph.D.<br>Senior Director, Operations <br>Singapore Clinical Research Institute</strong>
 </p>
 </td>
 </tr>
