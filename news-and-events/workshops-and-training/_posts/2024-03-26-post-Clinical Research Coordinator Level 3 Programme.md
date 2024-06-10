@@ -11,7 +11,11 @@ variant: tiptap
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Logo_FINAL_R.jpg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -21,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>August 2024 Intake: 15, 16, 22, 24 August 2024</p>
+<p>August 2024 Intake: 15, 16, 22, 23 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -172,7 +176,11 @@ in multi-centre trials</p>
 <h5><strong><em>CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;<a href="/news-and-events/workshops-and-training/clinical-research-coordinator-level-2-programme/" rel="noopener noreferrer nofollow" target="_blank">CRC Level 2 Programme</a>&nbsp;prior to applying for the CRC Level 3 Programme.</em></strong></h5>
 <hr>
 <h4><strong>Course Outline</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -282,7 +290,11 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 3 Programme, applicants and their supervisors
 must complete the following electronic registration forms below.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -330,7 +342,11 @@ the NMRC CRC programme. Priority will also be given to CRCs from Singapore’s
 public healthcare institutes under the MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (Inclusive of GST)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
