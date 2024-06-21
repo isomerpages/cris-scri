@@ -35,11 +35,11 @@ _**NOMINATION**_
 
 We warmly invite Research Investigators and Supervisors to nominate CRCs for the award. 
 
-Please click [here](https://for.sg/award.) to complete the nomination form.
+Please click [here](https://for.sg/award) to complete the nomination form.
 
 Please note that all nomination forms will be submitted by SCRI to your Cluster Research Office for endorsement. Only successfully endorsed nomination(s) will be tabled for review.
 
-The nomination will be open from 1 August to 1 October. Results will be announced in first quarter of the following year.
+The nomination will be open from 1 August to 1 October yearly. Results will be announced in first quarter of the following year.
 
 _**ENQUIRIES**_
 
