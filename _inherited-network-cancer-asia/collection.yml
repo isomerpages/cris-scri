@@ -2,4 +2,5 @@ collections:
   inherited-network-cancer-asia:
     output: true
     order:
+      - INCA Images/.keep
       - Members.md
