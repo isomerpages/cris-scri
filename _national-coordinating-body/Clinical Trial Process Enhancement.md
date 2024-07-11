@@ -19,7 +19,7 @@ clinical trials. Crafted to cater to patients, caregivers, clinical investigator
 and corporations alike, CTSG is dedicated to make clinical trial information
 more accessible and understandable. By demystifying the clinical trial
 landscape, CTSG hopes to encourage greater interest in clinical trials,
-fostering innovation and improving health outcomes. Click <a href="https://clinicaltrials.sg/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+fostering innovation and improving health outcomes. Refer to <a href="https://clinicaltrials.sg/" rel="noopener noreferrer nofollow" target="_blank">https://clinicaltrials.sg/</a> for
 further information.</p>
 <p></p>
 <p></p>
