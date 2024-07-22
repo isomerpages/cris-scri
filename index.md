@@ -74,6 +74,7 @@ sections:
       button: Access Report Here
       url: https://for.sg/value-prop-ct-sg
       image: /images/SCRI_webpage_image_remove.png
+      alt: for.sg/value-prop-ct-sg
   - resources:
       title: News and Workshops
       subtitle: Resources
