@@ -31,4 +31,5 @@ research landscape.</p>
 a comprehensive guide for stakeholders in the clinical trial sector to
 understand gaps and opportunities in our ecosystem, allowing Singapore
 to enhance its global competitiveness in clinical trials.</p>
-<p>Access the report: <a href="https://for.sg/value-prop-ct-sg" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/value-prop-ct-sg</a>.</p>
+<p><strong>Access the report: <a href="https://for.sg/value-prop-ct-sg" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/value-prop-ct-sg</a>.</strong>
+</p>
