@@ -1,17 +1,17 @@
 ---
 layout: homepage
 title: Singapore Clinical Research Institute (SCRI)
-description: >-
-  Established in 2008, the Singapore Clinical Research Institute (SCRI) was set
-  up as the national academic clinical research organisation to enhance the
-  standards of clinical research in Singapore by developing core capabilities,
-  infrastructure and scientific leadership for clinical research. 
-
-
-  In 2021, SCRI was appointed as the national coordinating body to implement the national clinical trial strategy and enhance Singapore’s clinical trial ecosystem.
-
-
-  This is accomplished through the deployment of innovative technologies and processes, and strategic coordination of ecosystem capabilities and infrastructure to achieve synergies that will enhance the clinical research ecosystem aimed towards a healthier community and better patient outcomes.
+description: Established in 2008, the Singapore Clinical Research Institute
+  (SCRI) was set up as the national academic clinical research organisation to
+  enhance the standards of clinical research in Singapore by developing core
+  capabilities, infrastructure and scientific leadership for clinical
+  research.   In 2021, SCRI was appointed as the national coordinating body to
+  implement the national clinical trial strategy and enhance Singapore’s
+  clinical trial ecosystem.  This is accomplished through the deployment of
+  innovative technologies and processes, and strategic coordination of ecosystem
+  capabilities and infrastructure to achieve synergies that will enhance the
+  clinical research ecosystem aimed towards a healthier community and better
+  patient outcomes.
 image: /images/scri logo.png
 permalink: /
 notification: ""
@@ -64,6 +64,16 @@ sections:
         performing site selection for clinical trials. It includes ...
       button: Learn more
       url: /national-coordinating-body/master-clinical-trial-agreement/
+  - infopic:
+      title: The Value Proposition of Clinical Trials in Singapore
+      subtitle: Report Commissioned by SCRI
+      id: infopic
+      description: Clinical trials play a vital role in the healthcare ecosystem by
+        promoting research innovation, advancing clinician knowledge, and
+        improving patient outcomes.
+      button: Access Report Here
+      url: https://for.sg/value-prop-ct-sg
+      image: /images/SCRI_webpage_image_remove.png
   - resources:
       title: News and Workshops
       subtitle: Resources
