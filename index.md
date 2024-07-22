@@ -57,13 +57,6 @@ sections:
       url: https://for.sg/symposium
       image: /images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png
       alt: Image alt text
-  - infobar:
-      title: Master Clinical Trial Agreement
-      id: infobar
-      description: Clinical trial start-up time is one of the key considerations when
-        performing site selection for clinical trials. It includes ...
-      button: Learn more
-      url: /national-coordinating-body/master-clinical-trial-agreement/
   - infopic:
       title: The Value Proposition of Clinical Trials in Singapore
       subtitle: Report Commissioned by SCRI
@@ -75,6 +68,13 @@ sections:
       url: https://for.sg/value-prop-ct-sg
       image: /images/SCRI_webpage_image_remove.png
       alt: for.sg/value-prop-ct-sg
+  - infobar:
+      title: Master Clinical Trial Agreement
+      id: infobar
+      description: Clinical trial start-up time is one of the key considerations when
+        performing site selection for clinical trials. It includes ...
+      button: Learn more
+      url: /national-coordinating-body/master-clinical-trial-agreement/
   - resources:
       title: News and Workshops
       subtitle: Resources
