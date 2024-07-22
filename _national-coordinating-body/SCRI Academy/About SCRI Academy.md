@@ -11,8 +11,7 @@ variant: tiptap
 <p>Do you like science?</p>
 <p>Do you have an eye for detail?</p>
 </blockquote>
-<p><strong>If you have answered YES to all, join us as a CRC today!</strong>
-</p>
+<h4><strong>If you have answered YES to all, join us as a CRC today!</strong></h4>
 <h1>What is a Clinical Research Coordinator?</h1>
 <p>Clinical research fuels revolutionary progress in medicine, pushing patient
 care to unparalleled heights of excellence. The linchpin of each successful
@@ -56,14 +55,12 @@ skills to support their career progression.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
-<blockquote>
 <p>Apart from understanding the requirements, policies and regulations involved
 in the conduct of a clinical trial, it is also vital for the CRCs to have
 the ability to apply the theoretical concepts to real-life situations.
 Therefore, the programmes were designed with comprehensive practice-based
 activities, case scenarios, demonstrations and classroom discussions to
 reinforce the application work.</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
