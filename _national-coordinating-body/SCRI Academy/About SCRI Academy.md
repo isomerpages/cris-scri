@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture_white.png">
 </div>
 <h1>What is a Clinical Research Coordinator?</h1>
 <p>Clinical research fuels revolutionary progress in medicine, pushing patient
