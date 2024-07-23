@@ -230,4 +230,72 @@ more details.</p>
 </div>
 </details>
 </div>
-<p>CRC</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/How_to_become_CRC.png">
+</div>
+<h4>How to become a CRC?</h4>
+<p><strong><u>Qualifications/Requirements</u></strong>
+</p>
+<p>While specific qualification may vary depending on the institution or
+organization, a minimum educational requirement for most Clinical Research
+Coordinator position is a Diploma or a Bachelor’s degree in a relevant
+field such as Nursing, Pharmacy or life sciences equivalent.</p>
+<p></p>
+<p>Progressing in this profession requires strong attention to detail, the
+ability to manage multiple priorities effectively, and excellent organizational
+and communication skills. Additionally, self-motivation and aptitude for
+independent learning are also essential.</p>
+<p><strong><u>Tips for creating an Effective Clinical Research Coordinator Resume</u></strong>
+</p>
+<p>Creating a well-crafted Clinical Research Coordinator&nbsp; resume is
+crucial for standing out in the competitive field of clinical research.
+Here are some tips to ensure your resume highlights your strengths and
+experiences effectively:</p>
+<p>1.<strong>Professional Summary</strong>: Start with a concise summary
+that encapsulates your expertise, key achievements, and career objectives.</p>
+<p>2.<strong>Highlight Relevant Experience: </strong>Emphasize your experience
+in clinical research, including specific projects, studies, or trials that
+you have worked on. Detail your role and contributions to these projects.</p>
+<p>3.<strong>Showcase Key Skills: </strong>List relevant skills such as data
+management, patient recruitment, regulatory compliance, and familiarity
+with clinical trial software. Highlight any specialized training or certifications.</p>
+<p>4.<strong>Quantify Achievements</strong>: Use metrics to demonstrate your
+impact. For example, it includes but not limited to the number of trials
+managed, patient recruited, or amount of research funding secured.</p>
+<p>5.<strong>Technical Proficiency: </strong>Include any specific software
+or tools you are proficient in such as EDC systems, CTMS, or other clinical
+research applications.</p>
+<p>6.<strong>Attention to Detail: </strong>Ensure your resume is free from
+errors, well-organized and tailored to the job you are applying.</p>
+<p></p>
+<h4>How do I get started?</h4>
+<p>A CRC can work in various places such as hospitals, Clinical Research
+Organisation (CROs), Pharmaceutical and Biotechnology Companies, and Academic
+Research Centre.</p>
+<p></p>
+<p>If you’re ready to take your next steps towards a career as a Clinical
+Research Coordinator, here is a list of public healthcare institutions
+career page to kick-start your journey:</p>
+<p></p>
+<p>•SingHealth: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.singhealth.com.sg/careers/contact-us</a>
+</p>
+<p>•NUHS: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.nuhs.edu.sg/About-NUHS/careers/Pages/careers-at-nuhs.aspx</a>
+</p>
+<p>•NHG: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://careers.nhg.com.sg/NHGHQ</a>
+</p>
+<p></p>
+<p>Alternatively, you may consider starting with the short courses on clinical
+trial to gauge whether clinical research aligns with your interests and
+aspirations.&nbsp;</p>
+<p><a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">The Essential of Clinical Trials for Beginners</a>
+</p>
+<p><a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-investigators/" rel="noopener noreferrer nofollow" target="_blank">The Essentials of Clinical Trials for Investigators</a>
+</p>
+<p></p>
+<p></p>
+<h4>Is the above information useful?</h4>
+<p>Please fill in the form to help us understand your needs better<strong>.</strong>
+</p>
+<p></p>
+<p></p>
