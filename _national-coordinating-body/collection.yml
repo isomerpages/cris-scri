@@ -2,7 +2,6 @@ collections:
   national-coordinating-body:
     output: true
     order:
-      - SCRI Academy/Example Title.md
       - SCRI Academy/.keep
       - SCRI Academy/About SCRI Academy.md
       - SCRI Academy/Past and Present Collaborations.md
