@@ -57,17 +57,6 @@ sections:
       url: https://for.sg/symposium
       image: /images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png
       alt: Image alt text
-  - infopic:
-      title: The Value Proposition of Clinical Trials in Singapore
-      subtitle: Report Commissioned by SCRI
-      id: infopic
-      description: Clinical trials play a vital role in the healthcare ecosystem by
-        promoting research innovation, advancing clinician knowledge, and
-        improving patient outcomes.
-      button: Access Report Here
-      url: https://for.sg/value-prop-ct-sg
-      image: /images/SCRI_webpage_image_remove.png
-      alt: for.sg/value-prop-ct-sg
   - infobar:
       title: Master Clinical Trial Agreement
       id: infobar
