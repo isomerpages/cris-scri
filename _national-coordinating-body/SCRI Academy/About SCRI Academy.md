@@ -69,20 +69,12 @@ reinforce the application work.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture5.png">
 </div>
 <h4>CRC Training by SCRI</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>I want to try if CRC role fits me....</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>I want to try</p>
-<p>if CRC role fits me</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CRC Internship Programme</strong>
+<p><strong><u>CRC Internship Programme</u></strong>
 </p>
 <p>Experience a comprehensive 6-month internship program at the public healthcare
 institutions to immerse yourself in the CRC role firsthand. In addition
@@ -94,8 +86,7 @@ find out more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Internship.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <p>CRC</p>
