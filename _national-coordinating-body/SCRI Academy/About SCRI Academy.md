@@ -69,6 +69,7 @@ reinforce the application work.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture5.png">
 </div>
 <h4>CRC Training by SCRI</h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
