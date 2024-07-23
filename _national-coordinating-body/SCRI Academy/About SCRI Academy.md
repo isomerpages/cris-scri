@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture_white.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture_white_1.png">
 </div>
-<h1>What is a Clinical Research Coordinator?</h1>
+<h4>What is a Clinical Research Coordinator?</h4>
 <p>Clinical research fuels revolutionary progress in medicine, pushing patient
 care to unparalleled heights of excellence. The linchpin of each successful
 clinical research study is the Clinical Research Coordinator (CRC), ensuring
@@ -24,7 +24,11 @@ also act as liaisons between the study sponsor, PI, and other research
 staff. They also prepare and maintain study documentation and coordinate
 communication among stakeholders. Possessing strong organizational and
 communication skills is essential for CRCs to progress in their careers.</p>
-<h1>SCRI Academy -National Learning and Development Platform for CRCs</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<h4>SCRI Academy -National Learning and Development Platform for CRCs</h4>
 <p>The SCRI Academy was launched on 29 August 2017 by Dr Lam Pin Min, Senior
 Minister State for Health, to serve as Singapore’s first national learning
 and development platform for the CRCs.</p>
@@ -62,4 +66,32 @@ reinforce the application work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
+<h4>CRC Training by SCRI</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>I want to try</strong>
+</p>
+<p><strong>if CRC role fits me</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CRC Internship Programme</strong>
+</p>
+<p>Experience a comprehensive 6-month internship program at the public healthcare
+institutions to immerse yourself in the CRC role firsthand. In addition
+to gaining a deeper understanding of CRC responsibilities, you’ll acquire
+valuable insights into clinical trial conduct.</p>
 <p></p>
+<p>Click<a href="https://www.linkedin.com/posts/singaporeclinicalresearchinstitute_clinicaltrials-clinicalresearch-activity-7179003735551979520-Gz76?" rel="noopener noreferrer nofollow" target="_blank"> here </a>to
+find out more.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>CRC</p>
