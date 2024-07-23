@@ -69,9 +69,9 @@ reinforce the application work.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture5.png">
 </div>
 <h4>CRC Training by SCRI</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>I want to try if CRC role fits me....</summary>
+<summary>I want to try if CRC role fits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong><u>CRC Internship Programme</u></strong>
@@ -84,8 +84,25 @@ valuable insights into clinical trial conduct.</p>
 <p>Click<a href="https://www.linkedin.com/posts/singaporeclinicalresearchinstitute_clinicaltrials-clinicalresearch-activity-7179003735551979520-Gz76?" rel="noopener noreferrer nofollow" target="_blank"> here </a>to
 find out more.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Internship.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Internship.png">
 </div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>I am a CRC</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>CRC Onboarding Programme</u></strong>
+</p>
+<p>In complementary to the public healthcare institution onboarding programme,
+SCRI offers a 7-week -coaching programme tailored for newly-hired CRCs
+with less than one year of experience. This programme, comprising of 2
+half-day sessions, is designed to acquaint CRCs with their roles and responsibilities,
+providing essential theoretical knowledge and practical tips to navigate
+basic duties smoothly.</p>
+<p>If you are a newly hired CRC employed by the Singapore public healthcare
+institution and interested to join this programme, click <a href="https://www.scri.edu.sg/scri-clinical-research-coordinator-onboarding-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more details.</p>
 </div>
 </details>
 </div>
