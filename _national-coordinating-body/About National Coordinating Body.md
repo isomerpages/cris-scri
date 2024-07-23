@@ -21,15 +21,4 @@ and to be given the mandate to define success goals, monitor performance
 of clinical trials, and work with relevant agencies to review and propose
 policy changes to facilitate the conduct of clinical trials for promising
 therapeutic entities in Singapore.</p>
-<h3>The Value Proposition of Clinical Trials in Singapore</h3>
-<p>Clinical trials play a vital role within the healthcare ecosystem by promoting
-research innovation, advancing clinician knowledge, and improving patient
-outcomes. This report delves into the benefits of conducting clinical trials
-and benchmarks Singapore’s capabilities and performance against the global
-research landscape.</p>
-<p>Outlining future trends and strategic recommendations, this serves as
-a comprehensive guide for stakeholders in the clinical trial sector to
-understand gaps and opportunities in our ecosystem, allowing Singapore
-to enhance its global competitiveness in clinical trials.</p>
-<p><strong>Access the report: <a href="https://for.sg/value-prop-ct-sg" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/value-prop-ct-sg</a>.</strong>
-</p>
+<p></p>
