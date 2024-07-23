@@ -6,12 +6,9 @@ third_nav_title: SCRI Academy
 variant: tiptap
 ---
 <h2></h2>
-<blockquote>
-<p>Do you like helping others and making a difference in their lives?</p>
-<p>Do you like science?</p>
-<p>Do you have an eye for detail?</p>
-</blockquote>
-<h4><strong>If you have answered YES to all, join us as a CRC today!</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture.png">
+</div>
 <h1>What is a Clinical Research Coordinator?</h1>
 <p>Clinical research fuels revolutionary progress in medicine, pushing patient
 care to unparalleled heights of excellence. The linchpin of each successful
