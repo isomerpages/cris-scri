@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Logo_FINAL__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Logo_FINAL_2.jpg">
 </div>
 <p>The CRC Onboarding Programme is a 2 half-day programme designed to support
 CRCs with less than 1 year of experience. Upon completion of the programme,
