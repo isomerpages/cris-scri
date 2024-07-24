@@ -278,7 +278,7 @@ Research Centre.</p>
 Research Coordinator, here is a list of public healthcare institutions
 career page to kick-start your journey:</p>
 <p></p>
-<p>•SingHealth: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.singhealth.com.sg/careers/contact-us</a>
+<p>•SingHealth: <a href="https://careers.singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.singhealth.com.sg/careers/contact-us</a>
 </p>
 <p>•NUHS: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.nuhs.edu.sg/About-NUHS/careers/Pages/careers-at-nuhs.aspx</a>
 </p>
