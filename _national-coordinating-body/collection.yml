@@ -3,9 +3,7 @@ collections:
     output: true
     order:
       - SCRI Academy/.keep
-      - SCRI Academy/Introduction.md
-      - SCRI Academy/Past and Present Collaborations.md
-      - SCRI Academy/National CRC Education and Development.md
+      - SCRI Academy/About SCRI Academy.md
       - About National Coordinating Body.md
       - Clinical Trial Process Enhancement.md
       - Master Clinical Trial Agreement.md
