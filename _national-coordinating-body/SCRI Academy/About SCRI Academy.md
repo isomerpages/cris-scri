@@ -252,22 +252,36 @@ independent learning are also essential.</p>
 crucial for standing out in the competitive field of clinical research.
 Here are some tips to ensure your resume highlights your strengths and
 experiences effectively:</p>
-<p>1.<strong>Professional Summary</strong>: Start with a concise summary
-that encapsulates your expertise, key achievements, and career objectives.</p>
-<p>2.<strong>Highlight Relevant Experience: </strong>Emphasize your experience
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Professional Summary</strong>: Start with a concise summary that
+encapsulates your expertise, key achievements, and career objectives.</p>
+</li>
+<li>
+<p><strong>Highlight Relevant Experience: </strong>Emphasize your experience
 in clinical research, including specific projects, studies, or trials that
 you have worked on. Detail your role and contributions to these projects.</p>
-<p>3.<strong>Showcase Key Skills: </strong>List relevant skills such as data
+</li>
+<li>
+<p><strong>Showcase Key Skills: </strong>List relevant skills such as data
 management, patient recruitment, regulatory compliance, and familiarity
 with clinical trial software. Highlight any specialized training or certifications.</p>
-<p>4.<strong>Quantify Achievements</strong>: Use metrics to demonstrate your
+</li>
+<li>
+<p><strong>Quantify Achievements</strong>: Use metrics to demonstrate your
 impact. For example, it includes but not limited to the number of trials
 managed, patient recruited, or amount of research funding secured.</p>
-<p>5.<strong>Technical Proficiency: </strong>Include any specific software
+</li>
+<li>
+<p><strong>Technical Proficiency: </strong>Include any specific software
 or tools you are proficient in such as EDC systems, CTMS, or other clinical
 research applications.</p>
-<p>6.<strong>Attention to Detail: </strong>Ensure your resume is free from
+</li>
+<li>
+<p><strong>Attention to Detail: </strong>Ensure your resume is free from
 errors, well-organized and tailored to the job you are applying.</p>
+</li>
+</ol>
 <p></p>
 <h4>How do I get started?</h4>
 <p>A CRC can work in various places such as hospitals, Clinical Research
