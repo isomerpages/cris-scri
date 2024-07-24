@@ -280,7 +280,7 @@ career page to kick-start your journey:</p>
 <p></p>
 <p>•SingHealth: <a href="https://careers.singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://careers.singhealth.com.sg</a>
 </p>
-<p>•NUHS: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.nuhs.edu.sg/About-NUHS/careers/Pages/careers-at-nuhs.aspx</a>
+<p>•NUHS: <a href="https://www.nuhscareers.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nuhscareers.edu.sg/</a>
 </p>
 <p>•NHG: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://careers.nhg.com.sg/NHGHQ</a>
 </p>
