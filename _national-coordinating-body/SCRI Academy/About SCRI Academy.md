@@ -99,11 +99,11 @@ find out more.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Onboarding.png">
 </div>
 <p>In complementary to the public healthcare institution onboarding programme,
-SCRI offers a 7-week -coaching programme tailored for newly-hired CRCs
-with less than one year of experience. This programme, comprising of 2
-half-day sessions, is designed to acquaint CRCs with their roles and responsibilities,
-providing essential theoretical knowledge and practical tips to navigate
-basic duties smoothly.</p>
+SCRI offers a coaching programme tailored for newly-hired CRCs with less
+than one year of experience. This programme, comprising of 2 half-day sessions,
+is designed to acquaint CRCs with their roles and responsibilities, providing
+essential theoretical knowledge and practical tips to navigate basic duties
+smoothly.</p>
 <p>If you are a newly hired CRC employed by the Singapore public healthcare
 institution and interested to join this programme, click <a href="https://www.scri.edu.sg/scri-clinical-research-coordinator-onboarding-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
