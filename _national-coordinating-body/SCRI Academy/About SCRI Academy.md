@@ -198,8 +198,8 @@ more details.</p>
 Group has been established to nurture clinical research professionals who
 are passionate in training and developing the next generation of CRCs ensuring
 a continuity of talent support in the ecosystem.</p>
-<p>&nbsp;If you are an experienced CRC who is passionate in training and
-developing the next generation of CRCs, contact us at <a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg</a>
+<p>If you are an experienced CRC who is passionate in training and developing
+the next generation of CRCs, contact us at <a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg</a>
 </p>
 </li>
 </ul>
