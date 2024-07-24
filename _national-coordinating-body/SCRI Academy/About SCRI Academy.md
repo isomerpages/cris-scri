@@ -238,10 +238,10 @@ and communication skills. Additionally, self-motivation and aptitude for
 independent learning are also essential.</p>
 <p><strong><u>Tips for creating an Effective Clinical Research Coordinator Resume</u></strong>
 </p>
-<p>Creating a well-crafted Clinical Research Coordinator&nbsp; resume is
-crucial for standing out in the competitive field of clinical research.
-Here are some tips to ensure your resume highlights your strengths and
-experiences effectively:</p>
+<p>Creating a well-crafted Clinical Research Coordinator&nbsp;resume is crucial
+for standing out in the competitive field of clinical research. Here are
+some tips to ensure your resume highlights your strengths and experiences
+effectively:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Professional Summary</strong>: Start with a concise summary that
@@ -296,7 +296,6 @@ aspirations.&nbsp;</p>
 </p>
 <p><a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-investigators/" rel="noopener noreferrer nofollow" target="_blank">The Essentials of Clinical Trials for Investigators</a>
 </p>
-<p></p>
 <p></p>
 <h4>Is the above information useful?</h4>
 <p>Please fill in the form to help us understand your needs better<strong>.</strong>
