@@ -100,7 +100,7 @@ find out more.</p>
 </div>
 <p>In complementary to the public healthcare institution onboarding programme,
 SCRI offers a coaching programme tailored for newly-hired CRCs with less
-than one year of experience. This programme, comprising of 2 half-day sessions,
+than one year of experience. This programme, comprising of 2 half-days,
 is designed to acquaint CRCs with their roles and responsibilities, providing
 essential theoretical knowledge and practical tips to navigate basic duties
 smoothly.</p>
