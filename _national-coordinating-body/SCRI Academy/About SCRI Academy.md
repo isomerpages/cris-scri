@@ -157,17 +157,13 @@ more details.</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>CRC Alumni</strong>
+<p><strong><u>CRC Alumni</u></strong>
 </p>
 <p>All CRC who have graduated from the National Training and Certification
 Programme will be offered lifetime mentorship and upskilling opportunities
 to support their professional development.</p>
 <p></p>
-</li>
-<li>
-<p><strong>CRC Lunch Workshop</strong>
+<p><u>CRC Lunch Workshop</u>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -179,9 +175,7 @@ the CRCs from different public healthcare institutes to mingle, network
 and delve into industry best practices, fostering deeper insights and connections
 within the field.</p>
 <p></p>
-</li>
-<li>
-<p><strong>Distinguished Contributor Award for CRCs</strong>
+<p><strong><u>Distinguished Contributor Award for CRCs</u></strong>
 </p>
 <p>The Distinguished Contributor Award for CRCs is given by SCRI Academy
 to recognise the contributions of outstanding CRCs and their significant
@@ -190,9 +184,7 @@ a professional development grant to enable the CRC awardee to further enhance
 his/her skillsets as a CRC. Click <a href="https://www.scri.edu.sg/news-and-events/news/pdistinguished-contributor-award-for-crcs-2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 <p></p>
-</li>
-<li>
-<p><strong>CRC Educator Network</strong>
+<p><strong><u>CRC Educator Network</u></strong>
 </p>
 <p>To strengthen the development of the CRC talent pipeline, the CRC Educator
 Group has been established to nurture clinical research professionals who
@@ -201,8 +193,6 @@ a continuity of talent support in the ecosystem.</p>
 <p>If you are an experienced CRC who is passionate in training and developing
 the next generation of CRCs, contact us at <a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
