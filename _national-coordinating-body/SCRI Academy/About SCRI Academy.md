@@ -298,7 +298,7 @@ aspirations.&nbsp;</p>
 </p>
 <p></p>
 <h4>Is the above information useful?</h4>
-<p>Please scan the QR code below or click <a href="https/for.sg/survey-crcprof" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to help us understand
+<p>Please scan the QR code below or click <a href="https://for.sg/survey-crcprof" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to help us understand
 your needs better.</p>
 <p></p>
 <div class="isomer-image-wrapper">
