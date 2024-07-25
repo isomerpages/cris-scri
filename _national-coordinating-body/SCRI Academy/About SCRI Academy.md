@@ -56,7 +56,7 @@ training for the CRCs to improve on their clinical research knowledge and
 skills to support their career progression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture4.png">
 </div>
 <p>Apart from understanding the requirements, policies and regulations involved
 in the conduct of a clinical trial, it is also vital for the CRCs to have
