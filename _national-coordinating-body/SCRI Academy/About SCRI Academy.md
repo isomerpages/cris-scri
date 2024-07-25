@@ -7,10 +7,6 @@ variant: tiptap
 ---
 <h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Capture_white_2.png">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Pic_1_PNG.png">
 </div>
 <h4>What is a Clinical Research Coordinator?</h4>
