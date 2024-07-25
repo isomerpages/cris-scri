@@ -80,6 +80,10 @@ reinforce the application work.</p>
 <p></p>
 <p><strong><u>CRC Internship Programme</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Internship.png">
+</div>
 <p>Experience a comprehensive 6-month internship program at the public healthcare
 institutions to immerse yourself in the CRC role firsthand. In addition
 to gaining a deeper understanding of CRC responsibilities, you’ll acquire
@@ -87,9 +91,6 @@ valuable insights into clinical trial conduct.</p>
 <p></p>
 <p>Click<a href="https://www.linkedin.com/posts/singaporeclinicalresearchinstitute_clinicaltrials-clinicalresearch-activity-7179003735551979520-Gz76?" rel="noopener noreferrer nofollow" target="_blank"> here </a>to
 find out more.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Internship.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
