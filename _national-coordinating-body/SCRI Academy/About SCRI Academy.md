@@ -70,7 +70,7 @@ activities, case scenarios, demonstrations and classroom discussions to
 reinforce the application work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture5.png">
 </div>
 <h4>CRC Training by SCRI</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
