@@ -26,7 +26,7 @@ communication among stakeholders. Possessing strong organizational and
 communication skills is essential for CRCs to progress in their careers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture2.png">
 </div>
 <h4>SCRI Academy -National Learning and Development Platform for CRCs</h4>
 <p>The SCRI Academy was launched on 29 August 2017 by Dr Lam Pin Min, Senior
@@ -78,7 +78,7 @@ reinforce the application work.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Internship.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Internship.png">
 </div>
 <p>Experience a comprehensive 6-month internship program at the public healthcare
 institutions to immerse yourself in the CRC role firsthand. In addition
@@ -97,7 +97,7 @@ find out more.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Onboarding.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Onboarding.png">
 </div>
 <p>In complementary to the public healthcare institution onboarding programme,
 SCRI offers a coaching programme tailored for newly-hired CRCs with less
@@ -126,7 +126,7 @@ more details.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Programme1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Programme1.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -168,7 +168,7 @@ to support their professional development.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Screenshot_2024_07_25_161816.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Screenshot_2024_07_25_161816.png">
 </div>
 <p>To ensure the CRCs stay abreast of the latest updates and trends in clinical
 research ecosystem, annual lunch workshop is organised. It also offers
@@ -209,7 +209,7 @@ all the basic knowledge required of a CRC to conduct a trial at site. Click
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Screenshot_2024_07_25_161545.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Screenshot_2024_07_25_161545.png">
 </div>
 <p><strong><u>The Essentials of Clinical Trials for Investigators (E-Learning)</u></strong>
 </p>
