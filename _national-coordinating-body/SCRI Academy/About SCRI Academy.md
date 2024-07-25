@@ -206,10 +206,10 @@ keen to gain fundamental knowledge on clinical trials. The course covers
 all the basic knowledge required of a CRC to conduct a trial at site. Click
 <a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essential.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Screenshot_2024_07_25_161545.png">
+</div>
 <p><strong><u>The Essentials of Clinical Trials for Investigators (E-Learning)</u></strong>
 </p>
 <p>A 16-week self-paced course that will equip a clinician investigator with
