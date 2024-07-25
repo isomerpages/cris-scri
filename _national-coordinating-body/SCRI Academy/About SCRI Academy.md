@@ -212,8 +212,8 @@ all the basic knowledge required of a CRC to conduct a trial at site. Click
 <p></p>
 <p><strong><u>The Essentials of Clinical Trials for Investigators (E-Learning)</u></strong>
 </p>
-<p>A 16-Week only self-paced course that will equip a clinician investigator
-with the essential skills in navigating through the clinical trial activities
+<p>A 16-week self-paced course that will equip a clinician investigator with
+the essential skills in navigating through the clinical trial activities
 with confidence and ease.&nbsp; Clink <a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-investigators/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 </div>
