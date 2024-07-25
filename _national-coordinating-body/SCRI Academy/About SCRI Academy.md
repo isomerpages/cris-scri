@@ -236,12 +236,11 @@ or life sciences equivalent.</p>
 ability to manage multiple priorities effectively, and excellent organizational
 and communication skills. Additionally, self-motivation and aptitude for
 independent learning are also essential.</p>
-<p><strong><u>Tips for creating an Effective Clinical Research Coordinator Resume</u></strong>
+<p><strong><u>Tips for creating an Effective CRC Resume</u></strong>
 </p>
-<p>Creating a well-crafted Clinical Research Coordinator&nbsp;resume is crucial
-for standing out in the competitive field of clinical research. Here are
-some tips to ensure your resume highlights your strengths and experiences
-effectively:</p>
+<p>Creating a well-crafted CRC&nbsp;resume is crucial for standing out in
+the competitive field of clinical research. Here are some tips to ensure
+your resume highlights your strengths and experiences effectively:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Professional Summary</strong>: Start with a concise summary that
