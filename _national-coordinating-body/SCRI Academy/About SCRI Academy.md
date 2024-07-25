@@ -227,9 +227,9 @@ more details.</p>
 <p><strong><u>Qualifications/Requirements</u></strong>
 </p>
 <p>While specific qualification may vary depending on the institution or
-organization, a minimum educational requirement for most Clinical Research
-Coordinator position is a Diploma or a Bachelor’s degree in a relevant
-field such as Nursing, Pharmacy or life sciences equivalent.</p>
+organization, a minimum educational requirement for most CRC position is
+a Diploma or a Bachelor’s degree in a relevant field such as Nursing, Pharmacy
+or life sciences equivalent.</p>
 <p></p>
 <p>Progressing in this profession requires strong attention to detail, the
 ability to manage multiple priorities effectively, and excellent organizational
@@ -297,8 +297,8 @@ aspirations.&nbsp;</p>
 </p>
 <p></p>
 <h4>Is the above information useful?</h4>
-<p>Please fill in the form to help us understand your needs better<strong>.</strong>
-</p>
+<p>Please scan the QR code below or click <u>here</u> (insert hyperlink) to
+help us understand your needs better.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Website_CRC_profession_Survey_CRC_code.png">
