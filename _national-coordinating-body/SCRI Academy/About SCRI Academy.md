@@ -124,6 +124,9 @@ more details.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Programme1.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>CRC Level 2 Programme</strong>
@@ -137,9 +140,6 @@ informed consent and/or subject follow-up.</p>
 <p>Click <a href="https://for.sg/level2" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/CRC_Programme.png">
-</div>
 </li>
 <li>
 <p><strong>CRC Level 3 Programme</strong>
