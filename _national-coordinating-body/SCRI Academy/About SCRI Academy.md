@@ -164,7 +164,7 @@ more details.</p>
 Programme will be offered lifetime mentorship and upskilling opportunities
 to support their professional development.</p>
 <p></p>
-<p><u>CRC Lunch Workshop</u>
+<p><strong><u>CRC Lunch Workshop</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
