@@ -181,7 +181,7 @@ within the field.</p>
 to recognise the contributions of outstanding CRCs and their significant
 contributions to the profession and community in Singapore. The award includes
 a professional development grant to enable the CRC awardee to further enhance
-his/her skillsets as a CRC. Click <a href="https://www.scri.edu.sg/news-and-events/news/pdistinguished-contributor-award-for-crcs-2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+his/her skillsets as a CRC. Click <a href="https://www.scri.edu.sg/news-and-events/news/distinguished-contributor-award-for-clinical-research-coordinators/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 <p></p>
 <p><strong><u>CRC Educator Network</u></strong>
