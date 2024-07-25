@@ -167,7 +167,7 @@ to support their professional development.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Lunch_Workshop.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Screenshot_2024_07_25_161816.png">
 </div>
 <p>To ensure the CRCs stay abreast of the latest updates and trends in clinical
 research ecosystem, annual lunch workshop is organised. It also offers
