@@ -278,9 +278,9 @@ errors, well-organized and tailored to the job you are applying.</p>
 Organisation (CROs), Pharmaceutical and Biotechnology Companies, and Academic
 Research Centre.</p>
 <p></p>
-<p>If you’re ready to take your next steps towards a career as a Clinical
-Research Coordinator, here is a list of public healthcare institutions
-career page to kick-start your journey:</p>
+<p>If you’re ready to take your next steps towards a career as a CRC, here
+is a list of public healthcare institutions career page to kick-start your
+journey:</p>
 <p></p>
 <p>•SingHealth: <a href="https://careers.singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://careers.singhealth.com.sg</a>
 </p>
