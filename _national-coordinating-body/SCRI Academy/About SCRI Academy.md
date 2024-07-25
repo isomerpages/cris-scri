@@ -297,8 +297,8 @@ aspirations.&nbsp;</p>
 </p>
 <p></p>
 <h4>Is the above information useful?</h4>
-<p>Please scan the QR code below or click <u>here</u> (insert hyperlink) to
-help us understand your needs better.</p>
+<p>Please scan the QR code below or click <a href="https/for.sg/survey-crcprof" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to help us understand
+your needs better.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Website_CRC_profession_Survey_CRC_code.png">
