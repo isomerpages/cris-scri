@@ -18,9 +18,9 @@ variant: tiptap
 the heart of medical advancements, where many of the advancements in the
 treatment of serious diseases have been made possible through clinical
 trials. Today, Mr Heng Swee Keat, Deputy Prime Minister and Chairman of
-the National Research Foundation, launched the <a href="http://ClinicalTrials.SG" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a> (CTSG). CTSG is a
-comprehensive centralised clinical trials portal for patients and caregivers,
-clinical investigators, and clinical trial sponsors.&nbsp;</p>
+the National Research Foundation, launched the ClinicalTrials․SG (CTSG).
+CTSG is a comprehensive centralised clinical trials portal for patients
+and caregivers, clinical investigators, and clinical trial sponsors.&nbsp;</p>
 <p>Led by the Singapore Clinical Research Institute (SCRI), the launch of
 the CTSG portal marks a significant step towards making clinical trials
 more accessible for more people. This initiative seeks to demystify clinical
@@ -83,11 +83,10 @@ can search for clinical trials based on specific health conditions, making
 it easier to find relevant trials quickly and efficiently.</p>
 </li>
 </ul>
-<p><a href="0" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a> will
-be unveiled at the SCRI Clinical Trials Symposium 2024 which is themed
-“The Promise of Clinical Trials: Transforming Tomorrow’s Health.” The two-day
-inaugural symposium (30 to 31 July 2024) organised by SCRI marks a significant
-milestone for the Singapore research ecosystem.&nbsp;</p>
+<p>ClinicalTrials․SG will be unveiled at the SCRI Clinical Trials Symposium
+2024 which is themed “The Promise of Clinical Trials: Transforming Tomorrow’s
+Health.” The two-day inaugural symposium (30 to 31 July 2024) organised
+by SCRI marks a significant milestone for the Singapore research ecosystem.&nbsp;</p>
 <p>The symposium brings together 500 clinicians, researchers, academics,
 and industry experts in clinical research and trials from both the public
 and private sector, and includes patients and clinical trial participants,
@@ -122,29 +121,28 @@ clinical practices and treatment standards, leading to better patient care.&nbsp
 </ul>
 <p>Adj A/Prof Danny Soon, Chief Executive Officer of the Consortium for Clinical
 Research and Innovation, Singapore (CRIS), and Executive Director of SCRI
-said, "The launch of <a href="http://ClinicalTrials.SG" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a> is a significant milestone
-in our ongoing efforts to support clinical research and improve patient
-and healthcare outcomes in Singapore. Clinical trials contribute significantly
-to the development of new therapies and treatments. Therefore, by making
-clinical trial information more accessible and easier to understand, we
-hope to encourage greater awareness on clinical trials among the public
-and enhance collaboration for clinical research professionals.”&nbsp;</p>
+said, "The launch of ClinicalTrials․SG is a significant milestone in our
+ongoing efforts to support clinical research and improve patient and healthcare
+outcomes in Singapore. Clinical trials contribute significantly to the
+development of new therapies and treatments. Therefore, by making clinical
+trial information more accessible and easier to understand, we hope to
+encourage greater awareness on clinical trials among the public and enhance
+collaboration for clinical research professionals.”&nbsp;</p>
 <p>Prof John Lim, Chairman, Consortium for Clinical Research and Innovation,
 Singapore (CRIS) said, “SCRI is committed to providing the necessary infrastructure
 to facilitate clinical research. In recent years, SCRI has focused on strategic
 initiatives aimed at supporting and nurturing clinical research competencies
 within Singapore. The launch of the centralised clinical trials portal,
-<a href="http://ClinicalTrials.SG" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a>is a welcome development for the clinical research
-ecosystem and is testament of SCRI’s deep-seated mission to advance clinical
-research towards improved health outcomes for our patients in Singapore”.
-Prof Lim is also Senior Advisor at the Ministry of Health and Executive
-Director of the Centre of Regulatory Excellence (CoRE), Duke-NUS Medical
-School.&nbsp;</p>
+ClinicalTrials․SG is a welcome development for the clinical research ecosystem
+and is testament of SCRI’s deep-seated mission to advance clinical research
+towards improved health outcomes for our patients in Singapore”. Prof Lim
+is also Senior Advisor at the Ministry of Health and Executive Director
+of the Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School.&nbsp;</p>
 <p></p>
 <p></p>
 <hr>
 <p></p>
-<p><strong>About <a href="http://ClinicalTrials.SG" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a>&nbsp;</strong>
+<p><strong>About </strong>ClinicalTrials․SG<strong>&nbsp;</strong>
 </p>
 <p>CTSG is Singapore Clinical Research Institute’s (SCRI’s) centralised clinical
 trials portal to serve as Singapore’s centralised portal for all things
@@ -179,3 +177,4 @@ through the NMRC Office, MOH Holdings Pte Ltd under the NMRC Enablers and
 Infrastructure Support for Clinical Trials-related Activities funding initiative
 (MOH-001144).&nbsp;</p>
 <p>For more information, please visit <a href="https://www.scri.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.scri.edu.sg/</a>&nbsp;</p>
+<p></p>
