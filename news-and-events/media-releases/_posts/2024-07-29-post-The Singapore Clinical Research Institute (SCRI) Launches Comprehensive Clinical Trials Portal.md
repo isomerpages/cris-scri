@@ -142,7 +142,7 @@ of the Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School.&nbsp;</p
 <p></p>
 <hr>
 <p></p>
-<p><strong>About </strong>ClinicalTrials․SG<strong>&nbsp;</strong>
+<p><strong>About ClinicalTrials․SG&nbsp;</strong>
 </p>
 <p>CTSG is Singapore Clinical Research Institute’s (SCRI’s) centralised clinical
 trials portal to serve as Singapore’s centralised portal for all things
@@ -152,6 +152,7 @@ trial information more accessible and understandable. By demystifying the
 clinical trial landscape, CTSG hopes to encourage greater interest in clinical
 trials, fostering innovation and improving health outcomes.&nbsp;</p>
 <p>For more information, please visit <a href="https://clinicaltrials.sg/" rel="noopener noreferrer nofollow" target="_blank">https://clinicaltrials.sg/</a>&nbsp;</p>
+<p></p>
 <p></p>
 <p><strong>About the Singapore Clinical Research Institute&nbsp;</strong>
 </p>
