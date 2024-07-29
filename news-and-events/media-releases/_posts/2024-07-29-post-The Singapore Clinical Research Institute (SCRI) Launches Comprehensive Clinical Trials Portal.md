@@ -172,10 +172,9 @@ ecosystem aimed towards a healthier community and better patient outcomes.&nbsp;
 <p>2. Clinical Research Networks&nbsp;</p>
 <p>3. Academic Research Partnerships&nbsp;</p>
 <p>4. SCRI Academy&nbsp;</p>
-<p>SCRI is a programme of the Consortium for Clinical Research and Innovation,
-Singapore (CRIS). SCRI is supported by the Singapore Ministry of Health
-through the NMRC Office, MOH Holdings Pte Ltd under the NMRC Enablers and
-Infrastructure Support for Clinical Trials-related Activities funding initiative
-(MOH-001144).&nbsp;</p>
+<p>SCRI is a programme of the <a href="cris.sg" rel="noopener noreferrer nofollow" target="_blank"> Consortium for Clinical Research and Innovation, Singapore (CRIS).</a> SCRI
+is supported by the Singapore Ministry of Health through the NMRC Office,
+MOH Holdings Pte Ltd under the NMRC Enablers and Infrastructure Support
+for Clinical Trials-related Activities funding initiative (MOH-001144).&nbsp;</p>
 <p>For more information, please visit <a href="https://www.scri.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.scri.edu.sg/</a>&nbsp;</p>
 <p></p>
