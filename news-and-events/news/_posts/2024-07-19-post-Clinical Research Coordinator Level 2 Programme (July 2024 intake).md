@@ -52,7 +52,10 @@ acquired relevant knowledge and skills to coordinate for investigator-initiated
 clinical research studies across different study design protocols. Th CRCs
 were able to apply the skills they learnt progressively each week to the
 clinical research studies they managed back in their respective institutions.</p>
-<p>(insert image 1)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L2 Class Lecture" src="/images/SCRI Academy/CRC Level 2 July 2024 Intake/Class_Lecture.jpg">
+</div>
 <p>(insert image 2)</p>
 <p>In the first week of the programme, CRCs learnt about the function and
 responsibilities of trial sponsors in investigator-initiated trials (IIT)
