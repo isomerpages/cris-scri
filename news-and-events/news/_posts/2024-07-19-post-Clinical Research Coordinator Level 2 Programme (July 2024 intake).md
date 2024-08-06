@@ -56,7 +56,10 @@ clinical research studies they managed back in their respective institutions.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="L2 Class Lecture" src="/images/SCRI Academy/CRC Level 2 July 2024 Intake/Class_Lecture.jpg">
 </div>
-<p>(insert image 2)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L2 Group Discussion" src="/images/SCRI Academy/CRC Level 2 July 2024 Intake/Group_Discussion_shadow_aligned_compressed.png">
+</div>
 <p>In the first week of the programme, CRCs learnt about the function and
 responsibilities of trial sponsors in investigator-initiated trials (IIT)
 as well as key concepts in project management such as planning ahead to
@@ -82,19 +85,27 @@ and site closure.</p>
 <p>Throughout the programme, participants were given opportunities to practice
 and apply the skills that they had gained through classroom activities
 and case scenario discussions.</p>
-<p>(insert image 3)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L2 Group Activity" src="/images/SCRI Academy/CRC Level 2 July 2024 Intake/Group_activity_trainer_interaction_compressed.png">
+</div>
 <p>The programme was delivered by our experienced team of trainers, comprising
 clinical research professionals from both the public and private sectors
 in the clinical research industry. Our guest speakers included Dr Yeo Jing
 Ping, Global Head of Project Operations, Head of Transformation from George
 Clinical, Ms Michelle Ho, Executive Director, and Ms Stacey Low, Director,
 Quality Management from Syneos Health.</p>
-<p>(insert image 4 - speakesr &amp; names)</p>
 <p></p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L2 Speakers" src="/images/SCRI Academy/CRC Level 2 July 2024 Intake/Speakers_with_name_compressed.png">
+</div>
 <p>At the end of the programme, participants shared their key personal takeaways
 from the programme:</p>
-<p>(insert personal takeaways)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L2 Personal Takeaways" src="/images/SCRI Academy/CRC Level 2 July 2024 Intake/Personal_Takeaways_L2_Jul_24_v4.png">
+</div>
 <p></p>
 <p>SCRI Academy expresses its gratitude to the trainers who continue to dedicate
 their time to impart their knowledge and experiences to the participants
