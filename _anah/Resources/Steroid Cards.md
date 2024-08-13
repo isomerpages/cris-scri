@@ -29,3 +29,7 @@ Adult and pediatric steroid cards can be downloaded from this page. The cards wi
 
 ANAH shares close relations with the European Adrenal Network, a platform where European patient and advocacy organisations team up to share knowledge. Information on the European Adrenal Network and its members can be found on its [website](https://adrenals.eu/european-adrenal-network/).
 
+---
+Printing of the steroid cards have been supported by:
+SingHealth Medical Academic Clinical Programme (ACP) Grant and
+Endocrine Metabolic Society of Singapore (EMSS)
