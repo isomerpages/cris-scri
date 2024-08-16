@@ -20,8 +20,8 @@ and be part of high quality research.</p>
 <p>Presently, the 11 clinical research networks established are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ADVANcing Clinical Evidence in Infectious Disease (ADVANCE ID) Network <em>(webpage under construction)</em>
-</p>
+<p><a href="https://www.advance-id.network/" rel="noopener noreferrer nofollow" target="_blank">ADVANcing Clinical Evidence in Infectious Disease </a>(ADVANCE
+ID) Network</p>
 </li>
 <li>
 <p><a href="/national-coordinating-body/clinical-research-network/anah/" rel="noopener noreferrer nofollow" target="_blank">ASEAN Network of Adrenal Hypertension</a> (ANAH)</p>
