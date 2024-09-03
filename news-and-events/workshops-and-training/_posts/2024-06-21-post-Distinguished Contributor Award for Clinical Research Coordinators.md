@@ -7,7 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
-**_THE AWARD_** 
+
+![](/images/Resources/Workshops%20And%20Training/2024___Nominations_EDM_Banner.jpg)
+
+**_ABOUT THE AWARD_** 
 
 Launched in 2019, the Distinguished Contributor Award for Clinical Research Coordinators (DCA-CRC) recognises outstanding CRCs and their significant contributions to the profession and community.
 
