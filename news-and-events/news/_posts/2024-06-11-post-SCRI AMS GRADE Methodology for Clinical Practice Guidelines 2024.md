@@ -178,7 +178,31 @@ practice scenarios.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><em>From the top left: Dr Julie Zhu, guiding a participant during the demonstration segment. A/Prof Edwin Chan, Dr Julie &amp; Dr Guo Liang answering questions from participants after the workshop.</em>
+</p>
+<p><strong>Module 3 – Transforming evidence into actionable recommendations</strong>
+</p>
+<p><em>Part 1 – 11 June 2024 (AM), Virtual &amp;</em><strong> </strong><em>CRIS Office</em>
+</p>
+<p><em>Part 2 – 11 June 2024 (PM), CRIS Office</em>
+</p>
+<p>The final module focused on applying earlier collated evidence to &nbsp;achieve
+a consensus for &nbsp;formal recommendations, ultimately culminating in
+a complete clinical practice guideline.</p>
+<p>The first segment of the module introduced participants to the theoretical
+aspects of the GRADE evidence-to-decision framework, illustrating how the
+framework could enhance consensus building among panels. Next, participants
+were given the opportunity to actively engage in informing recommendations
+within their respective workgroups.</p>
+<p>Participants were able to translate evidence from ten pre-specified outcomes
+into weak recommendation in using corticosteroids in addition to standard
+care in patients with sore throat. The conclusion was derived from the
+tradeoff between the benefits and harms of the treatment, taking consideration
+of other key elements such as certainty of evidence, values and preference,
+and also resources.</p>
+<p>We would like to thank all participants for their enthusiasm throughout
+this workshop!</p>
+<p>&nbsp;</p>
+<p><em>This event is jointly presented by Cochrane Singapore, Singapore Clinical Research Institute and Academy of Medicine, Singapore.</em>
+</p>
 <p></p>
