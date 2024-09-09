@@ -44,16 +44,16 @@ Clinical Research Institute (SCRI)</p>
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;In May and June 2024, SCRI, Cochrane Singapore <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;and
-the Academy of Medicine, Singapore (AMS) jointly organised a workshop designed
-to provide AMS workgroup members and clinicians<s> </s>with the technical
-skills and knowledge to develop their own clinical practice guidelines
-(CPGs). CPGs are important for patient care, because these frameworks ensure
-consistent, evidence-based care to support healthcare professionals in
-making informed and effective treatment decisions. The training focused
-on effectively utilising the Grading of Recommendations Assessment, Development
-and Evaluation (GRADE) guidelines methodology to support evidence-based
-framework to support clinical decision making.</p>
+<p>&nbsp;In May and June 2024, SCRI, Cochrane Singapore&nbsp;and the Academy
+of Medicine, Singapore (AMS) jointly organised a workshop designed to provide
+AMS workgroup members and clinicians<s> </s>with the technical skills and
+knowledge to develop their own clinical practice guidelines (CPGs). CPGs
+are important for patient care, because these frameworks ensure consistent,
+evidence-based care to support healthcare professionals in making informed
+and effective treatment decisions. The training focused on effectively
+utilising the Grading of Recommendations Assessment, Development and Evaluation
+(GRADE) guidelines methodology to support evidence-based framework to support
+clinical decision making.</p>
 <p>The workshop consisted of three modules over seven sessions, covering
 key aspects such as:</p>
 <ol data-tight="true" class="tight">
@@ -80,40 +80,6 @@ who also provided positive feedback by the end of the course</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><em>2 May 2024, Virtual</em>
-</p>
-<p>Module 1 of the workshop began with a welcome address by A/Prof Danny
-Soon, Chief Executive Officer, Consortium for Clinical Research and Innovation
-Singapore and Executive Director, SCRI.</p>
-<p>During the session, participants grasped a clear understanding of how
-the GRADE guidelines development methodology. will steer clinicians towardsevidence-based
-and actionable Clinical Practice Guidelines for improved care outcomes.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod_1_PIC__2_.png">
-</div>
-<p><em>A/Prof Edwin Chan, Chief Scientific Officer, SCRI and Director, Cochrane Singapore, explaining the various components of an evidence profile used in developing GRADE guidelines.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod_1_MAGICApp__2_.png">
-</div>
-<p><em>A/Prof Edwin Chan, Chief Scientific Officer, SCRI and Director, Cochrane Singapore, introducing the MAGICapp as a tool for participants to conduct evidence-based research on Clinical Practice Guidelines.2 May 2024, Virtual</em>
-</p>
-<p>Module 1 of the workshop began with a welcome address by A/Prof Danny
-Soon, Chief Executive Officer, Consortium for Clinical Research and Innovation
-Singapore and Executive Director, SCRI.</p>
-<p>During the session, participants grasped a clear understanding of how
-the GRADE guidelines development methodology. will steer clinicians towardsevidence-based
-and actionable Clinical Practice Guidelines for improved care outcomes.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod_1_PIC__2_.png">
-</div>
-<p><em>A/Prof Edwin Chan, Chief Scientific Officer, SCRI and Director, Cochrane Singapore, explaining the various components of an evidence profile used in developing GRADE guidelines.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod_1_MAGICApp__2_.png">
-</div>
-<p><em>A/Prof Edwin Chan, Chief Scientific Officer, SCRI and Director, Cochrane Singapore, introducing the MAGICapp as a tool for participants to conduct evidence-based research on Clinical Practice Guidelines.2 May 2024, Virtual</em>
 </p>
 <p>Module 1 of the workshop began with a welcome address by A/Prof Danny
 Soon, Chief Executive Officer, Consortium for Clinical Research and Innovation
@@ -168,24 +134,29 @@ evidence from eligible studies and generate a Summary of Findings (SoF)
 table for further guideline development. The session also provided participants
 with hands-on experience to reinforce their newly acquired skills through
 practice scenarios.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Prof_Edwin_Teaching_Class_Lecture_resized.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Demo_Guidance_Post_class_discussion_v2_resized.png">
+</div>
+<p><em>From the top left: Dr Julie Zhu, guiding a participant during the demonstration segment. A/Prof Edwin Chan, Dr Julie &amp; Dr Guo Liang answering questions from participants after the workshop.</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Module 3 – Transforming evidence into actionable recommendations</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p><em>From the top left: Dr Julie Zhu, guiding a participant during the demonstration segment. A/Prof Edwin Chan, Dr Julie &amp; Dr Guo Liang answering questions from participants after the workshop.</em>
-</p>
-<p><strong>Module 3 – Transforming evidence into actionable recommendations</strong>
-</p>
 <p><em>Part 1 – 11 June 2024 (AM), Virtual &amp;</em><strong> </strong><em>CRIS Office</em>
 </p>
 <p><em>Part 2 – 11 June 2024 (PM), CRIS Office</em>
 </p>
+<p></p>
 <p>The final module focused on applying earlier collated evidence to &nbsp;achieve
 a consensus for &nbsp;formal recommendations, ultimately culminating in
 a complete clinical practice guideline.</p>
@@ -194,12 +165,21 @@ aspects of the GRADE evidence-to-decision framework, illustrating how the
 framework could enhance consensus building among panels. Next, participants
 were given the opportunity to actively engage in informing recommendations
 within their respective workgroups.</p>
+<p></p>
 <p>Participants were able to translate evidence from ten pre-specified outcomes
 into weak recommendation in using corticosteroids in addition to standard
 care in patients with sore throat. The conclusion was derived from the
 tradeoff between the benefits and harms of the treatment, taking consideration
 of other key elements such as certainty of evidence, values and preference,
 and also resources.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Class_Lecture_Group_Activity_Discussion_resized.png">
+</div>
+</div>
+</details>
+</div>
+<p></p>
 <p>We would like to thank all participants for their enthusiasm throughout
 this workshop!</p>
 <p>&nbsp;</p>
