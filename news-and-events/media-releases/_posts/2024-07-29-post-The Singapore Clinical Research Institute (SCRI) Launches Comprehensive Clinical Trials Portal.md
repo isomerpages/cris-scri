@@ -28,6 +28,10 @@ trials by providing easy to understand information about clinical research
 for the public and drive clinical research excellence in Singapore by meeting
 the diverse needs of the clinical research community.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/1__DPM_Heng_Swee_Keat_Launch_of_CTSG.jpg">
+</div>
+<p></p>
 <p><u>Key Features of ClinicalTrials.SG</u>
 </p>
 <p>Overview&nbsp;</p>
@@ -93,6 +97,10 @@ and private sector, and includes patients and clinical trial participants,
 coming together in a collaborative effort to advance clinical research.
 It also offers an excellent opportunity for knowledge exchange and networking
 among healthcare leaders, patient advocates, and regulatory representatives.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/News 2024/4__SCRI_Symposium___Clinicians_industry_partners.jpg">
+</div>
 <p>The symposium is a first of its kind here in Singapore for the clinical
 research community, which features sessions that delve into the impact
 of patient advocacy groups and community involvement in advancing clinical
