@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
+<p><strong>Organisers:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,19 +44,19 @@ Clinical Research Institute (SCRI)</p>
 </tbody>
 </table>
 <p></p>
-<p>In May and June 2024, SCRI, Cochrane Singapore&nbsp;and the Academy of
-Medicine, Singapore (AMS) jointly organised a workshop designed to provide
-AMS workgroup members and clinicians<s> </s>with the technical skills and
-knowledge to develop their own clinical practice guidelines (CPGs). CPGs
-are important for patient care, because these frameworks ensure consistent,
-evidence-based care to support healthcare professionals in making informed
-and effective treatment decisions. The training focused on effectively
-utilising the Grading of Recommendations Assessment, Development and Evaluation
-(GRADE) guidelines methodology to support evidence-based framework to support
-clinical decision making.</p>
+<p>In May and June 2024, SCRI, <a href="https://singapore.cochrane.org/" rel="noopener nofollow" target="_blank">Cochrane Singapore</a>&nbsp;and
+the Academy of Medicine, Singapore (AMS) jointly organised a workshop designed
+to provide AMS workgroup members and clinicians<s> </s>with the technical
+skills and knowledge to develop their own clinical practice guidelines
+(CPGs). CPGs are important for patient care, because these frameworks ensure
+consistent, evidence-based care to support healthcare professionals in
+making informed and effective treatment decisions. The training focused
+on effectively utilising the Grading of Recommendations Assessment, Development
+and Evaluation (GRADE) guidelines methodology to support evidence-based
+framework to support clinical decision making.</p>
 <p>The workshop consisted of three modules over seven sessions, covering
 key aspects such as:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Introduction to the clinical practice guideline development process</p>
 </li>
@@ -66,7 +66,7 @@ key aspects such as:</p>
 <li>
 <p>Strategies to transition from evidence to recommendation</p>
 </li>
-</ol>
+</ul>
 <p>The workshop drew 76 AMS members from across the public healthcare institutions,
 who also provided positive feedback by the end of the course</p>
 <div class="isomer-image-wrapper">
@@ -182,7 +182,6 @@ and also resources.</p>
 <p></p>
 <p>We would like to thank all participants for their enthusiasm throughout
 this workshop!</p>
-<p>&nbsp;</p>
 <p><em>This event is jointly presented by Cochrane Singapore, Singapore Clinical Research Institute and Academy of Medicine, Singapore.</em>
 </p>
 <p></p>
