@@ -44,8 +44,8 @@ Clinical Research Institute (SCRI)</p>
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;In May and June 2024, SCRI, Cochrane Singapore&nbsp;and the Academy
-of Medicine, Singapore (AMS) jointly organised a workshop designed to provide
+<p>In May and June 2024, SCRI, Cochrane Singapore&nbsp;and the Academy of
+Medicine, Singapore (AMS) jointly organised a workshop designed to provide
 AMS workgroup members and clinicians<s> </s>with the technical skills and
 knowledge to develop their own clinical practice guidelines (CPGs). CPGs
 are important for patient care, because these frameworks ensure consistent,
