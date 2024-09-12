@@ -45,6 +45,8 @@ design</p>
 <p><strong>Venue: </strong>Raffles City Convention Centre</p>
 <p><strong>Visit the website and register here: <a href="https://for.sg/symposium" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/symposium</a></strong>
 </p>
+<p><strong>View highlights video <a href="https://www.linkedin.com/feed/update/urn:li:activity:7239804283330646017" rel="noopener nofollow" target="_blank">here</a>.</strong>
+</p>
 <p>The two-day Symposium will also offer an excellent opportunity for knowledge
 exchange and networking, share practical insights of how clinical trials
 improve patients’ lives and contribute towards positive health and economic
