@@ -13,7 +13,6 @@ variant: tiptap
 <p>Organised by SCRI, the conference is themed “The Promise of Clinical Trials:
 Transforming Tomorrow’s Health”, and brings together clinicians, researchers,
 academics, and industry experts in clinical research from around the world.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SCRI Clinical Trials Symposium 2024" src="/images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png">
 </div>
@@ -42,4 +41,4 @@ design</p>
 </ul>
 <p>The symposium may have wrapped up, but the collaborations are just beginning. <strong>View our highlights video <a href="https://www.linkedin.com/feed/update/urn:li:activity:7239804283330646017" rel="noopener nofollow" target="_blank">here</a>.</strong>
 </p>
-<p>rward to receiving and engaging you at this conference.</p>
+<p></p>
