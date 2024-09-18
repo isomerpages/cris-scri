@@ -119,7 +119,9 @@ that participants walked away with a deeper understanding of systematic
 reviews and gained practical skills in conducting them effectively in their
 own work.</p>
 <p></p>
-<p>(insert attendees photo)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/NUS Cochrane Workshop 2024/NUS_Cochrane_Workshop_Photo_3.png">
+</div>
 </div>
 </details>
 </div>
