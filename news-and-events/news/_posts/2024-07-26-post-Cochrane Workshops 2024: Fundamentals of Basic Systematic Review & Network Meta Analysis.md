@@ -211,5 +211,14 @@ practice and research.</p>
 </div>
 </details>
 </div>
+<p>Thank you to all participants for your enthusiasm. We look forward to
+next year’s intake!</p>
+<p></p>
+<p>Click <a href="https://singapore.cochrane.org" rel="noopener nofollow" target="_blank">here</a> to
+find out more about Cochrane Singapore.</p>
+<p>Find out more about our initiatives at <a href="www.scri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.scri.edu.sg</a>.</p>
+<p></p>
+<p><em>This event is jointly presented by Cochrane Singapore, Singapore Clinical Research Institute and NUHS Research Support Unit – Systematic Review.</em>
+</p>
 <p></p>
 <p></p>
