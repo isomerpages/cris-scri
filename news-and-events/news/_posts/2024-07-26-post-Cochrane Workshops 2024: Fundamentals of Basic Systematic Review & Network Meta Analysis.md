@@ -178,6 +178,36 @@ a web app designed to allow users to upload data and obtain the NMA results
 instantly, adding another layer of practical, real-time learning to the
 experience</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/NUS Cochrane Workshop 2024/NUS_Cochrane_Workshop_Photo_4.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/NUS Cochrane Workshop 2024/NUS_Cochrane_Workshop_Photo_5.png">
+</div>
+<p></p>
+<p>SCRI HEOR trainers sharing concepts and guiding participants during the
+theory-based and practical sessions.</p>
+<p>The workshop concluded on a high note with in-depth sessions on the Grading
+of Recommendations Assessment, Development and Evaluation (GRADE) and Confidence
+in Network Meta-Analysis (CINeMA) approaches for assessing the certainty
+of evidence, and the standards for reporting NMA results.</p>
+<p>With an emphasis on the importance of evaluating the certainty of evidence,
+the final sessions guided participants through the assessment of key factors
+such as publication bias, indirectness, risk of bias, inconsistency, and
+imprecision. The concluding discussions spotlighted best practices for
+reporting NMA results with transparency, ensuring that the conclusions
+drawn are robust and reliable. By the end of the workshop, participants
+were equipped with a thorough understanding of how to effectively communicate
+NMA findings, enhancing the impact of their work on evidence-based healthcare.</p>
+<p>The NMA technique has become valuable in complex scenarios where clinicians
+and principal investigators need to evaluate numerous therapeutic options.
+With our data-driven healthcare system today, being equipped with these
+advanced techniques is crucial to stay at the cutting-edge of evidence-based
+practice and research.</p>
+<p></p>
 </div>
 </details>
 </div>
