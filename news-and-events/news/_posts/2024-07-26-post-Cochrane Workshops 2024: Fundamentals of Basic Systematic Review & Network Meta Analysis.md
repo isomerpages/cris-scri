@@ -19,14 +19,7 @@ variant: tiptap
 <p><strong>Programme Duration:</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>08 to 12 July 2024</p>
-</li>
-<li>
-<p>22 to 26 July 2024</p>
-</li>
-</ul>
+<p>08 to 12 July 2024 and 22 to 26 July 2024</p>
 </td>
 </tr>
 <tr>
@@ -42,17 +35,8 @@ variant: tiptap
 <p><strong>Organizer:</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cochrane Singapore,</p>
-</li>
-<li>
-<p>National University Singapore (NUS) and</p>
-</li>
-<li>
-<p>Singapore Clinical Research Institute (SCRI)</p>
-</li>
-</ul>
+<p>Cochrane Singapore, National University Singapore (NUS) and Singapore
+Clinical Research Institute (SCRI)</p>
 </td>
 </tr>
 </tbody>
