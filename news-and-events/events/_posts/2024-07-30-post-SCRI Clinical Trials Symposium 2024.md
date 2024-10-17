@@ -18,7 +18,15 @@ academics, and industry experts in clinical research from around the world.</p>
 </div>
 <p>The Symposium showcased the value proposition of clinical trials in Singapore
 and launch an initiative to provide integrated access to trial information
-for industry partners, research volunteers and medical expert</p>
+for industry partners, research volunteers and medical experts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_SCRI_Clinical_Trials_Symposium_launch_of_CTSG_30_July_2024_Photo_credit_to_CRIS__1_.jpg">
+</div>
+<h3>Symposium Highlights</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/symposium_highlights_for_SCRI.png">
+</div>
 <p>We had engaging discussions on:</p>
 <ul data-tight="true" class="tight">
 <li>
