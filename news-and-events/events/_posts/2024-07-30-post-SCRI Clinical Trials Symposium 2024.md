@@ -23,7 +23,6 @@ for industry partners, research volunteers and medical experts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_SCRI_Clinical_Trials_Symposium_launch_of_CTSG_30_July_2024_Photo_credit_to_CRIS__1_.jpg">
 </div>
 <h3>Symposium Highlights</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/symposium_highlights_for_SCRI.png">
 </div>
