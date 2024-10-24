@@ -159,9 +159,9 @@ practice scenarios.</p>
 <p><em>Part 2 – 11 June 2024 (PM), CRIS Office</em>
 </p>
 <p></p>
-<p>The final module focused on applying earlier collated evidence to &nbsp;achieve
-a consensus for &nbsp;formal recommendations, ultimately culminating in
-a complete clinical practice guideline.</p>
+<p>The final module focused on applying earlier collated evidence to achieve
+a consensus for formal recommendations, ultimately culminating in a complete
+clinical practice guideline.</p>
 <p>The first segment of the module introduced participants to the theoretical
 aspects of the GRADE evidence-to-decision framework, illustrating how the
 framework could enhance consensus building among panels. Next, participants
@@ -176,6 +176,9 @@ of other key elements such as certainty of evidence, values and preference,
 and also resources.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Class_Lecture_Group_Activity_Discussion_resized.png">
+</div>
 <p></p>
 </div>
 </details>
