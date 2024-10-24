@@ -68,9 +68,10 @@ key aspects such as:</p>
 </li>
 </ul>
 <p>The workshop drew 76 AMS members from across the public healthcare institutions,
-who also provided positive feedback by the end of the course</p>
+who also provided positive feedback by the end of the course.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SCRI AMS COCHRANE WORKSHOP GROUP PHOTO" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/2024_06_09___SCRI_Cochrane_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/2024_06_09___SCRI_Cochrane_1.jpg">
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -89,12 +90,13 @@ the GRADE guidelines development methodology. will steer clinicians towardsevide
 and actionable Clinical Practice Guidelines for improved care outcomes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod_1_PIC__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Mod_1_PIC__2_.png">
 </div>
 <p><em>A/Prof Edwin Chan, Chief Scientific Officer, SCRI and Director, Cochrane Singapore, explaining the various components of an evidence profile used in developing GRADE guidelines.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod_1_MAGICApp__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Mod_1_MAGICApp__2_.png">
 </div>
 <p><em>A/Prof Edwin Chan, Chief Scientific Officer, SCRI and Director, Cochrane Singapore, introducing the MAGICapp as a tool for participants to conduct evidence-based research on Clinical Practice Guidelines.</em>
 </p>
@@ -116,13 +118,13 @@ data and evidence synthesis, essential for developing therapeutic, prognosis
 and diagnosis guidelines.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod2a_rating_indirectness__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Mod2a_rating_indirectness__2_.png">
 </div>
 <p><em>Dr Julie Zhu, Senior Epidemiologist, guided the class in how to interpret data found in clinical practice research papers.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Mod2b_recommendation_for_process__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Mod2b_recommendation_for_process__2_.png">
 </div>
 <p><em>Dr Shi Luming, Head of Health Economics and Outcomes Research (HEOR), SCRI, provided clear explanation and analogies to support the current methodology for the recommendation process of clinical decision-making.</em>
 </p>
@@ -137,11 +139,11 @@ practice scenarios.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Prof_Edwin_Teaching_Class_Lecture_resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Prof_Edwin_Teaching_Class_Lecture_resized.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Demo_Guidance_Post_class_discussion_v2_resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/AMS Cochrane Workshop 2024/Demo_Guidance_Post_class_discussion_v2_resized.png">
 </div>
 <p><em>From the top left: Dr Julie Zhu, guiding a participant during the demonstration segment. A/Prof Edwin Chan, Dr Julie &amp; Dr Guo Liang answering questions from participants after the workshop.</em>
 </p>
@@ -173,9 +175,8 @@ tradeoff between the benefits and harms of the treatment, taking consideration
 of other key elements such as certainty of evidence, values and preference,
 and also resources.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI AMS Cochrane 2024/Class_Lecture_Group_Activity_Discussion_resized.png">
-</div>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
