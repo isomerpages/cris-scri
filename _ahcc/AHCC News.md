@@ -155,6 +155,15 @@ Sri Lanka)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.duke-nus.edu.sg/newshub/media-releases/media-releases/landmark-study-to-detect-liver-cancer-early" rel="noopener noreferrer nofollow" target="_blank">Landmark study launched to detect liver cancer early in Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03 May 2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.nccs.com.sg/patient-care/Pages/pulling-back-the-curtain-on-research-trials.aspx" rel="noopener noreferrer nofollow" target="_blank">Pulling back the curtain on research trials</a>
 </p>
 </td>
