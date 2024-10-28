@@ -4,11 +4,7 @@ permalink: /ahcc/ahcc-news/
 description: ""
 variant: tiptap
 ---
-<pre><code>	 &lt;tr&gt;
-		 &lt;td&gt;
-			 &lt;a href="http://www.sundaytimes.lk/120422/MediScene/mediscene_6.html" target="_blank"&gt;				 </code></pre>
-<p>New wonder treatment for liver cancer (Wijeya Newspapers Ltd, Colombo,
-Sri Lanka)
+<p>
 <br>
 </p>
 <p></p>
@@ -147,15 +143,6 @@ Sri Lanka)
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.8world.com/singapore/liver-cancer-study-1465611" rel="noopener noreferrer nofollow" target="_blank">国立癌症中心研究 利用人工智能预测人们患癌风险</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>03 May 2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.duke-nus.edu.sg/newshub/media-releases/media-releases/landmark-study-to-detect-liver-cancer-early" rel="noopener noreferrer nofollow" target="_blank">Landmark study launched to detect liver cancer early in Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
