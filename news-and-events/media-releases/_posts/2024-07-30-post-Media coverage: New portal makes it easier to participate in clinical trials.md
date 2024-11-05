@@ -54,7 +54,7 @@ research community.</p>
 </p>
 </li>
 </ul>
-<p>For more information, please refer to the following:</p>
+<p>For more information, please refer to the following</p>
 <ul>
 <li>
 <p><a href="https://www.scri.edu.sg/the-singapore-clinical-research-institute-scri-launches-comprehensive-clinical-trials-portal/" rel="noopener noreferrer nofollow" target="_blank"><u>Press release</u></a>
@@ -67,6 +67,4 @@ research community.</p>
 </ul>
 <p></p>
 <p></p>
-<p>
-<br>
-</p>
+<p></p>
