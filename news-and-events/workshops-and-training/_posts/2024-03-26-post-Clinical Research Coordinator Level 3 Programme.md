@@ -279,18 +279,22 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <hr>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 3 Programme, applicants and their supervisors
-must complete the following electronic registration forms below.</p>
+must complete the registration form.</p>
+<p>An automated email would be routed to your supervisor for endorsement.
+Please notify your supervisor when you have completed and submitted the
+form.</p>
+<p>Registration priority will be given to CRCs who are core-funded under
+the NMRC CRC programme. Priority will also be given to CRCs from Singapore’s
+public healthcare institutes under the MOH Holdings.</p>
 <p><strong><u>Registration Form</u></strong>
 </p>
-<p>[To be completed by Applicant and routed to Supervisor / Reporting Officer]</p>
+<p>Please scan the QR Code <strong><u>OR</u></strong> click the link below
+to access our registration form.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="CRC L3 Registration Form QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Registration_Form_QR_cropped.png">
 </div>
 <p>Link: <a href="https://for.sg/l3registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3registration</a>
 </p>
-<p>Registration priority will be given to CRCs who are core-funded under
-the NMRC CRC programme. Priority will also be given to CRCs from Singapore’s
-public healthcare institutes under the MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (Inclusive of GST)</strong></h4>
 <table style="minWidth: 50px">
