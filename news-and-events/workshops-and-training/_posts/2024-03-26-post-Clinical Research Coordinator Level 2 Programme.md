@@ -246,10 +246,14 @@ coordinating <strong>clinical trials</strong>.</p>
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong><em>*Kindly note that the course outline may be subjected to changes without prior notice.</em></strong>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h4><strong>E-Learning Module</strong></h4>
 <p>Participants will be given access to the e-learning materials 8 weeks
