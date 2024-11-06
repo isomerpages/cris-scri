@@ -411,10 +411,10 @@ supervisors must complete the registration form.</p>
 <p>An automated email would be routed to your supervisor for endorsement.
 Please notify your supervisor when you have completed and submitted the
 form.</p>
-<p></p>
 <p><strong><u>Registration Form</u></strong>
 </p>
-<p>[To be completed by Applicant and routed to Supervisor / Reporting Officer]</p>
+<p>Please scan the QR Code <strong><u>or</u></strong> click the link below
+to access our registration form.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="L1 Registration" src="/images/Resources/Workshops And Training/QR_code_l1registration.png">
 </div>
