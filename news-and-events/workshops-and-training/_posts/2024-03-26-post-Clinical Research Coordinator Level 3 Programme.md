@@ -24,19 +24,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>August 2024 Intake: 15, 16, 22, 23 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>August 2025 Intake: 21, 22, 28, 29 August 2024</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Thursday / Friday from 9:00am to 6:00pm.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -57,11 +51,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>NTU@One-North (Buona Vista)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
+<p><em>(Kindly note the course location may be subjected to changes.)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -71,19 +64,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>01 April to 30 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Note: The programme is currently held once a year</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -138,6 +125,9 @@ establishing strong relationship with stakeholders to achieve work efficiency</p
 <ul data-tight="true" class="tight">
 <li>
 <p>Senior CRCs and above</p>
+</li>
+<li>
+<p>CRC Team Leaders / Managers</p>
 </li>
 </ul>
 <hr>
