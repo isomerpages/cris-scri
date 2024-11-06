@@ -215,7 +215,7 @@ coordinating <strong>clinical trials</strong>.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E-Learning (16 weeks)*</strong>
+<p><strong>E-Learning (8 weeks)*</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
