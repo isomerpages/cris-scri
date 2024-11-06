@@ -224,11 +224,62 @@ essential documents</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Week One</strong>
+<p><strong>Face to Face Session (In-person/Virtual)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Programme Overview</p>
+<p>Site start-up activities</p>
+</li>
+<li>
+<p>Research Team</p>
+</li>
+<li>
+<p>Study Budget</p>
+</li>
+<li>
+<p>Source Documentation</p>
+</li>
+<li>
+<p>Essential Document</p>
+</li>
+<li>
+<p>Screening &amp; Recruitment</p>
+</li>
+<li>
+<p>Informed Consent</p>
+</li>
+<li>
+<p>Study Follow-up &amp; Discontinuation</p>
+</li>
+<li>
+<p>Amendment, Continuing Review and Other Reporting to IRB</p>
+</li>
+<li>
+<p>Site Closure</p>
+</li>
+<li>
+<p>Randomisation &amp; Unblinding</p>
+</li>
+<li>
+<p>IP Management</p>
+</li>
+<li>
+<p>Clinical Trial Regulatory Requirements</p>
+</li>
+<li>
+<p>Operational Challenges of Early Phase Trials</p>
+</li>
+<li>
+<p>MCQ Examination</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>E-Learning (16 weeks)*</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduction to Clinical Research</p>
 </li>
 <li>
 <p>Research Team</p>
@@ -237,162 +288,64 @@ essential documents</p>
 <p>Protocol Feasibility</p>
 </li>
 <li>
-<p>Site Start-up Activities</p>
-</li>
-<li>
-<p>Initial Ethics Submission to CIRB and DSRB for Clinical Trial</p>
-</li>
-<li>
-<p>Randomisation &amp; Unblinding</p>
-</li>
-<li>
-<p>Source Documentation</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Week Two</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Overview of Singapore’s Healthcare System</p>
-</li>
-<li>
-<p>Outpatient / Inpatient Admission Procedures and Forms</p>
-</li>
-<li>
-<p>Introduction to Health Assessment</p>
-</li>
-<li>
-<p>Specimen Collection</p>
-</li>
-<li>
-<p>Documenting Real-time Progress Notes</p>
-</li>
-<li>
-<p>Administration of Medication</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Week Three</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Essential Documents</p>
-</li>
-<li>
-<p>Developing Study Budget</p>
-</li>
-<li>
 <p>Clinical Trial Agreement</p>
+</li>
+<li>
+<p>Study Budget</p>
+</li>
+<li>
+<p>Elements of Protocol</p>
+</li>
+<li>
+<p>Ethics Board &amp; Submission - DSRB/CIRB</p>
+</li>
+<li>
+<p>Site Start-up Activities</p>
 </li>
 <li>
 <p>Informed Consent</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Week Four</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Introduction to Central Laboratory</p>
+<p>Screening and Recruitment</p>
 </li>
 <li>
-<p>Participant Screening</p>
-</li>
-<li>
-<p>Participant Recruitment</p>
-</li>
-<li>
-<p>Participant Follow-up &amp; Discontinuation</p>
+<p>Amendment, Continuing Review &amp; other reporting to IRB</p>
 </li>
 <li>
 <p>Safety Reporting to IRB</p>
 </li>
 <li>
-<p>Amendment, Continuing Review and Other Reporting to IRB</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Week Five</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Regulatory Requirements of Clinical Trials</p>
+<p>Source Documentation</p>
 </li>
 <li>
-<p>Clinical Trial Safety and Reporting Adverse Events to Regulatory Authorities</p>
+<p>Subject Follow-up &amp; Discontinuation</p>
 </li>
 <li>
-<p>Clinical Trial Registry, PRISM</p>
+<p>Essential Document</p>
 </li>
 <li>
-<p>Overview of GCP Inspection</p>
+<p>Clinical Data Management &amp; CRF Queries</p>
 </li>
 <li>
-<p>Common Inspection Findings</p>
+<p>Randomisation &amp; Unblinding</p>
 </li>
 <li>
-<p>Notification of Serious Breaches</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Week Six</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Regulatory Requirements for Clinical Research Materials</p>
+<p>Investigational Product Management</p>
 </li>
 <li>
-<p>Management and Handling of Investigational Product, and Documentation</p>
-</li>
-<li>
-<p>Drug Dispensing and Accountability</p>
-</li>
-<li>
-<p>Site Closure Activities</p>
-</li>
-<li>
-<p>Early Termination of Study and Record Retention</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Week Seven</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MCQ Examination</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<strong>E-Learning</strong>*</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Investigator Meeting and Site Initiation Visit</p>
+<p>Investigator Meeting and site initiation</p>
 </li>
 <li>
 <p>Monitoring Visit Preparation</p>
 </li>
 <li>
-<p>Clinical Data Management and CRF Queries</p>
+<p>Site Closure Activities</p>
 </li>
 <li>
-<p>Effective Communication and Email Writing</p>
+<p>Study Closure Checklist</p>
 </li>
 <li>
-<p>Medical Modules</p>
+<p>Research Misconduct and Fraud</p>
 </li>
 </ul>
 </td>
