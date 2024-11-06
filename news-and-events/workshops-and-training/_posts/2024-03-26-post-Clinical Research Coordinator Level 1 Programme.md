@@ -11,7 +11,11 @@ variant: tiptap
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Logo_FINAL_R.jpg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -21,21 +25,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>March 2024 Intake:</p>
+<p>January Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 March 2024 to 19 April 2024</p>
-<p><em>Click <a href="/files/Resources/Workshops And Training/March_2024_intake_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
-</p>
+<p>01 January to 30 April</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>September 2024 intake:</p>
+<p>June Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 September 2024 to 18 October 2024</p>
-<p><em>Click <a href="/files/Resources/Workshops And Training/September_2024_intake_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
+<p>01 June to 30 September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Click <a href="/files/Resources/Workshops And Training/March_2024_intake_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
 </p>
 </td>
 </tr>
@@ -51,8 +57,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>January Intake</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Class 1A: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+</p>
+<p><strong><em>Class 1B: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June Intake</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Class 2A: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+</p>
+<p><strong><em>Class 2B: </em></strong><em>16 weeks E-learning + 4-half day virtual* tutorial session</em>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p>Approximately 2 months / 7 weeks</p>
+<p><em>*Training delivery for Virtual tutorial session would differ from physical tutorial session with adjustment made to suit the online format.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -62,19 +91,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>March 2024 Intake:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTU@One-North (Buona Vista)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>September 2024 Intake:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTU@One-North (Buona Vista)</p>
+<td rowspan="1" colspan="2">
+<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
 </td>
 </tr>
 <tr>
@@ -91,18 +109,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For every March Intake:</p>
+<p>For every January Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 November to 30 November</p>
+<p>01 October to 30 October</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For every September Intake:</p>
+<p>For every June Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 June to 30 June</p>
+<p>01 March to 31 March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><em>(Registration is based on first-come-first-serve basis)</em></strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -198,7 +222,11 @@ or equivalent.</p>
 </ul>
 <hr>
 <h4><strong>Course Outline</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -437,7 +465,11 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 1 Programme, applicants and their supervisors
 must complete the following electronic registration forms below.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -488,7 +520,11 @@ CRC programme. Priority will also be given to CRCs from Singapore’s public
 healthcare clusters under MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (Inclusive of GST)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
