@@ -139,15 +139,15 @@ variant: tiptap
 working with the research investigator to ensure smooth progress of the
 research project. The CRC Level 1 Programme (Blended) is designed for CRCs
 with at least one year of experience and who are interested in gaining
-knowledge about coordinating clinical trials. The programme offers a comprehensive
-introduction to the operations of clinical trial at site and practical,
-hands-on training through the blended learning approach to provide flexible
-and effective learning. Participants will self-learn through the interactive
-study materials, followed by face-to-face (F2F) classroom sessions (physical
-or virtual) to reinforce the application of core CRC skills through classroom
-discussions, case scenarios, demonstrations and practice-based activities.
-This programme is also valuable for individuals seeking a new career as
-a CRC.</p>
+knowledge about coordinating clinical research. The programme offers a
+comprehensive introduction to the operations of clinical research at site
+and practical, hands-on training through the blended learning approach
+to provide flexible and effective learning. Participants will self-learn
+through the interactive study materials, followed by face-to-face (F2F)
+classroom sessions (in-person or virtual) to reinforce the application
+of core CRC skills through classroom discussions, case scenarios, demonstrations
+and practice-based activities. This programme is also valuable for individuals
+seeking a new career as a CRC.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The SCRI Academy was launched in August 2017 by the Senior Minister of
@@ -211,13 +211,7 @@ essential documents</p>
 <h4><strong>Entry Requirements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>At least a Diploma in Biomedical Sciences, Life Sciences, Nursing, Pharmacy
-or equivalent.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>With current experience in CRC or equivalent duties</p>
-</li>
-</ul>
+<p>At least 1 year of current experience in CRC or equivalent duties</p>
 </li>
 </ul>
 <hr>
