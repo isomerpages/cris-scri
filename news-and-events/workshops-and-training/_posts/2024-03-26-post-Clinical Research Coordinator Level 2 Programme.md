@@ -11,7 +11,11 @@ variant: tiptap
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Logo_FINAL_R.jpg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -21,18 +25,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2024 Intake: 04, 05, 11, 12, 18, 19 July 2024</p>
+<p>July 2025 Intake (Class A):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3, 4, 10, 11 July 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every&nbsp;Thursday / Friday from 9:00am to 6.00pm.</p>
+<p>July 2025 Intake (Class B):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>17, 18, 24, 25 July 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Thursday / Friday from 9:00am to 6.00pm.</p>
 </td>
 </tr>
 <tr>
@@ -42,8 +51,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Approximately 3 weeks / 6 days</p>
+<td rowspan="1" colspan="1">
+<p>July 2025 Intake (Class A):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>16 weeks E-learning + 4-day In-person tutorial session (1<sup>st</sup> and 2<sup>nd</sup> week of July)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July 2025 Intake (Class B):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>16 weeks E-learning + 4-day In-person tutorial session (3<sup>rd</sup> and 4<sup>th</sup> week of July)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,11 +75,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>NTU@One-North (Buona Vista)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
+<p><em>(Kindly note the course location may be subjected to changes)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,19 +88,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;01 February to 01 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>01 January to 31 January</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Note: The programme is currently held once a year</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong><em>(Registration is based on first-come-first-serve basis)</em></strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -88,10 +104,10 @@ variant: tiptap
 <h4><strong>Course Description</strong></h4>
 <p>The Clinical Research Coordinator (CRC) Level 2 Programme builds on a
 CRC’s fundamental competencies in clinical trials and examines the complexities
-of investigator-initiated trials and multi-center clinical research studies.
-The programme is designed to empower CRCs with project management skills
-and the ability to coordinate investigator-initiated clinical research
-studies with reasonable degree of proficiency across a range of study designs.
+of investigator-initiated trials and multi-center clinical trials. The
+programme is designed to empower CRCs with project management skills and
+the ability to coordinate investigator-initiated clinical research studies
+with reasonable degree of proficiency across a range of study designs.
 Application of skills will be reinforced through classroom discussion,
 case scenarios and practice-based activities.</p>
 <hr>
@@ -147,94 +163,31 @@ CRC, and</p>
 </ul>
 <hr>
 <h4><strong>Entry Requirements</strong></h4>
-<p>All requirements&nbsp;must be&nbsp;fulfilled:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>At least 4 years of experience in coordinating clinical trials;</p>
-</li>
-<li>
-<p>Has experience in participant recruitment, obtaining informed consent,
-participant visit follow-up, IRB submissions, source documentation, maintenance
-of essential documents, safety reporting and management of investigational
-product.</p>
-</li>
-</ul>
-<h5><strong><em>CRCs, who do not possess a comprehensive fundamental knowledge in clinical trials, may wish to attend the CRC Level 1 Programme prior to applying for the CRC Level 2 Programme.</em></strong></h5>
+<p>Applicants are required to have at least <strong>4 years of experience</strong> in
+coordinating <strong>clinical trials</strong>.</p>
+<h5><strong><em>CRCs who do not fulfill the above entry requirement may wish to attend the CRC Level 1 Programme prior to applying for the CRC Level 2 Programme.</em></strong></h5>
 <hr>
 <h4><strong>Course Outline</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Day One</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Responsibilities of Sponsor PI in Investigator-initiated Multi-centre
-Trial</p>
-</li>
-<li>
-<p>Fundamentals of Project Management</p>
-</li>
-<li>
-<p>Develop and Establish Quality Systems for Research Study</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Two</strong>
+<p><strong>Face-to-Face Session</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Protocol Review &amp; Safety Monitoring</p>
+<p>Project Management for Multicenter IITs</p>
 </li>
 <li>
-<p>Application of Project Management Knowledge on Site Feasibility</p>
+<p>Research Monitoring</p>
 </li>
 <li>
-<p>Project Organisation Structure &amp; Process</p>
-<p></p>
+<p>Develop QMS for Study</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day Three</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Resource Management and Study Budget</p>
-</li>
-<li>
-<p>Data Collection &amp; Management</p>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Four</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Study Template Design</p>
-</li>
-<li>
-<p>Management of IM and SIV</p>
-</li>
-<li>
-<p>IRB &amp; Regulatory Requirements for Clinical Research</p>
-</li>
-<li>
-<p>Research Grant Management</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day Five</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Management of Clinical Research Materials</p>
 </li>
@@ -242,35 +195,64 @@ Trial</p>
 <p>Management of Biological Specimens</p>
 </li>
 <li>
-<p>Management of Trial Master File</p>
+<p>Clinical Research Data Collection and Management</p>
 </li>
 <li>
-<p>Enhance Recruitment Strategies for IIT</p>
+<p>Resource Management and Study Budget</p>
+</li>
+<li>
+<p>Research Grant Management</p>
+</li>
+<li>
+<p>IRB &amp; Regulatory Requirements for Clinical Research</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Day Six</strong>
+<p><strong>E-Learning (16 weeks)*</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quality Control: Study Monitoring</p>
+<p>Responsibilities of Sponsor PI in IIMCT</p>
 </li>
 <li>
-<p>Project Management During Study</p>
+<p>Protocol Review</p>
 </li>
 <li>
-<p>How to Be Inspection Ready</p>
+<p>Management of Trial Master File</p>
+</li>
+<li>
+<p>Study Template design</p>
+</li>
+<li>
+<p>Enhance Recruitment Strategies for IIT</p>
+</li>
+<li>
+<p>Safety Monitoring</p>
 </li>
 <li>
 <p>Site Readiness for Closure</p>
 </li>
+<li>
+<p>Conducting Investigator Meeting and Site Initiation Visit</p>
+</li>
 </ul>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong><em>*Kindly note that the course outline may be subjected to changes without prior notice.</em></strong>
+</p>
+<hr>
+<h4><strong>E-Learning Module</strong></h4>
+<p>Participants will be given access to the e-learning materials 16 weeks
+before the F2F classroom sessions commence. Participants are required to
+complete all e-learning modules and quizzes by the end of their respective
+programme intakes.</p>
+<p><strong><em>*</em></strong>&nbsp;<strong><em>This is an e-learning module. If required, guidance and support will be provided by the trainers via email.</em></strong><em>&nbsp;</em>
+</p>
+<p><strong><em>**Please note that</em></strong>&nbsp;<strong><em>the above schedule&nbsp;may be&nbsp;subjected to changes.</em></strong>
 </p>
 <hr>
 <h4><strong>Technical Requirements</strong></h4>
@@ -323,7 +305,11 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 2 Programme, applicants and their supervisors
 must complete the following electronic registration forms below.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -373,7 +359,11 @@ CRC programme. Priority will also be given to CRCs from Singapore’s public
 healthcare institutes under MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (inclusive of GST)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
