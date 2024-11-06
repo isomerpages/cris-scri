@@ -211,7 +211,7 @@ essential documents</p>
 <h4><strong>Entry Requirements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>At least 1 year of current experience in CRC or equivalent duties</p>
+<p>At least 1 year of current experience as a CRC or equivalent duties</p>
 </li>
 </ul>
 <hr>
