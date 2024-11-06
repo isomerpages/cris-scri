@@ -359,7 +359,7 @@ essential documents</p>
 <h4><strong>E-Learning Module</strong></h4>
 <p>Participants will be given access to the e-learning materials one month
 before and after the F2F classroom sessions. Participants are required
-to complete all e-learning videos and quizzes by Week 7 of the programme.</p>
+to complete all e-learning videos and quizzes by Week 16 of the programme.</p>
 <h4><strong>Technical Requirements</strong></h4>
 <p><em>**This is</em>&nbsp;<em>only</em>&nbsp;<em>applicable if the F2F classroom session is conducted virtually.</em>
 </p>
@@ -410,61 +410,20 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 </ol>
 <hr>
 <h4><strong>Application Procedure</strong></h4>
-<p>To register for the CRC Level 1 Programme, applicants and their supervisors
-must complete the following electronic registration forms below.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Registration is by first come first serve basis. Applicants and their
+supervisors must complete the registration form.</p>
+<p>An automated email would be routed to your supervisor for endorsement.
+Please notify your supervisor when you have completed and submitted the
+form.</p>
+<p></p>
 <p><strong><u>Registration Form</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form (Section C)</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Applicant]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Supervisor / Reporting Officer]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>[To be completed by Applicant and routed to Supervisor / Reporting Officer]</p>
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="L1 Registration" src="/images/Resources/Workshops And Training/QR_code_l1registration.png">
+<img style="width: 30%;" height="auto" width="100%" alt="L1 Registration" src="/images/Resources/Workshops And Training/QR_code_l1registration.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="L1 Section C" src="/images/Resources/Workshops And Training/QR_code_l1sectionc.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l1registration" rel="noopener" target="_blank">https://for.sg/l1registration</a>
+<p>Link: <a href="https://for.sg/l1registration" rel="noopener" target="_blank">https://for.sg/l1registration</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l1sectionc" rel="noopener" target="_blank">https://for.sg/l1sectionc</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Registration priority will be given to CRCs core-funded under the NMRC
-CRC programme. Priority will also be given to CRCs from Singapore’s public
-healthcare clusters under MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (Inclusive of GST)</strong></h4>
 <table style="minWidth: 50px">
@@ -494,17 +453,9 @@ subsidy)</p>
 </table>
 <hr>
 <h4><strong>Qualification</strong></h4>
-<p>Participants who have completed all modules of the programme and have
-passed the examination will obtain:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>E-Certificate of Participation (Essentials in Clinical Practice) from
-Nanyang Polytechnic,</p>
-</li>
-<li>
-<p>Certificate of Achievement (CRC Level 1 Programme) from SCRI Academy</p>
-</li>
-</ul>
+<p>Participants who have completed all modules of the programmes and have
+obtain an overall grading of 75% will obtain a <strong>Certificate of Achievement (CRC Level 1 Programme)</strong> from
+SCRI Academy.</p>
 <p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/Programme_brochure_L1_flyer_26Mar2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacademy@scri.cris.sg." rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg.</a>
