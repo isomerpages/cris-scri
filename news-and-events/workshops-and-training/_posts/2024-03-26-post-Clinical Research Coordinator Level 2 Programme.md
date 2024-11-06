@@ -55,7 +55,7 @@ variant: tiptap
 <p>July 2025 Intake (Class A):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>16 weeks E-learning + 4-day In-person tutorial session (1<sup>st</sup> and 2<sup>nd</sup> week of July)</em>
+<p><em>8 weeks E-learning + 4-day In-person tutorial session (1<sup>st</sup> and 2<sup>nd</sup> week of July)</em>
 </p>
 </td>
 </tr>
@@ -64,7 +64,13 @@ variant: tiptap
 <p>July 2025 Intake (Class B):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>16 weeks E-learning + 4-day In-person tutorial session (3<sup>rd</sup> and 4<sup>th</sup> week of July)</em>
+<p><em>8 weeks E-learning + 4-day In-person tutorial session (3<sup>rd</sup> and 4<sup>th</sup> week of July)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>*<em>eLearn access will be granted to confirmed participants for both Class A and B in June.</em>
 </p>
 </td>
 </tr>
@@ -89,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>01 January to 31 January</p>
+<p>01 March to 31 March</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +252,7 @@ coordinating <strong>clinical trials</strong>.</p>
 </p>
 <hr>
 <h4><strong>E-Learning Module</strong></h4>
-<p>Participants will be given access to the e-learning materials 16 weeks
+<p>Participants will be given access to the e-learning materials 8 weeks
 before the F2F classroom sessions commence. Participants are required to
 complete all e-learning modules and quizzes by the end of their respective
 programme intakes.</p>
@@ -305,58 +311,14 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 2 Programme, applicants and their supervisors
 must complete the following electronic registration forms below.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><u>Registration Form</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form (Section C)</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Applicant]</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Supervisor / Reporting Officer]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>[To be completed by Applicant and routed to Supervisor / Reporting Officer]</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Registration Form QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Registration_Form_QR_cropped.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Registration Form QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Registration_Form_QR_cropped.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="Form C QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Section_C_QR_cropped.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l2registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l2registration</a>
+<p>Link: <a href="https://for.sg/l2registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l2registration</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l2sectionc" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l2sectionc</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Registration priority will be given to CRCs core-funded under the NMRC
-CRC programme. Priority will also be given to CRCs from Singapore’s public
-healthcare institutes under MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (inclusive of GST)</strong></h4>
 <table style="minWidth: 50px">
@@ -386,11 +348,10 @@ healthcare institutes under MOH Holdings.</p>
 </table>
 <hr>
 <h4><strong>Qualification</strong></h4>
-<p>Participants who successfully completed all modules of this programme
-with at least 75% class attendance will receive a certificate of Completion
+<p>Participants who have completed all modules of the programmes and have
+obtain an overall grading of 75% will receive a Certificate of Completion
 (CRC Level 2 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V2_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V3_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacamy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacamy@scri.cris.sg</a>.</p>
