@@ -413,7 +413,7 @@ Please notify your supervisor when you have completed and submitted the
 form.</p>
 <p><strong><u>Registration Form</u></strong>
 </p>
-<p>Please scan the QR Code <strong><u>or</u></strong> click the link below
+<p>Please scan the QR Code <strong><u>OR</u></strong> click the link below
 to access our registration form.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="L1 Registration" src="/images/Resources/Workshops And Training/QR_code_l1registration.png">
