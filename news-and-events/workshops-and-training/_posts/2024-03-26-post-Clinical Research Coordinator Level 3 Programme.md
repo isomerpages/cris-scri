@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every Thursday / Friday from 9:00am to 6:00pm.</p>
+<p>Thursday / Friday from 9:00am to 6:00pm.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
