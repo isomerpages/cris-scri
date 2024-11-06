@@ -182,7 +182,7 @@ coordinating <strong>clinical trials</strong>.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Face-to-Face Session</strong>
+<p><strong>Face-to-Face Sessions (4 days)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
