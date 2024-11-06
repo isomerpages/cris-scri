@@ -313,11 +313,15 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 </ol>
 <hr>
 <h4><strong>Application Procedure</strong></h4>
-<p>To register for the CRC Level 2 Programme, applicants and their supervisors
-must complete the following electronic registration forms below.</p>
+<p>Registration is by first come first serve basis. Applicants and their
+supervisors must complete the registration form.</p>
+<p>An automated email would be routed to your supervisor for endorsement.
+Please notify your supervisor when you have completed and submitted the
+form.</p>
 <p><strong><u>Registration Form</u></strong>
 </p>
-<p>[To be completed by Applicant and routed to Supervisor / Reporting Officer]</p>
+<p>Please scan the QR Code <strong><u>OR</u></strong> click the link below
+to access our registration form.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Registration Form QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Registration_Form_QR_cropped.png">
 </div>
