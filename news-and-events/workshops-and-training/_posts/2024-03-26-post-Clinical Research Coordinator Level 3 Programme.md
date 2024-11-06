@@ -290,53 +290,14 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 3 Programme, applicants and their supervisors
 must complete the following electronic registration forms below.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form</u></strong>&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form (Section C)</u></strong>&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Applicant]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Supervisor / Reporting Officer]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="CRC L3 Registration Form QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Registration_Form_QR_cropped.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="CRC L3 Section C QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Section_C_QR_cropped.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l3registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3registration</a>
+<p><strong><u>Registration Form</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l3sectionc" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3sectionc</a>
+<p>[To be completed by Applicant and routed to Supervisor / Reporting Officer]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="CRC L3 Registration Form QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Registration_Form_QR_cropped.png">
+</div>
+<p>Link: <a href="https://for.sg/l3registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3registration</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Registration priority will be given to CRCs who are core-funded under
 the NMRC CRC programme. Priority will also be given to CRCs from Singapore’s
 public healthcare institutes under the MOH Holdings.</p>
