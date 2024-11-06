@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2025 Intake (Class A):</p>
+<p>July Intake (Class A):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>8 weeks E-learning + 4-day In-person tutorial session (1<sup>st</sup> and 2<sup>nd</sup> week of July)</em>
@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2025 Intake (Class B):</p>
+<p>July Intake (Class B):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>8 weeks E-learning + 4-day In-person tutorial session (3<sup>rd</sup> and 4<sup>th</sup> week of July)</em>
