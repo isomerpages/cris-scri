@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Click <a href="/files/Resources/Workshops And Training/March_2024_intake_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
+<p><em>Click <a href="/files/Resources/Workshops And Training/Programme_schedule_for_website_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
 </p>
 </td>
 </tr>
