@@ -82,7 +82,7 @@ training in developing essential capabilities critical to the role of a
 Senior CRC in supporting management to plan departmental activities and
 managing a clinical research team. The programme is designed to empower
 the CRCs with the key operational, leadership and technical elements related
-to clinical research operations. Application of skills will be reinforced
+to clinical trial operations. Application of skills will be reinforced
 through classroom discussions, case scenarios and practice-based activities.</p>
 <hr>
 <h4><strong>Learning Outcomes</strong></h4>
