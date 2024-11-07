@@ -25,23 +25,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2025 Intake (Class A):</p>
+<p>June Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3, 4, 10, 11 July 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>July 2025 Intake (Class B):</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17, 18, 24, 25 July 2025</p>
+<p>01 June to 31 July</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Thursday / Friday from 9:00am to 6.00pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Click <a href="/files/Resources/Workshops And Training/L2_Programme_schedule_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -52,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July Intake (Class A):</p>
+<p>Class A:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>8 weeks E-learning + 4-day In-person tutorial session (1<sup>st</sup> and 2<sup>nd</sup> week of July)</em>
@@ -61,16 +62,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July Intake (Class B):</p>
+<p>Class B:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>8 weeks E-learning + 4-day In-person tutorial session (3<sup>rd</sup> and 4<sup>th</sup> week of July)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>*<em>eLearn access will be granted to confirmed participants for both Class A and B in June.</em>
 </p>
 </td>
 </tr>
