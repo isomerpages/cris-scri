@@ -11,7 +11,11 @@ variant: tiptap
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/SCRI_Academy_Logo_FINAL_R.jpg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -21,18 +25,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2024 Intake: 04, 05, 11, 12, 18, 19 July 2024</p>
+<p>June Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>01 June to 31 July</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Every&nbsp;Thursday / Friday from 9:00am to 6.00pm.</p>
+<td rowspan="1" colspan="2">
+<p>Thursday / Friday from 9:00am to 6.00pm.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Click <a href="/files/Resources/Workshops And Training/L2_Programme_schedule_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,8 +49,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Approximately 3 weeks / 6 days</p>
+<td rowspan="1" colspan="1">
+<p>Class A:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>8 weeks E-learning + 4-day In-person tutorial session (1<sup>st</sup> and 2<sup>nd</sup> week of July)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class B:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>8 weeks E-learning + 4-day In-person tutorial session (3<sup>rd</sup> and 4<sup>th</sup> week of July)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,11 +73,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>NTU@One-North (Buona Vista)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
+<p><em>(Kindly note the course location may be subjected to changes)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,19 +86,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;01 February to 01 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>01 March to 31 March</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Note: The programme is currently held once a year</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong><em>(Registration is based on first-come-first-serve basis)</em></strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -88,10 +102,10 @@ variant: tiptap
 <h4><strong>Course Description</strong></h4>
 <p>The Clinical Research Coordinator (CRC) Level 2 Programme builds on a
 CRC’s fundamental competencies in clinical trials and examines the complexities
-of investigator-initiated trials and multi-center clinical research studies.
-The programme is designed to empower CRCs with project management skills
-and the ability to coordinate investigator-initiated clinical research
-studies with reasonable degree of proficiency across a range of study designs.
+of investigator-initiated trials and multi-center clinical trials. The
+programme is designed to empower CRCs with project management skills and
+the ability to coordinate investigator-initiated clinical research studies
+with reasonable degree of proficiency across a range of study designs.
 Application of skills will be reinforced through classroom discussion,
 case scenarios and practice-based activities.</p>
 <hr>
@@ -147,94 +161,31 @@ CRC, and</p>
 </ul>
 <hr>
 <h4><strong>Entry Requirements</strong></h4>
-<p>All requirements&nbsp;must be&nbsp;fulfilled:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>At least 4 years of experience in coordinating clinical trials;</p>
-</li>
-<li>
-<p>Has experience in participant recruitment, obtaining informed consent,
-participant visit follow-up, IRB submissions, source documentation, maintenance
-of essential documents, safety reporting and management of investigational
-product.</p>
-</li>
-</ul>
-<h5><strong><em>CRCs, who do not possess a comprehensive fundamental knowledge in clinical trials, may wish to attend the CRC Level 1 Programme prior to applying for the CRC Level 2 Programme.</em></strong></h5>
+<p>Applicants are required to have at least <strong>4 years of experience</strong> in
+coordinating <strong>clinical trials</strong>.</p>
+<h4><strong><em>CRCs who do not possess a comprehensive fundamental knowledge in clinical trials may wish to attend the <a href="www.scri.edu.sg/news-and-events/workshops-and-training/clinical-research-coordinator-level-1-programme/" rel="noopener nofollow" target="_blank">CRC Level 1 Programme</a> prior to applying for the CRC Level 2 Programme.</em></strong></h4>
 <hr>
 <h4><strong>Course Outline</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Day One</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Responsibilities of Sponsor PI in Investigator-initiated Multi-centre
-Trial</p>
-</li>
-<li>
-<p>Fundamentals of Project Management</p>
-</li>
-<li>
-<p>Develop and Establish Quality Systems for Research Study</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Two</strong>
+<p><strong>Face-to-Face Sessions (4 days)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Protocol Review &amp; Safety Monitoring</p>
+<p>Project Management for Multicenter IITs</p>
 </li>
 <li>
-<p>Application of Project Management Knowledge on Site Feasibility</p>
+<p>Research Monitoring</p>
 </li>
 <li>
-<p>Project Organisation Structure &amp; Process</p>
-<p></p>
+<p>Develop QMS for Study</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day Three</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Resource Management and Study Budget</p>
-</li>
-<li>
-<p>Data Collection &amp; Management</p>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Four</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Study Template Design</p>
-</li>
-<li>
-<p>Management of IM and SIV</p>
-</li>
-<li>
-<p>IRB &amp; Regulatory Requirements for Clinical Research</p>
-</li>
-<li>
-<p>Research Grant Management</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day Five</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Management of Clinical Research Materials</p>
 </li>
@@ -242,35 +193,68 @@ Trial</p>
 <p>Management of Biological Specimens</p>
 </li>
 <li>
-<p>Management of Trial Master File</p>
+<p>Clinical Research Data Collection and Management</p>
 </li>
 <li>
-<p>Enhance Recruitment Strategies for IIT</p>
+<p>Resource Management and Study Budget</p>
+</li>
+<li>
+<p>Research Grant Management</p>
+</li>
+<li>
+<p>IRB &amp; Regulatory Requirements for Clinical Research</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Day Six</strong>
+<p><strong>E-Learning (8 weeks)*</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quality Control: Study Monitoring</p>
+<p>Responsibilities of Sponsor PI in IIMCT</p>
 </li>
 <li>
-<p>Project Management During Study</p>
+<p>Protocol Review</p>
 </li>
 <li>
-<p>How to Be Inspection Ready</p>
+<p>Management of Trial Master File</p>
+</li>
+<li>
+<p>Study Template design</p>
+</li>
+<li>
+<p>Enhance Recruitment Strategies for IIT</p>
+</li>
+<li>
+<p>Safety Monitoring</p>
 </li>
 <li>
 <p>Site Readiness for Closure</p>
 </li>
+<li>
+<p>Conducting Investigator Meeting and Site Initiation Visit</p>
+</li>
 </ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><em>*Kindly note that the course outline may be subjected to changes without prior notice.</em></strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><em>*Kindly note that the course outline may be subjected to changes without prior notice.</em></strong>
+<hr>
+<h4><strong>E-Learning Module</strong></h4>
+<p>Participants will be given access to the e-learning materials 8 weeks
+before the F2F classroom sessions commence. Participants are required to
+complete all e-learning modules and quizzes by the end of their respective
+programme intakes.</p>
+<p><strong><em>*</em></strong>&nbsp;<strong><em>This is an e-learning module. If required, guidance and support will be provided by the trainers via email.</em></strong><em>&nbsp;</em>
+</p>
+<p><strong><em>**Please note that</em></strong>&nbsp;<strong><em>the above schedule&nbsp;may be&nbsp;subjected to changes.</em></strong>
 </p>
 <hr>
 <h4><strong>Technical Requirements</strong></h4>
@@ -321,59 +305,27 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 </ol>
 <hr>
 <h4><strong>Application Procedure</strong></h4>
-<p>To register for the CRC Level 2 Programme, applicants and their supervisors
-must complete the following electronic registration forms below.</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Registration is by <strong><u>first come first serve basis</u></strong>.
+Applicants and their supervisors must complete the registration form.</p>
+<p>An automated email would be routed to your supervisor for endorsement.
+Please notify your supervisor when you have completed and submitted the
+form.</p>
 <p><strong><u>Registration Form</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form (Section C)</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Applicant]</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Supervisor / Reporting Officer]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Please scan the QR Code <strong><u>OR</u></strong> click the link below
+to access our registration form.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Registration Form QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Registration_Form_QR_cropped.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Registration Form QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Registration_Form_QR_cropped.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="Form C QR Code for CRC L2 Programme" src="/images/SCRI Academy/Registration Form QR Codes/L2_Section_C_QR_cropped.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l2registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l2registration</a>
+<p>Link: <a href="https://for.sg/l2registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l2registration</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l2sectionc" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l2sectionc</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Registration priority will be given to CRCs core-funded under the NMRC
-CRC programme. Priority will also be given to CRCs from Singapore’s public
-healthcare institutes under MOH Holdings.</p>
 <hr>
 <h4><strong>Course Fees (inclusive of GST)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -396,11 +348,10 @@ healthcare institutes under MOH Holdings.</p>
 </table>
 <hr>
 <h4><strong>Qualification</strong></h4>
-<p>Participants who successfully completed all modules of this programme
-with at least 75% class attendance will receive a certificate of Completion
+<p>Participants who have completed all modules of the programmes and have
+obtain an overall grading of 75% will receive a Certificate of Completion
 (CRC Level 2 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V2_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V3_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacamy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacamy@scri.cris.sg</a>.</p>

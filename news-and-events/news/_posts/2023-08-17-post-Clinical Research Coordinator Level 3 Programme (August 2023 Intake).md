@@ -1,6 +1,6 @@
 ---
-title: SCRI CRC L3 Programme in Aug 2023
-permalink: /news-and-events/news/scri-crc-l3-programme-2023/
+title: Clinical Research Coordinator Level 3 Programme (August 2023 Intake)
+permalink: /news-and-events/news/clinical-research-coordinator-level-3-programme-august-2023-intake/
 date: 2023-08-17
 layout: post
 description: SCRI CRC L3 Programme in Aug 2023

@@ -1,6 +1,6 @@
 ---
 title: The Essentials of Clinical Trials for Beginners
-permalink: /news-and-events/news/the-essentials-of-clinical-trials-for-beginners/
+permalink: /news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-beginners/
 date: 2024-01-29
 layout: post
 description: ""

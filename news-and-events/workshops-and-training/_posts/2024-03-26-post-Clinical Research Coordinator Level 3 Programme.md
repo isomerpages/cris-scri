@@ -1,6 +1,6 @@
 ---
 title: Clinical Research Coordinator Level 3 Programme
-permalink: /news-and-events/news/clinical-research-coordinator-level-3-programme/
+permalink: /news-and-events/workshops-and-training/clinical-research-coordinator-level-3-programme/
 date: 2024-03-26
 layout: post
 description: ""
@@ -24,19 +24,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>August 2024 Intake: 15, 16, 22, 23 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>August 2025 Intake: 21, 22, 28, 29 August 2025</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Every Thursday / Friday from 9:00am to 6:00pm.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Thursday / Friday from 9:00am to 6:00pm.</p>
 </td>
 </tr>
 <tr>
@@ -57,11 +51,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>NTU@One-North (Buona Vista)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
+<p><em>(Kindly note the course location may be subjected to changes.)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -71,19 +64,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>01 April to 30 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Note: The programme is currently held once a year</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Note: This programme is currently held once a year</p>
 </td>
 </tr>
 </tbody>
@@ -95,7 +82,7 @@ training in developing essential capabilities critical to the role of a
 Senior CRC in supporting management to plan departmental activities and
 managing a clinical research team. The programme is designed to empower
 the CRCs with the key operational, leadership and technical elements related
-to clinical research operations. Application of skills will be reinforced
+to clinical trial operations. Application of skills will be reinforced
 through classroom discussions, case scenarios and practice-based activities.</p>
 <hr>
 <h4><strong>Learning Outcomes</strong></h4>
@@ -139,6 +126,9 @@ establishing strong relationship with stakeholders to achieve work efficiency</p
 <li>
 <p>Senior CRCs and above</p>
 </li>
+<li>
+<p>CRC Team Leaders / Managers</p>
+</li>
 </ul>
 <hr>
 <h4><strong>Entry Requirements</strong></h4>
@@ -176,15 +166,6 @@ in multi-centre trials</p>
 <h5><strong><em>CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;<a href="/news-and-events/workshops-and-training/clinical-research-coordinator-level-2-programme/" rel="noopener noreferrer nofollow" target="_blank">CRC Level 2 Programme</a>&nbsp;prior to applying for the CRC Level 3 Programme.</em></strong></h5>
 <hr>
 <h4><strong>Course Outline</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day One</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Design and Implement Quality Management System in Research</p>
@@ -199,29 +180,12 @@ in multi-centre trials</p>
 <p>Root Cause Analysis, and Development of Corrective and Preventive Action
 Plans</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Two</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Advance Stakeholders Management</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day Three</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Leadership and Coaching</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Four</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Clinical Research Agreement and Insurance</p>
 </li>
@@ -232,10 +196,6 @@ Plans</p>
 <p>Experiential Sharing &amp; Learning</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><em>*Note that the course outline may be subjected to changes without prior notice.</em></strong>
 </p>
 <hr>
@@ -289,57 +249,22 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 <hr>
 <h4><strong>Application Procedure</strong></h4>
 <p>To register for the CRC Level 3 Programme, applicants and their supervisors
-must complete the following electronic registration forms below.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form</u></strong>&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Registration Form (Section C)</u></strong>&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Applicant]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[To be completed by Supervisor / Reporting Officer]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="CRC L3 Registration Form QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Registration_Form_QR_cropped.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="CRC L3 Section C QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Section_C_QR_cropped.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l3registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3registration</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.sg/l3sectionc" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3sectionc</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+must complete the registration form.</p>
+<p>An automated email would be routed to your supervisor for endorsement.
+Please notify your supervisor when you have completed and submitted the
+form.</p>
 <p>Registration priority will be given to CRCs who are core-funded under
 the NMRC CRC programme. Priority will also be given to CRCs from Singapore’s
 public healthcare institutes under the MOH Holdings.</p>
+<p><strong><u>Registration Form</u></strong>
+</p>
+<p>Please scan the QR Code <strong><u>OR</u></strong> click the link below
+to access our registration form.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="CRC L3 Registration Form QR Code" src="/images/SCRI Academy/Registration Form QR Codes/L3_Registration_Form_QR_cropped.png">
+</div>
+<p>Link: <a href="https://for.sg/l3registration" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/l3registration</a>
+</p>
 <hr>
 <h4><strong>Course Fees (Inclusive of GST)</strong></h4>
 <table style="minWidth: 50px">
@@ -370,9 +295,9 @@ public healthcare institutes under the MOH Holdings.</p>
 <hr>
 <h4><strong>Qualification</strong></h4>
 <p>Participants who successfully completed all modules of this programme
-with at least 75% class attendance will receive a certificate of Completion
+with at least 75% class attendance will receive a Certificate of Completion
 (CRC Level 3 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L3_Programme_brochure_V2_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L3_Programme_brochure_V2_5.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg</a>.</p>
