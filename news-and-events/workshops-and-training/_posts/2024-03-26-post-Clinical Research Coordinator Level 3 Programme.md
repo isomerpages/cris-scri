@@ -163,7 +163,7 @@ in multi-centre trials</p>
 <p>Has supported quality compliance checks for studies other than own studies</p>
 </li>
 </ul>
-<h5><strong><em>CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;<a href="/news-and-events/workshops-and-training/clinical-research-coordinator-level-2-programme/" rel="noopener noreferrer nofollow" target="_blank">CRC Level 2 Programme</a>&nbsp;prior to applying for the CRC Level 3 Programme.</em></strong></h5>
+<h5><strong><em>CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;<a href="https://for.sg/level2" rel="noopener noreferrer nofollow" target="_blank">CRC Level 2 Programme</a>&nbsp;prior to applying for the CRC Level 3 Programme.</em></strong></h5>
 <hr>
 <h4><strong>Course Outline</strong></h4>
 <ul data-tight="true" class="tight">
