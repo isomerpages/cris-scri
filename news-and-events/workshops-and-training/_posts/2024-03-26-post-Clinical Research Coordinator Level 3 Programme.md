@@ -166,15 +166,6 @@ in multi-centre trials</p>
 <h5><strong><em>CRCs who do not possess the basic project management knowledge, may wish to attend the&nbsp;<a href="/news-and-events/workshops-and-training/clinical-research-coordinator-level-2-programme/" rel="noopener noreferrer nofollow" target="_blank">CRC Level 2 Programme</a>&nbsp;prior to applying for the CRC Level 3 Programme.</em></strong></h5>
 <hr>
 <h4><strong>Course Outline</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day One</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Design and Implement Quality Management System in Research</p>
@@ -189,29 +180,12 @@ in multi-centre trials</p>
 <p>Root Cause Analysis, and Development of Corrective and Preventive Action
 Plans</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Two</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Advance Stakeholders Management</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day Three</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Leadership and Coaching</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day Four</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Clinical Research Agreement and Insurance</p>
 </li>
@@ -222,10 +196,6 @@ Plans</p>
 <p>Experiential Sharing &amp; Learning</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><em>*Note that the course outline may be subjected to changes without prior notice.</em></strong>
 </p>
 <hr>
