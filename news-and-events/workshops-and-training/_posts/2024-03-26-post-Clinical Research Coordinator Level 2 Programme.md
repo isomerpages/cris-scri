@@ -171,7 +171,7 @@ CRC, and</p>
 <h4><strong>Entry Requirements</strong></h4>
 <p>Applicants are required to have at least <strong>4 years of experience</strong> in
 coordinating <strong>clinical trials</strong>.</p>
-<h5><strong><em>CRCs who do not fulfill the above entry requirement may wish to attend the CRC Level 1 Programme prior to applying for the CRC Level 2 Programme.</em></strong></h5>
+<h5><strong><em>CRCs who do not possess a comprehensive fundamental knowledge in clinical trials may wish to attend the CRC Level 1 Programme prior to applying for the CRC Level 2 Programme.</em></strong></h5>
 <hr>
 <h4><strong>Course Outline</strong></h4>
 <table style="minWidth: 50px">
