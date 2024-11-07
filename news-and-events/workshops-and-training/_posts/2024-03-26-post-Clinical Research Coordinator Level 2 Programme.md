@@ -37,12 +37,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><em>Click <a href="/files/Resources/Workshops And Training/L2_Programme_schedule_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
