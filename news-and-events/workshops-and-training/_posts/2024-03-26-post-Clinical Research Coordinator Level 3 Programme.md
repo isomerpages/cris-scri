@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Note: The programme is currently held once a year</p>
+<p>Note: This programme is currently held once a year</p>
 </td>
 </tr>
 </tbody>
