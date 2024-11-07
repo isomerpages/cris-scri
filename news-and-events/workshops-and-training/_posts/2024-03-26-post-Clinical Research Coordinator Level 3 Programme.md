@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>August 2025 Intake: 21, 22, 28, 29 August 2024</p>
+<p>August 2025 Intake: 21, 22, 28, 29 August 2025</p>
 </td>
 </tr>
 <tr>
