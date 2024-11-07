@@ -313,8 +313,8 @@ for the duration of the Zoom virtual class for attendance authentication.</p>
 </ol>
 <hr>
 <h4><strong>Application Procedure</strong></h4>
-<p>Registration is by first come first serve basis. Applicants and their
-supervisors must complete the registration form.</p>
+<p>Registration is by <strong><u>first come first serve basis</u></strong>.
+Applicants and their supervisors must complete the registration form.</p>
 <p>An automated email would be routed to your supervisor for endorsement.
 Please notify your supervisor when you have completed and submitted the
 form.</p>
