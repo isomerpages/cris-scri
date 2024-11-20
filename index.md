@@ -48,14 +48,13 @@ sections:
       url: /about-us/about-scri/
       image: /images/Homepage/SCRI_Logo.jpg
   - infopic:
-      title: SCRI Clinical Trials Symposium 2024
+      title: Singapore's Clinical Trials Portal (CTSG)
       id: infopic
-      description: "The conference themed “The Promise of Clinical Trials:
-        Transforming Tomorrow’s Health”, will showcase the value proposition of
-        clinical trials in Singapore."
-      button: LEARN MORE
-      url: https://for.sg/symposium
-      image: /images/Resources/News 2023/SCRI_SCRI_Clinical_Trials_Symposium_2024.png
+      description: Centralised portal for all matters pertaining to clinical trials in
+        Singapore, providing comprehensive support and information.
+      button: https://clinicaltrials.sg
+      url: https://clinicaltrials.sg
+      image: /images/CTSG_Pri_Logo_Full_Colour.jpg
       alt: Image alt text
   - infobar:
       title: Master Clinical Trial Agreement
