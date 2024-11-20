@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-members/troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/Members/CRN__ANAH___Dr_Troy_Puar.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Troy Puar</div><div class="isomer-card-description">Chairperson; Country Representative, Singapore</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-members/troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/Members/CRN__ANAH___Dr_Troy_Puar.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Troy Puar</div><div class="isomer-card-description">President; Country Representative, Singapore</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-members/norlela-sukor/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -14,7 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Dr Norlela Sukor</div>
-<div class="isomer-card-description">Deputy Chairperson; Country Representative, Malaysia</div>
+<div class="isomer-card-description">Vice President; Country Representative, Malaysia</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-members/leilani-b-mercado-asis/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Leilani B Mercado-Asis" src="/images/ANAH ASEAN Network of Adrenal/Members/CRN__ANAH___Prof_Leilani_Mercardo_Asis.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Leilani B Mercado-Asis</div><div class="isomer-card-description">EXCO; Country Representative, Philippines</div><div class="isomer-card-link">Bio</div></div></a>
