@@ -4,7 +4,7 @@ permalink: /anah/events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Inaugural Online Masterclass, 23 November 2024</strong></h4>
+<h4><strong>Online Masterclass, 23 November 2024</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ANAH_Circular.png">
 </div>
