@@ -21,6 +21,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/Panelists__grp_photo.png">
 </div>
 <p></p>
+<p>Speaker Presentation slides can be found via link below:</p>
+<p></p>
+<p><a href="/files/ANAH/For_sharing__Endo_BP_WF_Young_Nov_2024_Syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Prof William Young</a>
+</p>
 <p></p>
 <h4><strong>Inaugural Annual General Meeting at Bangkok, 18 November 2023</strong></h4>
 <div class="isomer-image-wrapper">
