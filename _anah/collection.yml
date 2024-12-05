@@ -2,13 +2,13 @@ collections:
   anah:
     output: true
     order:
-      - Events/.keep
-      - Events/Online Masterclass.md
-      - Events/Events.md
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
       - Research and Publications.md
       - Resources/.keep
       - Resources/Steroid Cards.md
       - Resources/Patient Education.md
+      - Events/.keep
+      - Events/Online Masterclass.md
+      - Events/Events.md
       - How to Join Us.md
