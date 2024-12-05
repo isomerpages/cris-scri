@@ -2,9 +2,9 @@ collections:
   anah:
     output: true
     order:
-      - Online Masterclass/Online Masterclass.md
-      - Online Masterclass/Events.md
-      - Online Masterclass/.keep
+      - Events/Online Masterclass.md
+      - Events/Events.md
+      - Events/.keep
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
       - Research and Publications.md
