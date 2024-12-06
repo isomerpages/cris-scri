@@ -5,7 +5,10 @@ date: 2021-03-31
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-Join us on this CRC Appreciation Day to thank the CRCs out there for their contribution to the clinical research landscape in Singapore, and hear from several distinguished speakers on how to manage clinical trials during this COVID-19 pandemic period.
+Join us on this CRC Appreciation Day to thank the CRCs out there for their contributions to the clinical research landscape in Singapore, and hear from our distinguished
 
-![](/images/Resources/News/2021/scri_nhg-crcs-webinar-flyer.jpg)
+Register now by clicking [here](https://for.sg/crc-workshop) **OR** scanning the QR code below!
+
+![](/images/SCRI%20Academy/SCRI_NHG_CRC_Appreciation_Day_2025_Flyer_v5.png)
