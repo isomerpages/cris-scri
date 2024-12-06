@@ -42,7 +42,7 @@ Aldosteronism (PA)</p>
 </div>
 <p><a href="/files/ANAH/For_sharing__ANAH_case_presentation_HT_1.pdf" rel="noopener nofollow" target="_blank">Presentation Slide</a>
 </p>
-<h4>Photos </h4>
+<h4>Photos</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/Dr_William_Young__3_.png">
 </div>
