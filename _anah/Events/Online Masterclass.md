@@ -42,19 +42,30 @@ Aldosteronism (PA)</p>
 </div>
 <p><a href="/files/ANAH/For_sharing__ANAH_case_presentation_HT_1.pdf" rel="noopener nofollow" target="_blank">Presentation Slide</a>
 </p>
-<h4>Photos</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/Dr_William_Young__3_.png">
-</div>
+<h4></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/Case_2_Dr_Hieu__2_.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/Panelists__grp_photo.png">
-</div>
-<p></p>
+<hr>
+<p><strong>Disclaimer</strong>
+</p>
+<p>The materials and information presented in these presentation slides are
+for informational purposes only and are intended solely for ANAH online
+masterclass. The contents provided herein do not constitute professional
+advice, endorsement, or recommendation of any kind.</p>
+<p>While every effort has been made to ensure the accuracy of the materials
+and information, ANAH, SCRI and speakers make no warranties, express or
+implied, regarding the completeness, accuracy, reliability, or suitability
+of the information contained in these slides. Users are advised to independently
+verify any information before relying on it for any purpose.</p>
+<p>The slides and their contents are the intellectual property of their respective
+authors / speakers and may not be reproduced, altered, distributed, or
+used without prior written permission from the authors / speakers or ANAH.
+Any unauthorized use of these materials is strictly prohibited.</p>
+<p>The views and opinions expressed in the presentations are those of the
+individual authors / speakers and do not necessarily reflect the official
+policy or position of ANAH, SCRI or affiliated institutions.</p>
+<p>For permission to use the slides or the contents thereof, please contact
+ANAH Secretariat yiling.teo@scri.cris.sg.</p>
 <p></p>
 <p></p>
 <p></p>
