@@ -11,8 +11,8 @@ variant: tiptap
 contributions to the clinical research landscape in Singapore and hear
 from our distinguished speaker about the latest inspection findings and
 regulatory updates.</p>
-<p>Register now by clicking <a href="https://for.sg/crc-workshop" rel="noopener noreferrer nofollow" target="_blank">here</a>  <strong>OR</strong> scanning
-the QR code below!</p>
+<p>Registration opens on <strong>16 December 2024</strong>, and we look forward
+to seeing you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI%20Academy/SCRI_NHG_CRC_Appreciation_Day_2025_Flyer_v5.png">
 </div>
