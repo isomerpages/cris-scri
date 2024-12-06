@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Join us on this CRC Appreciation Day to thank the CRCs out there for their
-contributions to the clinical research landscape in Singapore, and hear
+contributions to the clinical research landscape in Singapore and hear
 from our distinguished speaker about the latest inspection findings and
 regulatory updates.</p>
 <p>Register now by clicking <a href="https://for.sg/crc-workshop" rel="noopener noreferrer nofollow" target="_blank">here</a>  <strong>OR</strong> scanning
