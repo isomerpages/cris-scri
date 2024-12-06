@@ -7,7 +7,7 @@ third_nav_title: Events
 ---
 <h4><strong>Online Masterclass, 23 November 2024</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ANAH_Circular.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ANAH_Circular.png">
 </div>
 <p>Webinar videos and individual speaker presentations (via link) can be
 found below:</p>
