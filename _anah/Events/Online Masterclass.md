@@ -13,7 +13,9 @@ third_nav_title: Events
 found below:</p>
 <p>Prof William F. Young - Case-Based Update on Pheochromocytoma &amp; Primary
 Aldosteronism (PA)</p>
-<p>Video</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g2u9AX8hWcw?si=E-74DSroOBJfFDLj"></iframe>
+</div>
 <p><a href="/files/ANAH/For_sharing__Endo_BP_WF_Young_Nov_2024_Syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation slide</a>
 </p>
 <p><strong>Assoc Prof Joanne Ngeow - Genetics of Pheochromocytoma</strong>
