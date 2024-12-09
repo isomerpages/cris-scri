@@ -44,7 +44,7 @@ Aldosteronism (PA)</p>
 </div>
 <p><a href="/files/ANAH/For_sharing__ANAH_case_presentation_HT_1.pdf" rel="noopener nofollow" target="_blank">Presentation Slide</a>
 </p>
-<p><a href="/files/ANAH/ANAH_Q_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Q &amp; A Transcript </a>
+<p><a href="/files/ANAH/ANAH_Q_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Q &amp; A Transcript</a>
 </p>
 <p></p>
 <p></p>
