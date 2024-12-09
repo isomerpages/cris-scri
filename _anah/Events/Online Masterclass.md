@@ -9,8 +9,8 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ANAH_Circular.png">
 </div>
-<p>Webinar videos and individual speaker presentations (via link) can be
-found below:</p>
+<p>Webinar videos, individual speaker presentations and Q &amp; A Transcript
+(via link) can be found below:</p>
 <p>Prof William F. Young - Case-Based Update on Pheochromocytoma &amp; Primary
 Aldosteronism (PA)</p>
 <div class="iframe-wrapper">
@@ -44,7 +44,8 @@ Aldosteronism (PA)</p>
 </div>
 <p><a href="/files/ANAH/For_sharing__ANAH_case_presentation_HT_1.pdf" rel="noopener nofollow" target="_blank">Presentation Slide</a>
 </p>
-<h4></h4>
+<p><a href="/files/ANAH/ANAH_Q_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Q &amp; A Transcript </a>
+</p>
 <p></p>
 <p></p>
 <hr>
