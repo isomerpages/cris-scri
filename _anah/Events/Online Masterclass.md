@@ -35,7 +35,7 @@ Aldosteronism (PA)</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LrKwJaOrWQ?si=xBUHW29qAKGC3XK9"></iframe>
 </div>
-<p><a href="/files/ANAH/For_sharing__ANAH_Masterclass_Bilateral_Pheo.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation Slide</a>
+<p><a href="/files/ANAH/For_sharing____ANAH_Masterclass_Bilateral_Pheo.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation Slide</a>
 </p>
 <p><strong>Dr Hieu Tran - Paraganglioma in Pregnancy</strong>
 </p>
