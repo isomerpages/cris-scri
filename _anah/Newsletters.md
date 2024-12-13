@@ -4,7 +4,7 @@ permalink: /newsletters/
 variant: tiptap
 description: ""
 ---
-<h4>Newsletter</h4>
+<h4>ANAH Newsletter</h4>
 <p>Our Newsletter features an update of exciting activities of ANAH. Stay
 informed and connected with all our research projects, collaborations and
 special events!</p>
