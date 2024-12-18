@@ -2,7 +2,7 @@ collections:
   anah:
     output: true
     order:
-      - Publications/Research and Publications.md
+      - Publications/Research.md
       - Publications/.keep
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
