@@ -2,11 +2,11 @@ collections:
   anah:
     output: true
     order:
-      - Research/Study Proposal Form & Workflow.md
-      - Research/Publications.md
-      - Research/.keep
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
+      - Research/.keep
+      - Research/Study Proposal Form & Workflow.md
+      - Research/Publications.md
       - Resources/.keep
       - Resources/Steroid Cards.md
       - Resources/Patient Education.md
