@@ -4,7 +4,9 @@ collections:
     order:
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
-      - Research and Publications.md
+      - Research/.keep
+      - Research/Study Proposal Form & Workflow.md
+      - Research/Publications.md
       - Resources/.keep
       - Resources/Steroid Cards.md
       - Resources/Patient Education.md

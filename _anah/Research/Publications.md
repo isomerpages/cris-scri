@@ -1,8 +1,9 @@
 ---
-title: Research and Publications
-permalink: /anah/researchandpublications/
+title: Publications
+permalink: /anah/publications/
 variant: tiptap
 description: ""
+third_nav_title: Research
 ---
 <p>The ANAH aims to collaborate in research projects to improve the awareness
 and treatment of adrenal hypertension in the region. Publications are listed
