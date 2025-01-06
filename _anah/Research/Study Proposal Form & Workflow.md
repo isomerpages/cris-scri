@@ -18,7 +18,7 @@ endocrinology and lead to better healthcare outcomes.</p>
 <h4>Proposal Form</h4>
 <p>Proposals can only be submitted by ANAH members. Individuals who are keen
 to join ANAH Member can do so via the website tab "How to Join Us".</p>
-<p>Please click on this <a href="https://form.gov.sg/admin/form/676139c0cf4ebe7188945666" rel="noopener nofollow" target="_blank">link</a> to
+<p>Please click on this <a href="https://form.gov.sg/676139c0cf4ebe7188945666" rel="noopener nofollow" target="_blank">link</a> to
 ANAH's study proposal form.</p>
 <p></p>
 <h4>Study Proposal Submission &amp; Review Workflow</h4>
