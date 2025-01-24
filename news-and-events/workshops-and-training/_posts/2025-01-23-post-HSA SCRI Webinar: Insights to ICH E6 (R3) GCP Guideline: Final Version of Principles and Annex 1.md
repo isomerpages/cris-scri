@@ -10,8 +10,8 @@ variant: tiptap
 ---
 <p>Join us at the webinar on <strong>28 February</strong>  <strong>2025</strong> to
 discover the major changes and implementation timeline in Singapore for
-the Principles and Annex 1 document of the ICH E6 (R3) Good Clinical Practice
-(GCP) guideline.
+the Final Version of the Principles and Annex 1 document of the ICH E6
+(R3) Good Clinical Practice (GCP) guideline.
 <br>Registration is FREE!
 <br><strong>Click <a href="https://for.sg/hsa-scripublicwebinarfeb2025" rel="noopener noreferrer nofollow" target="_blank">here</a> or scan the QR code to register before 21 February 2025.</strong>
 </p>
