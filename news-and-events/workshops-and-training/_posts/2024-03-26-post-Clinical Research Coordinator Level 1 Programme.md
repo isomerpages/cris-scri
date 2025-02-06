@@ -156,7 +156,7 @@ MOH Holdings.</p>
 <li>
 <p>This training programme is funded by the Ministry of Health in collaboration
 with Health Sciences Authority, Singapore Health Services, National Healthcare
-Group, National University Health System, and Nanyang Polytechnic.</p>
+Group and National University Health System.</p>
 </li>
 </ul>
 </li>
@@ -233,10 +233,10 @@ essential documents</p>
 <p>Study Budget</p>
 </li>
 <li>
-<p>Source Documentation</p>
+<p>Source Records</p>
 </li>
 <li>
-<p>Essential Document</p>
+<p>Essential Record</p>
 </li>
 <li>
 <p>Screening &amp; Recruitment</p>
@@ -311,13 +311,13 @@ essential documents</p>
 <p>Safety Reporting to IRB</p>
 </li>
 <li>
-<p>Source Documentation</p>
+<p>Source Records</p>
 </li>
 <li>
-<p>Subject Follow-up &amp; Discontinuation</p>
+<p>Study Follow-up &amp; Discontinuation</p>
 </li>
 <li>
-<p>Essential Document</p>
+<p>Essential Record</p>
 </li>
 <li>
 <p>Clinical Data Management &amp; CRF Queries</p>
