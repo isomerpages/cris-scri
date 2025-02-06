@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Click <a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V3_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
+<p><em>Click <a href="/files/Resources/Workshops And Training/L2_Programme_schedule_for_website_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
 </p>
 </td>
 </tr>
@@ -351,7 +351,7 @@ to access our registration form.</p>
 <p>Participants who have completed all modules of the programmes and have
 obtain an overall grading of 75% will receive a Certificate of Completion
 (CRC Level 2 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V3_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L2_Programme_brochure_V3_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacamy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacamy@scri.cris.sg</a>.</p>
