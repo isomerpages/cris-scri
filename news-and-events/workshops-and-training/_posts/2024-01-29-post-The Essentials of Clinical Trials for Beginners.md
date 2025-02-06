@@ -21,9 +21,6 @@ within 16 weeks at your own pace.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Beginners_Jan2024_v2.jpg">
 </div>
 <p>The registration page can be accessed at&nbsp;<a href="https://for.sg/tms8p2" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/tms8p2</a>.</p>
-<p><strong>Topics covered in the programme:</strong>
-</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,99 +29,101 @@ within 16 weeks at your own pace.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Topics covered in the programme:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Introduction to Clinical Research</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Research Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Protocol Feasibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clinical Trial Agreement</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Developing the Study Budget</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Elements of Clinical Trial Protocol</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elements of Clinical Trial Protocol</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Study Start-up Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Informed Consent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participant Screening and Recruitment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Amendment, Continuing review and other Reporting to IRB (Protocol deviation
-and non-compliance, CAPA)</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
+<p>Amendment, Continuing review and other Reporting to IRB</p>
+</li>
+<li>
 <p>Safety reporting to Singapore IRBs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Source Record</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Study Follow-up and Discontinuation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Essential Records</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Clinical Data Management &amp; CRF Queries</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Randomisation and Unblinding</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Investigational Product Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Investigator Meeting and Site Initiation Visit</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Monitoring Visit Preparation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Site Closure Activities</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Medical modules</p>
+</li>
+<li>
+<p>Pre and post programme assessment</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Research Team</p>
+</li>
+<li>
+<p>Clinical Trial Agreement</p>
+</li>
+<li>
+<p>Elements of Clinical Trial Protocol</p>
+</li>
+<li>
+<p>Study Start-up Activities</p>
+</li>
+<li>
+<p>Participant Screening and Recruitment</p>
+</li>
+<li>
+<p>Protocol deviation and non-compliance, CAPA</p>
+</li>
+<li>
+<p>Source Record</p>
+</li>
+<li>
+<p>Essential Records</p>
+</li>
+<li>
+<p>Randomisation and Unblinding</p>
+</li>
+<li>
+<p>Investigator Meeting and Site Initiation Visit</p>
+</li>
+<li>
+<p>Site Closure Activities</p>
+</li>
+<li>
+<p>Research Misconduct and Fraud</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Research Misconduct and Fraud</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pre and post programme assessment</p>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
