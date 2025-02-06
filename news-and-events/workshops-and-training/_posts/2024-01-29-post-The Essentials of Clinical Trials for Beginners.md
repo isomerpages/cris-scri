@@ -35,17 +35,7 @@ within 16 weeks at your own pace.</p>
 <p>Introduction to Clinical Research</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Research Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -53,17 +43,7 @@ within 16 weeks at your own pace.</p>
 <p>Protocol Feasibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Clinical Trial Agreement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -71,8 +51,7 @@ within 16 weeks at your own pace.</p>
 <p>Developing the Study Budget</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
+<p>Elements of Clinical Trial Protocol</p>
 </td>
 </tr>
 <tr>
@@ -80,26 +59,7 @@ within 16 weeks at your own pace.</p>
 <p>Elements of Clinical Trial Protocol</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ethics Board &amp; Submission to Singapore IRBs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Study Start-up Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -107,17 +67,7 @@ within 16 weeks at your own pace.</p>
 <p>Informed Consent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Screening and Recruitment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
+<p>Participant Screening and Recruitment</p>
 </td>
 </tr>
 <tr>
@@ -126,17 +76,7 @@ within 16 weeks at your own pace.</p>
 and non-compliance, CAPA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Safety reporting to Singapore IRBs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -144,17 +84,7 @@ and non-compliance, CAPA)</p>
 <p>Source Record</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Study Follow-up and Discontinuation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -162,17 +92,7 @@ and non-compliance, CAPA)</p>
 <p>Essential Records</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Clinical Data Management &amp; CRF Queries</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -180,17 +100,7 @@ and non-compliance, CAPA)</p>
 <p>Randomisation and Unblinding</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Investigational Product Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -198,17 +108,7 @@ and non-compliance, CAPA)</p>
 <p>Investigator Meeting and Site Initiation Visit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Monitoring Visit Preparation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -216,17 +116,7 @@ and non-compliance, CAPA)</p>
 <p>Site Closure Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Medical modules</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -234,17 +124,7 @@ and non-compliance, CAPA)</p>
 <p>Research Misconduct and Fraud</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Pre and post programme assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 </tr>
 </tbody>
