@@ -28,13 +28,19 @@ with the highest likelihood of success.</p>
 <p>Click <a href="http://for.sg/essentials4inv" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register now!</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Investigators_Oct2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Investigators_Oct2023_v2.jpg">
 </div>
 <p><strong>Topics covered in the programme:</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

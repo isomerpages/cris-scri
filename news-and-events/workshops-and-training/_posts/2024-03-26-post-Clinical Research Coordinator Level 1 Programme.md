@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Click <a href="/files/Resources/Workshops And Training/Programme_schedule_for_website_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the class schedule</em>
+<p><em>Click <a href="/files/Resources/Workshops And Training/Programme_schedule_for_website_2025_updated.pdf" rel="noopener nofollow" target="_blank">here</a> for the class schedule</em>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ MOH Holdings.</p>
 <li>
 <p>This training programme is funded by the Ministry of Health in collaboration
 with Health Sciences Authority, Singapore Health Services, National Healthcare
-Group, National University Health System, and Nanyang Polytechnic.</p>
+Group and National University Health System.</p>
 </li>
 </ul>
 </li>
@@ -233,10 +233,10 @@ essential documents</p>
 <p>Study Budget</p>
 </li>
 <li>
-<p>Source Documentation</p>
+<p>Source Records</p>
 </li>
 <li>
-<p>Essential Document</p>
+<p>Essential Record</p>
 </li>
 <li>
 <p>Screening &amp; Recruitment</p>
@@ -311,13 +311,13 @@ essential documents</p>
 <p>Safety Reporting to IRB</p>
 </li>
 <li>
-<p>Source Documentation</p>
+<p>Source Records</p>
 </li>
 <li>
-<p>Subject Follow-up &amp; Discontinuation</p>
+<p>Study Follow-up &amp; Discontinuation</p>
 </li>
 <li>
-<p>Essential Document</p>
+<p>Essential Record</p>
 </li>
 <li>
 <p>Clinical Data Management &amp; CRF Queries</p>
@@ -452,7 +452,7 @@ subsidy)</p>
 <p>Participants who have completed all modules of the programmes and have
 obtain an overall grading of 75% will obtain a <strong>Certificate of Achievement (CRC Level 1 Programme)</strong> from
 SCRI Academy.</p>
-<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/programme_brochure_l1_flyer_jun2025_v2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/Programme_brochure_L1_flyer_Jun2025_v2_2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacademy@scri.cris.sg." rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg.</a>
 </p>
