@@ -24,37 +24,15 @@ within 16 weeks at your own pace.</p>
 <p><strong>Topics covered in the programme:</strong>
 </p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Topic</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore version</strong>
-</p>
-<p>(Covers local requirements of running clinical trials in Singapore)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Overseas version</strong>
-</p>
-<p>(Covers generic requirements of running clinical trials based on Good
-Clinical Practice)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Introduction to Clinical Research</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -69,18 +47,10 @@ Clinical Practice)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Protocol Feasibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -95,9 +65,6 @@ Clinical Practice)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -107,17 +74,10 @@ Clinical Practice)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Elements of Clinical Trial Protocol</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -132,17 +92,10 @@ Clinical Practice)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Study Start-up Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -157,18 +110,10 @@ Clinical Practice)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Screening and Recruitment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -184,21 +129,6 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Protocol deviation and non-compliance, CAPA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -208,29 +138,10 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Managing Adverse Events</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Source Documentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
+<p>Source Record</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -245,18 +156,10 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Essential Documents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
+<p>Essential Records</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -271,18 +174,10 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Randomisation and Unblinding</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -297,18 +192,10 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Investigator Meeting and Site Initiation Visit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -323,18 +210,10 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Site Closure Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
@@ -349,9 +228,6 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -361,18 +237,10 @@ and non-compliance, CAPA)</p>
 <p><strong>✓</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Pre and post programme assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>✓</strong>
