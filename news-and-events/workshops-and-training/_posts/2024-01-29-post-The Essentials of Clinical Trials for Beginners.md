@@ -30,8 +30,7 @@ register now!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Topics covered in the programme:</strong>
-</p>
+<h4><strong>Topics covered in the programme:</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
