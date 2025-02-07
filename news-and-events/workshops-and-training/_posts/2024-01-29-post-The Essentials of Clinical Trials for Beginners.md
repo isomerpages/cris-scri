@@ -67,7 +67,7 @@ register now!</p>
 <p>Investigational Product Management</p>
 </li>
 <li>
-<p>Monitoring Visit Preparation</p>
+<p>Investigator Meeting and Site Initiation Visit</p>
 </li>
 <li>
 <p>Site Closure Activities</p>
@@ -107,7 +107,7 @@ register now!</p>
 <p>Randomisation and Unblinding</p>
 </li>
 <li>
-<p>Investigator Meeting and Site Initiation Visit</p>
+<p>Monitoring Visit Preparation</p>
 </li>
 <li>
 <p>Biological specimen handling</p>
