@@ -28,328 +28,118 @@ with the highest likelihood of success.</p>
 <p>Click <a href="http://for.sg/essentials4inv" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register now!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Investigators_Oct2023_v2.jpg">
 </div>
-<p><strong>Topics covered in the programme:</strong>
-</p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Topic</strong>
-</p>
+<h4><strong>Topics covered in the programme:</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore version</strong>
-</p>
-<p>(Covers local requirements of running clinical trials in Singapore)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Overseas version</strong>
-</p>
-<p>(Covers generic requirements of running clinical trials based on Good
-Clinical Practice)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Introduction to Clinical Research</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Research Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Protocol Feasibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clinical Trial Agreement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Developing the Study Budget</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elements of Clinical Trial Protocol</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Ethics Board &amp; Submission to Singapore IRBs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Study Start-up Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Informed Consent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Screening and Recruitment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Amendment, Continuing review and other Reporting to IRB (Protocol deviation
-and non-compliance, CAPA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Protocol deviation and non-compliance, CAPA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Safety reporting to Singapore IRBs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Managing Adverse Events</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Source Documentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
+<p>Participant Screening and Recruitment</p>
+</li>
+<li>
+<p>Amendment, Continuing review and other Reporting to IRB</p>
+</li>
+<li>
+<p>Source Record</p>
+</li>
+<li>
 <p>Study Follow-up and Discontinuation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Essential Documents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clinical Data Management &amp; CRF Queries</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Randomisation and Unblinding</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Investigational Product Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Site Closure Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Research Misconduct and Fraud</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
+<p>Responsibilities of sponsor PI in multicenter IIT</p>
+</li>
+<li>
+<p>Safety Monitoring</p>
+</li>
+<li>
+<p>Quality Management System</p>
+</li>
+<li>
 <p>Pre and post programme assessment</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Research Team</p>
+</li>
+<li>
+<p>Clinical Trial Agreement</p>
+</li>
+<li>
+<p>Elements of Clinical Trial Protocol</p>
+</li>
+<li>
+<p>Site Start-up Activities</p>
+</li>
+<li>
+<p>Informed Consent</p>
+</li>
+<li>
+<p>Clinical Data Management &amp; CRF Queries</p>
+</li>
+<li>
+<p>Essential Records</p>
+</li>
+<li>
+<p>Safety reporting to Singapore IRBs</p>
+</li>
+<li>
+<p>Randomisation and Unblinding</p>
+</li>
+<li>
+<p>Research Misconduct and Fraud</p>
+</li>
+<li>
+<p>Protocol Review</p>
+</li>
+<li>
+<p>Study closure for multicenter IITs</p>
+</li>
+<li>
+<p>Site Feasibility for multicenter IITs</p>
+</li>
+</ul>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>✓</strong>
-</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
