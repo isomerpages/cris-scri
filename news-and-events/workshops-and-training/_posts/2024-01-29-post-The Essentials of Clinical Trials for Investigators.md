@@ -74,7 +74,7 @@ register now!</p>
 <p>Study Follow-up and Discontinuation</p>
 </li>
 <li>
-<p>Randomisation and Unblinding</p>
+<p>Investigational Product Management</p>
 </li>
 <li>
 <p>Site Closure Activities</p>
@@ -120,7 +120,7 @@ register now!</p>
 <p>Clinical Data Management &amp; CRF Queries</p>
 </li>
 <li>
-<p>Investigational Product Management</p>
+<p>Randomisation and Unblinding</p>
 </li>
 <li>
 <p>Research Misconduct and Fraud</p>
