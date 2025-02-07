@@ -111,13 +111,13 @@ register now!</p>
 <p>Informed Consent</p>
 </li>
 <li>
-<p>Safety reporting to Singapore IRBs</p>
+<p>Clinical Data Management &amp; CRF Queries</p>
 </li>
 <li>
 <p>Essential Records</p>
 </li>
 <li>
-<p>Clinical Data Management &amp; CRF Queries</p>
+<p>Safety reporting to Singapore IRBs</p>
 </li>
 <li>
 <p>Randomisation and Unblinding</p>
