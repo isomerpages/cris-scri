@@ -49,7 +49,7 @@ within 16 weeks at your own pace.</p>
 <p>Developing the Study Budget</p>
 </li>
 <li>
-<p>Elements of Clinical Trial Protocol</p>
+<p>Ethics Board &amp; Submission - DSRB / CIRB</p>
 </li>
 <li>
 <p>Informed Consent</p>
@@ -58,13 +58,10 @@ within 16 weeks at your own pace.</p>
 <p>Amendment, Continuing review and other Reporting to IRB</p>
 </li>
 <li>
-<p>Safety reporting to Singapore IRBs</p>
+<p>Source Record</p>
 </li>
 <li>
 <p>Study Follow-up and Discontinuation</p>
-</li>
-<li>
-<p>Clinical Data Management &amp; CRF Queries</p>
 </li>
 <li>
 <p>Investigational Product Management</p>
@@ -73,7 +70,7 @@ within 16 weeks at your own pace.</p>
 <p>Monitoring Visit Preparation</p>
 </li>
 <li>
-<p>Medical modules</p>
+<p>Site Closure Activities</p>
 </li>
 <li>
 <p>Pre and post programme assessment</p>
@@ -92,19 +89,19 @@ within 16 weeks at your own pace.</p>
 <p>Elements of Clinical Trial Protocol</p>
 </li>
 <li>
-<p>Study Start-up Activities</p>
+<p>Site Start-up Activities</p>
 </li>
 <li>
 <p>Participant Screening and Recruitment</p>
 </li>
 <li>
-<p>Protocol deviation and non-compliance, CAPA</p>
-</li>
-<li>
-<p>Source Record</p>
+<p>Safety reporting to Singapore IRBs</p>
 </li>
 <li>
 <p>Essential Records</p>
+</li>
+<li>
+<p>Clinical Data Management &amp; CRF Queries</p>
 </li>
 <li>
 <p>Randomisation and Unblinding</p>
@@ -113,7 +110,7 @@ within 16 weeks at your own pace.</p>
 <p>Investigator Meeting and Site Initiation Visit</p>
 </li>
 <li>
-<p>Site Closure Activities</p>
+<p>Biological specimen handling</p>
 </li>
 <li>
 <p>Research Misconduct and Fraud</p>
