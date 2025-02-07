@@ -40,8 +40,7 @@ register now!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Topics covered in the programme:</strong>
-</p>
+<h4><strong>Topics covered in the programme:</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -69,16 +68,25 @@ register now!</p>
 <p>Amendment, Continuing review and other Reporting to IRB</p>
 </li>
 <li>
-<p>Safety reporting to Singapore IRBs</p>
+<p>Source Record</p>
 </li>
 <li>
 <p>Study Follow-up and Discontinuation</p>
 </li>
 <li>
-<p>Clinical Data Management &amp; CRF Queries</p>
+<p>Randomisation and Unblinding</p>
 </li>
 <li>
-<p>Investigational Product Management</p>
+<p>Site Closure Activities</p>
+</li>
+<li>
+<p>Responsibilities of sponsor PI in multicenter IIT</p>
+</li>
+<li>
+<p>Safety Monitoring</p>
+</li>
+<li>
+<p>Quality Management System</p>
 </li>
 <li>
 <p>Pre and post programme assessment</p>
@@ -97,28 +105,34 @@ register now!</p>
 <p>Elements of Clinical Trial Protocol</p>
 </li>
 <li>
-<p>Study Start-up Activities</p>
+<p>Site Start-up Activities</p>
 </li>
 <li>
 <p>Participant Screening and Recruitment</p>
 </li>
 <li>
-<p>Protocol deviation and non-compliance, CAPA</p>
-</li>
-<li>
-<p>Source Record</p>
+<p>Safety reporting to Singapore IRBs</p>
 </li>
 <li>
 <p>Essential Records</p>
 </li>
 <li>
-<p>Randomisation and Unblinding</p>
+<p>Clinical Data Management &amp; CRF Queries</p>
 </li>
 <li>
-<p>Site Closure Activities</p>
+<p>Investigational Product Management</p>
 </li>
 <li>
 <p>Research Misconduct and Fraud</p>
+</li>
+<li>
+<p>Protocol Review</p>
+</li>
+<li>
+<p>Study closure for multicenter IITs</p>
+</li>
+<li>
+<p>Site Feasibility for multicenter IITs</p>
 </li>
 </ul>
 </td>
