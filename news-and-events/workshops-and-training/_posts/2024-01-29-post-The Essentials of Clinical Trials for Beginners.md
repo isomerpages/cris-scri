@@ -127,5 +127,6 @@ register now!</p>
 </tbody>
 </table>
 <p>If you are interested for bulk subscription for your colleagues and friends,
-please write in to us at&nbsp;<a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>scriacademy@scri.cris.sg</u></a>&nbsp;to
-find out more.</p>
+please write in to us at&nbsp;scriacademy@scri.cris.sg&nbsp;to find out
+more.</p>
+<p></p>
