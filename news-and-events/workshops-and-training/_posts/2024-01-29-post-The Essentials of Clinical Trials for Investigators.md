@@ -62,7 +62,7 @@ register now!</p>
 <p>Ethics Board &amp; Submission to Singapore IRBs</p>
 </li>
 <li>
-<p>Informed Consent</p>
+<p>Participant Screening and Recruitment</p>
 </li>
 <li>
 <p>Amendment, Continuing review and other Reporting to IRB</p>
@@ -108,7 +108,7 @@ register now!</p>
 <p>Site Start-up Activities</p>
 </li>
 <li>
-<p>Participant Screening and Recruitment</p>
+<p>Informed Consent</p>
 </li>
 <li>
 <p>Safety reporting to Singapore IRBs</p>
