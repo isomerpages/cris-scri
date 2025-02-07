@@ -16,7 +16,8 @@ are keen to gain foundational knowledge on clinical trials. The course
 covers all the basic knowledge required of a clinical research coordinator
 to conduct a trial at site. You can access this course anytime, anywhere
 within 16 weeks at your own pace.</p>
-<p></p>
+<p>Click <a href="https://for.sg/tms8p2" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+register now!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Beginners_Jan2024_v2.jpg">
 </div>
