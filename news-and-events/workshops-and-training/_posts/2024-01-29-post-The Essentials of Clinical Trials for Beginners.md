@@ -21,7 +21,7 @@ register now!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Essentials_of_CT_Beginners_Jan2024_v2.jpg">
 </div>
-<p>The registration page can be accessed at&nbsp;<a href="https://for.sg/tms8p2" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/tms8p2</a>.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
