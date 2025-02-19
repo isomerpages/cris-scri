@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Project Management
 
-**Headed by Ivanus Manopo, services comprise:**
+Services comprise:
 
 *   Specialized, unique skill that combines decades of clinical trials best practices and project management acumen
     
