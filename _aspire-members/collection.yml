@@ -2,5 +2,5 @@ collections:
   aspire-members:
     output: true
     order:
-      - Assoc Prof Mark Chan.md
       - Prof Derek Hausenloy.md
+      - Assoc Prof Mark Chan.md
