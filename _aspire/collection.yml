@@ -1,4 +1,5 @@
 collections:
   aspire:
     output: true
-    order: []
+    order:
+      - Directory of Clinical Research Networks In Singapore.md
