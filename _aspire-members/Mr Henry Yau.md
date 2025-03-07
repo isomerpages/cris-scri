@@ -10,6 +10,7 @@ image: /images/ASPIRE Network /Henry_Yau___Photo.jpg
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Henry_Yau___Photo.jpg">
 </div>
 <h4>Mr Henry Yau</h4>
+<p>BSc (Biochemistry), MBA (Finance)</p>
 <p>Mr Henry Yau is the CEO of The University of Hong Kong Clinical Trials
 Centre (China), Managing Director of The University of Hong Kong Clinical
 Trials Centre, and Honorary Assistant Professor of Macau University of
