@@ -12,5 +12,5 @@ collaborative research network started in 2025 by regional cardiovascular
 experts from Singapore, Hong Kong, Taiwan, South Korea, Japan and New Zealand.</p>
 <p>The Network aims to facilitate and advance regional cardiovascular clinical
 trials and research in the Asia Pacific region.</p>
-<p><a href="/about-us/" rel="noopener nofollow" target="_blank">Learn More</a>
+<p><a href="/about-aspire/" rel="noopener nofollow" target="_blank">Learn More</a>
 </p>
