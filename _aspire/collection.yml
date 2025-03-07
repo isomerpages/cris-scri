@@ -2,7 +2,7 @@ collections:
   aspire:
     output: true
     order:
-      - Our unique value proposition.md
       - About ASPIRE.md
+      - Our unique value proposition.md
       - Members.md
       - Partner with us.md
