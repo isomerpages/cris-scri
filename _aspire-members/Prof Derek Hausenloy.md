@@ -7,7 +7,7 @@ image: /images/Derek_Hausenloy.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Derek_Hausenloy.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Derek_Hausenloy.jpg">
 </div>
 <h4>Prof Derek Hausenloy</h4>
 <p>Prof Derek Hausenloy is Professor in the Cardiovascular &amp; Metabolic
