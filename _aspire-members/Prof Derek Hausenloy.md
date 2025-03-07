@@ -10,8 +10,6 @@ image: /images/Derek_Hausenloy.jpg
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Derek_Hausenloy.jpg">
 </div>
 <h4>Prof Derek Hausenloy</h4>
-<p><strong>National Heart Centre, Singapore</strong>
-</p>
 <p>Prof Derek Hausenloy is Professor in the Cardiovascular &amp; Metabolic
 Disorders Signature Programme, Duke-National University of Singapore Medical
 School, and Research Director and Senior Consultant Cardiologist at the
