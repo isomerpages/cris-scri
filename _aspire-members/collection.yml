@@ -2,7 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Assoc Prof Hsu Chien Yi.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Yiu Kai Hang.md
@@ -13,3 +12,4 @@ collections:
       - Dr Dharmaraj Karthikesan.md
       - Dr Anwar Irawan Bin Ruhani.md
       - Assoc Prof Philip Adamson.md
+      - Assoc Prof Hsu Chien Yi.md
