@@ -1,4 +1,5 @@
 collections:
   aspire-members:
     output: true
-    order: []
+    order:
+      - Prof Derek Hausenloy.md
