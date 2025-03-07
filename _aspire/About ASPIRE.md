@@ -17,21 +17,21 @@ funded trial network to facilitate and advance regional cardiovascular
 (CADENCE) and serves as a regional effort to push for a greater Asia Pacific
 (APAC) representation and investments in CV trials.</p>
 <p>The Network aims to:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
-<p>Increase CV trials market share in APAC: Increase numbers of coordinated
-multi-centre clinical trials/research studies conducted in APAC region
-and attract regional investments towards CV trials.</p>
+<p><strong>Increase CV trials market share in APAC</strong>: Increase numbers
+of coordinated multi-centre clinical trials/research studies conducted
+in APAC region and attract regional investments towards CV trials.</p>
 </li>
 <li>
-<p>Foster regional collaboraton: Connect researchers/clinicians in the cardiovascular
-field for research collaboration.</p>
+<p><strong>Foster regional collaboration</strong>: Connect researchers/clinicians
+in the cardiovascular field for research collaboration.</p>
 </li>
 <li>
-<p>Build Key Opinion Leaders: Grow and mentor investigators to undertake
-high-quality research.</p>
+<p><strong>Build Key Opinion Leaders</strong>: Grow and mentor investigators
+to undertake high-quality research.</p>
 </li>
-</ol>
+</ul>
 <h4>Mission</h4>
 <p>Foster collaboration among Asia-Pacific leaders in cardiovascular research,
 accelerate knowledge discovery and translation through increased numbers
