@@ -9,6 +9,10 @@ image: /images/ASPIRE Network /Yiu_Kai_Hang.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Yiu_Kai_Hang.jpg">
 </div>
+<h4><strong>Prof Yiu Kai Hang</strong></h4>
+<p><strong>The University of Hong Kong (HKU)</strong>
+</p>
+<h4>Profile</h4>
 <p>Professor Yiu is a distinguished clinical cardiologist specializing in
 advanced cardiovascular therapeutics, with a focus on interventional procedures
 such as percutaneous coronary intervention for coronary artery disease
