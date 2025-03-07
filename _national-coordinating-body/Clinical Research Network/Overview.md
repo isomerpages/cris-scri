@@ -31,7 +31,8 @@ ID) Network</p>
 Trials Group</p>
 </li>
 <li>
-<p>The Asia Pacific Cardiovascular Research (ASPIRE) Network</p>
+<p>The <a href="/about-aspire/" rel="noopener nofollow" target="_blank">Asia Pacific Cardiovascular Research (ASPIRE) Network</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.myeloma.org/asian-myeloma-network" rel="noopener noreferrer nofollow" target="_blank">Asian Myeloma Network&nbsp;(AMN)</a>
