@@ -16,8 +16,8 @@ image: /images/ASPIRE Network /Henry_Yau___Photo.jpg
 Centre (China), Managing Director of The University of Hong Kong Clinical
 Trials Centre, and Honorary Assistant Professor of Macau University of
 Science and Technology.</p>
-<p>Henry started his career in the pharmaceutical industry in early-1990s.
-He has been specializing in clinical research management for over two decades.
+<p>Henry started his career in the pharmaceutical industry in early 1990s.
+He has been specialising in clinical research management for over two decades.
 He also undertakes roles in many international bodies such as Steering
 Board Member and Past Chairperson of the International Clinical Trial Center
 Network (ICN), Member of the Working Group on Good Governance Practice
