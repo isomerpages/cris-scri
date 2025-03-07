@@ -2,5 +2,6 @@ collections:
   aspire:
     output: true
     order:
+      - Events.md
       - About ASPIRE.md
       - Members.md
