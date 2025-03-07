@@ -17,7 +17,7 @@ with research interests in the same disease areas. We further support networks
 with our operational capabilities. SCRI endeavours to provide network participants
 the opportunity to develop high-impact research questions, acquire funding
 and be part of high quality research.</p>
-<p>Presently, the 11 clinical research networks established are:</p>
+<p>Presently, the 12 clinical research networks established are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.advance-id.network/" rel="noopener noreferrer nofollow" target="_blank">ADVANcing Clinical Evidence in Infectious Disease </a>(ADVANCE
@@ -29,6 +29,9 @@ ID) Network</p>
 <li>
 <p>The <a href="/clinical-research-networks/ahcc/" rel="noopener noreferrer nofollow" target="_blank">Asia-Pacific Hepatocellular Carcinoma</a> (AHCC)
 Trials Group</p>
+</li>
+<li>
+<p>The Asia Pacific Cardiovascular Research (ASPIRE) Network</p>
 </li>
 <li>
 <p><a href="https://www.myeloma.org/asian-myeloma-network" rel="noopener noreferrer nofollow" target="_blank">Asian Myeloma Network&nbsp;(AMN)</a>
