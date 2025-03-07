@@ -2,6 +2,7 @@ collections:
   aspire-members:
     output: true
     order:
+      - Dr Alan Fong.md
       - Prof Satoshi Yasuda.md
       - Ms Creany Wong.md
       - Prof Derek Hausenloy.md
