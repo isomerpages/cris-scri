@@ -6,6 +6,6 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Value_Proposition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Value_Proposition_jpg.png">
 </div>
 <p></p>
