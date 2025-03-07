@@ -2,7 +2,7 @@ collections:
   aspire-members:
     output: true
     order:
-      - Mr Henry Yau.md
-      - Prof Yiu Kai Hang.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
+      - Prof Yiu Kai Hang.md
+      - Mr Henry Yau.md
