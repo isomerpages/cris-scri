@@ -10,7 +10,7 @@ third_nav_title: Clinical Research Network
 <p>The Asia-Pacific Cardiovascular Research Network (ASPIRE) Network is a
 collaborative research network started in 2025 by regional cardiovascular
 experts from Singapore, Hong Kong, Taiwan, South Korea, Japan and New Zealand.</p>
-<p>The Network aims to to facilitate and advance regional cardiovascular
-clinical trials and research in the Asia Pacific region.</p>
+<p>The Network aims to facilitate and advance regional cardiovascular clinical
+trials and research in the Asia Pacific region.</p>
 <p><a href="/about-us/" rel="noopener nofollow" target="_blank">Learn More</a>
 </p>
