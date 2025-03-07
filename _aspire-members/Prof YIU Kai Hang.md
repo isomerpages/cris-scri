@@ -6,7 +6,6 @@ description: ""
 image: /images/ASPIRE Network /Yiu_Kai_Hang.jpg
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Yiu_Kai_Hang.jpg">
 </div>
