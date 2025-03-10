@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Mark_Chan.png
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Mark_Chan.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Mark_Chan.jpg">
 </div>
 <h4>Associate Professor Mark Chan</h4>
 <p>Dr Mark Chan, MBBS, PhD, is an Associate Professor with tenure at the
