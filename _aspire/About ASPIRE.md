@@ -7,7 +7,7 @@ image: /images/ASPIRE_logo.gif
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /ASPIRE_logo.gif">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /ASPIRE_original_transparent_backgrd.png">
 </div>
 <h4>About Us</h4>
 <p>The ASia Pacific cardIovasculaR rEsearch (ASPIRE) Network is an independently
