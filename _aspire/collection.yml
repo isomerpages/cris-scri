@@ -2,8 +2,8 @@ collections:
   aspire:
     output: true
     order:
-      - Meetings & Events.md
       - About ASPIRE.md
       - Our unique value proposition.md
       - Regional members.md
+      - Meetings & Events.md
       - Partner with us.md
