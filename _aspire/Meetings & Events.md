@@ -4,7 +4,7 @@ permalink: /meetings-events/
 variant: tiptap
 description: ""
 ---
-<h4>Members Introductory Meeting - February 2025 </h4>
+<h4>Members Introductory Meeting - February 2025</h4>
 <p>The ASPIRE Network marked a significant milestone with its first introductory
 meeting, bringing together members from across the APAC region in a virtual
 setting. During this foundational gathering, participants shared their
