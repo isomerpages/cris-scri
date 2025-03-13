@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/assoc-prof-mark-chan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Mark_Chan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Mark_Chan.png">
 </div>
 </div>
 <div class="isomer-card-body">
