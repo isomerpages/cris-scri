@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Satoshi_Yasuda.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Satoshi_Yasuda.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Satoshi_Yasuda.png">
 </div>
 <h4>Prof Satoshi Yasuda</h4>
 <p>Dr. Satoshi Yasuda, MD, PhD, is a distinguished Japanese cardiologist
