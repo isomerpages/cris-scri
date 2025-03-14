@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Philip_Adamson.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Philip_Adamson.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Philip_Adamson.png">
 </div>
 <h4>Assoc Prof Philip Adamson</h4>
 <p>A/Prof Adamson is a Consultant Interventional Cardiologist at Christchurch
