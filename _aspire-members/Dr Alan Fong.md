@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Alan_Fong.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Alan_Fong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Alan_Fong.png">
 </div>
 <h4>Dr Alan Fong</h4>
 <p>Dr Alan Fong is Consultant Cardiologist at Sarawak Heart Centre, and Head
