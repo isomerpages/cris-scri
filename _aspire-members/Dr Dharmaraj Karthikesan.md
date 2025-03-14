@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Dharmaraj_Karthikesan.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Dharmaraj_Karthikesan.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Dharmaraj_Karthikesan.png">
 </div>
 <h4>Dr Dharmaraj Karthikesan</h4>
 <p>Dr Dharmaraj Karthikesan is a consultant interventional cardiologist at
