@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Hsu_Chien_Yi.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Hsu_Chien_Yi.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Hsu_Chien_Yi.png">
 </div>
 <h4>Assoc Prof Hsu Chien-Yi</h4>
 <p>Dr. Hsu Chien-Yi is a distinguished cardiologist and physician-scientist
