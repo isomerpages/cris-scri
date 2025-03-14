@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Creany_Wong.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Creany_Wong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Creany_Wong.png">
 </div>
 <h4><strong>Dr Creany Wong</strong></h4>
 <p>Food and Nutritional Science, MPhil, PhD</p>
