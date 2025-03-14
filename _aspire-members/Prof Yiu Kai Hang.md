@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Yiu_Kai_Hang.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Yiu_Kai_Hang.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Yiu_Kai_Hang.png">
 </div>
 <h4><strong>Prof Yiu Kai Hang</strong></h4>
 <p>Professor Yiu is a distinguished clinical cardiologist specializing in
