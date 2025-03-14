@@ -7,7 +7,7 @@ image: /images/ASPIRE Network /Henry_Yau___Photo.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Henry_Yau___Photo.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Henry_Yau.png">
 </div>
 <h4>Mr Henry Yau</h4>
 <p>BSc (Biochemistry), MBA (Finance)</p>
