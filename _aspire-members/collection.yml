@@ -2,13 +2,13 @@ collections:
   aspire-members:
     output: true
     order:
-      - Prof Kenichi Tsujita.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Yiu Kai Hang.md
       - Mr Henry Yau.md
       - Ms Creany Wong.md
       - Prof Satoshi Yasuda.md
+      - Prof Kenichi Tsujita.md
       - Dr Alan Fong.md
       - Dr Dharmaraj Karthikesan.md
       - Dr Anwar Irawan Bin Ruhani.md
