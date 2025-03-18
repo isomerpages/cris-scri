@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Kenichi_Tsujita.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Kenichi_Tsujita.png">
 </div>
 <h4>Prof Kenichi Tsujita</h4>
 <p>Dr. Kenichi Tsujita, MD, PhD, is a Japanese cardiologist specializing
