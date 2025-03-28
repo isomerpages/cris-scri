@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SCRI Academy
 variant: tiptap
 ---
-<h2> </h2>
+<h2></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Pic_1_PNG.png">
 </div>
@@ -285,7 +285,7 @@ journey:</p>
 </p>
 <p>•NUHS: <a href="https://www.nuhscareers.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nuhscareers.edu.sg/</a>
 </p>
-<p>•NHG: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://careers.nhg.com.sg/NHGHQ</a>
+<p>•NHG: <a href="https://careers.nhg.com.sg/NHGHQ" rel="noopener noreferrer nofollow" target="_blank">https://careers.nhg.com.sg/NHGHQ</a>
 </p>
 <p></p>
 <p>Alternatively, you may consider starting with the short courses on clinical
