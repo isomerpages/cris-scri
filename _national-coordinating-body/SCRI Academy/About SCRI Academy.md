@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SCRI Academy
 variant: tiptap
 ---
-<h2></h2>
+<h2> </h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Pic_1_PNG.png">
 </div>
@@ -205,7 +205,7 @@ the next generation of CRCs, contact us at <a href="mailto:scriacademy@scri.cris
 <p>A 16-week self-paced course that will chart a roadmap for those who are
 keen to gain fundamental knowledge on clinical trials. The course covers
 all the basic knowledge required of a CRC to conduct a trial at site. Click
-<a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details.&nbsp;</p>
+<a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -291,7 +291,7 @@ journey:</p>
 <p>Alternatively, you may consider starting with the short courses on clinical
 trial to gauge whether clinical research aligns with your interests and
 aspirations.&nbsp;</p>
-<p><a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">The Essential of Clinical Trials for Beginners</a>
+<p><a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">The Essential of Clinical Trials for Beginners</a>
 </p>
 <p><a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-investigators/" rel="noopener noreferrer nofollow" target="_blank">The Essentials of Clinical Trials for Investigators</a>
 </p>
