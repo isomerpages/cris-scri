@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Richard_Troughton.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Richard_Troughton.png">
 </div>
 <h4>Prof Richard Troughton</h4>
 <p>MB ChB (Auck), PhD (Otago), FRACP</p>
