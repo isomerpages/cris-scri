@@ -61,6 +61,22 @@ description: ""
 <div class="isomer-card-description">Network Member; Kumamoto University</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/prof-duk-woo-park/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Park_Duk_Woo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Park Duk-Woo</div><div class="isomer-card-description">Network Member; Asan Medical Centre, South Korea</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/prof-duk-woo-park/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Park_Duk_Woo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Park Duk-Woo</div><div class="isomer-card-description">Network Member; Asan Medical Centre, South Korea</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-arthur-mark-richards/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /A_Mark_Richards.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof A.Mark Richards</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/prof-richard-troughton/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Richard_Troughton.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Richard Troughton</div>
+<div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New
+Zealand</div>
+<div class="isomer-card-link">Bio</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/assoc-prof-philip-adamson/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Philip_Adamson.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Philip D. Adamson</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
