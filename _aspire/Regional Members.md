@@ -49,7 +49,7 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="/dr-anwar-irawan-bin-ruhani/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Anwar_Ruhani.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Anwar Irawan Bin Ruhani</div><div class="isomer-card-description">Network Member; Tengku Ampuan Afzan Hospital, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-satoshi-yasuda/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Satoshi_Yasuda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Satoshi Yasuda</div><div class="isomer-card-description">Network Member; Tohoku University</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-satoshi-yasuda/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Satoshi_Yasuda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Satoshi Yasuda</div><div class="isomer-card-description">Network Member; Tohoku University, Japan</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/prof-kenichi-tsujita/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,7 +58,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Kenichi Tsujita</div>
-<div class="isomer-card-description">Network Member; Kumamoto University</div>
+<div class="isomer-card-description">Network Member; Kumamoto University, Japan</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/prof-duk-woo-park/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Park_Duk_Woo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Park Duk-Woo</div><div class="isomer-card-description">Network Member; Asan Medical Centre, South Korea</div><div class="isomer-card-link">Bio</div></div></a>
