@@ -2,9 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Prof Duk Woo Park.md
-      - Prof Richard Troughton.md
-      - Prof Arthur Mark Richards.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Yiu Kai Hang.md
@@ -12,8 +9,11 @@ collections:
       - Ms Creany Wong.md
       - Prof Satoshi Yasuda.md
       - Prof Kenichi Tsujita.md
+      - Prof Duk Woo Park.md
       - Dr Alan Fong.md
       - Dr Dharmaraj Karthikesan.md
       - Dr Anwar Irawan Bin Ruhani.md
+      - Prof Arthur Mark Richards.md
+      - Prof Richard Troughton.md
       - Assoc Prof Philip Adamson.md
       - Assoc Prof Hsu Chien Yi.md
