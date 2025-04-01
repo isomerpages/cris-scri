@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Arthur_Mark_Richards.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /A_Mark_Richards.png">
 </div>
 <h4>Prof Arthur Mark Richards</h4>
 <p>BA, MB ChB, MD, PhD, DSc, FRCP, FRACP, FCSANZ, FESC, FRSNZ.</p>
