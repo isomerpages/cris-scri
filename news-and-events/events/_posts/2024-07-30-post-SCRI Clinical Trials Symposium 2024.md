@@ -46,6 +46,6 @@ development approaches</p>
 design</p>
 </li>
 </ul>
-<p>The symposium may have wrapped up, but the collaborations are just beginning. <strong>View our highlights video <a href="https://www.linkedin.com/feed/update/urn:li:activity:7239804283330646017" rel="noopener nofollow" target="_blank">here</a>.</strong>
-</p>
+<p>The symposium may have wrapped up, but the collaborations are just beginning. <strong>View our highlights video <a href="https://www.linkedin.com/feed/update/urn:li:activity:7239804283330646017" rel="noopener nofollow" target="_blank">here</a>. </strong>Please
+refer to the <strong>symposium booklet</strong>  <strong><a href="https://for.sg/ebooklet" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <p></p>
