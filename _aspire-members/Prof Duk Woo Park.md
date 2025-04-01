@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Park_Duk_Woo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Park_Duk_Woo.png">
 </div>
 <h4>Prof Duk-Woo Park</h4>
 <p>Dr Park is a Professor in the Cardiovascular Medicine Division at Asan
