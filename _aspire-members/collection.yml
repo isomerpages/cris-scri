@@ -2,6 +2,7 @@ collections:
   aspire-members:
     output: true
     order:
+      - Prof Duk Woo Park.md
       - Prof Richard Troughton.md
       - Prof Arthur Mark Richards.md
       - Prof Derek Hausenloy.md
