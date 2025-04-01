@@ -81,14 +81,24 @@ Zealand</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/assoc-prof-philip-adamson/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Philip_Adamson.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Philip D. Adamson</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
-<p>National Trial Networks / Clinical Research Organisations:</p>
+<p><strong>National Trial Networks / Clinical Research Organisations:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /CADENCE.png">
+</div>
 <p><a href="https://www.cadence-cvd.sg/about/cadence/" rel="noopener nofollow" target="_blank">CArdiovascular DiseasE National Collaborative Enterprise</a>
 </p>
 <p>CADENCE is a national clinical translational programme aimed at synergising
 cardiovascular research and technology capabilities across Singapore. It
 is a programme of the Consortium for Clinical Research and Innovation,
 Singapore (CRIS).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /CADENCE.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /CRM.png">
+</div>
+<p><a href="https://clinicalresearch.my/about-us-2/" rel="noopener nofollow" target="_blank">Clinical Research Malaysia</a>
+</p>
+<p>Clinical Research Malaysia (CRM) is a Global Trusted Research Management
+Organisation established by the Ministry of Health Malaysia in 2012. At
+its very core, CRM aims to bring clinical research that addresses the unmet
+needs of patients and transforms health outcomes in Malaysia</p>
