@@ -1,0 +1,9 @@
+collections:
+  aspire:
+    output: true
+    order:
+      - About ASPIRE.md
+      - Our Unique Value Proposition.md
+      - Regional Members.md
+      - Meetings & Events.md
+      - Partner with Us.md

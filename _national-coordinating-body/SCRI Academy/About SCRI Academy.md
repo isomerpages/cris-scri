@@ -205,7 +205,7 @@ the next generation of CRCs, contact us at <a href="mailto:scriacademy@scri.cris
 <p>A 16-week self-paced course that will chart a roadmap for those who are
 keen to gain fundamental knowledge on clinical trials. The course covers
 all the basic knowledge required of a CRC to conduct a trial at site. Click
-<a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details.&nbsp;</p>
+<a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -285,13 +285,13 @@ journey:</p>
 </p>
 <p>•NUHS: <a href="https://www.nuhscareers.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nuhscareers.edu.sg/</a>
 </p>
-<p>•NHG: <a href="https://www.singhealth.com.sg/careers/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://careers.nhg.com.sg/NHGHQ</a>
+<p>•NHG: <a href="https://careers.nhg.com.sg/NHGHQ" rel="noopener noreferrer nofollow" target="_blank">https://careers.nhg.com.sg/NHGHQ</a>
 </p>
 <p></p>
 <p>Alternatively, you may consider starting with the short courses on clinical
 trial to gauge whether clinical research aligns with your interests and
 aspirations.&nbsp;</p>
-<p><a href="https://www.scri.edu.sg/news-and-events/news/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">The Essential of Clinical Trials for Beginners</a>
+<p><a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-beginners/" rel="noopener noreferrer nofollow" target="_blank">The Essential of Clinical Trials for Beginners</a>
 </p>
 <p><a href="https://www.scri.edu.sg/news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-investigators/" rel="noopener noreferrer nofollow" target="_blank">The Essentials of Clinical Trials for Investigators</a>
 </p>
