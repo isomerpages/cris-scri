@@ -52,10 +52,18 @@ thrive in this dynamic role.</p>
 Minister State for Health, to serve as Singapore’s first national learning
 and development platform for the CRCs.</p>
 <p>The aims of the SCRI Academy include:</p>
-<p>•Implement the National CRC Learning and Development Initiative</p>
-<p>•Form partnerships with local and overseas training providers</p>
-<p>•Implement training and certification programmes for clinical research
+<ul data-tight="true" class="tight">
+<li>
+<p>Implement the National CRC Learning and Development Initiative</p>
+</li>
+<li>
+<p>Form partnerships with local and overseas training providers</p>
+</li>
+<li>
+<p>Implement training and certification programmes for clinical research
 professionals.</p>
+</li>
+</ul>
 <p>Skilled Clinical Research Coordinators play an important role in supporting
 research investigators in the execution of quality clinical research. Maintaining
 a well-trained talent pool of CRCs was critical in Singapore’s pursuit
