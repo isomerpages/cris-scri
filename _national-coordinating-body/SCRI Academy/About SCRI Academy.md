@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h4>SCRI Academy - National Learning and Development Platform</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/1__Group_Photo_B_SCRI_Distinguished_Contributor_Award_for_CRCs_v1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/1__Group_Photo_B_SCRI_Distinguished_Contributor_Award_for_CRCs.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/text_below_group_photo.jpg">
 </div>
 <h4>What is a Clinical Research Coordinator?</h4>
 <p>Clinical research fuels revolutionary progress in medicine, pushing patient
