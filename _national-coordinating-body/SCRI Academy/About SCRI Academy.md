@@ -5,30 +5,45 @@ description: ""
 third_nav_title: SCRI Academy
 variant: tiptap
 ---
-<h2></h2>
+<h4>SCRI Academy - National Learning and Development Platform</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Pic_1_PNG.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/1__Group_Photo_B_SCRI_Distinguished_Contributor_Award_for_CRCs_v1.jpg">
 </div>
 <h4>What is a Clinical Research Coordinator?</h4>
 <p>Clinical research fuels revolutionary progress in medicine, pushing patient
 care to unparalleled heights of excellence. The linchpin of each successful
 clinical research study is the Clinical Research Coordinator (CRC), ensuring
 smooth, ethical and efficient conduct of the studies.</p>
-<p>Clinical Research Coordinator (CRC) is a specialized research professional
-that manages the daily clinical trial activities under the direction of
-the Principal Investigator (PI). They assist the PI in coordinating and
-managing the conduct of the clinical trial, developing study materials
-and tools, recruiting participants, managing data, budget,&nbsp;and ensuring
-compliance with the relevant policies and regulatory requirements. CRCs
-also act as liaisons between the study sponsor, PI, and other research
-staff. They also prepare and maintain study documentation and coordinate
-communication among stakeholders. Possessing strong organizational and
-communication skills is essential for CRCs to progress in their careers.</p>
+<p>A&nbsp;<strong>Clinical Research Coordinator (CRC)</strong>&nbsp;is a
+specialized research professional who oversees the&nbsp;<strong>day-to-day operations</strong>&nbsp;of
+clinical trials under the guidance of the&nbsp;<strong>Principal Investigator (PI)</strong>.
+Their responsibilities include but not limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Study Coordination:</strong>&nbsp;Managing trial logistics, participant
+recruitment, data management and collection.</p>
+</li>
+<li>
+<p><strong>Regulatory Compliance:</strong>&nbsp;Ensuring adherence to policies,
+ethical guidelines, and sponsor requirements.</p>
+</li>
+<li>
+<p><strong>Stakeholder Liaison:</strong>&nbsp;Facilitating communication
+between investigators, sponsors, site staff and regulatory bodies.</p>
+</li>
+<li>
+<p><strong>Documentation &amp; Reporting:</strong>&nbsp;Maintaining accurate
+trial records and essential study documentation&nbsp;,&nbsp;and ensuring
+compliance with the relevant policies and regulatory requirements.</p>
+</li>
+</ul>
+<p>CRCs possess&nbsp;<strong>strong organizational skills, attention to detail, and effective communication</strong>&nbsp;to
+thrive in this dynamic role.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture2.png">
 </div>
-<h4>SCRI Academy -National Learning and Development Platform for CRCs</h4>
+<h4>Why SCRI Academy and CRC Training Matters?</h4>
 <p>The SCRI Academy was launched on 29 August 2017 by Dr Lam Pin Min, Senior
 Minister State for Health, to serve as Singapore’s first national learning
 and development platform for the CRCs.</p>
@@ -44,16 +59,32 @@ to be a leading centre for healthcare innovation, as well as retaining
 its attractiveness as a site for clinical trials.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Role_of_CRC_infographic.jpg">
 </div>
 <p>In 2017, the Ministry of Health tasked SCRI with the implementation of
 national training programmes for CRCs and set aside funding for development
 of CRCs. SCRI consulted the Subject Matter Experts, such as Health Sciences
 Authority (HSA), and collaborated with various local and overseas education
 partners to develop a series of structured national CRC training programmes.</p>
-<p>The series of structured programmes by SCRI Academy provides a stepwise
-training for the CRCs to improve on their clinical research knowledge and
-skills to support their career progression.</p>
+<p><strong>SCRI Academy training design:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Hands-on workshops</strong>&nbsp;and real-world case studies.</p>
+</li>
+<li>
+<p><strong>Interactive discussions</strong>&nbsp;on current local Clinical
+Trial practice&nbsp;in accordance to Singapore regulatory frameworks (e.g.,
+ICH-GCP).</p>
+</li>
+<li>
+<p>&nbsp;<strong>Applying the theoretical concepts to real-life situations</strong> for
+CRCs.
+<br>
+</p>
+</li>
+</ul>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Picture4.png">
