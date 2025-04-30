@@ -2,6 +2,7 @@ collections:
   anah:
     output: true
     order:
+      - ANAH Masterclass 2025/About this Masterclass.md
       - ANAH Masterclass 2025/.keep
       - About the ASEAN Network of Adrenal Hypertension.md
       - Members.md
