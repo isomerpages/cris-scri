@@ -52,7 +52,7 @@ for Health Research (NIHR) Musculoskeletal Biomedical Research Centre in
 Leeds and an Emeritus NIHR Senior Clinical Investigator. He is trustee/
 chair of research and board Vice-Chair at Prostate Cancer UK. He was awarded
 a CBE in the 2025 King’s new year’s honours list.</p>
-<p>He brings a ~25 year history of leadership roles across UK, USA and International
+<p>He brings a ~25-year history of leadership roles across UK, USA and International
 Endocrine Societies, Charities and is currently Editor-in-Chief of the
 Journal of Clinical Endocrinology and Metabolism, the world’s most cited
 journal in its discipline.</p>
