@@ -2,10 +2,10 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
-      - Dr Troy Puar.md
       - Prof William F Young, Jr.md
       - Prof Gregory Kline.md
       - Prof Paul M Stewart.md
+      - Dr Troy Puar.md
+      - Prof Dr Norlela Sukor.md
       - Prof Leilani B Mercado Asis.md
       - Dr Tran Viet Thang.md
-      - Prof Dr Norlela Sukor.md
