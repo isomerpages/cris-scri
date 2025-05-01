@@ -1,4 +1,5 @@
 collections:
   anah-masterclass-2025-speakers:
     output: true
-    order: []
+    order:
+      - Dr Troy Puar.md
