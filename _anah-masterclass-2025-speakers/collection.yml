@@ -2,4 +2,5 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Prof Dr Norlela Sukor.md
       - Dr Troy Puar.md
