@@ -8,7 +8,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_Gregory.png">
 </div>
-<h3>Prof Gregory Kline </h3>
+<h3>Prof Gregory Kline</h3>
 <p><strong>MD, FRCPC</strong>
 </p>
 <p>Medical Director, Endocrine Hypertension Clinic</p>
