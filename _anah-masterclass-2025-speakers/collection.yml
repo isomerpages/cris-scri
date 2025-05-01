@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Prof Paul M Stewart.md
       - Prof William F Young, Jr.md
       - Dr Tran Viet Thang.md
       - Prof Leilani B Mercado Asis.md
