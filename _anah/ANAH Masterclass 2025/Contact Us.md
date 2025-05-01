@@ -11,7 +11,7 @@ third_nav_title: ANAH Masterclass 2025
 </div>
 <p><em>Secretariat from various SCRI Clinical Research Networks</em>
 </p>
-<p>Reach out to us at <a href="mailto:yiling.teo@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">yiling.teo@scri.cris.sg</a> and
+<p>For assistance on the Masterclass, please contact: <a href="mailto:yiling.teo@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">yiling.teo@scri.cris.sg</a> and
 <a href="mailto:janice.chia.wl@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">janice.chia.wl@scri.cris.sg</a>
 </p>
 <p></p>
