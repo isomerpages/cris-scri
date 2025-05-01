@@ -2,5 +2,6 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Prof Leilani B Mercado Asis.md
       - Prof Dr Norlela Sukor.md
       - Dr Troy Puar.md
