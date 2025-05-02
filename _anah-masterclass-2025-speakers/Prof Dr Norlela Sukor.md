@@ -9,7 +9,8 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Dr_Norlela.png">
 </div>
 <h3>Prof Dr Norlela Sukor</h3>
-<p>MD (USM), Master of Int. Medicine (UKM), PhD (QLD), FACE (USA)</p>
+<p><strong>MD (USM), Master of Int. Medicine (UKM), PhD (QLD), FACE (USA)</strong>
+</p>
 <p>Vice President, ASEAN Network of Adrenal Hypertension (ANAH)</p>
 <p>Professor of Medicine and Consultant Endocrinologist, National University
 of Malaysia (UKM), Kuala Lumpur, Malaysia</p>
