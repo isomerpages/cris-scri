@@ -14,6 +14,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <p>Medical Director, Endocrine Hypertension Clinic</p>
 <p>Calgary Adrenal Research Group</p>
 <p>Clinical Professor of Medicine</p>
+<p>University of Calgary</p>
 <h4>Profile</h4>
 <p>Dr. Gregory Kline is a clinician-researcher and Professor of Medicine
 at the University of Calgary in Canada. On faculty since 2001, and as Division
@@ -28,5 +29,3 @@ understanding and detection of specific endocrine hypertension disorders
 which may be amenable to surgical cure. Outside of his work at the university,
 he has a passion for training young physicians, particularly those practicing
 in emerging nations' health systems.</p>
-<p></p>
-<p>University of Calgary</p>
