@@ -27,5 +27,3 @@ hypertension and adrenal and pituitary disorders. Dr. Young has presented
 at more than 650 national and international meetings, and he has been an
 invited visiting professor for more than 150 medical institutions.</p>
 <p></p>
-<p>[Profile source: <a href="https://www.mayoclinic.org/biographies/young-william-f-jr-m-d/bio-20054261" rel="noopener noreferrer nofollow" target="_blank">Mayo Clinic</a>.
-Republished here courtesy of Prof. William Young]</p>
