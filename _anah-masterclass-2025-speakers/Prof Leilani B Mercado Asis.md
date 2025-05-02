@@ -9,7 +9,8 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_Leilani.png">
 </div>
 <h3>Prof Leilani B. Mercado-Asis</h3>
-<p>MD, PhD, MPH, Med (DE)&nbsp;</p>
+<p><strong>MD, PhD, MPH, Med (DE)&nbsp;</strong>
+</p>
 <p>Executive Committee Member, ANAH</p>
 <p>Consultant Endocrinologist, University of Santo Tomas (FMS-UST), Manila,
 Philippines</p>
