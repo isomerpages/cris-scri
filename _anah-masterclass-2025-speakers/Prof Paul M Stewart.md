@@ -9,7 +9,8 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_Paul.png">
 </div>
 <h3>Prof Paul M Stewart</h3>
-<p>CBE, FRCP, FMedSci</p>
+<p><strong>CBE, FRCP, FMedSci</strong>
+</p>
 <p>Professor of Medicine (Emeritus)</p>
 <p>University of Leeds</p>
 <h4>Profile</h4>
