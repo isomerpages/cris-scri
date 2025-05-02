@@ -9,7 +9,8 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Dr_Troy.png">
 </div>
 <h4>Dr Troy Puar</h4>
-<p>MBBS (NUS), MRCP (UK), PhD (NUS)</p>
+<p><strong>MBBS (NUS), MRCP (UK), PhD (NUS)</strong>
+</p>
 <p>President, ASEAN Network of Adrenal Hypertension (ANAH)</p>
 <p>Head &amp; Senior Consultant, Dept of Endocrinology &amp; Adrenal Hypertension
 Centre, Changi General Hospital, SingHealth Singapore</p>
