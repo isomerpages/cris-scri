@@ -17,10 +17,14 @@ Network's objectives.</p>
 </div>
 <p></p>
 <h4>Network Launch at the Asian Pacific Society of Cardiology 2025 - April 2025</h4>
-<p>The ASPIRE Network is set to make its debut at the <a href="https://www.apsccongress.com/" rel="noopener nofollow" target="_blank">APSC 2025</a> in Busan, South Korea.
-This initiative aims to connect key opinion leaders to advance cardiovascular
-research across the APAC region.</p>
+<p>The ASPIRE Network was launched at the <a href="https://www.apsccongress.com/" rel="noopener nofollow" target="_blank">APSC 2025</a> in Busan, South Korea
+followed with a networking session. This initiative aims to connect key
+opinion leaders to advance cardiovascular research across the APAC region.</p>
+<p>Led by representatives from CADENCE and SCRI, alongside inaugural ASPIRE
+Network Chairperson, Prof Derek Hausenloy, the session brought together
+cardiologists from research institutes and healthcare systems across Australia,
+Indonesia, South Korea, Hong Kong, Malaysia and Taiwan.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Untitled_design.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /aspire launch 18 apr 2025.png">
 </div>
 <p></p>
