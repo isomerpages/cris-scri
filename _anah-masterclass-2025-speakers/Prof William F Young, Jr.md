@@ -9,7 +9,8 @@ description: Meet our Speakers for ANAH Masterclass 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_William.png">
 </div>
 <h3><strong>Professor William F. Young, Jr.</strong></h3>
-<p>MD (MSU), MSc (UMN)</p>
+<p><strong>MD (MSU), MSc (UMN)</strong>
+</p>
 <p>Tyson Family Endocrinology</p>
 <p>Clinical Professor and Professor of Medicine</p>
 <p>Mayo Clinic College of Medicine and Science, Minnesota, USA</p>
