@@ -6,7 +6,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Dr_Norlela.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png">
 </div>
 <h3>Prof Dr Norlela Sukor</h3>
 <p><strong>MD (USM), Master of Int. Medicine (UKM), PhD (QLD), FACE (USA)</strong>
