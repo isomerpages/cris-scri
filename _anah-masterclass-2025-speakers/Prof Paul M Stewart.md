@@ -6,7 +6,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_Paul.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Paul M Stewart" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Paul.png">
 </div>
 <h3>Prof Paul M Stewart</h3>
 <p><strong>CBE, FRCP, FMedSci</strong>
@@ -57,6 +57,5 @@ a CBE in the 2025 King’s new year’s honours list.</p>
 Endocrine Societies, Charities and is currently Editor-in-Chief of the
 Journal of Clinical Endocrinology and Metabolism, the world’s most cited
 journal in its discipline.</p>
-<p></p>
 <p></p>
 <p></p>
