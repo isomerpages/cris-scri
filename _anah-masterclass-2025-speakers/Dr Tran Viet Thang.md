@@ -6,7 +6,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Dr_Thang.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Tran Viet Thang" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Thang.png">
 </div>
 <h3>Dr Tran Viet Thang</h3>
 <p><strong>MD, PhD&nbsp;</strong>
