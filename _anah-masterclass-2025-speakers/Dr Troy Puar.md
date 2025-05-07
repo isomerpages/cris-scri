@@ -6,7 +6,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Dr_Troy.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png">
 </div>
 <h4>Dr Troy Puar</h4>
 <p><strong>MBBS (NUS), MRCP (UK), PhD (NUS)</strong>
