@@ -6,7 +6,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_William.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof William F. Young, Jr." src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_William.png">
 </div>
 <h3><strong>Professor William F. Young, Jr.</strong></h3>
 <p><strong>MD (MSU), MSc (UMN)</strong>
