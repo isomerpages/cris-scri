@@ -6,7 +6,7 @@ description: Meet our Speakers for ANAH Masterclass 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Prof_Leilani.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Leilani B. Mercado-Asis" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Leilani.png">
 </div>
 <h3>Prof Leilani B. Mercado-Asis</h3>
 <p><strong>MD, PhD, MPH, Med (DE)&nbsp;</strong>
