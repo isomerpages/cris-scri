@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - AProf Guido Di Dalmazi.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William F Young, Jr.md
