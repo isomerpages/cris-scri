@@ -9,4 +9,6 @@ third_nav_title: ANAH Masterclass 2025
 <a href="mailto:janice.chia.wl@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">janice.chia.wl@scri.cris.sg</a>
 </p>
 <p></p>
-<p>ANAH Masterclass 2025 Terms of Use</p>
+<p></p>
+<p><a href="/anah-masterclass-2025-terms-of-use/" rel="noopener nofollow" target="_blank">ANAH Masterclass 2025 Terms of Use</a>
+</p>
