@@ -46,6 +46,6 @@ third_nav_title: ANAH Masterclass 2025
 <div class="isomer-card-description">MD, PhD, MPH, MEd(DE)</div>
 <div class="isomer-card-link">Speaker Profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wasita Parksook</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-wasita-parksook/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wasita Parksook</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <p></p>
