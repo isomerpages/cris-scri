@@ -43,7 +43,7 @@ third_nav_title: ANAH Masterclass 2025
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Leilani B. Mercado-Asis</div>
-<div class="isomer-card-description">MD, PhD, MPH, Med(DE)</div>
+<div class="isomer-card-description">MD, PhD, MPH, MEd(DE)</div>
 <div class="isomer-card-link">Speaker Profile</div>
 </div>
 </a>
