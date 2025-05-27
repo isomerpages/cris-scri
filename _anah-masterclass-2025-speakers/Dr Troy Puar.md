@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/dr-troy-puar/
 variant: tiptap
 description: Invited Speakers for ANAH Masterclass 2025- Dr Troy Puar
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png">
 </div>
