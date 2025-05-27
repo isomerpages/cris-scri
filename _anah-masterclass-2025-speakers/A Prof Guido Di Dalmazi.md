@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/aprof-guido-di-dalmazi/
 variant: tiptap
 description: Invited speakers for ANAH Masterclass 2025- A/Prof Guido Di Dalmazi
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025 Invited Speakers- A/Prof Guido Di Dalmazi" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Guido.png">
 </div>
