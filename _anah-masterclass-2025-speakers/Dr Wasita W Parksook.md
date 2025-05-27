@@ -8,7 +8,7 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Wasita Parksook
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png">
 </div>
 <h3>Dr Wasita W. Parksook</h3>
-<p><strong>MD MSc</strong>
+<p><strong>MD, MSc</strong>
 </p>
 <p>Endocrinologist and Instructor in Medicine at King Chulalongkorn Memorial
 Hospital, Thai Red Cross Society Department of Medicine, Faculty of Medicine,
