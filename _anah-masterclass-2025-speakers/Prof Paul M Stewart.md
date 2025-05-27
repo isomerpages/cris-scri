@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/prof-paul-m-stewart/
 variant: tiptap
 description: Invited Speakers for ANAH Masterclass 2025- Prof Paul M Stewart
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Paul M Stewart" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Paul.png">
 </div>
