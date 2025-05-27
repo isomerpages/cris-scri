@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/dr-wasita-parksook/
 variant: tiptap
 description: Invited speakers for ANAH Masterclass 2025- Dr Wasita Parksook
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png">
 </div>
