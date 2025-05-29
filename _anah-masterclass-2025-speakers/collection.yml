@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Dr Padiporn Limumpornpetch.md
       - Dr Eng Pei Chia.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
