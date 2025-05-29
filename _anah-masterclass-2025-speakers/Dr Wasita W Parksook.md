@@ -14,13 +14,14 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Wasita Parksook
 Hospital, Thai Red Cross Society Department of Medicine, Faculty of Medicine,
 Chulalongkorn University, Bangkok, Thailand</p>
 <h4>Profile</h4>
-<p>I am an endocrinologist and adrenal specialist in Bangkok. I completed
-my postdoctoral research fellowship at Brigham and Women’s Hospital, Harvard
-Medical School, with a focus on primary aldosteronism, aldosterone physiology,
-and the genetics of salt-sensitive hypertension. Since returning to Thailand,
-I have remained actively involved in both national and international endocrine
-communities. I lead local educational initiatives, collaborate regionally
-through the ASEAN Adrenal Network, and serve as a steering committee member
-of the Endocrine Society’s Adrenal and Pituitary Special Interest Group.</p>
+<p>Dr Wasita is an endocrinologist and adrenal specialist in Bangkok. She
+completed her postdoctoral research fellowship at Brigham and Women’s Hospital,
+Harvard Medical School, with a focus on primary aldosteronism, aldosterone
+physiology, and the genetics of salt-sensitive hypertension. Since returning
+to Thailand, Dr Wasita remained actively involved in both national and
+international endocrine communities. She leads local educational initiatives,
+collaborate regionally through the ASEAN Adrenal Network, and serves as
+a steering committee member of the Endocrine Society’s Adrenal and Pituitary
+Special Interest Group.</p>
 <h3></h3>
 <p></p>
