@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/prof-austin-yen-hung-lin/
 variant: tiptap
 description: Invited speakers for ANAH Masterclass 2025- Prof Austin Yen-Hung Lin
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025 Invited Speakers" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Austin.png">
 </div>

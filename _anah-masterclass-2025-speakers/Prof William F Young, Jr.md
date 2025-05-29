@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/prof-william-f-young-jr/
 variant: tiptap
 description: Invited Speakers for ANAH Masterclass 2025- Prof William F. Young, Jr.
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof William F. Young, Jr." src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_William.png">
 </div>

@@ -4,7 +4,6 @@ permalink: /anah-masterclass-2025/prof-dr-norlela-sukor/
 variant: tiptap
 description: Invited Speakers for ANAH Masterclass 2025- Prof Dr Norlela Sukor
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png">
 </div>
