@@ -9,7 +9,7 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Eng Pei Chia
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Eng Pei Chia" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Eng_Pei_Chia.png">
 </div>
 <h3>Dr Eng Pei Chia</h3>
-<p><strong>PhD (ICL), MRCP (London), MBBS, BSc (Pharmacy)</strong>
+<p><strong>PhD (Imperial College London), MRCP (London), MBBS, BSc (Pharmacy)</strong>
 </p>
 <p>Consultant, Division of Endocrinology, Medicine, National University Hospital
 Singapore</p>
