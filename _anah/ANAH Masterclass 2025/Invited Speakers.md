@@ -49,5 +49,25 @@ third_nav_title: ANAH Masterclass 2025
 </a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-wasita-parksook/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Wasita W. Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wasita W. Parksook</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/assoc-prof-do-duc-minh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assoc. Prof Do Duc Minh" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Minh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Associate Prof Do Duc Minh</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
 </div>
 <p></p>
