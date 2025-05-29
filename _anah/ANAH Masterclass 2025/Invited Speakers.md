@@ -49,25 +49,17 @@ third_nav_title: ANAH Masterclass 2025
 </a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-wasita-parksook/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Wasita W. Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wasita W. Parksook</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/assoc-prof-do-duc-minh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assoc. Prof Do Duc Minh" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Minh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Associate Prof Do Duc Minh</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-eng-pei-chia/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Eng Pei Chia" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Eng_Pei_Chia.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">Dr Eng Pei Chia</div>
+<div class="isomer-card-description">PhD (Imperial college London), MRCP (London), MBBS, BSc (Pharmacy)</div>
+<div class="isomer-card-link">Speaker profile</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-padiporn-limumpornpetch/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Padiporn Limumpornpetch" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Padiporn.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Padiporn Limumpornpetch</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <p></p>
