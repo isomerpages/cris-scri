@@ -33,8 +33,7 @@ to undertake high-quality research.</p>
 </li>
 </ul>
 <h4>Mission</h4>
-<p>Foster collaboration among Asia-Pacific leaders in cardiovascular research,
-accelerate knowledge discovery and translation through increased numbers
-of coordinated multi-centre clinical trials/research studies conducted
-in the APAC region.</p>
+<p>The Network seeks to foster collaboration across institutions, increase
+APAC-led clinical trials and strengthen regional trial leadership.</p>
+<p></p>
 <p></p>
