@@ -16,24 +16,12 @@ funded trial network to facilitate and advance regional cardiovascular
 <p>The Network is initiated by the&nbsp;CArdiovascular&nbsp;DiseasE&nbsp;National&nbsp;Collaborative&nbsp;Enterprise
 (CADENCE) and serves as a regional effort to push for a greater Asia Pacific
 (APAC) representation and investments in CV trials.</p>
-<p>The Network aims to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Increase CV trials market share in APAC</strong>: Increase numbers
-of coordinated multi-centre clinical trials/research studies conducted
-in APAC region and attract regional investments towards CV trials.</p>
-</li>
-<li>
-<p><strong>Foster regional collaboration</strong>: Connect researchers/clinicians
-in the cardiovascular field for research collaboration.</p>
-</li>
-<li>
-<p><strong>Build Key Opinion Leaders</strong>: Grow and mentor investigatos
-to undertake high-quality research.</p>
-</li>
-</ul>
 <h4>Mission</h4>
 <p>The Network seeks to foster collaboration across institutions, increase
 APAC-led clinical trials and strengthen regional trial leadership.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Goals_of_ASPIRE_Network.jpg">
+</div>
 <p></p>
 <p></p>
