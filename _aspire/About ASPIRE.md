@@ -36,5 +36,5 @@ to undertake high-quality research.</p>
 <p>Foster collaboration among Asia-Pacific leaders in cardiovascular research,
 accelerate knowledge discovery and translation through increased numbers
 of coordinated multi-centre clinical trials/research studies conducted
-in the APAC region..</p>
+in the APAC region.</p>
 <p></p>
