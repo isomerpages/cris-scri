@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Jeong_Young_Hoon.png">
 </div>
-<p>Prof Jeong Young-Hoon</p>
+<h4>Prof Jeong Young-Hoon</h4>
 <p>Prof Jeong Young-Hoon is a Professor of Medicine at Chung-Ang University
 College of Medicine and practices as an interventional cardiologist at
 Chung-Ang University Gwangmyeong Hospital in South Korea.</p>
