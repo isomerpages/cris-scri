@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Jeong_Young_Hoon.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Jeong_Young_Hoon.png">
 </div>
 <p>Prof Jeong Young-Hoon</p>
 <p>Prof Jeong Young-Hoon is a Professor of Medicine at Chung-Ang University
