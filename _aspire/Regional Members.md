@@ -78,8 +78,7 @@ research.</p>
 <div class="isomer-card-description">Network Member; Taipei Heart Institute, Taipei Medical University, Taiwan</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/dr-wang-wei-ting" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Wang_Wei_Ting.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Dr Wang Wei Ting</div><div class="isomer-card-description">Network Member; Taipei Veterans General Hospital, Taiwan
-</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/dr-wang-wei-ting" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Wang_Wei_Ting.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wang Wei Ting</div><div class="isomer-card-description">Network Member; Taipei Veterans General Hospital, Taiwan</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-arthur-mark-richards/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /A_Mark_Richards.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof A.Mark Richards</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/prof-richard-troughton/" class="isomer-card">
