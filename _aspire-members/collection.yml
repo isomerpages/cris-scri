@@ -2,8 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Dr Wang Wei Ting.md
-      - Prof Jeong Young Hoon.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Gemma Figtree.md
@@ -13,6 +11,7 @@ collections:
       - Prof Satoshi Yasuda.md
       - Prof Kenichi Tsujita.md
       - Prof Duk Woo Park.md
+      - Prof Jeong Young Hoon.md
       - Dr Alan Fong.md
       - Dr Dharmaraj Karthikesan.md
       - Dr Anwar Irawan Bin Ruhani.md
@@ -20,3 +19,4 @@ collections:
       - Prof Richard Troughton.md
       - Assoc Prof Philip Adamson.md
       - Assoc Prof Hsu Chien Yi.md
+      - Dr Wang Wei Ting.md
