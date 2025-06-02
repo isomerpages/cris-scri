@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Gemma_Figtree.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Gemma_Figtree.png">
 </div>
 <h4>Prof Gemma Figtree</h4>
 <p>Professor Gemma Figtree AM is an interventional cardiologist and internationally
