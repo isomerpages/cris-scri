@@ -2,6 +2,7 @@ collections:
   aspire-members:
     output: true
     order:
+      - Dr Wang Wei Ting.md
       - Prof Jeong Young Hoon.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
