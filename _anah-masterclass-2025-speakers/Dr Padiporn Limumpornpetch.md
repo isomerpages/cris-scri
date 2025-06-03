@@ -5,7 +5,7 @@ variant: tiptap
 description: Invited speakers for ANAH Masterclass 2025- Dr Padiporn Limumpornpetch
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Padiporn Limumpornpetch" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Padiporn.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Padiporn_Limumpornpetch.png">
 </div>
 <h3>Dr Padiporn Limumpornpetch</h3>
 <p><strong>MD, PhD</strong>
