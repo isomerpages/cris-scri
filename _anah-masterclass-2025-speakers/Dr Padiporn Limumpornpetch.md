@@ -11,7 +11,7 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Padiporn Limumpornpe
 <p><strong>MD, PhD</strong>
 </p>
 <p>Head of Endocrinology and Metabolism Unit, Faculty of Medicine, Prince
-of Songkla University</p>
+of Songkla University, Thailand</p>
 <h4>Profile</h4>
 <p>Dr Padiporn Vasinanukorn Limumpornpetch is the Head of Endocrinology and
 Metabolism Unit at Prince of Songkla University's Faculty of Medicine in
@@ -20,10 +20,11 @@ experience, she holds a Ph.D. in molecular endocrinology and epidemiology
 from the University of Leeds. Her groundbreaking research on Cushing's
 Syndrome mortality has garnered international recognition, including coverage
 in major medical publications and a Presidential Poster Competition award
-from the Endocrine Society (US). Dr Padiporn has contributed significantly
-to multiple clinical trials, particularly in the treatment of Cushing's
-disease, and has authored influential publications on adrenal disorders.
-As a member of several prestigious endocrine societies and a recipient
-of numerous academic awards, she brings extensive expertise in adrenal
-disorders and endocrine conditions to the medical community.</p>
+from the Endocrine Society (US).</p>
+<p>Dr Padiporn has contributed significantly to multiple clinical trials,
+particularly in the treatment of Cushing's disease, and has authored influential
+publications on adrenal disorders. As a member of several prestigious endocrine
+societies and a recipient of numerous academic awards, she brings extensive
+expertise in adrenal disorders and endocrine conditions to the medical
+community.</p>
 <p></p>
