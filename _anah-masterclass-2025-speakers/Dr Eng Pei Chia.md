@@ -12,20 +12,18 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Eng Pei Chia
 <p><strong>PhD (Imperial College London), MRCP (London), MBBS, BSc (Pharmacy)</strong>
 </p>
 <p>Consultant, Division of Endocrinology, Medicine, National University Hospital
-Singapore</p>
+Singapore (NUHS)</p>
 <h4>Profile</h4>
-<p>Dr Eng graduated from St Bartholomew, School of Medicine and Dentistry
-and received her postgraduate training in the Imperial College London (UK).
-During her time in Imperial, she obtained her PhD, specialising in the
-study of reproductive endocrinology. Her PhD works involved investigating
-the translational potential of a hypothalamic peptide, kisspeptin in men
-and women with reproductive disorders.
-<br>
-<br>Dr Eng currently work in Singapore and have taken a keen interest in women's
-health in particular women with metabolic disease such as gestational diabetes.
-Her other interest is in steroid weaning and in investigating the rate
-of adrenal recovery following prolonged glucocorticoid adminstration. From
-a clinical perspective, she provide care for men and women with diabetes
-and endocrine disorders, in particular&nbsp; metabolic diseases affecting
-women's health.&nbsp;</p>
+<p>Dr. Eng is a Consultant Endocrinologist at the National University Hospital
+(NUH) and the clinical lead for postpartum gestational diabetes (GDM) care
+for women. She is trained in Endocrinology at Imperial College London (UK)
+and had a PhD in reproductive endocrinology. Her main interests are in
+reversing metabolic disorders in women. She is a recipient of NMRC grant
+where she investigates the mechanistic pathways underlying insulin resistance
+and insulin secretion in women with prior GDM in the postpartum period.</p>
+<p>Her broader research interests include determining rate of adrenal recovery
+following prolonged glucocorticoid therapy, with a focus on steroid tapering
+and weaning strategies. Clinically, she provides comprehensive care for
+both men and women with diabetes and a wide range of endocrine disorders,
+with a particular emphasis on metabolic conditions affecting women.</p>
 <p></p>
