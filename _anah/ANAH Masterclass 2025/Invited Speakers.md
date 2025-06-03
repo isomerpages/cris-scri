@@ -60,6 +60,6 @@ third_nav_title: ANAH Masterclass 2025
 <div class="isomer-card-description">PhD (Imperial college London), MRCP (London), MBBS, BSc (Pharmacy)</div>
 <div class="isomer-card-link">Speaker profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-padiporn-limumpornpetch/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Padiporn Limumpornpetch" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Padiporn.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Padiporn Limumpornpetch</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-padiporn-limumpornpetch/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Padiporn Limumpornpetch" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Padiporn_Limumpornpetch.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Padiporn Limumpornpetch</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <p></p>
