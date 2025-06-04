@@ -19,7 +19,7 @@ research.</p>
 <div class="isomer-card-description">Network Member; National University Heart Centre, Singapore (NUHCS)</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/prof-yiu-kai-hang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Yiu_Kai_Hang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Yiu Kai Hang</div><div class="isomer-card-description">Network Member; The University of Hong Kong (HKU)</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/prof-gemma-figtree/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Gemma_Figtree.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gemma Figtree</div><div class="isomer-card-description">Network Member; The University of Sydney, Australia</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mr-henry-yau/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Henry_Yau.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Henry Yau</div><div class="isomer-card-description">Network Member; The University of Hong Kong (HKU), Clinical Trials Centre</div><div class="isomer-card-link">Bio</div></div></a>
@@ -34,7 +34,7 @@ research.</p>
 <div class="isomer-card-description">Network Member; The University of Hong Kong (HKU), Clinical Trials Centre</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/assoc-prof-hsu-chien-yi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Hsu_Chien_Yi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Hsu Chien-Yi</div><div class="isomer-card-description">Network Member; Taipei Heart Institute, Taipei Medical University</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/prof-yiu-kai-hang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Yiu_Kai_Hang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Yiu Kai Hang</div><div class="isomer-card-description">Network Member; The University of Hong Kong (HKU)</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-alan-fong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Alan_Fong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Alan Fong</div><div class="isomer-card-description">Network Member; Sarawak Heart Centre, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/dr-dharmaraj-karthikesan/" class="isomer-card">
@@ -66,6 +66,20 @@ research.</p>
 </a><a rel="noopener noreferrer nofollow" href="/prof-duk-woo-park/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Park_Duk_Woo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Park Duk-Woo</div><div class="isomer-card-description">Network Member; Asan Medical Centre, South Korea</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-jeong-young-hoon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Jeong_Young_Hoon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Jeong Young-Hoon</div><div class="isomer-card-description">Network Member; Chung-Ang University Gwang-Myeong Hospital, South Korea</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/assoc-prof-hsu-chien-yi/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Hsu_Chien_Yi.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Hsu Chien-Yi</div>
+<div class="isomer-card-description">Network Member; Taipei Heart Institute, Taipei Medical University, Taiwan</div>
+<div class="isomer-card-link">Bio</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/dr-wang-wei-ting" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Wang_Wei_Ting.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wang Wei Ting</div><div class="isomer-card-description">Network Member; Taipei Veterans General Hospital, Taiwan</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-arthur-mark-richards/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /A_Mark_Richards.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof A.Mark Richards</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/prof-richard-troughton/" class="isomer-card">
 <div class="isomer-card-image">

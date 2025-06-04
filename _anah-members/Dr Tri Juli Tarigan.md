@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Members/Tri_Juli_Tarigan.jpg">
 </div>
-<h4><strong>Dr Tran Viet Thang</strong></h4>
+<h4><strong>Dr Tri Juli Tarigan</strong></h4>
 <p>Sp.PD-KEMD, FINASIM</p>
 <p>Head of Division of Endocrinology and Metabolism, Diabetes</p>
 <p>Department of Internal Medicine, Universitas Indonesia</p>
