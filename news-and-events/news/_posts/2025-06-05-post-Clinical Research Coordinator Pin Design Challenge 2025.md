@@ -27,8 +27,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Voting Period: 15 August to 15 September 2025</p>
-<p>(Voting page will be released when nearer to date)</p>
+<p>Voting Period: 15 August to 15 September 2025 <em>(Voting page will be released when nearer to date)</em>
+</p>
 </td>
 </tr>
 <tr></tr>
@@ -68,7 +68,7 @@ two submissions being considered. Each participant is only entitled to
 one prize.</p>
 </li>
 <li>
-<p>Mandatory text elements: Inclusion of ‘DCA-CRC Award'</p>
+<p>Mandatory text elements: ‘DCA-CRC Award'</p>
 </li>
 <li>
 <p>Please save your file using this format: “[Participant Full Name]_Design
