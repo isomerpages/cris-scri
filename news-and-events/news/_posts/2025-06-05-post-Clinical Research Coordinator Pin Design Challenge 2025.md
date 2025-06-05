@@ -41,12 +41,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Submit your designs via <a href="https://for.sg/crcpindesign" rel="noopener nofollow" target="_blank">for.sg/crcpindesign</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Design_Challenge_1.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Design_Challenge_1.jpg">
 </div>
 <h4>Terms and Conditions</h4>
 <ol data-tight="true" class="tight">
