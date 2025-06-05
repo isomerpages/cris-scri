@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Submit your designs via <a href="for.sg/crcpindesign" rel="noopener nofollow" target="_blank">for.sg/crcpindesign</a>
+<p>Submit your designs via <a href="https://for.sg/crcpindesign" rel="noopener nofollow" target="_blank">for.sg/crcpindesign</a>
 </p>
 </td>
 </tr>
