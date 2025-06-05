@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Voting Period: 15 August to 15 September 2025 <em>(Voting page will be released when nearer to date)</em>
+<p>Voting Period: 15 August to 15 September 2025 <em>(Voting page will be released nearer to date)</em>
 </p>
 </td>
 </tr>
