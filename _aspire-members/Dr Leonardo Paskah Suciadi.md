@@ -9,7 +9,7 @@ description: ""
 </div>
 <h4>Dr Leonardo Paskah Suciadi</h4>
 <p>&nbsp;Dr. Paskah is a Heart Failure Cardiologist practices at Siloam Hospitals
-Kebon Jeruk, Jakarta.</p>
+Kebon Jeruk, Jakarta, Indonesia.</p>
 <p>Appointed as Clinical Director of the Heart Failure and Mechanical Circulatory
 Support Program at the Siloam Heart Institute, with a strong dedication
 to advancing patient care and clinical outcomes in this field. He earned
