@@ -2,9 +2,9 @@ collections:
   aspire:
     output: true
     order:
-      - Contact Us.md
       - About ASPIRE.md
       - Our Unique Value Proposition.md
       - Regional Members.md
       - Meetings & Events.md
       - Partnerships.md
+      - Contact Us.md
