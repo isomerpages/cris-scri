@@ -13,8 +13,7 @@ description: ""
 <p>The <a href="https://www.apscardio.org/about-apsc.html" rel="noopener nofollow" target="_blank">APSC</a>,
 representing 22 cardiology societies across the Asia-Pacific region, has
 been at the forefront of improving cardiovascular health through education,
-research, and collaboration. Together, we are committed to advancing cardiovascular
-research and enhancing patient care in the APAC region.</p>
+research, and collaboration.</p>
 <p>We look forward to working closely with APSC to drive meaningful improvements
 in cardiovascular health outcomes across the Asia-Pacific region.</p>
 <p>Announcement link: <a href="https://www.apscardio.org/scientific-advisory-board.html" rel="noopener nofollow" target="_blank">https://www.apscardio.org/scientific-advisory-board.html</a>
