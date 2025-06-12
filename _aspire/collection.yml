@@ -2,9 +2,9 @@ collections:
   aspire:
     output: true
     order:
-      - Reach Out to ASPIRE Network.md
       - About ASPIRE.md
       - Our Unique Value Proposition.md
       - Regional Members.md
       - Meetings & Events.md
       - Partnerships.md
+      - Reach Out to ASPIRE Network.md
