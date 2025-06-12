@@ -1,6 +1,6 @@
 ---
-title: Partner with Us
-permalink: /events/
+title: Reach Out to ASPIRE Network
+permalink: /reach-out-to-aspire-network/
 variant: tiptap
 description: ""
 ---
@@ -12,4 +12,3 @@ description: ""
 partners and Sponsors who want to multiply their efforts in cardiovascular
 research. We invite you to join the ASPIRE Network to be advocates of cardiovascular
 research for better patient outcomes.</p>
-<p></p>
