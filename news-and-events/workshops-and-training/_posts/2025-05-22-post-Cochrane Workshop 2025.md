@@ -17,6 +17,6 @@ using the Cochrane method of systematic reviews and analysis.</p>
 register!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Workshops And Training/Cochrane_Workshop_V3_Extended_1306.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Workshops And Training/Cochrane_Workshop_V3_20_Jun_2025.png">
 </div>
 <p></p>
