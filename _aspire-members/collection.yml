@@ -2,8 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Dr Novi Yanti Sari.md
-      - Dr Indah Sukmawati.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Gemma Figtree.md
@@ -11,6 +9,8 @@ collections:
       - Mr Henry Yau.md
       - Ms Creany Wong.md
       - Dr Leonardo Paskah Suciadi.md
+      - Dr Indah Sukmawati.md
+      - Dr Novi Yanti Sari.md
       - Prof Satoshi Yasuda.md
       - Prof Kenichi Tsujita.md
       - Dr Takashi Kajiya.md
