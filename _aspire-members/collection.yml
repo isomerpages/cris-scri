@@ -2,9 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Prof Lin Jiunn Lee.md
-      - Prof Huang Chun Yao.md
-      - Prof Shih Chun Che.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Gemma Figtree.md
@@ -23,6 +20,9 @@ collections:
       - Prof Arthur Mark Richards.md
       - Prof Richard Troughton.md
       - Assoc Prof Philip Adamson.md
+      - Prof Lin Jiunn Lee.md
+      - Prof Huang Chun Yao.md
+      - Prof Shih Chun Che.md
       - Assoc Prof Hsu Chien Yi.md
       - Dr Wang Wei Ting.md
       - Dr Wael Almahmeed.md
