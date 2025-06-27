@@ -2,6 +2,7 @@ collections:
   aspire-members:
     output: true
     order:
+      - Dr Novi Yanti Sari.md
       - Dr Indah Sukmawati.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
