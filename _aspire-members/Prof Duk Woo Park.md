@@ -9,20 +9,19 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Park_Duk_Woo.png">
 </div>
 <h4>Prof Duk-Woo Park</h4>
-<p>MD, PhD</p>
-<p>Dr Duk-Woo Park is an interventional cardiologist at Asan Medical Center,
+<p>Dr Park Duk-Woo s an interventional cardiologist at Asan Medical Center,
 University of Ulsan College of Medicine, Seoul, Korea.</p>
-<p>He graduated and earned MD from University of Kyoung-Hee Medical College,
-Seoul, Korea. His postgraduate training was spent with an internship and
-residency at Asan Medical Center. He also completed fellowships in cardiovascular
-medicine and interventional cardiology at Asan Medical Center. He has experienced
-research fellowship (as a visiting scholar) at the Duke Clinical Research
-Institute (Durham, NC, USA).</p>
+<p>Prof Park graduated and earned MD from University of Kyoung-Hee Medical
+College, Seoul, Korea. His postgraduate training was spent with an internship
+and residency at Asan Medical Center. He also completed fellowships in
+cardiovascular medicine and interventional cardiology at Asan Medical Center.
+He has experienced research fellowship (as a visiting scholar) at the Duke
+Clinical Research Institute (Durham, NC, USA).</p>
 <p>He is now professor of division of cardiology and a director of interventional
 catheterization laboratory, Asan Medical Center as well as program director
 and co-chair of annual TCTAP, AP-Valve, and Complex PCI international meeting.</p>
-<p>He has been the principal investigator (PI) or Co-PI investigators of
-the MAINCOMPARE, DES-LATE (ZEST-LATE/REAL-LATE), PRECOMBAT, BEST, POST-PCI,
+<p>Prof Park has been the principal investigator (PI) or Co-PI investigators
+of the MAINCOMPARE, DES-LATE (ZEST-LATE/REAL-LATE), PRECOMBAT, BEST, POST-PCI,
 PREVENT, and EPIC-CAD trials, which were published in NEJM. He had more
 than 400 scientific publications as primary and contributing authors: among
 them, he had more than 40 top-cardiology journal publications as a primary
