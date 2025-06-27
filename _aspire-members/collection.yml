@@ -2,7 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Dr Diana Foo.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Gemma Figtree.md
@@ -18,6 +17,7 @@ collections:
       - Prof Duk Woo Park.md
       - Prof Jeong Young Hoon.md
       - Dr Alan Fong.md
+      - Dr Diana Foo.md
       - Dr Dharmaraj Karthikesan.md
       - Dr Anwar Irawan Bin Ruhani.md
       - Prof Arthur Mark Richards.md
