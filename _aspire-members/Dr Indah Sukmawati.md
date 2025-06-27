@@ -26,11 +26,11 @@ education. As Head of the Book Publishing Division for the Indonesian Heart
 Association–Banten Chapter, she has overseen the publication of over 30
 books. She has also authored and edited multiple titles targeting both
 healthcare professionals and the public.</p>
-<p>Internationally, she is a certified peer reviewer for JACC: Case Reports,
-BMJ Case Reports, and Publons Academy, and serves as a social media consultant
-for cardiology journals. She was part of the first cohort of the JACC Peer
-Review Mentoring Program and received first place in the Global Women in
-Cardiology–European Heart Journal Case Report Competition in 2021.</p>
+<p>Internationally, she is a certified peer reviewer for <em>JACC: Case Reports, BMJ Case Reports</em>,
+and Publons Academy, and serves as a social media consultant for cardiology
+journals. She was part of the first cohort of the JACC Peer Review Mentoring
+Program and received first place in the Global Women in Cardiology–European
+Heart Journal Case Report Competition in 2021.</p>
 <p>Her current work focuses on the intersection of clinical excellence, cardiovascular
 education, and leadership in interventional cardiology across Southeast
 Asia.</p>
