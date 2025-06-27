@@ -79,7 +79,7 @@ research.</p>
 </a><a rel="noopener noreferrer nofollow" href="/dr-dharmaraj-karthikesan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Dharmaraj_Karthikesan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Dharmaraj Karthikesan</div><div class="isomer-card-description">Network Member; Sultanah Bahiyah Hospital, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-alan-fong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Alan_Fong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Alan Fong</div><div class="isomer-card-description">Network Member; Sarawak Heart Centre, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/dr-diana-fofoo/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/dr-diana-foo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Diana_Foo.png">
@@ -108,8 +108,8 @@ Zealand</div>
 </a><a rel="noopener noreferrer nofollow" href="/assoc-prof-philip-adamson/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Philip_Adamson.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Philip D. Adamson</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-lin-jiunn-lee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Lin_Juinn_Lee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Prof Lin Jiunn-Lee</div><div class="isomer-card-description">Network Member; Shuang-Ho Hospital, Taiwan</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/prof-huang-chun-yao/B" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-lin-jiunn-lee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Lin_Juinn_Lee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Lin Jiunn-Lee</div><div class="isomer-card-description">Network Member; Shuang-Ho Hospital, Taiwan</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/prof-huang-chun-yao/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Huang_Chun_Yao.png">
@@ -120,7 +120,7 @@ Zealand</div>
 <div class="isomer-card-description">Network Member; Taipei Heart Institute, Taipei Medical University</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/prof-shih-chun-che/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Shih_Chun_Che.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Prof Shih Chun-Che</div><div class="isomer-card-description">Network Member, Taipei Heart Institute, Taipei Medical University</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/prof-shih-chun-che/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Shih_Chun_Che.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Shih Chun-Che</div><div class="isomer-card-description">Network Member, Taipei Heart Institute, Taipei Medical University</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/assoc-prof-hsu-chien-yi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Hsu_Chien_Yi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Hsu Chien-Yi</div><div class="isomer-card-description">Network Member; Taipei Heart Institute, Taipei Medical University, Taiwan</div><div class="isomer-card-link">Bio</div></div></a>
