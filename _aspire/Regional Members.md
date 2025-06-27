@@ -37,15 +37,15 @@ research.</p>
 </a><a rel="noopener noreferrer nofollow" href="/prof-yiu-kai-hang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Yiu_Kai_Hang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Yiu Kai Hang</div><div class="isomer-card-description">Network Member; The University of Hong Kong (HKU)</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-alan-fong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Alan_Fong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Alan Fong</div><div class="isomer-card-description">Network Member; Sarawak Heart Centre, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/dr-dharmaraj-karthikesan/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/dr-diana-fofoo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Dharmaraj_Karthikesan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Diana_Foo.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Dharmaraj Karthikesan</div>
-<div class="isomer-card-description">Network Member; Sultanah Bahiyah Hospital, Malaysia</div>
+<div class="isomer-card-title">Dr Diana Foo</div>
+<div class="isomer-card-description">Network Member; Sarawak General Hospital Clinical Research Centre</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/dr-anwar-irawan-bin-ruhani/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Anwar_Ruhani.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Anwar Irawan Bin Ruhani</div><div class="isomer-card-description">Network Member; Tengku Ampuan Afzan Hospital, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
@@ -66,7 +66,7 @@ research.</p>
 </a><a rel="noopener noreferrer nofollow" href="/dr-takashi-kajiya/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Kajiya_Takashi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Takashi Kajiya</div><div class="isomer-card-description">Network Member; Tenyoukai Central Hospital in Kagoshima, Japan</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-leonardo-paskah-suciadi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Leonardo_Paskah_Suciadi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Dr Leonardo Paskah Suciadi</div><div class="isomer-card-description">Network Member; Siloam Hospitals Kebon Jeruk, Jakarta, Indonesia</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-leonardo-paskah-suciadi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Leonardo_Paskah_Suciadi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Leonardo Paskah Suciadi</div><div class="isomer-card-description">Network Member; Siloam Hospitals Kebon Jeruk, Jakarta, Indonesia</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/prof-duk-woo-park/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -92,8 +92,7 @@ research.</p>
 <div class="isomer-card-description">Network Member; Taipei Veterans General Hospital, Taiwan</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/dr-wael-almahmeed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Wael_Almahmeed.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wael Almahmeed</div><div class="isomer-card-description">Network Member; Cleveland Clinic Abu Dhabi, United Arab Emirates
-</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/dr-wael-almahmeed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Wael_Almahmeed.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wael Almahmeed</div><div class="isomer-card-description">Network Member; Cleveland Clinic Abu Dhabi, United Arab Emirates</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-arthur-mark-richards/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /A_Mark_Richards.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof A.Mark Richards</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/prof-richard-troughton/" class="isomer-card">
