@@ -43,11 +43,11 @@ research.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Novi Yanti Sariri</div>
-<div class="isomer-card-description">Network Member; Siloam Hospitals</div>
+<div class="isomer-card-title">Dr Novi Yanti Sari</div>
+<div class="isomer-card-description">Network Member; Siloam Hospitals, Jakarta, Indonesia</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/dr-indah-sukmawati/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Indah_Sukmawati.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Indah Sukmawati</div><div class="isomer-card-description">Network Member; Siloam Hospitals</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/dr-indah-sukmawati/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Indah_Sukmawati.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Indah Sukmawati</div><div class="isomer-card-description">Network Member; Siloam Hospitals, Jakarta, Indonesia</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-satoshi-yasuda/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Satoshi_Yasuda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Satoshi Yasuda</div><div class="isomer-card-description">Network Member; Tohoku University, Japan</div><div class="isomer-card-link">Bio</div></div></a>
@@ -87,7 +87,7 @@ research.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Diana Foo</div>
-<div class="isomer-card-description">Network Member; Sarawak General Hospital Clinical Research Centre</div>
+<div class="isomer-card-description">Network Member; Sarawak General Hospital Clinical Research Centre, Malaysia</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/dr-anwar-irawan-bin-ruhani/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Anwar_Ruhani.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Anwar Irawan Bin Ruhani</div><div class="isomer-card-description">Network Member; Tengku Ampuan Afzan Hospital, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
