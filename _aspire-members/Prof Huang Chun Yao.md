@@ -8,8 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Huang_Chun_Yao.png">
 </div>
-<h4>Prof Huang Chun Yao</h4>
-<p>Dr. Chun-Yao Huang is a distinguished Taiwanese cardiologist and medical
+<h4>Prof Huang Chun-Yao</h4>
+<p>Dr. Huang Chun-Yao is a distinguished Taiwanese cardiologist and medical
 researcher who currently serves as the Director of Medicine at Taipei Medical
 University Hospital. He completed his medical degree from Taipei Medical
 College and later earned his Ph.D. in Clinical Medicine from Taipei Medical
