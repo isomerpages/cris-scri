@@ -12,6 +12,9 @@ description: Invited speakers for ANAH Masterclass 2025- Prof Moe Wint Aung
 </p>
 <p>Rector, Chairperson, University of Medicine 2, Yangon</p>
 <p>Vice president, Myanmar Society of Endocrine &amp; Metabolism</p>
+<p>CEC member, Myanmar Diabetes association</p>
+<p>CEC member, Myanmar wound care society</p>
+<p>Member, Asia Pacific Consortium on Osteoporosis (APCO)</p>
 <h4>Profile</h4>
 <p>Prof Moe Wint Aung started the career as an Assistant Lecturer in the
 University of Medicine (1) since 2002 and became an Associate Professor
