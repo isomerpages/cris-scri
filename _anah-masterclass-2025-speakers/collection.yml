@@ -2,10 +2,6 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
-      - Dr Sum Satha.md
-      - Dr Tri Juli Tarigan.md
-      - Prof Moe Wint Aung.md
-      - Dr Loh Huai Heng.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William F Young, Jr.md
@@ -18,3 +14,7 @@ collections:
       - Dr Wasita W Parksook.md
       - Dr Eng Pei Chia.md
       - Dr Padiporn Limumpornpetch.md
+      - Dr Tri Juli Tarigan.md
+      - Dr Loh Huai Heng.md
+      - Prof Moe Wint Aung.md
+      - Dr Sum Satha.md
