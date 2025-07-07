@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Dr Sum Satha.md
       - Dr Tri Juli Tarigan.md
       - Prof Moe Wint Aung.md
       - Dr Loh Huai Heng.md
