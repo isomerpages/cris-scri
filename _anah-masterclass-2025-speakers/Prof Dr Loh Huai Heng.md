@@ -15,10 +15,10 @@ description: Invited speakers for ANAH Masterclass 2025- Prof Dr Loh Huai Heng
 Malaysia Sarawak (UNIMAS)</p>
 <p></p>
 <h4>Profile</h4>
-<p>Dr Loh Huai Heng is a Consultant Endocrinologist and Senior Clinical Lecturer
-at the Faculty of Medicine and Health Sciences, Universiti of Malaysia
-Sarawak (UNIMAS). She completed her medical degree at the University of
-Malaya, obtained her Membership of the Royal College of Physicians (UK),
+<p>Prof Dr Loh Huai Heng is a Consultant Endocrinologist and Senior Clinical
+Lecturer at the Faculty of Medicine and Health Sciences, Universiti of
+Malaysia Sarawak (UNIMAS). She completed her medical degree at the University
+of Malaya, obtained her Membership of the Royal College of Physicians (UK),
 and specialized in Endocrinology and Metabolism before being awarded Fellowship
 of the Royal College of Physicians Edinburgh.</p>
 <p>She is a recipient of several research grants, including the Fundamental
@@ -27,7 +27,7 @@ vitamin D's role in obstructive sleep apnea and endocrine hypertension.
 Her research has been published in over 40 peer-reviewed journals, advancing
 the scientific understanding of hormonal mechanisms in sleep disorders
 and cardiovascular health.</p>
-<p>Dr Loh’s expertise in endocrinology has established her as a distinguished
+<p>Prof Dr Loh’s expertise in endocrinology has established her as a distinguished
 speaker at over 30 professional conferences and public health forums, spanning
 both international congresses and regional symposia.</p>
 <p></p>
