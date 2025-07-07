@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Prof Moe Wint Aung.md
       - Dr Loh Huai Heng.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
