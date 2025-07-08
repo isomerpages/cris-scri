@@ -86,7 +86,7 @@ third_nav_title: ANAH Masterclass 2025
 <div class="isomer-card-body">
 <div class="isomer-card-title"></div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Moderator profile</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -95,7 +95,6 @@ third_nav_title: ANAH Masterclass 2025
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title"></div>
-<div class="isomer-card-description"></div>
 </div>
 </div>
 </div>
