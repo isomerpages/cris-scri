@@ -7,7 +7,7 @@ description: Invited speakers for ANAH Masterclass 2025- Prof Dr Loh Huai Heng
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Loh_Huai_Heng.png">
 </div>
-<h3>Dr Loh Huai Heng</h3>
+<h3>Prof Dr Loh Huai Heng</h3>
 <p><strong>MBBS, MRCP (UK), FRCP (Edin)</strong>
 </p>
 <p>Senior Clinical Lecturer and Consultant Endocrinologist</p>
