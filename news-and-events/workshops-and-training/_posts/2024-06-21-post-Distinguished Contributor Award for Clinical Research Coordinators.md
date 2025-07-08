@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/DCA2025_Nominations_Banner.jpg">
 </div>
+<p></p>
 <p><strong><em>ABOUT THE AWARD</em></strong>
 </p>
 <p>Launched in 2019, the Distinguished Contributor Award for Clinical Research
