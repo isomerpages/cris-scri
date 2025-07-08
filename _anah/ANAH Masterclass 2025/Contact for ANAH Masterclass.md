@@ -1,6 +1,6 @@
 ---
 title: Contact for ANAH Masterclass
-permalink: /contact-for-anah-masterclass/
+permalink: /contact-for-anah-masterclass-2025/
 variant: tiptap
 description: ""
 third_nav_title: ANAH Masterclass 2025

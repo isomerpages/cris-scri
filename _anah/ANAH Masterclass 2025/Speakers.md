@@ -1,8 +1,8 @@
 ---
-title: Invited Speakers
+title: Speakers
 permalink: /anah-masterclass-2025/invited-speakers/
 variant: tiptap
-description: Meet our Speakers for ANAH Masterclass 2025
+description: Invited Speakers for ANAH Masterclass 2025
 third_nav_title: ANAH Masterclass 2025
 ---
 <h4>Invited Speakers</h4>
@@ -61,5 +61,41 @@ third_nav_title: ANAH Masterclass 2025
 <div class="isomer-card-link">Speaker profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-padiporn-limumpornpetch/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Padiporn Limumpornpetch" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Padiporn_Limumpornpetch.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Padiporn Limumpornpetch</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-tri-juli-tarigan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tri Juli Tarigan</div><div class="isomer-card-description">Sp.PD-KEMD, FINASIM</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/prof-dr-loh-huai-heng/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Prof Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/anah_masterclass_2025__prof_dr_loh_huai_heng.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Dr Loh Huai Heng</div>
+<div class="isomer-card-description">MBBS, MRCP (UK), FRCP (Edin)</div>
+<div class="isomer-card-link">Speaker profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/prof-moe-wint-aung" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Prof Moe Wint Aung" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Prof_Moe_Wint_Aung.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Moe Wint Aung</div><div class="isomer-card-description">MBBS(YGN), MMedSc(Int Med), Dr. Med.Sc (Gen Med), Dip. Med. Edu MRCP (UK), FRCP (Edin) FRCP (Glasgow) FRCP (London)</div><div class="isomer-card-link">Moderator profile</div></div></a>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Moderator profile</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
 </div>
 <p></p>
