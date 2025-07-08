@@ -16,8 +16,6 @@ third_nav_title: ANAH Masterclass 2025
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass- Highlights" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/1c__Webpage__Highlights___other_info.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/1d__Programme__Partners.png">
-</div><a class="isomer-image-wrapper" href="https://for.sg/anah-youtube-afes2025"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2024- Click here" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/1e__Webpage_footer.png"></a>
+<p></p>
 <p><em>Kindly note that all information about the Masterclass is subjected to change without notice. We will confirm the details soon, please watch this space for further updates.</em>
 </p>
