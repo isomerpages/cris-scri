@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Clinical Trials for Beginners
 permalink: /news-and-events/workshops-and-training/the-essentials-of-clinical-trials-for-beginners/
-date: 2024-01-29
+date: 2025-01-29
 layout: post
 description: ""
 image: ""
