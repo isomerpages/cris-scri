@@ -63,14 +63,14 @@ third_nav_title: ANAH Masterclass 2025
 </a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-padiporn-limumpornpetch/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Padiporn Limumpornpetch" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Padiporn_Limumpornpetch.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Padiporn Limumpornpetch</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-tri-juli-tarigan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tri Juli Tarigan</div><div class="isomer-card-description">Sp.PD-KEMD, FINASIM</div><div class="isomer-card-link">Speaker profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/prof-dr-loh-huai-heng/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-loh-huai-heng/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Prof Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/anah_masterclass_2025__prof_dr_loh_huai_heng.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/anah_masterclass_2025__prof_dr_loh_huai_heng.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Dr Loh Huai Heng</div>
+<div class="isomer-card-title">Dr Loh Huai Heng</div>
 <div class="isomer-card-description">MBBS, MRCP (UK), FRCP (Edin)</div>
 <div class="isomer-card-link">Speaker profile</div>
 </div>
