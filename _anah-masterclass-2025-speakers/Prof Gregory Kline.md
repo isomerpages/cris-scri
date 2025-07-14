@@ -13,7 +13,7 @@ description: Invited Speakers for ANAH Masterclass 2025- Prof Gregory Kline
 <p>Medical Director, Endocrine Hypertension Clinic</p>
 <p>Calgary Adrenal Research Group</p>
 <p>Clinical Professor of Medicine</p>
-<p>University of Calgary</p>
+<p>University of Calgary, Canada</p>
 <h4>Profile</h4>
 <p>Dr. Gregory Kline is a clinician-researcher and Professor of Medicine
 at the University of Calgary in Canada. On faculty since 2001, and as Division
