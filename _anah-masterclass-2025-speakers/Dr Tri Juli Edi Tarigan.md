@@ -12,7 +12,7 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Tri Juli Tarigan
 </p>
 <p>Head of Division of Endocrinology and Metabolism, Diabetes</p>
 <p>Department of Internal Medicine, Universitas Indonesia</p>
-<p>Cipto Mangunkusumo National General Hospital, Jakarta</p>
+<p>Cipto Mangunkusumo National General Hospital, Jakarta, Indonesia</p>
 <h4>Profile</h4>
 <p>Dr. Tarigan is a Senior Endocrinologist at the Cipto Mangunkusumo National
 General Hospital, Jakarta.</p>
