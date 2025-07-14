@@ -15,12 +15,12 @@ description: Invited Speakers for ANAH Masterclass 2025- Prof Paul M Stewart
 <h4>Profile</h4>
 <p>Having recently completed 13 years of Executive leadership across Medical
 Schools and Health Faculties in two of the largest civic Universities in
-the UK (Birmingham and Leeds), Professor Paul Stewart is Professor of Medicine
-(Emeritus) at the University of Leeds. He completed 40 years of clinical
-service in the NHS as a Consultant Endocrinologist in 2022 largely employed
-through Universities as a Clinical Academic. He received his medical degree
-from Edinburgh Medical School in 1982 and was awarded an MD with Honours
-and a Gold Medal in 1988.</p>
+the United Kingdom(Birmingham and Leeds), Professor Paul Stewart is Professor
+of Medicine (Emeritus) at the University of Leeds. He completed 40 years
+of clinical service in the NHS as a Consultant Endocrinologist in 2022
+largely employed through Universities as a Clinical Academic. He received
+his medical degree from Edinburgh Medical School in 1982 and was awarded
+an MD with Honours and a Gold Medal in 1988.</p>
 <p>Professor Stewart's clinical expertise includes the management of pituitary
 and adrenal disorders, endocrine hypertension and reproductive medicine.
 He is passionate about research-informed, high quality, patient-centric
