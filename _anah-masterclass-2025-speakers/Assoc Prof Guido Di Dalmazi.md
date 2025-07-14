@@ -12,7 +12,7 @@ description: Invited speakers for ANAH Masterclass 2025- A/Prof Guido Di Dalmazi
 </p>
 <p>Department of Medical and Surgical Sciences</p>
 <p>Division of Endocrinology</p>
-<p>University of Bologna</p>
+<p>University of Bologna, Italy</p>
 <h4>Profile</h4>
 <p>Guido Di Dalmazi is an Associate Professor in Endocrinology at the Division
 of Endocrinology and Prevention and Care of Diabetes in the Department
