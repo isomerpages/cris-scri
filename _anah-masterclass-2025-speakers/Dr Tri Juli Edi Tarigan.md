@@ -1,5 +1,5 @@
 ---
-title: Dr Tri Juli Tarigan
+title: Dr Tri Juli Edi Tarigan
 permalink: /anah-masterclass-2025/dr-tri-juli-tarigan/
 variant: tiptap
 description: Invited speakers for ANAH Masterclass 2025- Dr Tri Juli Tarigan
@@ -7,12 +7,12 @@ description: Invited speakers for ANAH Masterclass 2025- Dr Tri Juli Tarigan
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Session Chair- Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png">
 </div>
-<h3>Dr Tri Juli Tarigan</h3>
+<h3>Dr Tri Juli Edi Tarigan</h3>
 <p><strong>Sp.PD-KEMD, FINASIM</strong>
 </p>
 <p>Head of Division of Endocrinology and Metabolism, Diabetes</p>
 <p>Department of Internal Medicine, Universitas Indonesia</p>
-<p>Cipto Mangunkusumo National General Hospital, Jakarta</p>
+<p>Cipto Mangunkusumo National General Hospital, Jakarta, Indonesia</p>
 <h4>Profile</h4>
 <p>Dr. Tarigan is a Senior Endocrinologist at the Cipto Mangunkusumo National
 General Hospital, Jakarta.</p>

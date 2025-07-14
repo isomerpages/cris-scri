@@ -8,12 +8,12 @@ description: ANAH Masterclass 2025 Session Chair- Prof Moe Wint Aung
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Prof Moe Wint Aung" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Prof_Moe_Wint_Aung.png">
 </div>
 <h3>Prof Moe Wint Aung</h3>
-<p><strong>MBBS(YGN), MMedSc(Int Med), Dr. <a href="http://Med.Sc" rel="noopener noreferrer nofollow" target="_blank">Med.Sc</a> (Gen Med), Dip. Med. Edu MRCP (UK), FRCP (Edin) FRCP (Glasgow) FRCP (London)</strong>
+<p><strong>MBBS(YGN), MMedSc(Int Med),Dr. Med. Sc (Gen Med), Dip. Med. Edu MRCP (UK), FRCP (Edin) FRCP (Glasgow) FRCP (London)</strong>
 </p>
-<p>Rector, Chairperson, University of Medicine 2, Yangon</p>
+<p>Rector, Chairperson, University of Medicine 2, Yangon, Myanmar</p>
 <p>Vice president, Myanmar Society of Endocrine &amp; Metabolism</p>
-<p>CEC member, Myanmar Diabetes association</p>
-<p>CEC member, Myanmar wound care society</p>
+<p>Central Executive Committee (CEC) member, Myanmar Diabetes Association</p>
+<p>CEC member, Myanmar Wound Care Society</p>
 <p>Member, Asia Pacific Consortium on Osteoporosis (APCO)</p>
 <h4>Profile</h4>
 <p>Prof Moe Wint Aung started the career as an Assistant Lecturer in the

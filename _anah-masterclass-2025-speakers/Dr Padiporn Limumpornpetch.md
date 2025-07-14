@@ -21,7 +21,7 @@ from the University of Leeds. Her groundbreaking research on Cushing's
 Syndrome mortality has garnered international recognition, including coverage
 in major medical publications and a Presidential Poster Competition award
 from the Endocrine Society (US).</p>
-<p>Dr Padiporn has contributed significantly to multiple clinical trials,
+<p>Dr Limumpornpetch has contributed significantly to multiple clinical trials,
 particularly in the treatment of Cushing's disease, and has authored influential
 publications on adrenal disorders. As a member of several prestigious endocrine
 societies and a recipient of numerous academic awards, she brings extensive

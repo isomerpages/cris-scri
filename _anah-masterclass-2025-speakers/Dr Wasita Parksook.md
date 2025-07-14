@@ -1,5 +1,5 @@
 ---
-title: Dr Wasita W Parksook
+title: Dr Wasita Parksook
 permalink: /anah-masterclass-2025/dr-wasita-parksook/
 variant: tiptap
 description: Invited speakers for ANAH Masterclass 2025- Dr Wasita Parksook
