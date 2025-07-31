@@ -18,7 +18,7 @@ academic spinoffs.</p>
 <p><strong>📅 Date: </strong>25 August 2025 (Monday)</p>
 <p><strong>🕘 Time: </strong>16:00 – 18:00 hrs (Registration starts at 15:30
 hrs)</p>
-<p>Please write in to <a href="biz@scri.cris.sg" rel="noopener nofollow" target="_blank">biz@scri.cris.sg</a> if
+<p>Please write in to <a href="mailto:biz@scri.cris.sg" rel="noopener nofollow" target="_blank">biz@scri.cris.sg</a> if
 keen to register for this event.</p>
 <p></p>
 <p><strong>HIGHLIGHTS</strong>
