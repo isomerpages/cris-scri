@@ -19,7 +19,7 @@ Taiwan University Hospital&nbsp;</p>
 <p>Associate Editor, Journal of American Heart Association</p>
 <h4>Profile</h4>
 <p>Prof Lin is the co-founder of TAIPAI (Taiwan Primary Aldosteronism Investigation)
-research group, and leads the cardiovascular research team in the group.
+research group and leads the cardiovascular research team in the group.
 He is currently the President of Taiwan Society of Hypertension. His research
 interests focus on 1) Clinical and translational research of aldosterone-induced
 cardiac and vascular fibrosis/ dysfunction; 2) Clinical research of cardiac
