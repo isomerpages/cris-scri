@@ -29,7 +29,7 @@ care for patients with adrenal hypertension.</p>
 <p>He is a recipient of several National Medical Research Council (NMRC)
 awards and is a nationally funded clinician scientist with several studies
 on patients with primary aldosteronism. He is currently leading a nationwide
-clinical trial, aiming to improve identification of patients with curable
+clinical trial, aiming to improve the identification of patients with curable
 forms of hypertension using PET-CT functional imaging.</p>
 <p>Dr Puar is also the lead Principal Investigator for the Shimadzu–Changi
 Clinomics Centre (SC3) which utilises state-of-the-art liquid chromatography
