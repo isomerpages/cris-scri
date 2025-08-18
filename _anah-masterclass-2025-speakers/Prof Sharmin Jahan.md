@@ -8,10 +8,10 @@ description: "ANAH-AFES Joint Symposium 2025 Invited Speakers: Prof Sharmin Jaha
 <img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025: Dr Sharmin Jahan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Sharmin_Jahan.png">
 </div>
 <h3>Prof Sharmin Jahan</h3>
-<p><strong><em>Dept of Endocrinology &amp; Metabolism</em></strong>
+<p><strong>MBBS, FCPS, MD</strong>
 </p>
-<p><strong><em>Bangabandhu Sheikh Mujib Medical University Hospital, Dhaka, Bangladesh</em></strong>
-</p>
+<p>Dept of Endocrinology &amp; Metabolism</p>
+<p>Bangabandhu Sheikh Mujib Medical University Hospital, Dhaka, Bangladesh</p>
 <h4><em>Profile</em></h4>
 <p>Dr. Sharmin Jahan passed MBBS from Dhaka Medical College in 2000 with
 distinction. Later she completed her fellowship in Internal Medicine from
