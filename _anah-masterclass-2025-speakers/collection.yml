@@ -2,10 +2,6 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
-      - Dr Hieu Tran.md
-      - Dr Mai Trong Tri.md
-      - Prof Sharmin Jahan.md
-      - Assoc Prof Cheng Hsuan Tsai.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William F Young, Jr.md
@@ -20,4 +16,8 @@ collections:
       - Dr Padiporn Limumpornpetch.md
       - Dr Tri Juli Edi Tarigan.md
       - Dr Loh Huai Heng.md
+      - Dr Mai Trong Tri.md
+      - Prof Sharmin Jahan.md
+      - Assoc Prof Cheng Hsuan Tsai.md
+      - Dr Hieu Tran.md
       - Dr Sum Satha.md
