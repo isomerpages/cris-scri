@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Dr Mai Trong Tri.md
       - Prof Sharmin Jahan.md
       - Assoc Prof Cheng Hsuan Tsai.md
       - Dr Troy Puar.md
