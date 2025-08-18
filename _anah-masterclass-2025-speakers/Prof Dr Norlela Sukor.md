@@ -21,7 +21,7 @@ Centre, Kuala Lumpur, Malaysia</p>
 <p>Dr. Sukor is a Professor of Medicine and Consultant Endocrinologist at
 the Department of Medicine, Hospital Canselor Tuanku Muhriz, National University
 of Malaysia (UKM), Kuala Lumpur, Malaysia. She is passionate about research
-and is the Principal and Co-investigators of numerous international and
+and is the Principal and Co-investigator of numerous international and
 national clinical trials. She has many publications, including publications
 in the&nbsp;<em>New England Journal of Medicine</em>,&nbsp;<em>The Lancet</em>,&nbsp;<em>Journal of Clinical Endocrinology and Metabolism, Diabetes, Obesity and Metabolism, Hypertension</em>&nbsp;and&nbsp;<em>Frontiers in Endocrinology</em>.
 She was the Chief Editor of the&nbsp;<em>Journal of Endocrinology &amp; Metabolism (JEM)</em>,
