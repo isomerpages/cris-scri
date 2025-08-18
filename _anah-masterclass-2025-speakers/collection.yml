@@ -2,6 +2,7 @@ collections:
   anah-masterclass-2025-speakers:
     output: true
     order:
+      - Prof Sharmin Jahan.md
       - Assoc Prof Cheng Hsuan Tsai.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
