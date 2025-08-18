@@ -21,9 +21,10 @@ and had a PhD in reproductive endocrinology. Her main interests are in
 reversing metabolic disorders in women. She is a recipient of NMRC grant
 where she investigates the mechanistic pathways underlying insulin resistance
 and insulin secretion in women with prior GDM in the postpartum period.</p>
-<p>Her broader research interests include determining rate of adrenal recovery
-following prolonged glucocorticoid therapy, with a focus on steroid tapering
-and weaning strategies. Clinically, she provides comprehensive care for
-both men and women with diabetes and a wide range of endocrine disorders,
-with a particular emphasis on metabolic conditions affecting women.</p>
+<p>Her broader research interests include determining the rate of adrenal
+recovery following prolonged glucocorticoid therapy, with a focus on steroid
+tapering and weaning strategies. Clinically, she provides comprehensive
+care for both men and women with diabetes and a wide range of endocrine
+disorders, with a particular emphasis on metabolic conditions affecting
+women.</p>
 <p></p>
