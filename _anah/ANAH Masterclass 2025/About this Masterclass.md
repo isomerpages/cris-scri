@@ -13,7 +13,6 @@ from <strong>14 to 16 November 2025</strong>.</p>
 <a href="https://afes2025vietnam.com/en/registerinfo/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Programme details will be updated on both the AFES and ANAH websites soon.
 Thank you for your understanding</p><a class="isomer-image-wrapper" href="https://afes2025vietnam.com/en/"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- About this Masterclass" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/1a__Webpage_About_this_Masterclass.png"></a>
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="/anah-masterclass-2025/invited-speakers/"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Invited Speakers" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/1b_Webpage_Invited_Speakers.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
