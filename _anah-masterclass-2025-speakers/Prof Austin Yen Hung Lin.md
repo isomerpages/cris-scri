@@ -32,5 +32,5 @@ of the Taiwan Society of Cardiology (2013), and Noon-Ting Memorial Award
 (Distinguish Research Award) of Taiwan Society of Cardiology (2017). He
 is currently the associate editor of Journal of American Heart Association
 (JAHA) and Acta Cardiologica Sinica and the editor of Medicine and Journal
-of Medical Ultrasound. He has published more than 300 journal and conference
+of Medical Ultrasound. He has published more than 300 journals and conference
 papers.&nbsp;</p>
