@@ -10,7 +10,7 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Mai Trong Tri"
 <h3>Dr Mai Trong Tri</h3>
 <p><strong>MD, MSc</strong>
 </p>
-<p>Dept of Endocrinology.&nbsp;People’s Hospital 115, Ho Chi Minh City, VietNam</p>
+<p>Dept of Endocrinology.&nbsp;People’s Hospital 115, Ho Chi Minh City, Vietnam</p>
 <h4>Profile</h4>
 <p>Dr. Mai Trong Tri is a physician at the Department of Endocrinology, People’s
 Hospital 115, Ho Chi Minh City. He graduated from Ho Chi Minh City University
