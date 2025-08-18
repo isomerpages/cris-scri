@@ -7,7 +7,7 @@ description: Invited speakers for ANAH-AFES symposium- A/Prof Guido Di Dalmazi
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025 Invited Speakers- A/Prof Guido Di Dalmazi" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Guido.png">
 </div>
-<h3>Assoc Prof Guido Di Dalmazi</h3>
+<h3>A/Prof Guido Di Dalmazi</h3>
 <p><strong>MD</strong>
 </p>
 <p>Department of Medical and Surgical Sciences</p>
