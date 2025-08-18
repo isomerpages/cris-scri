@@ -18,7 +18,7 @@ Taiwan University Hospital. His research centers on aldosterone physiology,
 hypertension, and cardiovascular remodeling, with a particular focus on
 the clinical and pathophysiological implications of primary aldosteronism.
 He previously served as a visiting scholar at Brigham and Women’s Hospital,
-Harvard Medical School. Dr. Tsai has received multiple young investigator
+Harvard Medical School. Dr. Tsai has received multiple young investigators
 awards and has published extensively in leading journals, contributing
 to a deeper understanding of aldosterone-related cardiovascular disease.</p>
 <p></p>
