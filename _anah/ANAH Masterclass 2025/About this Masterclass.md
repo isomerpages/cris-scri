@@ -7,7 +7,8 @@ third_nav_title: ANAH Masterclass 2025
 ---
 <p><strong>Important update</strong>: The ANAH Masterclass 2025 will no longer
 run as a separate one-day event. Instead, it has been incorporated into
-the ASEAN Federation of Endocrine Societies (AFES) Congress 2025 programme.</p>
+the ASEAN Federation of Endocrine Societies (AFES) Congress 2025 programme,
+from 14 to 16 November 2025.</p>
 <p>To attend the ANAH sessions, please register for the AFES conference
 <a href="https://afes2025vietnam.com/en/registerinfo/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Programme details will be updated on both the AFES and ANAH websites soon.
