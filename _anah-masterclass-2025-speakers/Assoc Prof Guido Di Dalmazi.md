@@ -21,7 +21,7 @@ of Bologna. His research field focuses on adrenocortical tumors, with specific
 focus on hypercortisolism and adrenocortical cancer. Prof. Di Dalmazi is
 a member of several National and International Societies. He is coordinator
 of the Adrenal group of the Italian Society of Endocrinology and the NAPACA
-working group of the ENSAT, and serves as Associate Editor for the Journal
+working group of the ENSAT and serves as Associate Editor for the Journal
 of Endocrinological investigation.</p>
 <p></p>
 <p></p>
