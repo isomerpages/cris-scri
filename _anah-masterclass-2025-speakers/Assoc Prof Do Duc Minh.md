@@ -7,7 +7,7 @@ description: Invited speakers for ANAH-AFES symposium- Assoc Prof Do Duc Minh
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Assoc Prof Do Duc Minh" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Minh.png">
 </div>
-<h3>A/Prof. Do Duc Minh</h3>
+<h3>A/Prof Do Duc Minh</h3>
 <p><strong>MD, PhD</strong>
 </p>
 <p>Senior researcher, Center for Molecular Biomedicine, University of Medicine
