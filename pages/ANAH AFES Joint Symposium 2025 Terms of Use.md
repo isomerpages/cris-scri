@@ -1,13 +1,13 @@
 ---
-title: ANAH Masterclass 2025 Terms of Use
-permalink: /anah-masterclass-2025-terms-of-use/
+title: ANAH AFES Joint Symposium 2025 Terms of Use
+permalink: /anah-symposium-2025-terms-of-use/
 variant: tiptap
 description: ANAH Terms of Use
 ---
 <p><strong>A.&nbsp;Introduction</strong>
 </p>
 <p>1.&nbsp;Thank you for visiting the ASEAN Network of Adrenal Hypertension
-(“ANAH”) Masterclass webpage. Access to this webpage or any related webpage
+(“ANAH”) Symposium webpage. Access to this webpage or any related webpage
 (henceforth known as “Web Site”) is governed by the terms and conditions
 stipulated below (“Terms”) unless otherwise stipulated in that page. Your
 access and use of this Web Site constitutes your acceptance and agreement

@@ -2,7 +2,7 @@
 title: Dr Tri Juli Edi Tarigan
 permalink: /anah-masterclass-2025/dr-tri-juli-tarigan/
 variant: tiptap
-description: Invited speakers for ANAH Masterclass 2025- Dr Tri Juli Tarigan
+description: Invited speakers for ANAH-AFES symposium 2025- Dr Tri Juli Tarigan
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Session Chair- Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png">

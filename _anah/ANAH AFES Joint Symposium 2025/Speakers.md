@@ -3,7 +3,7 @@ title: Speakers
 permalink: /anah-masterclass-2025/invited-speakers/
 variant: tiptap
 description: Invited Speakers for ANAH Masterclass 2025
-third_nav_title: ANAH Masterclass 2025
+third_nav_title: ANAH AFES Joint Symposium 2025
 ---
 <h4>Invited Speakers</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Troy Puar</div><div class="isomer-card-description">MBBS, MRCP, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
@@ -34,7 +34,7 @@ third_nav_title: ANAH Masterclass 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/prof-paul-m-stewart/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Paul M Stewart" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Paul.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Paul M Stewart</div><div class="isomer-card-description">CBE, FRCP, FMedSci</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/aprof-guido-di-dalmazi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Guido.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Guido Di Dalmazi</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/aprof-guido-di-dalmazi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Guido.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Guido Di Dalmazi</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/prof-leilani-b-mercado-asis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -48,7 +48,7 @@ third_nav_title: ANAH Masterclass 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-wasita-parksook/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wasita Parksook</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/assoc-prof-do-duc-minh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Do Duc Minh" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Minh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Do Duc Minh</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/assoc-prof-do-duc-minh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Do Duc Minh" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Minh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Do Duc Minh</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-eng-pei-chia/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -74,7 +74,21 @@ third_nav_title: ANAH Masterclass 2025
 <div class="isomer-card-description">MBBS, MRCP (UK), FRCP (Edin)</div>
 <div class="isomer-card-link">Speaker profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/prof-moe-wint-aung" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Prof Moe Wint Aung" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Prof_Moe_Wint_Aung.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Moe Wint Aung</div><div class="isomer-card-description">MBBS(YGN), MMedSc(Int Med), Dr. Med.Sc (Gen Med), Dip. Med. Edu MRCP (UK), FRCP (Edin) FRCP (Glasgow) FRCP (London)</div><div class="isomer-card-link">Moderator profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-sharmin-jahan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speakers: Prof Sharmin Jahan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Sharmin_Jahan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Sharmin Jahan</div><div class="isomer-card-description">MBBS, FCPS, MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-mai-trong-tri/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speakers: Dr Mai Trong Tri" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Mai_Trong_Tri.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Mai Trong Tri</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-hieu-tran/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH AFES Symposium 2025 Speaker: Dr Hieu Tran" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Hieu_Tran.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Hieu Tran</div>
+<div class="isomer-card-description">MD</div>
+<div class="isomer-card-link">Speaker profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-cheng-hsuan-tsai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speakers: A/Prof Cheng-Hsuan Tsai" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Richard_Cai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Cheng-Hsuan Tsai</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">

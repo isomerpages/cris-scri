@@ -2,7 +2,7 @@
 title: Prof Gregory Kline
 permalink: /anah-masterclass-2025/prof-gregory-kline/
 variant: tiptap
-description: Invited Speakers for ANAH Masterclass 2025- Prof Gregory Kline
+description: Invited Speakers for ANAH-AFES symposium 2025- Prof Gregory Kline
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png">

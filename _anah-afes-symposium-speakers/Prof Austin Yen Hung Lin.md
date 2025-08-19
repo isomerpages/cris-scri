@@ -2,7 +2,7 @@
 title: Prof Austin Yen Hung Lin
 permalink: /anah-masterclass-2025/prof-austin-yen-hung-lin/
 variant: tiptap
-description: Invited speakers for ANAH Masterclass 2025- Prof Austin Yen-Hung Lin
+description: Invited speakers for ANAH-AFES symposium- Prof Austin Yen-Hung Lin
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025 Invited Speakers" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Austin.png">
@@ -19,7 +19,7 @@ Taiwan University Hospital&nbsp;</p>
 <p>Associate Editor, Journal of American Heart Association</p>
 <h4>Profile</h4>
 <p>Prof Lin is the co-founder of TAIPAI (Taiwan Primary Aldosteronism Investigation)
-research group, and leads the cardiovascular research team in the group.
+research group and leads the cardiovascular research team in the group.
 He is currently the President of Taiwan Society of Hypertension. His research
 interests focus on 1) Clinical and translational research of aldosterone-induced
 cardiac and vascular fibrosis/ dysfunction; 2) Clinical research of cardiac
@@ -32,5 +32,5 @@ of the Taiwan Society of Cardiology (2013), and Noon-Ting Memorial Award
 (Distinguish Research Award) of Taiwan Society of Cardiology (2017). He
 is currently the associate editor of Journal of American Heart Association
 (JAHA) and Acta Cardiologica Sinica and the editor of Medicine and Journal
-of Medical Ultrasound. He has published more than 300 journal and conference
+of Medical Ultrasound. He has published more than 300 journals and conference
 papers.&nbsp;</p>

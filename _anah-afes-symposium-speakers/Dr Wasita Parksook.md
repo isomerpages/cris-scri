@@ -2,7 +2,7 @@
 title: Dr Wasita Parksook
 permalink: /anah-masterclass-2025/dr-wasita-parksook/
 variant: tiptap
-description: Invited speakers for ANAH Masterclass 2025- Dr Wasita Parksook
+description: Invited speakers for ANAH-AFES symposium- Dr Wasita Parksook
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png">
@@ -20,7 +20,7 @@ Harvard Medical School, with a focus on primary aldosteronism, aldosterone
 physiology, and the genetics of salt-sensitive hypertension. Since returning
 to Thailand, Dr Wasita remained actively involved in both national and
 international endocrine communities. She leads local educational initiatives,
-collaborate regionally through the ASEAN Adrenal Network, and serves as
+collaborates regionally through the ASEAN Adrenal Network, and serves as
 a steering committee member of the Endocrine Society’s Adrenal and Pituitary
 Special Interest Group.</p>
 <h3></h3>

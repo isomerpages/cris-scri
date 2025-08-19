@@ -2,7 +2,7 @@
 title: Prof Leilani B Mercado Asis
 permalink: /anah-masterclass-2025/prof-leilani-b-mercado-asis/
 variant: tiptap
-description: Invited Speakers for ANAH Masterclass 2025- Prof Leilani B. Mercado-Asis
+description: Invited Speakers for ANAH-AFES symposium- Prof Leilani B. Mercado-Asis
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Leilani B. Mercado-Asis" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Leilani.png">

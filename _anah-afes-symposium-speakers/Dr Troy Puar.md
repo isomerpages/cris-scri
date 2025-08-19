@@ -2,7 +2,7 @@
 title: Dr Troy Puar
 permalink: /anah-masterclass-2025/dr-troy-puar/
 variant: tiptap
-description: Invited Speakers for ANAH Masterclass 2025- Dr Troy Puar
+description: Invited Speakers for ANAH-AFES symposium- Dr Troy Puar
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png">
@@ -29,7 +29,7 @@ care for patients with adrenal hypertension.</p>
 <p>He is a recipient of several National Medical Research Council (NMRC)
 awards and is a nationally funded clinician scientist with several studies
 on patients with primary aldosteronism. He is currently leading a nationwide
-clinical trial, aiming to improve identification of patients with curable
+clinical trial, aiming to improve the identification of patients with curable
 forms of hypertension using PET-CT functional imaging.</p>
 <p>Dr Puar is also the lead Principal Investigator for the Shimadzu–Changi
 Clinomics Centre (SC3) which utilises state-of-the-art liquid chromatography
