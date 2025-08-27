@@ -12,6 +12,5 @@ ASEAN Federation of Endocrine Societies (AFES) Congress 2025 programme
 from <em>14 to 16 November 2025</em>.</p>
 <p>To attend the ANAH sessions, please register for the AFES conference
 <a href="https://afes2025vietnam.com/en/registerinfo/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>Programme details will be updated on both the AFES and ANAH website soon.
-Thank you for your understanding.</p>
+<p></p>
 <p></p>
