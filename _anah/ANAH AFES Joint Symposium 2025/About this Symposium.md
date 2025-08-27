@@ -23,5 +23,5 @@ Thank you for your understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Webpage_footer.png">
 </div>
-<p><em>Kindly note that all information about the event is subjected to change without notice. We will confirm the details soon, please watch this space for further updates.</em>
+<p><em>Kindly note that all information about the event is subjected to change without notice. </em>
 </p>
