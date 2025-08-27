@@ -19,9 +19,6 @@ more details on our programme.</p>
 </a>
 <div class="isomer-image-wrapper">
 <img style="width: 98%;" height="auto" width="100%" alt="ANAH Masterclass- Highlights" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/1c__Webpage__Highlights___other_info.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Webpage_footer.png">
-</div>
+</div><a class="isomer-image-wrapper" href="https://for.sg/anah-youtube-afes2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Webpage_footer.png"></a>
 <p><em>Kindly note that all information about the event is subjected to change without notice.</em>
 </p>
