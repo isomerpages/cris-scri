@@ -12,7 +12,7 @@ description: Invited Speakers for ANAH-AFES symposium- Prof Leilani B. Mercado-A
 </p>
 <p>Executive Committee Member, ANAH</p>
 <p>Professor and Consultant Endocrinologist, University of Santo Tomas (UST)
-Faculty of Medicine and Surgery, and UST Hospital</p>
+Faculty of Medicine and Surgery, and UST Hospital, Manila, Philippines</p>
 <p>Board Member, World Hypertension League (WHL)</p>
 <p>President, Asian Alliance for the Study of Pituitary, Adrenal and Neuroendocrine
 Tumors</p>
