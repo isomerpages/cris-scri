@@ -11,8 +11,9 @@ description: Invited speakers for ANAH-AFES symposium- Dr Wasita W. Parksook
 <p><strong>MD, MSc</strong>
 </p>
 <p>Endocrinologist and Instructor in Medicine at King Chulalongkorn Memorial
-Hospital, Thai Red Cross Society Department of Medicine, Faculty of Medicine,
-Chulalongkorn University, Bangkok, Thailand</p>
+Hospital, Thai Red Cross Society</p>
+<p>Department of Medicine, Faculty of Medicine, Chulalongkorn University,
+Bangkok, Thailand</p>
 <h4>Profile</h4>
 <p>Dr Wasita is an endocrinologist and adrenal specialist in Bangkok. She
 completed her postdoctoral research fellowship at Brigham and Women’s Hospital,
