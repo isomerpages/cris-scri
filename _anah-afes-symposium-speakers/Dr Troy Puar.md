@@ -12,7 +12,7 @@ description: Invited Speakers for ANAH-AFES symposium- Dr Troy Puar
 </p>
 <p>President, ASEAN Network of Adrenal Hypertension (ANAH)</p>
 <p>Head &amp; Senior Consultant, Dept of Endocrinology &amp; Adrenal Hypertension
-Centre, Changi General Hospital, SingHealth Singapore</p>
+Centre, Changi General Hospital, SingHealth, Singapore</p>
 <p>Vice-President, College of Endocrinologists, Academy of Medicine, Singapore</p>
 <p>Executive Committee (EXCO) Member, Singapore Hypertension Society
 <br>
