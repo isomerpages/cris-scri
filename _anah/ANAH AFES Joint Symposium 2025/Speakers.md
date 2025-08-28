@@ -90,17 +90,20 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-cheng-hsuan-tsai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speakers: A/Prof Cheng-Hsuan Tsai" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Richard_Cai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Cheng-Hsuan Tsai</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+<h4>Session Chairs</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-tri-juli-tarigan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Session Chairs: Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tri Juli Edi Tarigan</div><div class="isomer-card-description">Sp.PD-KEMD, FINASIM</div><div class="isomer-card-link">Session Chair profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-sum-satha/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Session Chairs: Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">Dr Sum Satha</div>
+<div class="isomer-card-description">MD, FACE</div>
+<div class="isomer-card-link">Session Chair profile</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/anah-masterclass-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Session Chair profile</div></div></a>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
