@@ -11,7 +11,7 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Hieu Tran"
 <p><strong>MD</strong>
 </p>
 <p>Resident physician at the Changi General Hospital - Endocrinology Department
-and Adrenal Hypertension Centre</p>
+and Adrenal Hypertension Centre, Singapore</p>
 <p>PhD candidate in Clinical and Translational Science at Duke-NUS Medical
 School, Singapore</p>
 <h4>Profile</h4>
