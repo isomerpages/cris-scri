@@ -12,8 +12,7 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Tran Thi Ngoc Hi
 </p>
 <p>Department of Endocrinology, University Medical Center Ho Chi Minh City,
 Vietnam</p>
-<p>Resident physician, Department of Endocrinology, Changi General Hospital,
-Singapore</p>
+<p>Resident physician, Changi General Hospital, Singapore</p>
 <p>PhD candidate in Clinical and Translational Science at Duke-NUS Medical
 School, Singapore</p>
 <h4>Profile</h4>
