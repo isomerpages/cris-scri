@@ -1,8 +1,8 @@
 ---
 title: Dr Padiporn Limumpornpetch
-permalink: /anah-masterclass-2025/dr-padiporn-limumpornpetch/
+permalink: /anah-afes-symposium-2025/dr-padiporn-limumpornpetch/
 variant: tiptap
-description: Invited speakers for for ANAH-AFES symposium 2025- Dr Padiporn Limumpornpetch
+description: "Invited speakers for for ANAH-AFES symposium 2025: Dr Padiporn Limumpornpetch"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Padiporn_Limumpornpetch.png">

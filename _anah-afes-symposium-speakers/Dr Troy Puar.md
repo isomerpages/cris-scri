@@ -1,8 +1,8 @@
 ---
 title: Dr Troy Puar
-permalink: /anah-masterclass-2025/dr-troy-puar/
+permalink: /anah-afes-symposium-2025/dr-troy-puar/
 variant: tiptap
-description: Invited Speakers for ANAH-AFES symposium- Dr Troy Puar
+description: "Invited Speakers for ANAH-AFES symposium: Dr Troy Puar"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png">
@@ -12,7 +12,7 @@ description: Invited Speakers for ANAH-AFES symposium- Dr Troy Puar
 </p>
 <p>President, ASEAN Network of Adrenal Hypertension (ANAH)</p>
 <p>Head &amp; Senior Consultant, Dept of Endocrinology &amp; Adrenal Hypertension
-Centre, Changi General Hospital, SingHealth Singapore</p>
+Centre, Changi General Hospital, SingHealth, Singapore</p>
 <p>Vice-President, College of Endocrinologists, Academy of Medicine, Singapore</p>
 <p>Executive Committee (EXCO) Member, Singapore Hypertension Society
 <br>

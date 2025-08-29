@@ -1,8 +1,8 @@
 ---
-title: Dr Wasita Parksook
-permalink: /anah-masterclass-2025/dr-wasita-parksook/
+title: Dr Wasita W Parksook
+permalink: /anah-afes-symposium-2025/dr-wasita-parksook/
 variant: tiptap
-description: Invited speakers for ANAH-AFES symposium- Dr Wasita Parksook
+description: Invited speakers for ANAH-AFES symposium- Dr Wasita W. Parksook
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025- Dr Wasita Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png">
@@ -11,8 +11,9 @@ description: Invited speakers for ANAH-AFES symposium- Dr Wasita Parksook
 <p><strong>MD, MSc</strong>
 </p>
 <p>Endocrinologist and Instructor in Medicine at King Chulalongkorn Memorial
-Hospital, Thai Red Cross Society Department of Medicine, Faculty of Medicine,
-Chulalongkorn University, Bangkok, Thailand</p>
+Hospital, Thai Red Cross Society</p>
+<p>Department of Medicine, Faculty of Medicine, Chulalongkorn University,
+Bangkok, Thailand</p>
 <h4>Profile</h4>
 <p>Dr Wasita is an endocrinologist and adrenal specialist in Bangkok. She
 completed her postdoctoral research fellowship at Brigham and Women’s Hospital,

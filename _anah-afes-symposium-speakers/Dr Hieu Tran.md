@@ -11,9 +11,9 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Hieu Tran"
 <p><strong>MD</strong>
 </p>
 <p>Resident physician at the Changi General Hospital - Endocrinology Department
-and Adrenal Hypertension Centre</p>
+and Adrenal Hypertension Centre, Singapore</p>
 <p>PhD candidate in Clinical and Translational Science at Duke-NUS Medical
-School</p>
+School, Singapore</p>
 <h4>Profile</h4>
 <p>Dr. Hieu Tran is an endocrinologist at Vietnam’s University Medical Center,
 Ho Chi Minh City, with great interest in adrenal–pituitary disorders. She

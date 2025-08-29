@@ -1,5 +1,5 @@
 ---
-title: Assoc Prof Cheng Hsuan Tsai
+title: AProf Cheng Hsuan Tsai
 permalink: /anah-afes-symposium-2025/aprof-cheng-hsuan-tsai/
 variant: tiptap
 description: Invited Speakers for ANAH-AFES symposium 2025- A/Prof Cheng-Hsuan Tsai
@@ -11,7 +11,7 @@ description: Invited Speakers for ANAH-AFES symposium 2025- A/Prof Cheng-Hsuan T
 <p><strong>MD</strong>
 </p>
 <p>Division of Cardiology, Department of Internal Medicine, National Taiwan
-University Hospital</p>
+University Hospital, Taiwan</p>
 <h4>Profile</h4>
 <p>Cheng-Hsuan Tsai, MD, is a cardiologist and Assistant Professor at National
 Taiwan University Hospital. His research centers on aldosterone physiology,

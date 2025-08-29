@@ -1,8 +1,8 @@
 ---
 title: Dr Eng Pei Chia
-permalink: /anah-masterclass-2025/dr-eng-pei-chia/
+permalink: /anah-afes-symposium-2025/dr-eng-pei-chia/
 variant: tiptap
-description: Invited speakers for ANAH-AFES symposium- Dr Eng Pei Chia
+description: "Invited speakers for ANAH-AFES symposium: Dr Eng Pei Chia"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -12,7 +12,7 @@ description: Invited speakers for ANAH-AFES symposium- Dr Eng Pei Chia
 <p><strong>PhD (Imperial College London), MRCP (London), MBBS, BSc (Pharmacy)</strong>
 </p>
 <p>Consultant, Division of Endocrinology, Medicine, National University Hospital
-Singapore (NUHS)</p>
+Singapore (NUHS), Singapore</p>
 <h4>Profile</h4>
 <p>Dr. Eng is a Consultant Endocrinologist at the National University Hospital
 (NUH) and the clinical lead for postpartum gestational diabetes (GDM) care

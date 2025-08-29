@@ -8,7 +8,7 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Mai Trong Tri"
 <img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Invited Speakers: Dr Mai Trong Tri" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Mai_Trong_Tri.png">
 </div>
 <h3>Dr Mai Trong Tri</h3>
-<p><strong>MD, MSc</strong>
+<p><strong>MD</strong>
 </p>
 <p>Dept of Endocrinology.&nbsp;People’s Hospital 115, Ho Chi Minh City, Vietnam</p>
 <h4>Profile</h4>

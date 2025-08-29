@@ -1,8 +1,8 @@
 ---
 title: Prof Dr Norlela Sukor
-permalink: /anah-masterclass-2025/prof-dr-norlela-sukor/
+permalink: /anah-afes-symposium-2025/prof-dr-norlela-sukor/
 variant: tiptap
-description: Invited Speakers for ANAH-AFES symposium- Prof Dr Norlela Sukor
+description: "Invited Speakers for ANAH-AFES symposium: Prof Dr Norlela Sukor"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png">

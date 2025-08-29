@@ -1,8 +1,8 @@
 ---
 title: Dr Loh Huai Heng
-permalink: /anah-masterclass-2025/dr-loh-huai-heng/
+permalink: /anah-afes-symposium-2025/dr-loh-huai-heng/
 variant: tiptap
-description: Invited speakers for ANAH-AFES symposium 2025- Dr Loh Huai Heng
+description: "Invited speakers for ANAH-AFES symposium 2025: Dr Loh Huai Heng"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass 2025 Speaker- Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/anah_masterclass_2025__prof_dr_loh_huai_heng.png">
@@ -12,7 +12,7 @@ description: Invited speakers for ANAH-AFES symposium 2025- Dr Loh Huai Heng
 </p>
 <p>Senior Clinical Lecturer and Consultant Endocrinologist</p>
 <p>Department of Medicine, Faculty of Medicine and Health Sciences, Universiti
-Malaysia Sarawak (UNIMAS)</p>
+Malaysia Sarawak (UNIMAS), Malaysia</p>
 <p></p>
 <h4>Profile</h4>
 <p>Dr Loh Huai Heng is a Consultant Endocrinologist and Senior Clinical Lecturer

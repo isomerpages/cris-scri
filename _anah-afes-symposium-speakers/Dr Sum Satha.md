@@ -1,8 +1,8 @@
 ---
 title: Dr Sum Satha
-permalink: /anah-masterclass-2025/dr-sum-satha/
+permalink: /anah-afes-symposium-2025/dr-sum-satha/
 variant: tiptap
-description: Moderator for ANAH-AFES symposium 2025- Dr Sum Satha
+description: "ANAH-AFES symposium 2025 Session Chair: Dr Sum Satha"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Session Chair- Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png">

@@ -1,5 +1,5 @@
 ---
-title: Contact for this event
+title: Contact
 permalink: /contact-for-anah-masterclass-2025/
 variant: tiptap
 description: ""
