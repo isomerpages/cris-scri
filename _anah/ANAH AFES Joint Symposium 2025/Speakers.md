@@ -80,11 +80,11 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-hieu-tran/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Dr Hieu Tran" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Hieu_Tran.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Dr Tran Thi Ngoc Hieu" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Hieu_Tran.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Hieu Tran</div>
+<div class="isomer-card-title">Dr Tran Thi Ngoc Hieu</div>
 <div class="isomer-card-description">MD</div>
 <div class="isomer-card-link">Speaker profile</div>
 </div>
