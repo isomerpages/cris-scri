@@ -20,7 +20,7 @@ in cardiovascular health outcomes across the Asia-Pacific region.</p>
 </p>
 <p></p>
 <h3>Publications</h3>
-<p><strong>Joint Publication in Journals of the American College of Cardiology (JACC) Asia and Journal of Asian Pacific Society of Cardiology (JAPSC)</strong>
+<p><strong>Joint Publication in <em>Journal of the American College of Cardiology (JACC) Asi</em>a and <em>Journal of Asian Pacific Society of Cardiology (JAPSC)</em></strong>
 </p>
 <p>The ASPIRE Network has published a special communications article published
 jointly in both JAPSC and JACC Asia.</p>
