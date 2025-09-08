@@ -31,11 +31,6 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="width:25%">
-				<img src="/images/Leadership/Board%20Oversight%20Committee/tan_ker_kan.png">
-				<b>Assoc Prof Tan Ker Kan</b>
-				<br><br>Vice Chairman<br>(Research)<br>National University Hospital Medical Board
-			</td>
-			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof_lim_soon_thye.png">
 				<b>Prof Lim Soon Thye</b>
 				<br><br>Deputy Group CEO<br>(Clinical)<br>SingHealth
