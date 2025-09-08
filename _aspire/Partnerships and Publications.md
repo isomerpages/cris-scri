@@ -29,7 +29,7 @@ jointly in both JAPSC and JACC Asia.</p>
 <p>• Facilitate multi-centre clinical research collaboration</p>
 <p>• Empower more APAC-led cardiovascular trials that truly represent our
 populations</p>
-<p>Read the full article in</p>
+<p>Read the full article in:</p>
 <p>JAPSC: <a href="https://doi.org/10.15420/japsc.2025.33" rel="noopener noreferrer nofollow" target="_blank"><u>https://doi.org/10.15420/japsc.2025.33</u></a>
 </p>
 <p>JACC Asia: <a href="https://www.jacc.org/doi/10.1016/j.jacasi.2025.05.019" rel="noopener nofollow" target="_blank">https://www.jacc.org/doi/10.1016/j.jacasi.2025.05.019</a>
