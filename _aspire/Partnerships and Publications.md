@@ -24,7 +24,7 @@ in cardiovascular health outcomes across the Asia-Pacific region.</p>
 </p>
 <p>The ASPIRE Network has published a special communications article published
 jointly in both JAPSC and JACC Asia.</p>
-<p>Our article outlines ASPIRE's commitment to:</p>
+<p>The article outlines ASPIRE's commitment to:</p>
 <p>• Address the unique cardiovascular challenges facing our APAC communities</p>
 <p>• Facilitate multi-centre clinical research collaboration</p>
 <p>• Empower more APAC-led cardiovascular trials that truly represent our
