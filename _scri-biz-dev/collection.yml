@@ -1,4 +1,5 @@
 collections:
   scri-biz-dev:
     output: true
-    order: []
+    order:
+      - SCRI Infographics.md
