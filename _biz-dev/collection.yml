@@ -1,5 +1,5 @@
 collections:
-  scri-biz-dev:
+  biz-dev:
     output: true
     order:
       - SCRI Infographics.md
