@@ -4,3 +4,4 @@ permalink: /scri-infographics/
 variant: tiptap
 description: ""
 ---
+<p></p>
