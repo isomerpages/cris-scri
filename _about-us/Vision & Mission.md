@@ -7,7 +7,7 @@ variant: markdown
 Vision
 ------
 
-Leading Singapore to a healthier future through groundbreaking clinical research and innovation
+To be a leading centre and lead Singapore to a healthier future through groundbreaking clinical research and innovation
 
 Mission
 -------

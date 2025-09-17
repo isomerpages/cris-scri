@@ -27,4 +27,13 @@ Indonesia, South Korea, Hong Kong, Malaysia and Taiwan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /aspire launch 18 apr 2025.png">
 </div>
+<h4>Network Dinner Meeting in Madrid - August 2025</h4>
+<p>Members of the ASPIRE Network came together for an in-person meeting to
+discuss project directions such as heart failure, AMI registry networks
+as well as potential collaborations with partners in Asia. Meaningful connections
+were forged during a dinner get-together afterwards.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Network_Dinner_Meeting__30_August_2025__Madrid_.png">
+</div>
 <p></p>
