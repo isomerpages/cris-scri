@@ -278,7 +278,7 @@ to access our registration form.</p>
 <p>Full Price</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$5,250</p>
+<p>$5,513</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ to access our registration form.</p>
 (After subsidy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$580</p>
+<p>$660</p>
 </td>
 </tr>
 </tbody>
