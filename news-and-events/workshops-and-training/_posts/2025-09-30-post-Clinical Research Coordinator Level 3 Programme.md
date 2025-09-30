@@ -1,7 +1,7 @@
 ---
 title: Clinical Research Coordinator Level 3 Programme
 permalink: /news-and-events/workshops-and-training/clinical-research-coordinator-level-3-programme/
-date: 2024-03-26
+date: 2025-09-30
 layout: post
 description: ""
 image: ""
@@ -278,7 +278,7 @@ to access our registration form.</p>
 <p>Full Price</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$5,250</p>
+<p>$5,513</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ to access our registration form.</p>
 (After subsidy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$580</p>
+<p>$660</p>
 </td>
 </tr>
 </tbody>
@@ -297,7 +297,7 @@ to access our registration form.</p>
 <p>Participants who successfully completed all modules of this programme
 with at least 75% class attendance will receive a Certificate of Completion
 (CRC Level 3 Programme) from SCRI Academy.</p>
-<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L3_Programme_brochure_V2_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To download the programme brochure, please click <a href="/files/Resources/Workshops And Training/CRC_L3_Programme_brochure_V2_7.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacademy@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg</a>.</p>
