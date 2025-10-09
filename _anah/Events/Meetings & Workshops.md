@@ -17,8 +17,8 @@ in pheochromocytoma and paraganglioma".</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_IDEC___24_Aug_2025.png">
 </div>
-<p></p>
-<p></p>
+<p>Click <a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fyoutu.be%2fDb50gNOxbDs%3fsi%3dHouuif1DjreZv2fu&amp;umid=CCF6018A-4037-5206-8F63-8E6550078B47&amp;auth=47c05c838325d75a419a880435ac0d2beef06415-38f3ba6253c9837a8c1fc3d7f007b9808af0a36e" rel="noopener nofollow" target="_blank">her</a> to
+access video recording of Dr Puar's and Prof Leilani's presentations.</p>
 <h4><strong>Inaugural Annual General Meeting at Bangkok, 18 November 2023</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/Picture_1.jpg">
