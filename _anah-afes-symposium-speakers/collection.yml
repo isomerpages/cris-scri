@@ -2,8 +2,6 @@ collections:
   anah-afes-symposium-speakers:
     output: true
     order:
-      - Dr Nguyen Quang Bay.md
-      - Prof Than Than Aye.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William Young.md
@@ -23,4 +21,6 @@ collections:
       - Dr Tran Thi Ngoc Hieu.md
       - AProf Cheng Hsuan Tsai.md
       - Dr Sum Satha.md
+      - Dr Nguyen Quang Bay.md
+      - Prof Than Than Aye.md
       - Prof Vincent Wu.md
