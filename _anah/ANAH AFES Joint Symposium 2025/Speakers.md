@@ -150,18 +150,18 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-nguyen-quang-bay/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Panelist: Dr Nguyen Quang Bay" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Nguyen_Quang_Bay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Nguyen Quang Bay</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Panelist profile</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-tran-huu-dang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Session Chairs: Prof Tran Huu Dang" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Tran_Huu_Dang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tran Huu Dang</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Session Chair profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-tran-thi-ngoc-hieu/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-vin-cent-wu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Panelist: Prof Vin-Cent Wu" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Vincent_Wu.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Vin-Cent Wu</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Panelist profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-tran-huu-dang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Session Chair: Dr Tran Thi Ngoc Hieu" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Hieu_Tran.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Session Chairs: Prof Tran Huu Dang" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Tran_Huu_Dang.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Tran Thi Ngoc Hieu</div>
-<div class="isomer-card-description">MD</div>
+<div class="isomer-card-title">Prof Tran Huu Dang</div>
+<div class="isomer-card-description">MD, PhD</div>
 <div class="isomer-card-link">Session Chair profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-tran-thi-ngoc-hieu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Session Chair: Dr Tran Thi Ngoc Hieu" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Hieu_Tran.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tran Thi Ngoc Hieu</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Session Chair profile</div></div></a>
 </div>
 <p></p>
