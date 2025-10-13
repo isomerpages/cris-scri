@@ -25,5 +25,6 @@ benefiting from, and contributing to, research into their own hypertension-
 culminating in her first publication in the New England Journal of Medicine
 in 2015.</p>
 <p></p>
+<p></p>
 <p>[Taken from the SingHealth Duke-NUS Scientific Congress 2023]</p>
 <p></p>
