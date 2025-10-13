@@ -5,20 +5,21 @@ variant: tiptap
 description: Invited Speakers for ANAH-AFES Joint Symposium 2025
 third_nav_title: ANAH AFES Joint Symposium 2025
 ---
-<h4>Invited Speakers</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Troy Puar</div><div class="isomer-card-description">MBBS, MRCP, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-dr-norlela-sukor" class="isomer-card">
+<h3>Invited Speakers</h3>
+<h4>Pre-Conference | 14 Nov 2025</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-dr-norlela-sukor" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Dr Norlela Sukor</div><div class="isomer-card-description">MD, MMed, PhD, FACE</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-william-young/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof William Young" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_William.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Dr Norlela Sukor</div>
-<div class="isomer-card-description">MD, MMed, PhD, FACE</div>
+<div class="isomer-card-title">Prof William Young</div>
+<div class="isomer-card-description">MD, MSc</div>
 <div class="isomer-card-link">Speaker profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-william-young/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof William Young" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_William.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Young</div><div class="isomer-card-description">MD, MSc</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-loh-huai-heng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/anah_masterclass_2025__prof_dr_loh_huai_heng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Loh Huai Heng</div><div class="isomer-card-description">MBBS, MRCP (UK), FRCP (Edin)</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-gregory-kline/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gregory Kline</div><div class="isomer-card-description">MD, FRCPC</div><div class="isomer-card-link">Speaker profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-austin-yen-hung-lin/" class="isomer-card">
@@ -90,7 +91,6 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-cheng-hsuan-tsai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: A/Prof Cheng-Hsuan Tsai" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Richard_Cai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Cheng-Hsuan Tsai</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
-<h4>Session Chairs</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-tri-juli-tarigan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Session Chair: Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tri Juli Edi Tarigan</div><div class="isomer-card-description">Sp.PD-KEMD, FINASIM</div><div class="isomer-card-link">Session Chair profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-sum-satha/" class="isomer-card">
 <div class="isomer-card-image">
@@ -114,5 +114,36 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 <div class="isomer-card-title"></div>
 </div>
 </div>
+</div>
+<h4><strong>Day 1</strong></h4>
+<p></p>
+<h4><strong>Day 2</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-gregory-kline/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gregory Kline</div><div class="isomer-card-description">MD, FRCPC</div><div class="isomer-card-link">Speaker profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-wasita-w-parksook/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Dr Wasita W Parksook" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Wasita_Parksook.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Wasita W Parksook</div>
+<div class="isomer-card-description">MD, MSc</div>
+<div class="isomer-card-link">Speaker profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speaker &amp; Session Chair: A/Prof Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Troy Puar</div><div class="isomer-card-description">MBBS, MRCP, PhD</div><div class="isomer-card-link">Speaker, Session Chair &amp; Panelist profile</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-austin-yen-hung-lin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Austin Yen-Hung Lin" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Austin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Austin Yen-Hung Lin</div><div class="isomer-card-description">MD, PhD, FESC</div><div class="isomer-card-link">Speaker &amp; Panelist profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-william-young/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Panelist: Prof William Young" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_William.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof William Young</div>
+<div class="isomer-card-description">MD, MSc</div>
+<div class="isomer-card-link">Panelist Profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-nguyen-quang-bay/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Panelist: Dr Nguyen Quang Bay" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Nguyen_Quang_Bay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Nguyen Quang Bay</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Panelist profile</div></div></a>
 </div>
 <p></p>
