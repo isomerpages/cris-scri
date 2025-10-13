@@ -91,6 +91,35 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-cheng-hsuan-tsai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: A/Prof Cheng-Hsuan Tsai" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Richard_Cai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Cheng-Hsuan Tsai</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
+<h4><strong>Day 1</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-gregory-kline/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gregory Kline</div><div class="isomer-card-description">MD, FRCPC</div><div class="isomer-card-link">Speaker &amp; Session Chair</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-guido-di-dalmazi/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH AFES Symposium 2025 Speaker: AProf Guido Di Dalmazi" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Guido.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A/Prof Guido Di Dalmazi</div>
+<div class="isomer-card-description">MD</div>
+<div class="isomer-card-link">Speaker profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-do-duc-minh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: AProf Do Duc Minh" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Minh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Do Duc Minh</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Speaker profile</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-tri-juli-tarigan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Session Chair: Dr Tri Juli Tarigan" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass_2025__Dr_Tri_Juli_Edi_Tarigan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tri Juli Edi Tarigan</div><div class="isomer-card-description">Sp.PD-KEMD, FINASIM</div><div class="isomer-card-link">Session Chair profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-sum-satha/" class="isomer-card">
 <div class="isomer-card-image">
@@ -114,35 +143,6 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 <div class="isomer-card-title"></div>
 </div>
 </div>
-</div>
-<h4><strong>Day 1</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
