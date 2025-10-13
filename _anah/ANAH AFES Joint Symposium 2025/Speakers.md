@@ -35,21 +35,22 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-leilani-b-mercado-asis/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Leilani B. Mercado-Asis" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Leilani.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Leilani B. Mercado-Asis</div><div class="isomer-card-description">MD, PhD, MPH, MEd(DE)</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-nguyen-quang-bay/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Session Chair: Dr Nguyen Quang Bay" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Nguyen_Quang_Bay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Nguyen Quang Bay</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Session Chair profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-than-than-aye/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Session Chair: Prof Than Than Aye" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Than_Than_Aye.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Prof Than Than Aye</div>
+<div class="isomer-card-description">MBBS, MMed Sc (Intestinal Medicine), MRCP (Edin.), FRCS (Edin.), FRCP
+(London), Dr.Med Sc (Gen.Medicine)</div>
+<div class="isomer-card-link">Session Chair profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Session Chair: Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Session Chair profile</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-ada-teo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -61,7 +62,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 <div class="isomer-card-description">MBBChir(Cambridge), MRCP(UK), MMed(Int Med), PhD(Cambridge)</div>
 <div class="isomer-card-link">Session Chair profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/white_placeholder.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
 </div>
 <h4>Day 1 | 15 Nov 2025</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-gregory-kline/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gregory Kline</div><div class="isomer-card-description">MD, FRCPC</div><div class="isomer-card-link">Speaker &amp; Session Chair</div></div></a>
