@@ -6,7 +6,7 @@ description: Invited Speakers for ANAH-AFES Joint Symposium 2025
 third_nav_title: ANAH AFES Joint Symposium 2025
 ---
 <h3>Invited Speakers</h3>
-<h4>Pre-Conference | 14 Nov 2025</h4>
+<h4>Pre-Conference  |  14 Nov 2025</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-dr-norlela-sukor" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Dr Norlela Sukor</div><div class="isomer-card-description">MD, MMed, PhD, FACE</div><div class="isomer-card-link">Speaker profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-william-young/" class="isomer-card">
 <div class="isomer-card-image">
@@ -91,7 +91,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-cheng-hsuan-tsai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: A/Prof Cheng-Hsuan Tsai" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Richard_Cai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Cheng-Hsuan Tsai</div><div class="isomer-card-description">MD</div><div class="isomer-card-link">Speaker profile</div></div></a>
 </div>
-<h4><strong>Day 1 | 15 Nov 2025</strong></h4>
+<h4><strong>Day 1  |  15 Nov 2025</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-gregory-kline/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gregory Kline</div><div class="isomer-card-description">MD, FRCPC</div><div class="isomer-card-link">Speaker &amp; Session Chair</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-guido-di-dalmazi/" class="isomer-card">
 <div class="isomer-card-image">
@@ -148,7 +148,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Session Chair: Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Session Chair profile</div></div></a>
 </div>
-<h4><strong>Day 2 | 16 Nov 2025</strong></h4>
+<h4><strong>Day 2  |  16 Nov 2025</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-gregory-kline/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Gregory Kline" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Gregory.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Gregory Kline</div><div class="isomer-card-description">MD, FRCPC</div><div class="isomer-card-link">Speaker profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-wasita-w-parksook/" class="isomer-card">
 <div class="isomer-card-image">
