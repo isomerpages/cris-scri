@@ -2,6 +2,7 @@ collections:
   anah-afes-symposium-speakers:
     output: true
     order:
+      - Prof Than Than Aye.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William Young.md
