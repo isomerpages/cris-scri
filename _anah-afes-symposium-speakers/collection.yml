@@ -2,7 +2,6 @@ collections:
   anah-afes-symposium-speakers:
     output: true
     order:
-      - Prof Vincent Wu.md
       - Dr Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William Young.md
@@ -22,3 +21,4 @@ collections:
       - Dr Tran Thi Ngoc Hieu.md
       - AProf Cheng Hsuan Tsai.md
       - Dr Sum Satha.md
+      - Prof Vincent Wu.md
