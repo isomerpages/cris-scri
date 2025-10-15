@@ -134,7 +134,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 <div class="isomer-card-description">MD, MSc</div>
 <div class="isomer-card-link">Speaker &amp; Session Chair profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speaker &amp; Session Chair: A/Prof Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Troy Puar</div><div class="isomer-card-description">MBBS, MRCP, PhD</div><div class="isomer-card-link">Speaker, Session Chair &amp; Panelist profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/aprof-troy-puar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Speaker &amp; Session Chair: A/Prof Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Troy Puar</div><div class="isomer-card-description">MBBS(NUS), MRCP(UK), PhD(NUS)</div><div class="isomer-card-link">Speaker, Session Chair &amp; Panelist profile</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-austin-yen-hung-lin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium Speaker: Prof Austin Yen-Hung Lin" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Prof_Austin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Austin Yen-Hung Lin</div><div class="isomer-card-description">MD, PhD, FESC</div><div class="isomer-card-link">Speaker &amp; Panelist profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-william-young/" class="isomer-card">
@@ -145,7 +145,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof William Young</div>
-<div class="isomer-card-description">MD, MSc</div>
+<div class="isomer-card-description">MD(MSU), MSc(UMN)</div>
 <div class="isomer-card-link">Panelist Profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-nguyen-quang-bay/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Symposium Panelist: Dr Nguyen Quang Bay" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Nguyen_Quang_Bay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Nguyen Quang Bay</div><div class="isomer-card-description">MD, PhD</div><div class="isomer-card-link">Panelist profile</div></div></a>
