@@ -13,18 +13,14 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Ada Teo"
 <p>Associate Consultant, Division of Endocrinology, Department of Medicine,
 National University Health Systems (NUHS), Singapore</p>
 <h4>Profile</h4>
-<p>Having completed the Cambridge MB-PhD programme under the Agency for Science,
-Technology and Research (A*STAR), Dr Ada Teo is currently a Senior Resident
-at National University Hospital. She has also been appointed Clinical Lecturer
-under the NUS Clinical Faculty Scheme. Her research is focused on the molecular
-genetics of hypertension, in particular aldosterone-producing adenomas.
-This led to the discovery of a subtype of adenomas with hallmark somatic
-mutations and a genotype-phenotype correlation. This work enabled both
-clinical insight and research expertise to be intertwined, with patients
-benefiting from, and contributing to, research into their own hypertension-
-culminating in her first publication in the New England Journal of Medicine
-in 2015.</p>
-<p></p>
-<p></p>
-<p>[Taken from the SingHealth Duke-NUS Scientific Congress 2023]</p>
+<p>Having completed the Cambridge MB-PhD programme, Dr Ada Teo is currently
+an Associate Consultant in Endocrinology at National University Hospital
+Singapore. Her research focuses on the molecular genetics of endocrine
+hypertension, particularly primary aldosteronism. This led to the observation
+of a genotype-phenotype correlation in aldosterone-producing adenomas and
+subsequent discovery of a novel subtype with hallmark somatic mutations <em>(First-author publication in NEJM, 2015)</em>.
+This work intertwines research with clinical insight, empowering patients
+to contribute to hypertension research while concurrently improving patient
+care. Her recent review on molecular imaging in primary aldosteronism was
+recently published in JCEM in July 2025.</p>
 <p></p>
