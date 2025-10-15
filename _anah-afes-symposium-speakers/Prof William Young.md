@@ -13,7 +13,7 @@ description: "Invited Speakers for ANAH-AFES symposium: Prof William Young"
 <p>Tyson Family Endocrinology</p>
 <p>Clinical Professor and Professor of Medicine</p>
 <p>Mayo Clinic College of Medicine and Science, Minnesota, USA</p>
-<h4><strong>Profile</strong></h4>
+<h4>Profile</h4>
 <p>William F. Young, Jr., M.D., is the Tyson Family Endocrinology Clinical
 Professor and Professor of Medicine in the Mayo Clinic College of Medicine
 at Mayo Clinic in Rochester, Minnesota, USA. He is the recipient of multiple
