@@ -7,7 +7,7 @@ description: Invited Speakers for ANAH-AFES symposium 2025- A/Prof Cheng-Hsuan T
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025: A/Prof Cheng-Hsuan Tsai" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/AProf_Richard_Cai.png">
 </div>
-<h3>A/Prof Cheng-Hsuan Tsai</h3>
+<h3>Asst Prof Cheng-Hsuan Tsai</h3>
 <p><strong>MD</strong>
 </p>
 <p>Division of Cardiology, Department of Internal Medicine, National Taiwan
