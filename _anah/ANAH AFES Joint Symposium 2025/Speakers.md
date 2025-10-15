@@ -7,7 +7,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 ---
 <h3>Invited Speakers</h3>
 <h4>Pre-Conference | 14 Nov 2025</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-dr-norlela-sukor" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Dr Norlela Sukor</div><div class="isomer-card-description">MD, MMed, PhD, FACE</div><div class="isomer-card-link">Speaker &amp; Session Chair profile</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-dr-norlela-sukor" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Prof Dr Norlela Sukor" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Norlela.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Dr Norlela Sukor</div><div class="isomer-card-description">MD(USM), MMed(UKM), PhD(QLD), FACE(USA)</div><div class="isomer-card-link">Speaker &amp; Session Chair profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/prof-william-young/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -16,7 +16,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof William Young</div>
-<div class="isomer-card-description">MD, MSc</div>
+<div class="isomer-card-description">MD(MSU), MSc(UMN)</div>
 <div class="isomer-card-link">Speaker profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-loh-huai-heng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Speaker: Dr Loh Huai Heng" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/anah_masterclass_2025__prof_dr_loh_huai_heng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Loh Huai Heng</div><div class="isomer-card-description">MBBS, MRCP (UK), FRCP (Edin)</div><div class="isomer-card-link">Speaker profile</div></div></a>
