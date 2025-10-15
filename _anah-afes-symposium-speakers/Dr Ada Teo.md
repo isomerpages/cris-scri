@@ -10,8 +10,8 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Ada Teo"
 <h3>Dr Ada Teo</h3>
 <p><strong>MBBChir (Cambridge), MRCP (UK), MMed (Int Med), PhD (Cambridge)</strong>
 </p>
-<p><strong>Associate Consultant, Division of Endocrinology, NUHS</strong>
-</p>
+<p>Associate Consultant, Division of Endocrinology, Department of Medicine,
+National University Health Systems (NUHS), Singapore</p>
 <h4>Profile</h4>
 <p>Having completed the Cambridge MB-PhD programme under the Agency for Science,
 Technology and Research (A*STAR), Dr Ada Teo is currently a Senior Resident
