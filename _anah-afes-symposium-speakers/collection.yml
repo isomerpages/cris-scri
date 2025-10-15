@@ -2,7 +2,7 @@ collections:
   anah-afes-symposium-speakers:
     output: true
     order:
-      - Dr Troy Puar.md
+      - Asst Prof Troy Puar.md
       - Prof Dr Norlela Sukor.md
       - Prof William Young.md
       - Prof Gregory Kline.md
@@ -19,5 +19,10 @@ collections:
       - Prof Sharmin Jahan.md
       - Dr Mai Trong Tri.md
       - Dr Tran Thi Ngoc Hieu.md
-      - AProf Cheng Hsuan Tsai.md
+      - Asst Prof Cheng Hsuan Tsai.md
       - Dr Sum Satha.md
+      - Dr Nguyen Quang Bay.md
+      - Prof Than Than Aye.md
+      - Prof Vincent Wu.md
+      - Prof Tran Huu Dang.md
+      - Dr Ada Teo.md

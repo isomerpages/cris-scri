@@ -1,6 +1,6 @@
 ---
 title: Dr Wasita W Parksook
-permalink: /anah-afes-symposium-2025/dr-wasita-parksook/
+permalink: /anah-afes-symposium-2025/dr-wasita-w-parksook/
 variant: tiptap
 description: Invited speakers for ANAH-AFES symposium- Dr Wasita W. Parksook
 ---

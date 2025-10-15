@@ -13,6 +13,7 @@ description: "Invited speakers for ANAH-AFES symposium 2025: Dr Loh Huai Heng"
 <p>Senior Clinical Lecturer and Consultant Endocrinologist</p>
 <p>Department of Medicine, Faculty of Medicine and Health Sciences, Universiti
 Malaysia Sarawak (UNIMAS), Malaysia</p>
+<p>Universiti Kebangsaan Malaysia</p>
 <p></p>
 <h4>Profile</h4>
 <p>Dr Loh Huai Heng is a Consultant Endocrinologist and Senior Clinical Lecturer

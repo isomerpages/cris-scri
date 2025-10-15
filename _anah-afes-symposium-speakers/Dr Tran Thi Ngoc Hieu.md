@@ -1,6 +1,6 @@
 ---
 title: Dr Tran Thi Ngoc Hieu
-permalink: /anah-afes-symposium-2025/dr-hieu-tran/
+permalink: /anah-afes-symposium-2025/dr-tran-thi-ngoc-hieu/
 variant: tiptap
 description: "Invited Speakers for ANAH-AFES symposium 2025: Dr Tran Thi Ngoc Hieu"
 ---

@@ -1,13 +1,13 @@
 ---
-title: Dr Troy Puar
-permalink: /anah-afes-symposium-2025/dr-troy-puar/
+title: Asst Prof Troy Puar
+permalink: /anah-afes-symposium-2025/asst-prof-troy-puar/
 variant: tiptap
-description: "Invited Speakers for ANAH-AFES symposium: Dr Troy Puar"
+description: "Invited Speakers for ANAH-AFES symposium: Asst Prof Troy Puar"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png">
 </div>
-<h4>Dr Troy Puar</h4>
+<h4>Asst Prof Troy Puar</h4>
 <p><strong>MBBS (NUS), MRCP (UK), PhD (NUS)</strong>
 </p>
 <p>President, ASEAN Network of Adrenal Hypertension (ANAH)</p>
@@ -17,7 +17,7 @@ Centre, Changi General Hospital, SingHealth, Singapore</p>
 <p>Executive Committee (EXCO) Member, Singapore Hypertension Society
 <br>
 </p>
-<h4><strong>Profile</strong></h4>
+<h4>Profile</h4>
 <p>Dr Troy Puar is an Endocrinologist at Changi General Hospital (CGH), Singapore.
 He completed his medical degree and specialist training in Singapore, before
 completing a year-long fellowship at Radboud University Medical Centre,

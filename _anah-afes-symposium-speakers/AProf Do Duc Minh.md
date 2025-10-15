@@ -1,6 +1,6 @@
 ---
 title: AProf Do Duc Minh
-permalink: /anah-afes-symposium-2025/a-prof-do-duc-minh/
+permalink: /anah-afes-symposium-2025/aprof-do-duc-minh/
 variant: tiptap
 description: "Invited speakers for ANAH-AFES symposium: A/Prof Do Duc Minh"
 ---
@@ -12,7 +12,7 @@ description: "Invited speakers for ANAH-AFES symposium: A/Prof Do Duc Minh"
 </p>
 <p>Center for Molecular Biomedicine, University of Medicine and Pharmacy
 at Ho Chi Minh City, Vietnam</p>
-<h4><strong>Profile</strong></h4>
+<h4>Profile</h4>
 <p>Dr. Minh Duc Do is a physician specializing in endocrinology and he was
 also trained in laboratory work in the field of genetics/genomics. With
 two decades of learning and practice, Dr. Minh has tried to understand
