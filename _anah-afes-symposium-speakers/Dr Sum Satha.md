@@ -14,7 +14,7 @@ description: "ANAH-AFES symposium 2025 Session Chair: Dr Sum Satha"
 <p>Endocrinology (France)</p>
 <p>Chief of Internal Medicine Unit</p>
 <p>Calmette Hospital,&nbsp;Phnom Penh, Cambodia</p>
-<h4><strong>Profile&nbsp;</strong></h4>
+<h4>Profile&nbsp;</h4>
 <p>Dr Sum Satha is a Senior Endocrinologist at the Calmette Hospital. He
 serve as the President of Cambodian Association of Diabetes and Endocrine
 Technology. Dr Satha is also a Fellow of American College of Endocrinology.</p>
