@@ -7,7 +7,7 @@ description: "Invited Speakers for ANAH-AFES symposium: A/Prof Troy Puar"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ANAH Masterclass Speaker- Dr Troy Puar" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/Dr_Troy.png">
 </div>
-<h4>A/Prof Troy Puar</h4>
+<h4>Asst Prof Troy Puar</h4>
 <p><strong>MBBS (NUS), MRCP (UK), PhD (NUS)</strong>
 </p>
 <p>President, ASEAN Network of Adrenal Hypertension (ANAH)</p>
