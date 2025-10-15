@@ -116,7 +116,7 @@ third_nav_title: ANAH AFES Joint Symposium 2025
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof William Young</div>
-<div class="isomer-card-description">MD, MSc</div>
+<div class="isomer-card-description">MD(MSU), MSc(UMN)</div>
 <div class="isomer-card-link">Session Chair profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/anah-afes-symposium-2025/dr-sum-satha/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANAH-AFES Joint Symposium 2025 Session Chair: Dr Sum Satha" src="/images/ANAH ASEAN Network of Adrenal/ANAH AFES Masterclass 2025/ANAH_Masterclass__Dr_Sum_Satha.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sum Satha</div><div class="isomer-card-description">MD, FACE</div><div class="isomer-card-link">Session Chair profile</div></div></a>
