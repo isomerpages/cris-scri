@@ -24,10 +24,10 @@ in 2014. After retirement, she continued her medical practice at private
 hospitals, including Bahosi Hospital and Grand Hantha International Hospital.</p>
 <p>Furthermore, she assumed the role of President of MSEM and successfully
 organized the AFES 2017 Congress in Myanmar while she took the role of
-the president of Myanmar Society of Endocrine and metabolism (MSEM) . Her
+the president of Myanmar Society of Endocrine and metabolism (MSEM). Her
 particular areas of expertise are in Diabetology, Thyroidology, and common
 endocrine disorders in Myanmar apart from internal medicine as a whole.
-She is now taking the role of President of Myanmar Diabetes Association
+She is now undertaking the role of President of Myanmar Diabetes Association
 (MMDA). She has authored numerous scientific papers, review articles, and
 case reports in the field of endocrinology, as well as general medicine,
 published in both national (MMJ) and international journals, JAFES, Journal
