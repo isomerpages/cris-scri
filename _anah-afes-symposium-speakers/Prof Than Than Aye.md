@@ -10,7 +10,7 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Prof Than Than Aye"
 <h3>Prof Than Than Aye</h3>
 <p><strong>MBBS, MMed Sc (Intestinal Medicine), MRCP (Edin.), FRCS (Edin.), FRCP (London) <a href="http://Dr.Med" rel="noopener noreferrer nofollow" target="_blank">Dr.Med</a> Sc (Gen.Medicine)</strong>
 </p>
-<p>Consultant Endocrinologist at Grand Hantha International Hoapital, Yangon.</p>
+<p>Consultant Endocrinologist at Grand Hantha International Hospital, Yangon.</p>
 <p>Professor Emeritus at University of Medicine 2, Yangon, Myanmar</p>
 <p>President Of Myanmar Diabetes Association (MMDA)</p>
 <p>Patron of Myanmar Society of Endocrine and metabolism (MSEM)</p>
