@@ -13,7 +13,7 @@ description: "Invited Speakers for ANAH-AFES symposium 2025: Prof Than Than Aye"
 <p>Consultant Endocrinologist at Grand Hantha International Hospital, Yangon</p>
 <p>Professor Emeritus at University of Medicine 2, Yangon, Myanmar</p>
 <p>President Of Myanmar Diabetes Association (MMDA)</p>
-<p>Patron of Myanmar Society of Endocrine and metabolism (MSEM)</p>
+<p>Patron of Myanmar Society of Endocrine and Metabolism (MSEM)</p>
 <h4>Profile</h4>
 <p>She received training in Diabetes and Endocrinology at the Royal Infirmary
 of Edinburgh and Hull Royal Infirmary Hospitals. Throughout her career,
