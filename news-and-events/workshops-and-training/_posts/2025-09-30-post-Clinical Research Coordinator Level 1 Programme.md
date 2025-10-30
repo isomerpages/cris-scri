@@ -356,11 +356,11 @@ modules and quizzes by the end of their respective programme intakes.</p>
 minimum technical requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Use of PC or Laptop for MCQ Examination, as the system is not compatible
-on Mobile devices (e.g. mobile phone or tablets). You are also strongly
-encouraged to access the Zoom virtual class via a PC or Laptop for better
-learning experience as you need to refer to the training handouts while
-attending the class.</p>
+<p>Use of PC or Laptop for Examination, as the system is not compatible on
+Mobile devices (e.g. mobile phone or tablets). You are also strongly encouraged
+to access the Zoom virtual class via a PC or Laptop for better learning
+experience as you need to refer to the training handouts while attending
+the class.</p>
 </li>
 <li>
 <p>Stable internet connection (3G or 4G/LTE), with minimum bandwidth of 600kbps
