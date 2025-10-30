@@ -66,9 +66,7 @@ variant: tiptap
 <p>June Intake</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Class 2A: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
-</p>
-<p><strong><em>Class 2B: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+<p><em>16 weeks E-learning + 3-day In-person tutorial session</em>
 </p>
 </td>
 </tr>
