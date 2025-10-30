@@ -72,19 +72,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Course Location</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
-<p><em>(Kindly note the course location may be subjected to changes.)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Registration Period</strong>
 </p>
 </td>
