@@ -41,12 +41,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Click </em><a href="/files/Resources/Workshops And Training/L1_Programme_Schedules_2026_Jan_intake.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>From 9:00am to 6:00pm</p>
 </td>
 </tr>
@@ -61,9 +55,9 @@ variant: tiptap
 <p>January Intake</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Class 1A: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+<p><em>16 weeks E-learning + 3-day In-person tutorial session</em>
 </p>
-<p><strong><em>Class 1B: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+<p><em>Click </em><a href="/files/Resources/Workshops And Training/L1_Programme_Schedules_2026_Jan_intake.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
 </p>
 </td>
 </tr>
@@ -72,28 +66,7 @@ variant: tiptap
 <p>June Intake</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Class 2A: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
-</p>
-<p><strong><em>Class 2B: </em></strong><em>16 weeks E-learning + 4-half day virtual* tutorial session</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><em>*Training delivery for Virtual tutorial session would differ from physical tutorial session with adjustment made to suit the online format.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Course Location</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
-<p><em>(Kindly note the course location may be subjected to changes.)</em>
+<p><em>16 weeks E-learning + 3-day In-person tutorial session</em>
 </p>
 </td>
 </tr>
@@ -108,7 +81,7 @@ variant: tiptap
 <p>For every January Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 October to 30 October</p>
+<p>01 October to 31 October</p>
 </td>
 </tr>
 <tr>
@@ -133,17 +106,16 @@ variant: tiptap
 <li>
 <p>The Clinical Research Coordinator (CRC) is a specialised research professional
 working with the research investigator to ensure smooth progress of the
-research project. The CRC Level 1 Programme (Blended) is designed for CRCs
-with at least one year of experience and who are interested in gaining
-knowledge about coordinating clinical research. The programme offers a
-comprehensive introduction to the operations of clinical research at site
-and practical, hands-on training through the blended learning approach
-to provide flexible and effective learning. Participants will self-learn
-through the interactive study materials, followed by face-to-face (F2F)
-classroom sessions (in-person or virtual) to reinforce the application
-of core CRC skills through classroom discussions, case scenarios, demonstrations
-and practice-based activities. This programme is also valuable for individuals
-seeking a new career as a CRC.</p>
+research project. The CRC Level 1 Programme is designed for CRCs with at
+least one year of experience and who are interested in gaining knowledge
+about coordinating clinical research. The programme offers a comprehensive
+introduction to the operations of clinical research at site and practical,
+hands-on training through the blended learning approach to provide flexible
+and effective learning. Participants will self-learn through the interactive
+study materials, followed by face-to-face (F2F) classroom sessions (in-person)
+to reinforce the application of core CRC skills through classroom discussions,
+case scenarios, demonstrations and practice-based activities. This programme
+is also valuable for individuals seeking a new career as a CRC.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The SCRI Academy was launched in August 2017 by the Senior Minister of
@@ -220,7 +192,7 @@ essential documents</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Face to Face Session (In-person/Virtual)</strong>
+<p><strong>Face to Face Session (In-person)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -266,7 +238,7 @@ essential documents</p>
 <p>Operational Challenges of Early Phase Trials</p>
 </li>
 <li>
-<p>MCQ Examination</p>
+<p>Examination</p>
 </li>
 </ul>
 </td>
@@ -353,9 +325,9 @@ essential documents</p>
 <p><strong><em>**Please note that</em></strong>&nbsp;<strong><em>the above schedule&nbsp;may be&nbsp;subjected to changes.</em></strong>
 </p>
 <h4><strong>E-Learning Module</strong></h4>
-<p>Participants will be given access to the e-learning materials one month
-before and after the F2F classroom sessions. Participants are required
-to complete all e-learning videos and quizzes by Week 16 of the programme.</p>
+<p>Participants will be given access to the e-learning materials before the
+F2F classroom sessions. Participants are required to complete all e-learning
+modules and quizzes by the end of their respective programme intakes.</p>
 <h4><strong>Technical Requirements</strong></h4>
 <p><em>**This is</em>&nbsp;<em>only</em>&nbsp;<em>applicable if the F2F classroom session is conducted virtually.</em>
 </p>
@@ -363,11 +335,11 @@ to complete all e-learning videos and quizzes by Week 16 of the programme.</p>
 minimum technical requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Use of PC or Laptop for MCQ Examination, as the system is not compatible
-on Mobile devices (e.g. mobile phone or tablets). You are also strongly
-encouraged to access the Zoom virtual class via a PC or Laptop for better
-learning experience as you need to refer to the training handouts while
-attending the class.</p>
+<p>Use of PC or Laptop for Examination, as the system is not compatible on
+Mobile devices (e.g. mobile phone or tablets). You are also strongly encouraged
+to access the Zoom virtual class via a PC or Laptop for better learning
+experience as you need to refer to the training handouts while attending
+the class.</p>
 </li>
 <li>
 <p>Stable internet connection (3G or 4G/LTE), with minimum bandwidth of 600kbps
@@ -452,7 +424,7 @@ subsidy)</p>
 <p>Participants who have completed all modules of the programmes and have
 obtain an overall grading of 75% will obtain a <strong>Certificate of Achievement (CRC Level 1 Programme)</strong> from
 SCRI Academy.</p>
-<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/Programme_brochure_L1_flyer_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>To download the programme brochure, please click&nbsp;<a href="/files/Resources/Workshops And Training/CRC_L1_Programme_brochure_2026_v2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please contact&nbsp;<a href="mailto:scriacademy@scri.cris.sg." rel="noopener noreferrer nofollow" target="_blank">scriacademy@scri.cris.sg.</a>
 </p>
