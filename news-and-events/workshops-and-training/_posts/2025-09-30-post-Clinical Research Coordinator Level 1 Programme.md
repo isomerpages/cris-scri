@@ -41,12 +41,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Click </em><a href="/files/Resources/Workshops And Training/L1_Programme_Schedules_2026_Jan_intake.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>From 9:00am to 6:00pm</p>
 </td>
 </tr>
@@ -61,9 +55,9 @@ variant: tiptap
 <p>January Intake</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Class 1A: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+<p><em>16 weeks E-learning + 3-day In-person tutorial session</em>
 </p>
-<p><strong><em>Class 1B: </em></strong><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+<p><em>Click </em><a href="/files/Resources/Workshops And Training/L1_Programme_Schedules_2026_Jan_intake.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
 </p>
 </td>
 </tr>
