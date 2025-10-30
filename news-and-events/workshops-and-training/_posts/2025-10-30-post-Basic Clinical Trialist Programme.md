@@ -14,9 +14,10 @@ the dynamic world of clinical trials, where cutting-edge medical discoveries
 begin. Whether you're a clinician curious about research methodology, a
 nurse passionate about advancing patient care, or a pharmacist interested
 in drug development, this comprehensive programme will unlock your potential
-as a clinical researcher. Through elearing modules and instructor-led sessions,
-you'll master essential skills from protocol design to regulatory compliance,
-while building the confidence to lead trials that could change lives.</p>
+as a clinical researcher. Through elearning modules and instructor-led
+sessions, you'll master essential skills from protocol design to regulatory
+compliance, while building the confidence to lead trials that could change
+lives.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
