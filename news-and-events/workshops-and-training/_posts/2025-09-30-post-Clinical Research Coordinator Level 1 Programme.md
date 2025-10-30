@@ -102,7 +102,7 @@ variant: tiptap
 <p>For every January Intake:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 October to 30 October</p>
+<p>01 October to 31 October</p>
 </td>
 </tr>
 <tr>
