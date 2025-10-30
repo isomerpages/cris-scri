@@ -213,7 +213,7 @@ essential documents</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Face to Face Session (In-person/Virtual)</strong>
+<p><strong>Face to Face Session (In-person)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
