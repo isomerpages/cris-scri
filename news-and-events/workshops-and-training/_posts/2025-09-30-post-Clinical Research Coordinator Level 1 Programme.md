@@ -259,7 +259,7 @@ essential documents</p>
 <p>Operational Challenges of Early Phase Trials</p>
 </li>
 <li>
-<p>MCQ Examination</p>
+<p>Examination</p>
 </li>
 </ul>
 </td>
