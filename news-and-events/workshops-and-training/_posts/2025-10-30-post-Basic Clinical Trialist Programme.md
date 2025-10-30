@@ -20,11 +20,14 @@ while building the confidence to lead trials that could change lives.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_1.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_2.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_3.png">
 </div>
 <p></p>
