@@ -19,16 +19,14 @@ sessions, you'll master essential skills from protocol design to regulatory
 compliance, while building the confidence to lead trials that could change
 lives.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_1_new.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_2_new.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI Academy/Trialist_3_new.png">
 </div>
 <p></p>
