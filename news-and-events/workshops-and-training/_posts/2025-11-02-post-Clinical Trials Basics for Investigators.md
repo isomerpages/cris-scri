@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Transform your healthcare career and become part of the next generation
-of clinical trial investigators.</p>
+<h3>Transform your healthcare career and become part of the next generation of clinical trial investigators.</h3>
 <p>The Clinical Trials Basics for Investigators programme offers comprehensive
 training in the dynamic world of clinical trials, where cutting-edge medical
 discoveries begin. Whether you're a clinician curious about research methodology,
