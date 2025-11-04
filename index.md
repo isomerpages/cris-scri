@@ -14,7 +14,10 @@ description: Established in 2008, the Singapore Clinical Research Institute
   patient outcomes.
 image: /images/scri logo.png
 permalink: /
-notification: ""
+notification: Singapore Clinical Research Institute will NEVER ask you to
+  transfer money or disclose bank details over a call. If in doubt, call the
+  24/7 ScamShield helpline at 1799, or visit the ScamShield website at
+  www.scamshield.gov.sg.
 sections:
   - hero:
       title: Welcome to SCRI
