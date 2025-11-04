@@ -24,10 +24,10 @@ lives.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_2_revised.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_3_revised.png">
 </div>
 <p></p>
