@@ -18,9 +18,8 @@ sessions, you'll master essential skills from protocol design to regulatory
 compliance, while building the confidence to lead trials that could change
 lives.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_1_revised.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
