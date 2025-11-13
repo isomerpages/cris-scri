@@ -38,7 +38,7 @@ variant: markdown
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/dan_yock_young_img.jpg">
 				<b>A/Prof Dan Yock Young</b>
-				<br><br>Deputy Director<br>General of Health<br>(Health Services)<br>MOH
+				<br><br>CEO<br>Ng Teng Fong General Hospital<br><br>
 			</td>
 		</tr>
 	</tbody>
