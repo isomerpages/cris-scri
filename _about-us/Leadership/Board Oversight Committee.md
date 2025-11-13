@@ -11,7 +11,7 @@ variant: markdown
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/prof-john-cw-lim_2.jpg">
 				<b>Prof John Lim</b>
-				<br><br>BOC Chair<br>Executive Director, CoRE, Duke-NUS GMS<br>Chairman CRIS
+				<br><br>BOC Chair<br>Executive Director, CoRE, Duke-NUS GMS<br>
 			</td>
 			<td style="width:25%">
 				<img src="/images/Leadership/Board%20Oversight%20Committee/aprof-tan-say-beng(1).jpg">
