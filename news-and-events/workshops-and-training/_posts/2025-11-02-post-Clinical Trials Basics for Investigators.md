@@ -19,14 +19,14 @@ compliance, while building the confidence to lead trials that could change
 lives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_1_revised.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_1_revised_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_2_revised.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_2_revised_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_3_revised.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_3_revised_1.png">
 </div>
 <p></p>
