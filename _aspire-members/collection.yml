@@ -2,6 +2,7 @@ collections:
   aspire-members:
     output: true
     order:
+      - Dr Mungun Ulzii Khurelbaatar.md
       - Dr Byambatsogt Lkagvasuren.md
       - Dr Batzaya Tsognemekh.md
       - Prof Derek Hausenloy.md
