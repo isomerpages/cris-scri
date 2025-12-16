@@ -57,5 +57,6 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_post_event_sponsors___footer.png">
 </div>
-<p></p>
+<p><em>Last updated on 16 December 2025</em>
+</p>
 <p></p>
