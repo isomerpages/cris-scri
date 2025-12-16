@@ -14,18 +14,33 @@ third_nav_title: Events
 Diagnostic Strategies</p>
 <p><a href="/files/ANAH/Prof_William_Young___Adrenal_Incidentalomas.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
-<p>Prof William Young- Clinical perspectives on adrenal disorders: Answers
-to common Q
+<p>Prof William Young- Clinical perspectives on Adrenal Disorders: Answers
+to Common Q
 <br><a href="/files/ANAH/Prof_William_Young_Adrenal_Answers.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
-<p>Prof Leilani B Mercado-Asis- Adrenal disorders in pregnancy: Challenges
-in diagnosis and treatment</p>
+<p>Prof Leilani B Mercado-Asis- Adrenal disorders in Pregnancy: Challenges
+in Diagnosis and Treatment</p>
 <p><a href="/files/ANAH/Prof_Leilani_Mercado_Asis___Adrenal_disorders_in_pregnancy.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
+</p>
+<p>Prof Gregory Kline- Ruling OUT Pheochromocytoma/Paraganglioma (PPGL)</p>
+<p><a href="/files/ANAH/Prof_Gregory_Kline_PPGL.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
+</p>
+<p>Prof Gregory Kline- Primary Aldosteronism Diagnosis in A Global Perspective</p>
+<p><a href="/files/ANAH/Prof_Gregory_Kline__Global_PA.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
+</p>
+<p>Dr Wasita W. Parksook- The Spectrum of Primary Aldosteronism: Challenges
+in the Diagnosis and Management</p>
+<p><a href="/files/ANAH/Dr_Wasita_Parksook__Spectrum_of_Primary_Aldosteronism_Slides.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
+</p>
+<p>Dr Troy Puar- Functional imaging and cost-effectiveness for subtyping
+Primary Aldosteronism</p>
+<p><a href="/files/ANAH/Dr_Troy_Puar___Primary_Aldosteronism.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_post_event_collage.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_post_event_sponsors___footer.png">
 </div>
