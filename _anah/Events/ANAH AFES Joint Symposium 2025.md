@@ -45,6 +45,8 @@ third_nav_title: Events
 <p><a href="/files/ANAH/Dr_Troy_Puar___Primary_Aldosteronism.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
 <hr>
+<p>For more information about the symposium: <a href="https://www.scri.edu.sg/about-anah-afes-2025-joint-symposium/" rel="noopener noreferrer nofollow" target="_blank">About this Symposium</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_Post_event_Speakers__1200_x_1800_px_.png">
