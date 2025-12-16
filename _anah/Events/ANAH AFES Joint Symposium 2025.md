@@ -20,8 +20,9 @@ third_nav_title: Events
 <p><a href="/files/ANAH/Prof_William_Young_Adrenal_Answers.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
 <p></p>
-<p><strong>Prof Leilani B Mercado-Asis- Adrenal disorders in Pregnancy: Challenges in Diagnosis and Treatment </strong>
-<a href="/files/ANAH/Prof_Leilani_Mercado_Asis___Adrenal_disorders_in_pregnancy.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
+<p><strong>Prof Leilani B Mercado-Asis- Adrenal disorders in Pregnancy: Challenges in Diagnosis and Treatment</strong>
+</p>
+<p><a href="/files/ANAH/Prof_Leilani_Mercado_Asis___Adrenal_disorders_in_pregnancy.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
 <p></p>
 <p><strong>Prof Gregory Kline- Ruling OUT Pheochromocytoma/Paraganglioma (PPGL)</strong>
