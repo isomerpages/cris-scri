@@ -14,30 +14,35 @@ third_nav_title: Events
 </p>
 <p><a href="/files/ANAH/Prof_William_Young___Adrenal_Incidentalomas.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
+<p></p>
 <p><strong>Prof William Young- Clinical perspectives on Adrenal Disorders: Answers to Common Q</strong>
 </p>
 <p><a href="/files/ANAH/Prof_William_Young_Adrenal_Answers.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
+<p></p>
 <p><strong>Prof Leilani B Mercado-Asis- Adrenal disorders in Pregnancy: Challenges in Diagnosis and Treatment </strong>
 <a href="/files/ANAH/Prof_Leilani_Mercado_Asis___Adrenal_disorders_in_pregnancy.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
+<p></p>
 <p><strong>Prof Gregory Kline- Ruling OUT Pheochromocytoma/Paraganglioma (PPGL)</strong>
 </p>
 <p><a href="/files/ANAH/Prof_Gregory_Kline_PPGL.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
+<p></p>
 <p><strong>Prof Gregory Kline- Primary Aldosteronism Diagnosis in A Global Perspective</strong>
 </p>
 <p><a href="/files/ANAH/Prof_Gregory_Kline__Global_PA.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
+<p></p>
 <p><strong>Dr Wasita W. Parksook- The Spectrum of Primary Aldosteronism: Challenges in the Diagnosis and Management</strong>
 </p>
 <p><a href="/files/ANAH/Dr_Wasita_Parksook__Spectrum_of_Primary_Aldosteronism_Slides.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
+<p></p>
 <p><strong>Dr Troy Puar- Functional imaging and cost-effectiveness for subtyping Primary Aldosteronism</strong>
 </p>
 <p><a href="/files/ANAH/Dr_Troy_Puar___Primary_Aldosteronism.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_Post_event_Speakers__1200_x_1800_px_.png">
