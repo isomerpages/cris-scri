@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - About the ASEAN Network of Adrenal Hypertension.md
-      - ANAH AFES Joint Symposium 2025/.keep
-      - ANAH AFES Joint Symposium 2025/About this Symposium.md
-      - ANAH AFES Joint Symposium 2025/Welcome Message.md
-      - ANAH AFES Joint Symposium 2025/Speakers.md
-      - ANAH AFES Joint Symposium 2025/Programme.md
-      - ANAH AFES Joint Symposium 2025/Registration.md
-      - ANAH AFES Joint Symposium 2025/Contact.md
       - Members.md
       - Research/.keep
       - Research/Study Proposal Form & Workflow.md
@@ -20,5 +13,12 @@ collections:
       - Events/.keep
       - Events/Online Masterclass.md
       - Events/Meetings & Workshops.md
+      - ANAH AFES Joint Symposium 2025/.keep
+      - ANAH AFES Joint Symposium 2025/About this Symposium.md
+      - ANAH AFES Joint Symposium 2025/Welcome Message.md
+      - ANAH AFES Joint Symposium 2025/Speakers.md
+      - ANAH AFES Joint Symposium 2025/Programme.md
+      - ANAH AFES Joint Symposium 2025/Registration.md
+      - ANAH AFES Joint Symposium 2025/Contact.md
       - Newsletters.md
       - How to Join Us.md
