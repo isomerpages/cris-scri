@@ -9,10 +9,14 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_post_event_header.png">
 </div>
-<h3>Symposium materials </h3>
+<h3>Symposium materials</h3>
 <p>Prof William Young- Adrenal Incidentalomas: Illustrative Cases of Current
 Diagnostic Strategies</p>
 <p><a href="/files/ANAH/Prof_William_Young___Adrenal_Incidentalomas.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
+</p>
+<p>Prof William Young- Clinical perspectives on adrenal disorders: Answers
+to common Q
+<br><a href="/files/ANAH/Prof_William_Young_Adrenal_Answers.pdf" rel="noopener nofollow" target="_blank">Presentation slide</a>
 </p>
 <p>Prof Leilani B Mercado-Asis- Adrenal disorders in pregnancy: Challenges
 in diagnosis and treatment</p>
