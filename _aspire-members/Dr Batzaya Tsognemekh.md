@@ -8,9 +8,9 @@ image: /images/Batzaya_Tsognemekh.jpg
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Batzaya_Tsognemekh.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Batzaya_Tsognemekh.jpg">
 </div>
-<h4>Dr Batzaya Tsognemekh, MD, MSc</h4>
+<h4>Dr Batzaya Tsognemekh</h4>
 <p>Chief, Coronary Care Unit, Third State Central Hospital</p>
 <p>Board Member, Mongolian Society of Interventional Cardiologists</p>
 <p></p>
