@@ -6,8 +6,11 @@ description: ANAH AFES Joint Symposium 2025
 third_nav_title: Events
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ANAH ASEAN Network of Adrenal/Events/ANAH_AFES_post_event_header.png">
+</div>
 <p></p>
-<p>Symposium materials (PowerPoint presentations) can be found below:</p>
+<p>Symposium materials can be found below:</p>
 <details class="isomer-details">
 <summary>Prof William Young- Adrenal Incidentalomas: Illustrative Cases of Current
 Diagnostic Strategies</summary>
