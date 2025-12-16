@@ -92,6 +92,20 @@ research.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/dr-anwar-irawan-bin-ruhani/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Anwar_Ruhani.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Anwar Irawan Bin Ruhani</div><div class="isomer-card-description">Network Member; Tengku Ampuan Afzan Hospital, Malaysia</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-mungun-ulzii-khurelbaatar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mugun___Ulzii.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Mungun Ulzii Khurelbaatar</div><div class="isomer-card-description">Member; Third State Central Hospital, Mongolia</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/dr-batzaya-tsognemekh/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Batzaya_Tsognemekh.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Batzaya Tsognemekh</div>
+<div class="isomer-card-description">Member; Third State Central Hospital, Mongolia</div>
+<div class="isomer-card-link">Bio</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/dr-byambatsogt-lkagvasuren/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Byambatsogt_Lkagvasuren.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Byambatsogt Lkhagvasuren</div><div class="isomer-card-description">Member; Third State Central Hospital, Mongolia</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/prof-arthur-mark-richards/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /A_Mark_Richards.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof A.Mark Richards</div><div class="isomer-card-description">Network Member, Christchurch Heart Institute, University of Otago, New Zealand</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/prof-richard-troughton/" class="isomer-card">
 <div class="isomer-card-image">
@@ -146,4 +160,5 @@ Zealand</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://clinicalresearch.my/about-us-2/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /CRM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Clinical Research Malaysia</div><div class="isomer-card-description">Clinical Research Malaysia (CRM) is a Global Trusted Research Management Organisation established by the Ministry of Health Malaysia in 2012. At its very core, CRM aims to bring clinical research that addresses the unmet needs of patients and transforms health outcomes in Malaysia.</div><div class="isomer-card-link">Website</div></div></a>
 </div>
+<p></p>
 <p></p>
