@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Leadership
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -44,6 +45,12 @@ Singapore</p>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR EUGENE GAN</a></strong> 
 <br>
 <br>Ph.D. Senior Director, Operations Singapore Clinical Research Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior Management/SCRI_Shi_Luming_midchest.jpg">
+</div>
 </td>
 </tr>
 </tbody>
