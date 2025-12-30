@@ -51,6 +51,12 @@ Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior Management/SCRI_Shi_Luming_midchest.jpg">
 </div>
+<p></p>
+<p>Dr SHI Luming</p>
+<p>MBBS, MSc (Clinical Sciences &amp; Health Economics),</p>
+<p>Scientific Director, Singapore Clinical Research Institute</p>
+<p>Deputy Director, Cochrane Singapore</p>
+<p>Adjunct Assistant Professor, Duke NUS Medical School</p>
 </td>
 </tr>
 </tbody>
