@@ -40,7 +40,7 @@ Singapore</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior Management/SCRI_Eugene_Gan_midchest.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior Management/EugeneGan_Corp_Photo_midchest.jpg">
 </div>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR EUGENE GAN</a></strong> 
 <br>
