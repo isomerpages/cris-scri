@@ -33,7 +33,7 @@ of the MCTA document.</p>
 <p><strong>What should you do if you have any feedback?</strong>
 </p>
 <p>If you have any questions or if you would like to provide feedback about
-the MCTA, please email&nbsp;<a href="mailto:contact@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">contact@scri.cris.sg</a>. Our team will
-be on hand to address any queries.</p>
+the MCTA, please email&nbsp;<a href="mailto:ncb@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">ncb@scri.cris.sg</a>. Our team will be on
+hand to address any queries.</p>
 <p><a href="https://for.sg/scrimcta" rel="noopener noreferrer nofollow" target="_blank">Download the Master Clinical Trial Agreement here</a>
 </p>
