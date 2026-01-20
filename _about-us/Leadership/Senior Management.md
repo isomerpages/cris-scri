@@ -42,20 +42,16 @@ Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior Management/EugeneGan_Corp_Photo_midchest.jpg">
 </div>
-<p>
-<br>
-</p>
-<p></p>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR EUGENE GAN</a></strong> 
 <br>
-<br>Ph.D. Senior Director, Operations Singapore Clinical Research Institute</p>
+<br>PhD Senior Director, Operations Singapore Clinical Research Institute</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior Management/SCRI_Shi_Luming_midchest.jpg">
 </div>
-<p><u>Dr LUMING SHI</u>
+<p><u>DR LUMING SHI</u>
 </p>
 <p></p>
 <p>MBBS, MSc (Clinical Sciences &amp; Health Economics),</p>
