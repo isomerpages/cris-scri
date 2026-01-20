@@ -21,7 +21,7 @@ variant: tiptap
 </div>
 <p><strong><a href="/bio/dr-danny-soon/" rel="noopener noreferrer nofollow" target="_blank">A/PROF DANNY SOON</a></strong> 
 <br>
-<br>add MBBS and add ADJUNCT A/PROF, Duke-NUS Medical School</p>
+<br>MBBS, ADJUNCT A/PROF, Duke-NUS Medical School</p>
 <p>&nbsp;</p>
 <p>Chief Executive Officer,</p>
 <p>Consortium for Clinical Research and Innovation, Singapore Executive Director
