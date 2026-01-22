@@ -11,7 +11,7 @@ groundbreaking clinical research and innovation</p>
 <p>To advance clinical research excellence by fostering collaborations, driving
 innovations and ensuring the highest standards of safety and ethics, with
 the ultimate aim of improving patient outcomes globally</p>
-<h2>A Message From Our Executive Director</h2>
+<h3>A Message From Our Executive Director</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior%20Management/SCRI_Danny_Soon_midchest2.jpg">
 </div>
