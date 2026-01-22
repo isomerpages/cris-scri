@@ -13,7 +13,7 @@ innovations and ensuring the highest standards of safety and ethics, with
 the ultimate aim of improving patient outcomes globally</p>
 <h3>A Message From Our Executive Director</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership/Senior%20Management/SCRI_Danny_Soon_midchest2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leadership/Senior%20Management/SCRI_Danny_Soon_midchest2.jpg">
 </div>
 <p>Clinical trials are essential for turning scientific discoveries into
 better patient care. They help bring new treatments to those who need them,
