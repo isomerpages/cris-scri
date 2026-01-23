@@ -55,6 +55,7 @@ Institute</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_1841.jpg">
 </div>
 <p></p>
+<p></p>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR EUGENE GAN</a></strong> 
 <br>
 </p>
