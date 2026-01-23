@@ -59,7 +59,6 @@ Institute</p>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR EUGENE GAN</a></strong> 
 <br>
 </p>
-<p></p>
 <p>PhD, Senior Director, Operations Singapore Clinical Research Institute</p>
 </td>
 <td rowspan="1" colspan="1">
