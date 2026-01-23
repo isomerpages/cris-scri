@@ -34,7 +34,7 @@ Singapore</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/IMG_1827.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_1827.jpg">
 </div>
 <p></p>
 <p><strong><a href="/bio/edwin-chan/" rel="noopener noreferrer nofollow" target="_blank">A/PROF EDWIN CHAN</a></strong> 
