@@ -22,9 +22,10 @@ variant: tiptap
 </div>
 <p><strong><a href="/bio/dr-danny-soon/" rel="noopener noreferrer nofollow" target="_blank">A/PROF DANNY SOON</a></strong> 
 <br>
-<br>MBBS, ADJUNCT A/PROF, Duke-NUS Medical School</p>
+</p>
+<p>MBBS, ADJUNCT A/PROF, Duke-NUS Medical School</p>
 <p></p>
-<p>Executive Director Singapore Clinical Research Institute</p>
+<p>Executive Director, Singapore Clinical Research Institute</p>
 <p></p>
 <p>Chief Executive Officer, Consortium for Clinical Research and Innovation,
 Singapore</p>
@@ -38,10 +39,14 @@ Singapore</p>
 <p></p>
 <p><strong><a href="/bio/edwin-chan/" rel="noopener noreferrer nofollow" target="_blank">A/PROF EDWIN CHAN</a></strong> 
 <br>
-<br>BSc, BVMS (1st class Hons), PhD Director, Cochrane Singapore</p>
+</p>
+<p>BSc, BVMS (1st class Hons), PhD, Senior Advisor, Singapore Clinical Research
+Institute</p>
+<p></p>
+<p></p>
+<p>Director, Cochrane Singapore</p>
 <p></p>
 <p>Associate Professor, Duke-NUS Medical School</p>
-<p>Senior Advisor, Singapore Clinical Research Institute</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -52,7 +57,9 @@ Singapore</p>
 <p></p>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR EUGENE GAN</a></strong> 
 <br>
-<br>PhD Senior Director, Operations Singapore Clinical Research Institute</p>
+</p>
+<p></p>
+<p>PhD, Senior Director, Operations Singapore Clinical Research Institute</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,7 +73,9 @@ Singapore</p>
 <p></p>
 <p>MBBS, MSc (Clinical Sciences &amp; Health Economics),</p>
 <p>Scientific Director, Singapore Clinical Research Institute</p>
+<p></p>
 <p>Deputy Director, Cochrane Singapore</p>
+<p></p>
 <p>Adjunct Assistant Professor, Duke NUS Medical School</p>
 </td>
 </tr>
