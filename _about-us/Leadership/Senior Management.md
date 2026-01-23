@@ -65,7 +65,7 @@ Institute</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_1829.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/IMG_1829.jpg">
 </div>
 <p></p>
 <p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">DR LUMING SHI</a></strong>
