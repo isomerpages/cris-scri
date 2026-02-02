@@ -20,7 +20,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_1826.jpg">
 </div>
-<p><strong><a href="/bio/dr-danny-soon/" rel="noopener noreferrer nofollow" target="_blank">DANNY SOON</a></strong> 
+<p><strong><a href="/bio/dr-danny-soon/" rel="noopener noreferrer nofollow" target="_blank">DANNY SOON</a></strong>
 <br>
 </p>
 <p>MBBS (NUS Medical)</p>
@@ -55,7 +55,7 @@ Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_1841.jpg">
 </div>
-<p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">EUGENE GAN</a></strong> 
+<p><strong><a href="/bio/eugene-gan/" rel="noopener noreferrer nofollow" target="_blank">EUGENE GAN</a></strong>
 <br>
 </p>
 <p>PhD (Cancer Biology)</p>
