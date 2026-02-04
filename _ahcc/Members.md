@@ -2,8 +2,1425 @@
 title: Members
 permalink: /ahcc/members/
 description: ""
+variant: tiptap
 ---
-**Members**
-===========
-
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: transparent; width: 847.795px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;"><strong style="box-sizing: border-box; font-weight: bold;">No.</strong></p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;"><strong style="box-sizing: border-box; font-weight: bold;">Country</strong></p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;"><strong style="box-sizing: border-box; font-weight: bold;">Institution</strong></p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;"><strong style="box-sizing: border-box; font-weight: bold;">Name of PI</strong></p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">1</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Australia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Austin Health</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Johnathan Cebon</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">2</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Australia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Royal Adelaide Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Edmund Tse</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">3</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Australia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Royal Prince Alfred Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">A/Prof Simone Strasser&nbsp;</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">4</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Brunei</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">The Brunei Cancer Centre/ Jerudong Park Medical Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">A/Prof Kenneth Kok Yuh Yen</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">5</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Guangxi Medical University Cancer Center</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Li Lequn</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">6</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Second Affiliated Hospital Zhejiang University School of Medicine</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Jiangtao Li</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">7</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Zhongshan Hospital, Fudan University</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Fan Jia</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">8</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Beijing Cancer Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Zhu Xu</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">9</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Harbin Medical University Cancer Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Yuxian Bai</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">10</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Nanjing Bayi Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Qin Shu-Kui</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">11</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Hong Kong</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Queen Mary Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Thomas Yau</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">12</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Hong Kong</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prince of Wales Hospital, Chinese University of Hong Kong (now University of Liverpool)</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Philip Johnson</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">13</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Indonesia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Sanglah General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Tjakra Wibawa Manuaba</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">14</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Indonesia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">University of Indonesia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof L.A. Lesmana</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">15</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Japan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Kindai University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Masatoshi Kudo</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">16</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Japan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Kyorin University School of Medicine</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Junji Furuse</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">17</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Japan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Kazuaki Shimada</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">18</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Japan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">University of Tokyo</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Kiyoshi Hasegawa</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">19</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Japan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Center of Global Health and Medicine</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Nobuyuki Takemura</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">20</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Malaysia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Penang Adventist Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Aloysius Raj</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">21</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Malaysia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prince Court Medical Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Datuk Dr Harjit Singh</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">22</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Malaysia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Sarawak General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Nik Azim Bin Nik Abdullah</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">23</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Malaysia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">University Malaya Medical Center</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Yoong Boon Koon</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">24</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">Malaysia</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">Hospital Universiti Kebangsaan<br style="box-sizing: border-box;"><br style="box-sizing: border-box;"></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">Dr Haron Ahmad</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">25</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Mongolia</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Ariunaa Khasbazar</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">26</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Myanmar</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Yangon GI &amp; Liver Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Khin Maung Win</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">27</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">New Zealand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Auckland City Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Adam Bartlett</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">28</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">New Zealand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Cancer Trials New Zealand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof M. Findlay</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">29</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Philippines</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Davao Doctors’ Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Rolley Rey Lobo</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">30</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Philippines</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Makati Medical Center</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Catherine Teh</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">31</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Philippines</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">St. Luke’s Medical Center</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Ian Homer Y. Cua</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">32</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Philippines</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">The Medical City</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Janus Ong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">33</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Philippines</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">The Medical City</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Vanessa De Villa</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">34</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Changi General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Eugene Wong Yu Jun&nbsp;</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">35</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Changi General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chiow Kah Heng Adrian</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">36</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Khoo Teck Puat Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Kenneth Mak</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">37</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Soo Khee Chee</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">38</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Toh Han Chong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">39</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr David Tai</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">40</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">National Cancer Centre</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">Prof Thng Choon Hua</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">41</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Pierce Chow</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">42</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Dan Yock Young</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">43</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">A/Prof Glenn Bonney</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">44</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Lee Guan Huei</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">45</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chee Cheng Ean</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">46</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Cheow Peng Chung</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">47</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Alexander Chung</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">48</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Richard Lo Hoau Gong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">49</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr David Ng Chee Eng</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">50</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Albert Low Su Chong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">51</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Brian Goh</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">52</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">A/Prof Jason Chang Eu Pik</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">53</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Tay Kiang Hiong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">54</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Bedok</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chong Oi Fong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">55</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Bukit Merah</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Wee Yi-Mei Sabrina</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">56</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Marine Parade</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Tan Kee Tung</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">57</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Outram</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Ong Kok Kiong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">58</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Pasir Ris</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Clin A/Prof Tan Ngiap Chuan</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">59</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Punggol</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Yeap Xin Yi</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">60</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Sengkang</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">Dr Choo Wei Song, Jeremy</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">61</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">SingHealth Polyclinic - Tampines</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Sulaiha Binte Ithnin</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">62</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Sengkang General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Marianne Anastasia De Roza</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">63</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Sengkang General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Kam Juinn Huar</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">64</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Tan Tock Seng Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Adj A/Prof Dr Yang Wei Lyn</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">65</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Tan Tock Seng Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Vishalkumar G. Shelat</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">66</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Tan Tock Seng Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Jens Samol</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">67</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Tan Tock Seng Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chew Soo Ping</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">68</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Singapore Clinical Research Institution</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Asst Prof Mihir Gandhi</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">69</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Asan Medical Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Hyun-Ki Yoon</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">70</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Korea University Anam Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">Prof Cho Sung Bum</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">71</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Samsung Medical Centre</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Joon-Hyeok Lee</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">72</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Seoul National University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Ho-Seong Han</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">73</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">St. Vincents Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Yang Jin-Mo</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">74</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">St. Mary’s Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Si-Hyun Bae</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">75</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">St. Mary’s Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Choi Jong-Young</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">76</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Severance Hospital, Yonsei University College of Medicine</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Jong-Yun Won</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">77</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Severance Hospital, Yonsei University College of Medicine</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Do-Young Kim</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">78</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">South Korea</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Ajou University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Prof Hee-Jung Wang</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">79</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">China Medical University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Peng Cheng-Yuan</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">80</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">KS-Chang Gung Memorial Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Tsung-Hui Hu</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">81</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">LK-Chang Gung Memorial Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chien-Fu Hung</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">82</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cheng Kung University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Pin-Nan Cheng</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">83</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Taiwan University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Po-Chin Liang</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">84</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Taiwan University Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chien-Hung Chen&nbsp;</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">85</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taipei Veterans General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Rheun-Chuan Lee</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">86</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taiwan</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Taipei Veterans General Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Yee Chao</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">87</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Thailand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Chulabhorn Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Chanisa Chotipanich</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">88</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Thailand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Institute</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Rawisak Chanwat</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">89</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Thailand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Institute</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Thiravud Khuhaprema</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">90</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Thailand</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Siriraj Hospital, Mahidol University</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Supot Ninanong</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">91</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Vietnam</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Choray Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Hoang Hoa Hai</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">92</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Vietnam</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">National Cancer Institute K Hospital</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Nguyen Ba Duc</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; vertical-align: top;">93</td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">USA</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Duke University School of Medicine</p></td><td style="box-sizing: border-box; padding: 0px; vertical-align: top;"><p style="box-sizing: border-box; margin: 0px 0px 20px;">Dr Sabino Zani Jr</p></td></tr></tbody></table>
+<h1><strong>Members</strong></h1>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Country</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Institution</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of PI</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Austin Health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Johnathan Cebon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Royal Adelaide Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Edmund Tse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Royal Prince Alfred Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Simone Strasser&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brunei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Brunei Cancer Centre/ Jerudong Park Medical Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Kenneth Kok Yuh Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guangxi Medical University Cancer Center</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Li Lequn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Affiliated Hospital Zhejiang University School of Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Jiangtao Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhongshan Hospital, Fudan University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Fan Jia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beijing Cancer Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Zhu Xu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harbin Medical University Cancer Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Yuxian Bai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanjing Bayi Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Qin Shu-Kui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beijing Tsinghua Changgung Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Feng Xiaobin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West China Hospital, Sichuan University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Zeng Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>People's Liberation Army General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Liu Rong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shandong Cancer Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Sun Xiaorong, Prof Liu Jibing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The First Affiliated Hospital of Guangxi Medical University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chen Xinyu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queen Mary Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Thomas Yau</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prince of Wales Hospital, Chinese University of Hong Kong (now University
+of Liverpool)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Philip Johnson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sanglah General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tjakra Wibawa Manuaba</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>University of Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof L.A. Lesmana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRCCC Siloam Semanggi Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cosmas Rinaldi A. Lesmana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindai University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Masatoshi Kudo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kyorin University School of Medicine (now Kanagawa Cancer Center)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Junji Furuse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kazuaki Shimada</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>University of Tokyo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Kiyoshi Hasegawa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Center of Global Health and Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Nobuyuki Takemura</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Penang Adventist Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Aloysius Raj</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prince Court Medical Centre (previously Selayang Hospital)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Datuk Dr Harjit Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarawak General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Nik Azim Bin Nik Abdullah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>University Malaya Medical Center</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Yoong Boon Koon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hospital Universiti Kebangsaan
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Haron Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mongolia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Ariunaa Khasbazar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Myanmar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yangon GI &amp; Liver Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Khin Maung Win</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Zealand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auckland City Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Adam Bartlett</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Zealand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cancer Trials New Zealand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof M. Findlay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Philippines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Davao Doctors’ Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Rolley Rey Lobo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Philippines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Makati Medical Center</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Catherine Teh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Philippines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Luke’s Medical Center</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Ian Homer Y. Cua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Philippines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Medical City</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Janus Ong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Philippines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Medical City</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Vanessa De Villa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Eugene Wong Yu Jun&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chiow Kah Heng Adrian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khoo Teck Puat Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Kenneth Mak</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Soo Khee Chee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Toh Han Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr David Tai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Thng Choon Hua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Pierce Chow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Dan Yock Young</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Glenn Bonney</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Lee Guan Huei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chee Cheng Ean</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Cheow Peng Chung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Alexander Chung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Richard Lo Hoau Gong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr David Ng Chee Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Albert Low Su Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Brian Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Jason Chang Eu Pik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tay Kiang Hiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Bedok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chong Oi Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Bukit Merah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wee Yi-Mei Sabrina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Marine Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Tan Kee Tung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Outram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Ong Kok Kiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>58</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Pasir Ris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clin A/Prof Tan Ngiap Chuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>59</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Punggol</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Yeap Xin Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Sengkang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Choo Wei Song, Jeremy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>61</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingHealth Polyclinic - Tampines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Sulaiha Binte Ithnin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>62</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Marianne Anastasia De Roza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>63</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kam Juinn Huar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>64</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adj A/Prof Dr Yang Wei Lyn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>65</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Vishalkumar G. Shelat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>66</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jens Samol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>67</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chew Soo Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>68</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Clinical Research Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Prof Mihir Gandhi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>69</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asan Medical Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Hyun-Ki Yoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Korea University Anam Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Cho Sung Bum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>71</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samsung Medical Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Joon-Hyeok Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>72</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seoul National University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Ho-Seong Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>73</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Vincents Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Yang Jin-Mo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>74</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Mary’s Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Si-Hyun Bae</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>75</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Mary’s Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Choi Jong-Young</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>76</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Severance Hospital, Yonsei University College of Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Jong-Yun Won</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>77</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Severance Hospital, Yonsei University College of Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Do-Young Kim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>78</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ajou University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Hee-Jung Wang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>79</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China Medical University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Peng Cheng-Yuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KS-Chang Gung Memorial Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Tsung-Hui Hu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>81</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LK-Chang Gung Memorial Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chien-Fu Hung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>82</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cheng Kung University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Pin-Nan Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>83</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Taiwan University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Po-Chin Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>84</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Taiwan University Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chien-Hung Chen&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>85</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taipei Veterans General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Rheun-Chuan Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>86</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taipei Veterans General Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Yee Chao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>87</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chulabhorn Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chanisa Chotipanich</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>88</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Rawisak Chanwat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>89</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Thiravud Khuhaprema</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>90</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siriraj Hospital, Mahidol University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Supot Ninanong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>91</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vietnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choray Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Hoang Hoa Hai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>92</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vietnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cancer Institute K Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Nguyen Ba Duc</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>93</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>USA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Duke University School of Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Sabino Zani Jr</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
