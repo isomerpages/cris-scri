@@ -44,8 +44,7 @@ March 2013: 1-6.</p>
 <p>Protocol Chair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alexander Chung</p>
-<p><a href="mailto:alexander.chung.y.f@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">alexander.chung.y.f@singhealth.com.sg</a>
+<p>Alexander Chung <a href="mailto:alexander.chung.y.f@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">alexander.chung.y.f@singhealth.com.sg</a>
 </p>
 </td>
 </tr>
