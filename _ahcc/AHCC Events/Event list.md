@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 MARCH 2022</p>
+<p>26 March 2022</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03 MAY 2019</p>
+<p>3 May 2019</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June 4 2017</p>
+<p>4 June 2017</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October 31, 2014</p>
+<p>31 October 2014</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October 27, 2014</p>
+<p>27 October 2014</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May 22, 2013</p>
+<p>22 May 2013</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>November 16, 2012</p>
+<p>16 November 2012</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>September 4, 2011</p>
+<p>4 September 2011</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June 24, 2010</p>
+<p>24 June 2010</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June 24, 2010 Sirtex</p>
+<p>24 June 2010 Sirtex</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>February 6, 2010</p>
+<p>6 February 2010</p>
 </td>
 </tr>
 </tbody>
