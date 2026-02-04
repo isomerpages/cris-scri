@@ -4,10 +4,6 @@ permalink: /ahcc/ahcc-news/
 description: ""
 variant: tiptap
 ---
-<p>
-<br>
-</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,6 +17,78 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Date</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.channelnewsasia.com/commentary/festive-feasting-overeating-liver-disease-cancer-risks-5646716" rel="noopener nofollow" target="_blank">Commentary: The festive food we love may be feeding hidden risks of liver diseases</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 December 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/singapore/two-cancer-surgeons-each-receive-6m-award-for-research-in-cancers-prevalent-in-singapore" rel="noopener nofollow" target="_blank">Two cancer surgeons each receive $6m research award to study cancers prevalent in Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 February 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zaobao.com.sg/news/singapore/story20250206-5839361" rel="noopener nofollow" target="_blank">国立癌症中心两医生获奖 五年各获600万元拨款研究肝癌头颈癌</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 February 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nccs.com.sg/news/patient-care/study-a-one-size-fits-all-approach-cannot-be-used-to-treat-liver-cancer-tailoring-treatment-to-tumour-molecular-subtypes-may-be-more-effective" rel="noopener nofollow" target="_blank">研究：肝癌治疗不能"一刀切" 针对肿瘤分子亚型制定疗法或疗效高</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 June 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bing.com/ck/a?!&amp;&amp;p=1ee912269c317bb95f8bb67015350f218f2a65327058286037798ddb0e9e633eJmltdHM9MTc3MDE2MzIwMA&amp;ptn=3&amp;ver=2&amp;hsh=4&amp;fclid=00aa2846-ec55-6d02-368f-3d9eed866ce7&amp;psq=Scientists+in+Singapore+discover+unexpected+molecular+heterogeneity+in+same+liver+tumours%2c+provide+better+understanding+of+disease&amp;u=a1aHR0cHM6Ly93d3cuYmlvc3BlY3RydW1hc2lhLmNvbS9hcnRpY2xlL3BkZi8yNDQ3NA" rel="noopener nofollow" target="_blank">Scientists in Singapore discover unexpected molecular heterogeneity in same liver tumours, provide better understanding of disease</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 June 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.singhealth.com.sg/news/patient-care/mirxes-and-ncc-collaborate-to-develop-blood-testing-technology" rel="noopener nofollow" target="_blank">觅瑞生物与国立癌症中心合作开发 血液检测技术筛查肝硬化</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 May 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nccs.com.sg/news/research/clinical-trial-of-adjuvant-therapy-combination-shows-improved-recurrence-free-survival-in-liver-cancer-patients-at-high-risk-of-recurrence" rel="noopener nofollow" target="_blank">Clinical trial of adjuvant therapy combination shows improved recurrence-free survival in liver cancer patients at high-risk of recurrence</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 October 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nccs.com.sg/news/research/multi-site-clinical-trial-to-assess-novel-liver-cancer-treatment-with-sg192-million-industry-support" rel="noopener nofollow" target="_blank">Multi-site clinical trial to assess novel liver cancer treatment with SG$19.2 million industry support</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 September 2022</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -393,4 +461,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
