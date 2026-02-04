@@ -39,8 +39,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AHCC TRIALS GROUP 5TH SYMPOSIUM OF THE SINGAPORE LIVER CANCER CONSORTIUM
-(SLCC)</p>
+<p><a href="/ahcc-trials-group-5th-symposium-of-the-singapore-liver-cancer-consortium-slcc-1-june-2023/" rel="noopener nofollow" target="_blank">AHCC TRIALS GROUP 5TH SYMPOSIUM OF THE SINGAPORE LIVER CANCER CONSORTIUM (SLCC)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 June 2023</p>
