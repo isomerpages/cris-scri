@@ -15,8 +15,7 @@ to treatment. Lancet. 2025 Aug 16;406(10504):731-778. doi: 10.1016/S0140-6736(25
 <li>
 <p>Chen JB, Kaya NA, Zhang Y, …, <strong>Chow PKH</strong> et. al. A multimodal
 atlas of hepatocellular carcinoma reveals convergent evolutionary paths
-and 'bad apple' effect on clinical trajectory. J Hep. May 2024; <a href="https://doi.org/10.1016/j.jhep.2024.05.017" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1016/j.jhep.2024.05.017</a>
-</p>
+and 'bad apple' effect on clinical trajectory. J Hep. May 2024; https://doi.org/10.1016/j.jhep.2024.05.017</p>
 </li>
 <li>
 <p>Li Z, Pai R, Gupta S, … <strong>Chow PKH </strong>et al. Presence of onco-fetal
@@ -24,7 +23,7 @@ neighborhoods in hepatocellular carcinoma is associated with relapse and
 response to immunotherapy. Nat Cancer. Jan 2024;5(1):167-186. doi:10.1038/s43018-023-00672-2</p>
 </li>
 <li>
-<p>Xu J, Zheng M, Thng DKH, <strong>Chow PKH</strong> et al. <a href="http://NanoBeacon.AI" rel="noopener noreferrer nofollow" target="_blank">NanoBeacon.AI</a>:
+<p>Xu J, Zheng M, Thng DKH, <strong>Chow PKH</strong> et al. NanoBeacon.AI:
 AI-Enhanced Nanodiamond Biosensor for Automated Sensitivity Prediction
 to Oxidative Phosphorylation Inhibitors. ACS Sens. May 26 2023;8(5):1989-1999.
 doi:10.1021/acssensors.3c00126</p>
