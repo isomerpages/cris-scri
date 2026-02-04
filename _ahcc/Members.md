@@ -1124,7 +1124,7 @@ of Liverpool)</p>
 <p>Tan Tock Seng Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adj A/Prof Dr Yang Wei Lyn</p>
+<p>Adj A/Prof Yang Wei Lyn</p>
 </td>
 </tr>
 <tr>
