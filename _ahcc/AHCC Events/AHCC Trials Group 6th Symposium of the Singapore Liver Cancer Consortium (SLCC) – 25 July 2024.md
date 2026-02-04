@@ -6,3 +6,8 @@ variant: tiptap
 description: ""
 third_nav_title: AHCC Events
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AHCC Trials Group/AHCC Events/6th_SLCC_Scientfic_Symposium.png">
+</div>
+<p></p>
+<p></p>
