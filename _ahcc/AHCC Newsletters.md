@@ -14,12 +14,14 @@ trials’ happenings!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/AHCC/AHCC Newsletters/AHCC_Newsletter_Volume_13___2025.pdf" rel="noopener nofollow" target="_blank">Volume 13, Issue 1, 2025</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/AHCC/AHCC Newsletters/AHCC_Newsletter_Volume_12___2024.pdf" rel="noopener nofollow" target="_blank">Volume 12, Issue 1, 2024</a>
+</p>
 </td>
 </tr>
 <tr>
