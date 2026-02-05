@@ -43,7 +43,6 @@ Date: 30/11/2017)</p>
 <p>Cell-based biomarkers of immunotherapy in hepatocellular carcinoma (Ankur
 Sharma, Florent Ginhoux, Ramanuj Dasgupta, Pierce Chow) (Singapore Provisional
 Application number.: 10202007868Q; Filing Date: 17/08/2020)</p>
-<p></p>
 </li>
 </ol>
 </td>
