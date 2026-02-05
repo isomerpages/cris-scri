@@ -36,7 +36,6 @@ CH, Kudo M, Lee JH, Strasser SI, Chanwat R, Chow PKH; Asia-Pacific Hepatocellula
 Carcinoma Trials Group. Real-World Data on the Diagnosis, Treatment, and
 Management of Hepatocellular Carcinoma in the Asia-Pacific: The INSIGHT
 Study. Liver Cancer. 2023 Oct 9;13(3):298-313. doi: 10.1159/000534513</p>
-<p></p>
 </td>
 </tr>
 <tr>
