@@ -2,7 +2,6 @@ collections:
   aspire-members:
     output: true
     order:
-      - Dr Mann Chandavimol.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Gemma Figtree.md
@@ -33,4 +32,5 @@ collections:
       - Prof Shih Chun Che.md
       - Assoc Prof Hsu Chien Yi.md
       - Dr Wang Wei Ting.md
+      - Dr Mann Chandavimol.md
       - Dr Wael Almahmeed.md
