@@ -2,13 +2,13 @@ collections:
   aspire-members:
     output: true
     order:
-      - Dr Sanjay Mittal.md
       - Prof Derek Hausenloy.md
       - Assoc Prof Mark Chan.md
       - Prof Gemma Figtree.md
       - Prof Yiu Kai Hang.md
       - Mr Henry Yau.md
       - Ms Creany Wong.md
+      - Dr Sanjay Mittal.md
       - Dr Leonardo Paskah Suciadi.md
       - Dr Indah Sukmawati.md
       - Dr Novi Yanti Sari.md
