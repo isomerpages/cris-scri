@@ -2,12 +2,12 @@ collections:
   inherited-network-cancer-asia:
     output: true
     order:
-      - Contact us.md
-      - How to Join.md
-      - Future Activities.md
       - About the Inherited Cancers Network Asia.md
       - Background on Hereditary Cancer.md
       - Members.md
       - Events/.keep
       - Events/Upcoming Events.md
       - Events/Past Events.md
+      - Future Activities.md
+      - How to Join.md
+      - Contact us.md
