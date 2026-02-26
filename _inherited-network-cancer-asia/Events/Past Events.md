@@ -15,7 +15,7 @@ of Clinician Scientists</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/Hereditary_Cancer_Masterclass_2025.jpg">
 </div>
 <p></p>
-<h4>Hereditary Cancer Masterclass: Clinical Pearls and Best Practices,18 January 2025, </h4>
+<h4>Hereditary Cancer Masterclass: Clinical Pearls and Best Practices,18 January 2025,</h4>
 <p>Organised by National Cancer Centre Singapore, ICaN Asia, PRECISE, College
 of Clinician Scientists</p>
 <div class="isomer-image-wrapper">
