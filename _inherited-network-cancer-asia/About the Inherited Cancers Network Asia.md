@@ -76,7 +76,12 @@ while increasing awareness of hereditary conditions throughout the Asia-Pacific
 region</p>
 </li>
 </ol>
-<p></p>
+<h3>Problem Areas</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/ICAN.png">
+</div>
+<p>&nbsp;<em>Image reference: HBOC booklet</em>  <a href="https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf</a>
+</p>
 <h4>References</h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Ferlay J, Colombet M, Soerjomataram I, Parkin
 DM, Pineros M, Znaor A, et al. Cancer statistics for the year 2020: An
