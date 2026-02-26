@@ -51,20 +51,19 @@ bladder cancers; and other cancers.<sup>12</sup> It accounts for around
 <li>
 <p><strong>The mismatch repair (MMR) genes: <em>MLH1, MSH2, MSH6, PMS2</em></strong>
 </p>
-</li>
-</ul>
 <p>MMR is a system that recognises and repairs errors that occur during DNA
 replication and plays a crucial role in maintaining genomic stability.<sup>15</sup>
 </p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><strong>The epigenetic regulator <em>EPCAM</em></strong>
 </p>
-</li>
-</ul>
 <p><em>EPCAM</em> pathogenic variants result in silencing of the MMR gene <em>MSH2</em>,
 thereby disturbing the MMR system.<sup>16</sup>
 </p>
+</li>
+</ul>
 <p>Cancer risk varies by gene, supporting the use of gene-specific screening
 and surveillance recommendations for LS.</p>
 <p>For example, individuals with a<em>&nbsp;MLH1&nbsp;</em>pathogenic variant
@@ -79,8 +78,6 @@ with high penetrance.</p>
 <li>
 <p><strong>Classic FAP</strong>
 </p>
-</li>
-</ul>
 <p>Classic FAP is characterised by the development of hundreds to thousands
 of adenomatous polyps in the colon and rectum, often starting in the teenage
 years or early adulthood. If left untreated, these polyps have a nearly
@@ -88,12 +85,11 @@ years or early adulthood. If left untreated, these polyps have a nearly
 </p>
 <p>In addition to colorectal&nbsp;cancer, people with FAP may also develop
 polyps in other parts of the gastrointestinal tract.</p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><strong>Attenuated familial adenomatous polyposis (AFAP)</strong>
 </p>
-</li>
-</ul>
 <p>AFAP is a variant of FAP, but is characterised by a milder presentation,
 typically with fewer polyps and a later onset of symptoms. In AFAP, affected
 individuals usually develop fewer than 100 polyps in the colon and rectum,
@@ -102,6 +98,8 @@ as opposed to the hundreds to thousands seen in classic FAP.</p>
 30s or 40s, compared to the teenage or early adulthood onset seen in classic
 FAP.<sup>18</sup>
 </p>
+</li>
+</ul>
 <p><strong>Causes</strong>
 </p>
 <p>FAP and AFAP are caused by pathogenic variants in the adenomatous polyposis
@@ -117,19 +115,17 @@ syndrome, Peutz-Jeghers syndrome, Hereditary Diffuse Gastric Cancer and
 Neurofibromatosis type 1 (NF1). <sup>1,19 </sup>They are all passed on in
 an autosomal dominant fashion but are caused by pathogenic variants in
 different genes.</p>
-<p>&nbsp;</p>
 <p>Li Fraumeni syndrome increases the risk of multiple tumours such as soft
 tissue sarcoma and breast cancer and is caused by a germline pathogenic
 variant in <em>TP53 <sup>1,19,20</sup></em>.</p>
-<p>&nbsp;Cowden syndrome is caused by pathogenic variants in the cell cycle
-control gene, <em>PTEN </em><sup>22-24</sup>. Whilst relatively rare, it
-is characterized by both benign and malignant neoplasms and increases the
-risk for breast cancer, endometrial cancer, colon cancer, thyroid cancer
-amongst others <sup>1,19,20,21</sup>.</p>
-<p>&nbsp;Peutz-Jeghers syndrome is caused by germline mutations in the tumour
-suppressor gene <em>STK11</em> which increases the risk for breast cancer,
-ovarian sex cord stromal cancer and many others <sup>1,20</sup>.</p>
-<p>&nbsp;Hereditary Diffuse Gastric Cancer is associated with germline mutations
+<p>Cowden syndrome is caused by pathogenic variants in the cell cycle control
+gene, <em>PTEN </em><sup>22-24</sup>. Whilst relatively rare, it is characterized
+by both benign and malignant neoplasms and increases the risk for breast
+cancer, endometrial cancer, colon cancer, thyroid cancer amongst others <sup>1,19,20,21</sup>.</p>
+<p>Peutz-Jeghers syndrome is caused by germline mutations in the tumour suppressor
+gene <em>STK11</em> which increases the risk for breast cancer, ovarian sex
+cord stromal cancer and many others <sup>1,20</sup>.</p>
+<p>Hereditary Diffuse Gastric Cancer is associated with germline mutations
 in the tumour suppressor gene <em>CDH1</em> and is characterized by an increased
 risk of diffuse gastric (stomach) cancer, lobular breast cancer and colorectal
 cancer <sup>19,20,25</sup>.</p>
@@ -138,91 +134,53 @@ by a <em>NF1</em> pathogenic variant is known to increase the risk of multiple
 benign and malignant tumours such as sarcomas, ovarian cancer, and melanoma<sup>21</sup>.&nbsp;</p>
 <p></p>
 <h4>References:</h4>
-<ol data-tight="true" class="tight">
-<li>
 <p>Nagy R, Sweet K, Eng C. Highly penetrant hereditary cancer syndromes.
 Oncogene. 2004;23(38):6445-70.</p>
-</li>
-<li>
 <p>Yoshida R. Hereditary breast and ovarian cancer (HBOC): review of its
 molecular characteristics, screening, treatment, and prognosis. Breast
 Cancer. 2021;28(6):1167-80.</p>
-</li>
-<li>
 <p>Szabo CI, King MC. Inherited breast and ovarian cancer. Hum Mol Genet.
 1995;4 Spec No:1811-7.</p>
-</li>
-<li>
 <p>Ford D, Easton DF, Bishop DT, Narod SA, Goldgar DE. Risks of cancer in
 BRCA1-mutation carriers. Breast Cancer Linkage Consortium. Lancet. 1994;343(8899):692-5.</p>
-</li>
-<li>
 <p>Swisher E. Ovarian cancer associated with inherited mutations in BRCA1
 or BRCA2. Curr Womens Health Rep. 2003;3(1):27-32.</p>
-</li>
-<li>
 <p>Hemel D, Domchek SM. Breast cancer predisposition syndromes. Hematol Oncol
 Clin North Am. 2010;24(5):799-814.</p>
-</li>
-<li>
 <p>Susswein LR, Marshall ML, Nusbaum R, Vogel Postula KJ, Weissman SM, Yackowski
 L, et al. Pathogenic and likely pathogenic variant prevalence among the
 first 10,000 patients referred for next-generation cancer panel testing.
 Genet Med. 2016;18(8):823-32.</p>
-</li>
-<li>
 <p>Kast K, Rhiem K, Wappenschmidt B, Hahnen E, Hauke J, Bluemcke B, et al.
 Prevalence of BRCA1/2 germline mutations in 21 401 families with breast
 and ovarian cancer. J Med Genet. 2016;53(7):465-71.</p>
-</li>
-<li>
 <p>Kobayashi H, Ohno S, Sasaki Y, Matsuura M. Hereditary breast and ovarian
 cancer susceptibility genes (review). Oncol Rep. 2013;30(3):1019-29.</p>
-</li>
-<li>
 <p>Velazquez C, Esteban-Cardenosa EM, Lastra E, Abella LE, de la Cruz V,
 Lobaton CD, et al. A PALB2 truncating mutation: Implication in cancer prevention
 and therapy of Hereditary Breast and Ovarian Cancer. Breast. 2019;43:91-6.</p>
-</li>
-<li>
 <p>Imyanitov EN, Kuligina ES, Sokolenko AP, Suspitsin EN, Yanus GA, Iyevleva
 AG, et al. Hereditary cancer syndromes. World J Clin Oncol. 2023;14(2):40-68.</p>
-</li>
-<li>
 <p>Vasen HF, Wijnen JT, Menko FH, Kleibeuker JH, Taal BG, Griffioen G, et
 al. Cancer risk in families with hereditary nonpolyposis colorectal cancer
 diagnosed by mutation analysis. Gastroenterology. 1996;110(4):1020-7.</p>
-</li>
-<li>
 <p>Aarnio M, Sankila R, Pukkala E, Salovaara R, Aaltonen LA, de la Chapelle
 A, et al. Cancer risk in mutation carriers of DNA-mismatch-repair genes.
 Int J Cancer. 1999;81(2):214-8.</p>
-</li>
-<li>
 <p>Kuiper RP, Vissers LE, Venkatachalam R, Bodmer D, Hoenselaar E, Goossens
 M, et al. Recurrence and variability of germline EPCAM deletions in Lynch
 syndrome. Hum Mutat. 2011;32(4):407-14.</p>
-</li>
-<li>
 <p>Pecina-Slaus N, Kafka A, Salamon I, Bukovac A. Mismatch Repair Pathway,
 Genome Stability and Cancer. Front Mol Biosci. 2020;7:122.</p>
-</li>
-<li>
 <p>Huth C, Kloor M, Voigt AY, Bozukova G, Evers C, Gaspar H, et al. The molecular
 basis of EPCAM expression loss in Lynch syndrome-associated tumors. Mod
 Pathol. 2012;25(6):911-6.</p>
-</li>
-<li>
 <p>Half E, Bercovich D, Rozen P. Familial adenomatous polyposis. Orphanet
 J Rare Dis. 2009;4:22.</p>
-</li>
-<li>
 <p>Yen T, Stanich PP, Axell L, et al. APC-Associated Polyposis Conditions.
 1998 Dec 18 [Updated 2022 May 12]. In: Adam MP, Feldman J, Mirzaa GM, et
 al., editors. GeneReviews® [Internet]. Seattle (WA): University of Washington,
-Seattle; 1993-2024. Available from:&nbsp;<a href="https://www.ncbi.nlm.nih.gov/books/NBK1345/" rel="noopener noreferrer nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK1345/</a>.</p>
-</li>
-</ol>
+Seattle; 1993-2024. Available from:&nbsp;https://www.ncbi.nlm.nih.gov/books/NBK1345/.</p>
 <p>19.&nbsp; Garber JE, Offit K. Hereditary cancer predisposition syndromes.
 J Clin Oncol. 2005;23(2):276–292.</p>
 <p>20.&nbsp; Lim A, Ngeow J. The skin in Cowden syndrome. Front Med (Lausanne).
