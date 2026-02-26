@@ -81,7 +81,7 @@ the Asia-Pacific region</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/ICAN.png">
 </div>
-<p>&nbsp;<em>Image reference: HBOC booklet</em>  <a href="https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf</a>
+<p><em>Image reference: HBOC booklet</em>  <a href="https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf</a>
 </p>
 <p></p>
 <p>These pain points can be summarized into two key points that we aim to
