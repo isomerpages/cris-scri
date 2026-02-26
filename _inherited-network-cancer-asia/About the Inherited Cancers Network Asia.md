@@ -82,6 +82,12 @@ region</p>
 </div>
 <p>&nbsp;<em>Image reference: HBOC booklet</em>  <a href="https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.com.sg/content/dam/singhealth-web/nccs/our-specialties/pdfs/ncc-hboc-brochure.pdf</a>
 </p>
+<p></p>
+<p>These pain points can be summarized into two key points that we aim to
+address:</p>
+<p>1) Adoption and concordance</p>
+<p>2) Lack of clinical trials in Southeast Asia.</p>
+<p></p>
 <h4>References</h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Ferlay J, Colombet M, Soerjomataram I, Parkin
 DM, Pineros M, Znaor A, et al. Cancer statistics for the year 2020: An
@@ -92,3 +98,5 @@ hereditary cancer syndromes. Oncogene 23(38):6445–6470</p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
