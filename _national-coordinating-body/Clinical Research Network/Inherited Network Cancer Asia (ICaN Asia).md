@@ -33,5 +33,5 @@ and expand access to clinical trials across the region.</p>
 <p>Generate high-quality regional data and collaborative research to inform
 policy, influence funding priorities, and elevate standards of hereditary
 cancer care across Asia-Pacific.</p>
-<p><a href="/about-inherited-cancers-network-asia/" rel="noopener nofollow" target="_blank">Learn more</a>
+<p><a href="/about-inherited-cancers-network-asia-ican-asia/" rel="noopener nofollow" target="_blank">Learn more</a>
 </p>
