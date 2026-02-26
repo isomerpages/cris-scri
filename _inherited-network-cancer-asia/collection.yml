@@ -2,7 +2,7 @@ collections:
   inherited-network-cancer-asia:
     output: true
     order:
-      - About the Inherited Cancers Network Asia.md
+      - About Inherited Cancers Network Asia.md
       - Background on Hereditary Cancer.md
       - Members.md
       - Events/.keep
