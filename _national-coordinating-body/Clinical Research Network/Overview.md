@@ -52,7 +52,7 @@ Research Network</p>
 <p><a href="/national-coordinating-body/clinical-research-network/gcgs/" rel="noopener noreferrer nofollow" target="_blank">GyneCologic Cancer Group Singapore</a> (GCGS)</p>
 </li>
 <li>
-<p><a href="/about-the-inherited-cancers-network-asia/" rel="noopener nofollow" target="_blank">Inherited Cancers Network Asia</a> (ICaN
+<p><a href="/about-inherited-cancers-network-asia/" rel="noopener nofollow" target="_blank">Inherited Cancers Network Asia</a> (ICaN
 Asia)</p>
 </li>
 <li>
