@@ -90,11 +90,18 @@ address:</p>
 <p>2) Lack of clinical trials in Southeast Asia.</p>
 <p></p>
 <h4>References</h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Ferlay J, Colombet M, Soerjomataram I, Parkin
-DM, Pineros M, Znaor A, et al. Cancer statistics for the year 2020: An
-overview. Int J Cancer. 2021.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Nagy R, Sweet K, Eng C (2004) Highly penetrant
-hereditary cancer syndromes. Oncogene 23(38):6445–6470</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ferlay J, Colombet M, Soerjomataram I, Parkin DM, Pineros M, Znaor A,
+et al. Cancer statistics for the year 2020: An overview. Int J Cancer.
+2021.</p>
+<p></p>
+</li>
+<li>
+<p>Nagy R, Sweet K, Eng C (2004) Highly penetrant hereditary cancer syndromes.
+Oncogene 23(38):6445–6470</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
