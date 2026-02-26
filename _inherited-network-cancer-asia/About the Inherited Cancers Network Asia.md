@@ -56,24 +56,25 @@ Asia-Pacific region&nbsp;<strong> &nbsp;</strong>
 <h3>Mission</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Improving Care Coordination: Identify and address gaps in the end-to-end
+<p><u>Improving Care Coordination:</u> Identify and address gaps in the end-to-end
 patient management &nbsp;</p>
 <p></p>
 </li>
 <li>
-<p>Expanding Access to Clinical Trials: Ensure that patients in the Asia-Pacific
-region can access treatment and preventative clinical trials&nbsp;</p>
+<p><u>Expanding Access to Clinical Trials:</u> Ensure that patients in the
+Asia-Pacific region can access treatment and preventative clinical trials&nbsp;</p>
 <p></p>
 </li>
 <li>
-<p>Promoting Genomic Medicine Research: Facilitate pan-Asian research that
-spans from basic and translational studies to multi-center clinical trials</p>
+<p><u>Promoting Genomic Medicine Research:</u> Facilitate pan-Asian research
+that spans from basic and translational studies to multi-center clinical
+trials</p>
 <p></p>
 </li>
 <li>
-<p>Empowering Patients &amp; Raising Awareness: Engage and empower patients
-while increasing awareness of hereditary conditions throughout the Asia-Pacific
-region</p>
+<p><u>Empowering Patients &amp; Raising Awareness:</u> Engage and empower
+patients while increasing awareness of hereditary conditions throughout
+the Asia-Pacific region</p>
 </li>
 </ol>
 <h3>Problem Areas</h3>
