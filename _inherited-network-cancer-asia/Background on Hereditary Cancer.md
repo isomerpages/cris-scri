@@ -36,7 +36,6 @@ are other genes associated with HBOC, including but not limited to <em>PALB2, TP
 genes encode for components of multi-protein complexes (<em>e.g., PALB2 </em>is
 a partner and localiser of <em>BRCA2)</em> and are vital to repairing DNA
 double-strand breaks.</p>
-<p></p>
 <h4>2. LYNCH SYNDROME</h4>
 <p>Lynch syndrome (LS) is the most common cause of hereditary colon cancer.<sup>11</sup> Following <strong>autosomal-dominant</strong> inheritance,
 it is associated with early-age onset colorectal cancer without polyposis;
@@ -69,7 +68,7 @@ and surveillance recommendations for LS.</p>
 <p>For example, individuals with a<em>&nbsp;MLH1&nbsp;</em>pathogenic variant
 should be offered earlier and more frequent colonoscopies than a&nbsp;<em>PMS2</em>&nbsp;carrier
 who can start screening later.</p>
-<h4><strong>3. FAMILIAL ADENOMATOUS POLYPOSIS</strong></h4>
+<h4>3. FAMILIAL ADENOMATOUS POLYPOSIS</h4>
 <p>Familial adenomatous polyposis (FAP) is a common hereditary cancer syndrome
 with high penetrance.</p>
 <p><strong><u>Types and polyp/cancer risk</u></strong>
@@ -109,7 +108,7 @@ particularly in the lining of the colon and rectum. Its main function is
 to act as a tumour suppressor. The specific genetic mutations present in
 the APC gene determine whether an individual has AFAP or classic FAP.<sup>17</sup>
 </p>
-<h4><strong>Overview of Other Hereditary Cancer Syndromes</strong></h4>
+<h4>Overview of Other Hereditary Cancer Syndromes</h4>
 <p>Other hereditary cancer syndromes described include Li Fraumeni, Cowden
 syndrome, Peutz-Jeghers syndrome, Hereditary Diffuse Gastric Cancer and
 Neurofibromatosis type 1 (NF1). <sup>1,19 </sup>They are all passed on in
