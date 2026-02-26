@@ -11,8 +11,9 @@ care from a young age, but their relatives also require management. In
 the past decades, enormous strides have been made to unravel the genetic
 basis of cancer, and&nbsp;this knowledge has been used to develop targeted
 treatments for hereditary forms of cancer.&nbsp;</p>
-<p><strong>Germline genetic testing for patients and their families with suspected hereditary cancer&nbsp;syndromes is therefore a vital component of the practice of preventative oncology and should become routine clinical care.</strong>
-</p>
+<p>Germline genetic testing for patients and their families with suspected
+hereditary cancer&nbsp;syndromes is therefore a vital component of the
+practice of preventative oncology and should become routine clinical care.</p>
 <p>There are more than 400 hereditary cancer syndromes described with three
 of the most common ones being Hereditary Breast and Ovarian Cancer (HBOC),
 Lynch syndrome (LS) and Familial Adenomatous Polyposis.</p>
