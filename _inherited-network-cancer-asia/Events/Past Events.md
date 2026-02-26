@@ -9,7 +9,7 @@ third_nav_title: Events
 <p>Organised by National Cancer Centre Singapore, ICaN Asia, PRECISE, College
 of Clinician Scientists</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/Cancer_Genomic_Medicine_Symposium_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/Cancer_Genomic_Medicine_Symposium_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/Hereditary_Cancer_Masterclass_2025.jpg">
@@ -19,9 +19,8 @@ of Clinician Scientists</p>
 <p>Organised by National Cancer Centre Singapore, ICaN Asia, PRECISE, College
 of Clinician Scientists</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/Advances_in_Renal_Cancer_Therapeutics___Research_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inherited Network Cancer Asia/Advances_in_Renal_Cancer_Therapeutics___Research_2025.jpg">
 </div>
-<p></p>
 <h4>Advances in Renal Cancer Therapeutics &amp; Research, 2 October 2025</h4>
 <p>Organised by National Cancer Centre Singapore, Lee Kong Chian School of
 Medicine, ICaN Asia</p>
