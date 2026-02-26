@@ -4,7 +4,7 @@ permalink: /background-on-hereditary-cancer/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Background on Hereditary Cancer</strong></h3>
+<h3>Background on Hereditary Cancer</h3>
 <p>Hereditary cancers makes up around 5–10% of all cancers. Though rare,
 a timely diagnosis is important – as not only do patients require long-term
 care from a young age, but their relatives also require management. In
