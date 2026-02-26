@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
+<h3>Upcoming Events</h3>
 <h4>Variant Effect Prediction Training Course – Core Essentials (Veptc-CE) Workshop, 2-3 March 2026</h4>
 <p>Organised by HUGO, Lee Kong Chian School of Medicine, ICaN Asia</p>
 <div class="isomer-image-wrapper">
