@@ -5,6 +5,7 @@ variant: tiptap
 description: ICAN Past Events
 third_nav_title: Events
 ---
+<h3>Past Events</h3>
 <h4>Cancer Genomic Medicine Symposium: From Discovery to The Clinic, 17 January 2025</h4>
 <p>Organised by National Cancer Centre Singapore, ICaN Asia, PRECISE, College
 of Clinician Scientists</p>
