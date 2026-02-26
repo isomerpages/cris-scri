@@ -4,7 +4,7 @@ permalink: /about-inherited-cancers-network-asia/
 variant: tiptap
 description: ""
 ---
-<h3>About Inherited Cancers Network Asia (ICaN Asia)</h3>
+<h3>About ICaN Asia</h3>
 <p>ICaN Asia was established in 2025 with the goal of improving health outcomes
 for individuals with hereditary cancers across the Asia-Pacific region.
 Its efforts focus on the following objectives:</p>
