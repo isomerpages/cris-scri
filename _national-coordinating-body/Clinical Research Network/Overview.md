@@ -52,6 +52,10 @@ Research Network</p>
 <p><a href="/national-coordinating-body/clinical-research-network/gcgs/" rel="noopener noreferrer nofollow" target="_blank">GyneCologic Cancer Group Singapore</a> (GCGS)</p>
 </li>
 <li>
+<p><a href="/inherited-network-cancer-asia-ican-asia/" rel="noopener nofollow" target="_blank">Inherited Cancers Network Asia</a> (ICaN
+Asia)</p>
+</li>
+<li>
 <p><a href="/national-coordinating-body/clinical-research-network/paros/" rel="noopener noreferrer nofollow" target="_blank">Pan-Asian Resuscitation Outcomes Study</a> (PAROS)
 Clinical Research Network</p>
 </li>
@@ -60,6 +64,7 @@ Clinical Research Network</p>
 </li>
 <li>
 <p><a href="/national-coordinating-body/clinical-research-network/smsg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Myeloma Study Group</a> (SMSG)</p>
+<p></p>
 </li>
 </ul>
 <p></p>

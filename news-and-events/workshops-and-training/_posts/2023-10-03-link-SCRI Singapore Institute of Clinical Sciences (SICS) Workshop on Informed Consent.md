@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.linkedin.com/pulse/scri-singapore-institute-clinical-sciences?trackingId=5PdWCsl8pCP4ZhnDz7l3AQ%3D%3D
+external: https://www.linkedin.com/pulse/scri-singapore-institute-clinical-sciences?trackingId=5PdWCsl8pCP4ZhnDz7l3AQ%3D%3D
 ---

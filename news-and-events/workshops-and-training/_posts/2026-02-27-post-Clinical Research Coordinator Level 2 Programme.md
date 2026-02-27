@@ -1,7 +1,7 @@
 ---
 title: Clinical Research Coordinator Level 2 Programme
 permalink: /news-and-events/workshops-and-training/clinical-research-coordinator-level-2-programme/
-date: 2025-09-30
+date: 2026-02-27
 layout: post
 description: ""
 image: ""
@@ -29,6 +29,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>01 June to 31 July</p>
+<p><em>Click </em><a href="/files/Resources/Workshops And Training/L2_Programme_Schedule_2026_Jun_Intake.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,19 +47,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p><em>8 weeks E-learning + 4-day In-person tutorial session (across 2 weeks in July)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Course Location</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
-<p><em>(Kindly note the course location may be subjected to changes)</em>
 </p>
 </td>
 </tr>

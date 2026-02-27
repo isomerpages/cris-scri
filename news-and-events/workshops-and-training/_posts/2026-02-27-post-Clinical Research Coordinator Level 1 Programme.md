@@ -1,7 +1,7 @@
 ---
 title: Clinical Research Coordinator Level 1 Programme
 permalink: /news-and-events/workshops-and-training/clinical-research-coordinator-level-1-programme/
-date: 2025-09-30
+date: 2026-02-27
 layout: post
 description: ""
 image: ""
@@ -67,6 +67,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><em>16 weeks E-learning + 3-day In-person tutorial session</em>
+</p>
+<p><em>Click </em><a href="/files/Resources/Workshops And Training/L1_Programme_Schedule_2026_Jun_Intake_v2.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
 </p>
 </td>
 </tr>
