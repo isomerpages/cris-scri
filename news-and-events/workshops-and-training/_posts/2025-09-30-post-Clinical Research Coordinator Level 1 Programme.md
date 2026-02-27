@@ -68,6 +68,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>16 weeks E-learning + 3-day In-person tutorial session</em>
 </p>
+<p><em>Click </em><a href="/files/Resources/Workshops And Training/L1_Programme_Schedule_2026_Jun_Intake.pdf" rel="noopener nofollow" target="_blank">here</a><em> for the class schedule</em>
+</p>
 </td>
 </tr>
 <tr>
