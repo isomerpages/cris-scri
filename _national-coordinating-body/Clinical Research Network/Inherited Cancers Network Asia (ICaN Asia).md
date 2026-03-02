@@ -1,6 +1,6 @@
 ---
-title: Inherited Network Cancer Asia (ICaN Asia)
-permalink: /inherited-network-cancer-asia-ican-asia/
+title: Inherited Cancers Network Asia (ICaN Asia)
+permalink: /inherited-cancers-network-asia-ican-asia/
 variant: tiptap
 description: ""
 third_nav_title: Clinical Research Network
