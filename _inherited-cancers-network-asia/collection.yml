@@ -1,5 +1,5 @@
 collections:
-  inherited-network-cancer-asia:
+  inherited-cancers-network-asia:
     output: true
     order:
       - About Inherited Cancers Network Asia.md
