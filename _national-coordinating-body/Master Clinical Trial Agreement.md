@@ -25,15 +25,7 @@ pre-negotiated terms and conditions agreed by the healthcare clusters.
 The MCTA is also useful as a guide for biotechs and new start-ups.</p>
 <p><strong>How to use the MCTA?</strong>
 </p>
-<p>The MCTA is a live document that can be downloaded in editable form. Users
-can use the MCTA as is or can adopt the individual clauses into existing
-agreements. If users are using the MCTA as is, additional requirements
-to the study can be added to the SCHEDULE, which can be found at the end
-of the MCTA document.</p>
-<p><strong>What should you do if you have any feedback?</strong>
-</p>
-<p>If you have any questions or if you would like to provide feedback about
-the MCTA, please email&nbsp;<a href="mailto:ncb@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">ncb@scri.cris.sg</a>. Our team will be on
-hand to address any queries.</p>
-<p><a href="https://for.sg/scrimcta" rel="noopener noreferrer nofollow" target="_blank">Download the Master Clinical Trial Agreement here</a>
-</p>
+<p>Users can use the MCTA as is or can adopt the individual clauses into
+existing agreements. If users are using the MCTA as is, additional requirements
+to the study can be added to the SCHEDULE. Please write to&nbsp;<a href="mailto:ncb@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">n<u>cb@scri.cris.sg</u></a> to
+request a copy of the MCTA.</p>
