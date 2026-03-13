@@ -28,4 +28,4 @@ The MCTA is also useful as a guide for biotechs and new start-ups.</p>
 <p>Users can use the MCTA as is or can adopt the individual clauses into
 existing agreements. If users are using the MCTA as is, additional requirements
 to the study can be added to the SCHEDULE. Please write to&nbsp;<a href="mailto:ncb@scri.cris.sg" rel="noopener noreferrer nofollow" target="_blank">n<u>cb@scri.cris.sg</u></a> to
-request a copy of the MCTA. jhjhjhjh</p>
+request a copy of the MCTA.</p>
