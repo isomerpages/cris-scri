@@ -32,8 +32,26 @@ Indonesia, South Korea, Hong Kong, Malaysia and Taiwan.</p>
 discuss project directions such as heart failure, AMI registry networks
 as well as potential collaborations with partners in Asia. Meaningful connections
 were forged during a dinner get-together afterwards.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Network_Dinner_Meeting__30_August_2025__Madrid_.png">
+</div>
+<h4>ASPIRE Programme at the Asian Pacific Society of Cardiology (APSC) Congress 2026</h4>
+<p>The ASPIRE Network will host our joint session on "Clinical research collaborations
+across the Asia Pacific Region" at the APSC Congress on 15 May 2026.</p>
+<p>The programme features ASPIRE members / regional speakers sharing insights
+on regional collaboration: Prof Satoshi Yasuda discussing APAC collaborations
+in acute myocardial infarction, Dr Diana Foo exploring heart failure research
+with AI-enabled echocardiography, Prof Kyung Woo Park addressing ethnic
+differences in antiplatelet therapy, and Prof Mark Richards sharing the
+NZ-SG companion clinical cohorts experience.</p>
+<p>Our distinguished panel includes experts from South Korea, Japan, Indonesia,
+Mongolia, and Thailand, representing the breadth of cardiovascular expertise
+across our network.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /APSC_2026_ASPIRE___Speakers.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /APSC_2026_ASPIRE___Panellists.jpg">
 </div>
 <p></p>
