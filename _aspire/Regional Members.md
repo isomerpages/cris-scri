@@ -153,18 +153,18 @@ Zealand</div>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-sanjay-mittal/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Sanjay_Mittal.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Sanjay Mittal</div><div class="isomer-card-description">Network Member; Medanta – The Medicity, Gurugram, India</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/dr-mann-chandavimol/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/prof-thushara-matthias/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Mann_Chandavimol.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bio" src="/images/ASPIRE Network /Thushara_Matthias.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Mann Chandavimol</div>
-<div class="isomer-card-description">Network Member; Ramathibodi Hospital, Mahidol University, Thailand</div>
+<div class="isomer-card-title">Prof Thushara Matthias</div>
+<div class="isomer-card-description">Network Member; University of Sri Jayewardenepura, Sri Lanka</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/dr-mann-chandavimol/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ASPIRE Network /Mann_Chandavimol.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Mann Chandavimol</div><div class="isomer-card-description">Network Member; Ramathibodi Hospital, Mahidol University, Thailand</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <hr>
 <p><strong>National Trial Networks / Clinical Research Organisations:</strong>
