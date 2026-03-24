@@ -13,4 +13,5 @@ special events!</p>
 </p>
 <p><a href="/files/ANAH/Newsletters/13_Dec_2024___ANAH_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">December 2024</a>
 </p>
-<p></p>
+<p><a href="/files/ANAH/Newsletters/ANAH_2025_Year_End_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">December 2025</a>
+</p>
