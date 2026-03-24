@@ -50,7 +50,6 @@ across our network.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /APSC_2026_ASPIRE___Speakers.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /APSC_2026_ASPIRE___Panellists.jpg">
 </div>
