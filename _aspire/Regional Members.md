@@ -164,7 +164,7 @@ Zealand</div>
 <div class="isomer-card-description">Network Member; Ramathibodi Hospital, Mahidol University, Thailand</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/prof-thushara-matthias/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bio" src="/images/ASPIRE Network /Thushara_Matthias.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">Network Member; University of Sri Jayewardenepura, Sri Lanka</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <hr>
 <p><strong>National Trial Networks / Clinical Research Organisations:</strong>
