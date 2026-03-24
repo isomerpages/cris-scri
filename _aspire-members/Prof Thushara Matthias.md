@@ -9,7 +9,7 @@ image: /images/ASPIRE Network /Thusara.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASPIRE Network /Thushara_Matthias.jpg">
 </div>
-<h4>Prof Thusara Matthias</h4>
+<h4>Prof Thushara Matthias</h4>
 <p>Prof Thushara Matthias graduated with first class honors and 09 distinctions
 from the Faculty of Medical Sciences, University of Sri Jayewardenepura
 in 2009 and was placed first in the all-island merit list. She completed
