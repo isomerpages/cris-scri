@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>August 2025 Intake: 21, 22, 28, 29 August 2025</p>
+<p>August 2026 Intake: 20, 21, 27, 28 August 2026</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>CRIS Office (23 Rochester Park Singapore 139234)</p>
+<p>NTU@one-north (11 Slim Barracks Rise, Singapore 138664)</p>
 <p><em>(Kindly note the course location may be subjected to changes.)</em>
 </p>
 </td>
