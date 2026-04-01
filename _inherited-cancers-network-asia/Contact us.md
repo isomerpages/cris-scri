@@ -1,6 +1,6 @@
 ---
 title: Contact us
-permalink: /contact-us/
+permalink: /ican/contact-us/
 variant: tiptap
 description: ""
 ---

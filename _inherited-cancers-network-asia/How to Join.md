@@ -1,6 +1,6 @@
 ---
 title: How to Join
-permalink: /how-to-join/
+permalink: /ican/how-to-join/
 variant: tiptap
 description: ""
 ---
