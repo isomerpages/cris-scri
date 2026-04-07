@@ -68,7 +68,7 @@ sections:
       url: /national-coordinating-body/master-clinical-trial-agreement/
   - infopic:
       title: SCRI Clinical Trials Symposium 2026
-      subtitle: "2 Days: 30 - 31 July 2026"
+      subtitle: 2 Days:30 - 31 July 2026
       id: infopic
       description: Set in Singapore's thriving research ecosystem, this event brings
         together the brightest minds in global clinical research for
