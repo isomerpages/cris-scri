@@ -15,7 +15,8 @@ network of like-minded cardiologists and researchers to drive impactful,
 Asia Pacific (APAC)-led cardiovascular (CV) research.</p>
 <p>The Network is initiated by the <a href="https://www.cadence-cvd.sg/about/cadence/" rel="noopener nofollow" target="_blank">CArdiovascular DiseasE National Collaborative Enterprise (CADENCE)</a> and
 serves as a regional effort to push for a greater APAC representation in
-CV trials.</p>
+CV trials. CADENCE also serves as the ASPIRE Network's centralised coordinating
+office.</p>
 <h4>Mission</h4>
 <p>Eliminating cardiovascular health disparities in Asia Pacific through
 collaborative research, local leadership, and equitable innovation.</p>
