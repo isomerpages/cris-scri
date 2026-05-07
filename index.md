@@ -48,10 +48,10 @@ sections:
       description: Set in Singapore's thriving research ecosystem, this event brings
         together the brightest minds in global clinical research for
         transformative collaboration.
-      button: Register Here
+      button: Read More
       url: https://www.scri-symposium.sg/register/
-      image: /images/SCRI_Carousel2_01.png
-      alt: Distinguished Speakers
+      image: /images/Homepage/Frame1.png
+      alt: Clinical Trials Reimagined
   - infopic:
       title: About SCRI
       description: The Singapore Clinical Research Institute (SCRI) is the national
