@@ -50,7 +50,7 @@ sections:
         transformative collaboration.
       button: Read More
       url: https://www.scri-symposium.sg/register/
-      image: /images/Homepage/Frame1.png
+      image: /images/National Coordinating Body/Frame1.png
       alt: Clinical Trials Reimagined
   - infopic:
       title: About SCRI
