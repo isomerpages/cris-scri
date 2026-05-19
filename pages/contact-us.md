@@ -13,7 +13,7 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6508 8300
+      - phone: ""
       - email: contact@scri.cris.sg
       - other: ""
     title: General Enquiries
