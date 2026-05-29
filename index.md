@@ -53,6 +53,15 @@ sections:
       image: /images/National Coordinating Body/Frame1.png
       alt: Clinical Trials Reimagined
   - infopic:
+      title: ScamShield
+      id: infopic
+      description: SCRI will never ask for money transfers or bank log-in details by
+        phone. If in doubt, call ScamShield helpline at 1799, or visit their
+        website.
+      button: SCAMSHIELD WEBSITE
+      url: https://www.scamshield.gov.sg/
+      alt: Image alt text
+  - infopic:
       title: About SCRI
       description: The Singapore Clinical Research Institute (SCRI) is the national
         academic research organisation dedicated to enhancing the standards of
