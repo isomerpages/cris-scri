@@ -61,6 +61,7 @@ sections:
       button: SCAMSHIELD WEBSITE
       url: https://www.scamshield.gov.sg/
       alt: Image alt text
+      image: /images/Homepage/symposium_antiscam.png
   - infopic:
       title: About SCRI
       description: The Singapore Clinical Research Institute (SCRI) is the national
