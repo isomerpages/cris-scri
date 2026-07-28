@@ -27,6 +27,6 @@ lives.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/Clinical_Trials_Basics_for_Investigators_3_revised_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SCRI Academy/ctbi_3.png">
 </div>
 <p></p>
