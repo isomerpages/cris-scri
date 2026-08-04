@@ -42,27 +42,6 @@ sections:
       backgroundColor: gray
       size: md
   - infopic:
-      title: SCRI Clinical Trials Symposium 2026
-      subtitle: "2 Days: 30 - 31 July 2026"
-      id: infopic
-      description: Set in Singapore's thriving research ecosystem, this event brings
-        together the brightest minds in global clinical research for
-        transformative collaboration.
-      button: Read More
-      url: https://www.scri-symposium.sg/register/
-      image: /images/National Coordinating Body/Frame1.png
-      alt: Clinical Trials Reimagined
-  - infopic:
-      title: ScamShield
-      id: infopic
-      description: SCRI will never ask for money transfers or bank log-in details by
-        phone. If in doubt, call ScamShield helpline at 1799, or visit their
-        website.
-      button: SCAMSHIELD WEBSITE
-      url: https://www.scamshield.gov.sg/
-      alt: Image alt text
-      image: /images/Homepage/symposium_antiscam.png
-  - infopic:
       title: About SCRI
       description: The Singapore Clinical Research Institute (SCRI) is the national
         academic research organisation dedicated to enhancing the standards of
@@ -87,4 +66,14 @@ sections:
         performing site selection for clinical trials. It includes ...
       button: Learn more
       url: /national-coordinating-body/master-clinical-trial-agreement/
+  - infopic:
+      title: ScamShield
+      id: infopic
+      description: SCRI will never ask for money transfers or bank log-in details by
+        phone. If in doubt, call ScamShield helpline at 1799, or visit their
+        website.
+      button: SCAMSHIELD WEBSITE
+      url: https://www.scamshield.gov.sg/
+      alt: Image alt text
+      image: /images/Homepage/symposium_antiscam.png
 ---
